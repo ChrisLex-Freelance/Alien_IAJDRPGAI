@@ -975,5 +975,15 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 | 51  | **Contamination biologique**            | Fuite ou intrusion menaçant la sécurité biologique.                                                                 |
 | 52  | **Sabotage**                            | Dommages intentionnels affectant les systèmes de stockage des embryons.                                             |
 
+**Gestion des états de l'infrastructure**
+
+| ÉTAT                  | DESCRIPTION                                                                      | IMPACT SUR LES OPÉRATIONS                             | NIVEAU D'URGENCE DE RÉPARATION | MODIFICATEUR DE TEST | MODIFICATEUR AU TEMPS DE RÉPARATION |
+|-----------------------|----------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------|----------------------|-------------------------------------|
+| **Parfait**           | Infrastructure en excellent état, pleinement fonctionnelle.                      | Aucune interruption ou anomalie.                      | Aucun                          | 0                    | 0                                   |
+| **Usure mineure**     | Signes d’usure normale, mais aucun impact significatif sur le fonctionnement.    | Performances légèrement réduites.                     | Faible                         | -1D6                 | +1D6                                |
+| **Usure modérée**     | Composants commencent à montrer des signes de fatigue, potentiel de panne accru. | Risque de pannes mineures ou irrégularités.           | Moyen                          | -2D6                 | +2D6                                |
+| **Détérioré**         | Usure importante, des pannes ou anomalies fréquentes apparaissent.               | Opérations compromises, nécessitant des ajustements.  | Élevé                          | -3D6                 | +3D6                                |
+| **Critique**          | État presque inutilisable, fonctionnement partiel ou intermittent.               | Pannes fréquentes, impact majeur sur les opérations.  | Très élevé                     | -3D6                 | +4D6                                |
+| **Hors service**      | Infrastructure inutilisable, nécessitant une intervention immédiate.             | Fonctionnement totalement interrompu.                 | Urgent                         | -3D6                 | +5D6                                |
 
 ## PROMPTS
