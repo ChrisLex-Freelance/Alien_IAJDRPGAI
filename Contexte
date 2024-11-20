@@ -789,25 +789,109 @@ Respecter ces infrastructures de base dans un scénario de JDR Alien est essenti
 Dans le film Aliens (1986), cette fragilité des infrastructures est parfaitement illustrée lorsque le groupe de survivants, dirigé par Ripley, découvre que le crash de la navette a endommagé le système de refroidissement du processeur atmosphérique. Cette défaillance entraîne une réaction en chaîne, menaçant de déclencher une explosion thermonucléaire qui détruirait toute la colonie dans les heures à venir. Cet événement introduit une tension dramatique qui force les personnages à prendre des décisions rapides et audacieuses dans un environnement hostile.
 
 **15 infrastructures minimales d'une colonie**
-Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à une échelle relativement macro. Il vous invite à inclure les éléments d'incidents de la colonie dans vos parties mais est assez limité dans sa proposition sur le sujet. Voici ce que nous estimons être les infrastructures minimales pour démarrer une colonie et faire vivre une colonie, ainsi que des éléments plus opérationnels pour inclure des événements dans le jeu, leurs incidences sur la colonie et comment les résoudre. Nous vous invitons à prendre connaissance de notre article Montée en charge d'une colonie qui traite d'installation d'une colonie et sa montée en charge vers l'autonomie.
+Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à une échelle relativement macro. Il vous invite à inclure les éléments d'incidents de la colonie dans vos parties mais est assez limité dans sa proposition sur le sujet. Voici ce que nous estimons être les infrastructures minimales pour démarrer une colonie et faire vivre une colonie, ainsi que des éléments plus opérationnels pour inclure des événements dans le jeu, leurs incidences sur la colonie et comment les résoudre. La liste comprend également pour chaque infrastructure 4 zones importantes pour faciliter l'immertion. Nous vous invitons à prendre connaissance de notre article Montée en charge d'une colonie qui traite d'installation d'une colonie et sa montée en charge vers l'autonomie.
 
 | INFRASTRUCTURE                  | DESCRIPTION                                                                                                       | PERSONNEL NÉCESSAIRE                               | COMPÉTENCES DIAGNOSTIC           | COMPÉTENCES RÉPARATION              | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                                      |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|----------------------------------|-------------------------------------|-----------------------|-----------------------------------------------------------|
 | **Centre de commandement**      | Cœur stratégique de la colonie, coordonne les opérations et maintient les communications avec l'extérieur.        | Administrateur, Officier de communication, Analyste de données | Observation, Comtech (ESPRIT)     | Comtech, Commandement (ESPRIT, EMPATHIE) | 2D6 Quarts            | 1, 2, 3                                                   |
-| **Infrastructure énergétique**  | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                         | Ingénieur en énergie, Électricien, Technicien     | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 4, 5, 6                                                   |
+| **Infrastructure énergétique**  | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                          | Ingénieur en énergie, Électricien, Technicien     | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 4, 5, 6                                                   |
 | **Système de filtration d’air** | Purifie et stabilise l’atmosphère dans la colonie, indispensable pour respirer.                                   | Ingénieur systèmes, Opérateur d'atmosphère, Technicien environnemental | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 7, 8, 9                                                   |
 | **Station d’eau et irrigation** | Gère la collecte, purification, et distribution de l’eau nécessaire à la colonie et à l’agriculture.              | Ingénieur hydrologue, Opérateur, Technicien       | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 10, 11, 12                                                |
 | **Centre médical**              | Soigne les maladies et blessures, essentiel pour gérer les urgences sanitaires.                                   | Médecin en chef, Infirmier, Technicien biomédical | Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux (ESPRIT, EMPATHIE) | 2D6 Quarts            | 13, 14, 15                                                |
-| **Logements résidentiels**      | Fournit un abri sûr et confortable pour les colons, vital pour leur bien-être psychologique et physique.          | Ingénieur civil, Architecte, Technicien           | Observation, Comtech (ESPRIT)     | Machines lourdes, Survie (FORCE, ESPRIT) | 1D6 Quarts            | 16, 17, 18                                                |
-| **Gestion des déchets**         | Collecte et traite les déchets pour éviter contamination et maladies.                                            | Ingénieur environnemental, Technicien en déchets  | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 19, 20, 21                                                |
-| **Serre agricole**              | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                        | Agronome, Technicien agricole, Responsable alimentaire | Observation, Survie (ESPRIT)      | Machines lourdes, Survie (FORCE, ESPRIT) | 2D6 Quarts            | 22, 23, 24                                                |
-| **Systèmes de communication**   | Permet les communications internes et externes, indispensable pour la coordination.                              | Technicien réseau, Ingénieur, Opérateur           | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 25, 26, 27                                                |
+| **Logements résidentiels**      | Fournit un abri "sûr" et "confortable" pour les colons, vital pour leur bien-être psychologique et physique.      | Ingénieur civil, Architecte, Technicien           | Observation, Comtech (ESPRIT)     | Machines lourdes, Survie (FORCE, ESPRIT) | 1D6 Quarts            | 16, 17, 18                                                |
+| **Gestion des déchets**         | Collecte et traite les déchets pour éviter contamination et maladies.                                             | Ingénieur environnemental, Technicien en déchets  | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 19, 20, 21                                                |
+| **Serre agricole**              | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                         | Agronome, Technicien agricole, Responsable alimentaire | Observation, Survie (ESPRIT)      | Machines lourdes, Survie (FORCE, ESPRIT) | 2D6 Quarts            | 22, 23, 24                                                |
+| **Systèmes de communication**   | Permet les communications internes et externes, indispensable pour la coordination.                               | Technicien réseau, Ingénieur, Opérateur           | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 25, 26, 27                                                |
 | **Infrastructure de sécurité**  | Protège la colonie des menaces externes et internes (Xénomorphes, émeutes, etc.).                                 | Officier de sécurité, Ingénieur, Technicien       | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 28, 29, 30                                                |
-| **Éclairage et chauffage**      | Fournit lumière et chaleur dans des environnements hostiles.                                                     | Ingénieur thermique, Électricien, Technicien      | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 31, 32, 33                                                |
-| **Centre de maintenance**       | Responsable de l’entretien et de la réparation des infrastructures.                                              | Chef de maintenance, Technicien machines lourdes, Logisticien | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 34, 35, 36                                                |
-| **Abri d’urgence**              | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                    | Responsable des urgences, Technicien survie       | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 37, 38, 39                                                |
-| **Système de défense**          | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                           | Officier sécurité, Opérateur, Technicien armement | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 40, 41, 42                                                |
-| **Transport spatial**           | Permet le transport de matériel, de colons et la gestion des cargaisons.                                         | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial | Comtech, Observation (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 43, 44, 45                                                |
+| **Éclairage et chauffage**      | Fournit lumière et chaleur dans des environnements hostiles.                                                      | Ingénieur thermique, Électricien, Technicien      | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 31, 32, 33                                                |
+| **Centre de maintenance**       | Responsable de l’entretien et de la réparation des infrastructures.                                               | Chef de maintenance, Technicien machines lourdes, Logisticien | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 34, 35, 36                                                |
+| **Abri d’urgence**              | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie       | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 37, 38, 39                                                |
+| **Système de défense**          | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 40, 41, 42                                                |
+| **Transport spatial**           | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial | Comtech, Observation (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 43, 44, 45                                                |
+
+| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                  | PIÈCE 3                 | PIÈCE 4               |
+|---------------------------------|-----------------------|--------------------------|-------------------------|-----------------------|
+| **Centre de commandement**      | Salle de contrôle     | Bureau des opérations    | Centre de communication | Serveurs centraux     |
+| **Infrastructure énergétique**  | Réacteur principal    | Salle de contrôle de flux | Unité de sauvegarde     | Générateurs auxiliaires |
+| **Système de filtration d’air** | Chambre de filtration | Contrôle des conduits    | Réservoir d’oxygène     | Ventilateurs industriels |
+| **Station d’eau et irrigation** | Réservoir principal   | Station de pompage       | Purificateurs           | Système de distribution |
+| **Centre médical**              | Salle d’urgence       | Laboratoire d’analyses   | Pharmacie centrale      | Salle d’opérations    |
+| **Logements résidentiels**      | Dortoirs              | Salle de loisirs         | Cuisine commune         | Centre de maintenance résidentiel |
+| **Gestion des déchets**         | Incinérateur          | Zone de tri              | Bassins de traitement   | Convoyeurs de déchets |
+| **Serre agricole**              | Salle de culture      | Zone de conditionnement  | Réservoirs nutritifs    | Contrôle climatique   |
+| **Systèmes de communication**   | Centre de relais      | Serveurs de communication | Antennes principales    | Poste de maintenance  |
+| **Infrastructure de sécurité**  | Poste de garde        | Dépôt d’armement         | Salle de surveillance   | Salle d’équipement    |
+| **Éclairage et chauffage**      | Poste de régulation   | Réservoir de carburant   | Chauffage central       | Générateurs d’éclairage |
+| **Centre de maintenance**       | Atelier mécanique     | Zone d’outillage lourd   | Pièce de stockage       | Centre de diagnostic  |
+| **Abri d’urgence**              | Zone de stockage      | Poste médical            | Générateur autonome     | Salle d’accueil       |
+| **Système de défense**          | Salle des tourelles   | Poste de contrôle radar  | Arsenal                 | Salle de commande tactique |
+| **Transport spatial**           | Hangar principal      | Salle des propulseurs    | Centre de contrôle      | Zone de chargement    |
+
+| INFRASTRUCTURE                  | PIÈCE                    | DESCRIPTION                                                                 |
+|---------------------------------|--------------------------|-----------------------------------------------------------------------------|
+| **Centre de commandement**      | Salle de contrôle         | Pièce principale pour coordonner les opérations et surveiller les systèmes. |
+|                                 | Bureau des opérations     | Bureau dédié à la planification et à la gestion stratégique.                |
+|                                 | Centre de communication   | Gère les communications internes et externes de la colonie.                 |
+|                                 | Serveurs centraux         | Contient les serveurs pour le traitement des données critiques.             |
+| **Infrastructure énergétique**  | Réacteur principal        | Génère l’énergie principale de la colonie.                                  |
+|                                 | Salle de contrôle de flux | Supervise et ajuste la distribution de l'énergie.                           |
+|                                 | Unité de sauvegarde       | Système de secours pour les coupures d’énergie.                             |
+|                                 | Générateurs auxiliaires   | Fournissent de l’énergie en cas de surcharge ou de panne.                   |
+| **Système de filtration d’air** | Chambre de filtration     | Contient les filtres pour purifier l’air de la colonie.                     |
+|                                 | Contrôle des conduits     | Supervise la circulation de l’air à travers la colonie.                     |
+|                                 | Réservoir d’oxygène       | Stocke l’oxygène purifié pour les besoins de la colonie.                    |
+|                                 | Ventilateurs industriels  | Puissants ventilateurs pour maintenir un flux d’air constant.               |
+| **Station d’eau et irrigation** | Réservoir principal       | Stocke l’eau nécessaire à la colonie.                                       |
+|                                 | Station de pompage        | Gère le pompage de l’eau dans les systèmes de distribution.                 |
+|                                 | Purificateurs             | Épurent l’eau pour la rendre potable ou utilisable.                         |
+|                                 | Système de distribution   | Réseau de canalisations pour acheminer l’eau dans toute la colonie.         |
+| **Centre médical**              | Salle d’urgence           | Zone pour traiter rapidement les blessures et les maladies graves.          |
+|                                 | Laboratoire d’analyses    | Effectue des analyses biologiques et chimiques pour le diagnostic.          |
+|                                 | Pharmacie centrale        | Stocke et distribue les médicaments essentiels.                             |
+|                                 | Salle d’opérations        | Équipée pour les interventions chirurgicales complexes.                     |
+| **Logements résidentiels**      | Dortoirs                 | Chambres partagées pour loger les colons.                                    |
+|                                 | Salle de loisirs          | Espace pour se détendre et socialiser.                                      |
+|                                 | Cuisine commune           | Zone pour préparer et partager les repas.                                   |
+|                                 | Centre de maintenance résidentiel | Effectue les réparations et l’entretien des logements.              |
+| **Gestion des déchets**         | Incinérateur             | Élimine les déchets non recyclables.                                        |
+|                                 | Zone de tri              | Tri des déchets pour le recyclage ou l’élimination.                         |
+|                                 | Bassins de traitement    | Traite les déchets liquides ou chimiques.                                   |
+|                                 | Convoyeurs de déchets    | Transportent les déchets vers les zones de traitement.                      |
+| **Serre agricole**              | Salle de culture         | Contient les plantes cultivées pour la nourriture.                          |
+|                                 | Zone de conditionnement  | Prépare les récoltes pour la distribution ou le stockage.                   |
+|                                 | Réservoirs nutritifs     | Fournissent l’eau et les nutriments aux cultures.                           |
+|                                 | Contrôle climatique      | Régule température, humidité et lumière dans la serre.                      |
+| **Systèmes de communication**   | Centre de relais         | Hub pour transmettre et recevoir les signaux.                               |
+|                                 | Serveurs de communication | Gère les données et la connectivité des systèmes.                          |
+|                                 | Antennes principales     | Permettent la communication longue distance.                                |
+|                                 | Poste de maintenance     | Zone pour réparer et entretenir l’équipement de communication.              |
+| **Infrastructure de sécurité**  | Poste de garde           | Point central pour surveiller et déployer la sécurité.                      |
+|                                 | Dépôt d’armement         | Stocke les armes et équipements de défense.                                 |
+|                                 | Salle de surveillance    | Contient les moniteurs pour surveiller la colonie.                          |
+|                                 | Salle d’équipement       | Stocke les armures et outils pour les agents de sécurité.                   |
+| **Éclairage et chauffage**      | Poste de régulation      | Contrôle central pour ajuster éclairage et température.                     |
+|                                 | Réservoir de carburant   | Stocke le carburant nécessaire au chauffage.                                |
+|                                 | Chauffage central        | Fournit de la chaleur à l’ensemble de la colonie.                           |
+|                                 | Générateurs d’éclairage  | Fournissent une lumière constante dans les zones vitales.                   |
+| **Centre de maintenance**       | Atelier mécanique        | Équipe les techniciens pour la réparation des machines.                     |
+|                                 | Zone d’outillage lourd   | Contient les outils pour entretenir les équipements lourds.                 |
+|                                 | Pièce de stockage        | Stocke les pièces de rechange et matériaux de réparation.                   |
+|                                 | Centre de diagnostic     | Permet d’évaluer les pannes et les besoins de réparation.                   |
+| **Abri d’urgence**              | Zone de stockage         | Contient des provisions pour les situations d’urgence.                      |
+|                                 | Poste médical            | Espace pour soigner rapidement les blessés en cas de catastrophe.           |
+|                                 | Générateur autonome      | Assure une alimentation énergétique indépendante.                           |
+|                                 | Salle d’accueil          | Refuge pour les colons pendant les urgences.                                |
+| **Système de défense**          | Salle des tourelles      | Contrôle et entretien des tourelles automatiques.                           |
+|                                 | Poste de contrôle radar  | Supervise la détection des menaces extérieures.                             |
+|                                 | Arsenal                 | Contient les munitions et équipements de défense.                            |
+|                                 | Salle de commande tactique | Coordonne les stratégies de défense.                                      |
+| **Transport spatial**           | Hangar principal         | Stocke et prépare les vaisseaux pour le transport.                          |
+|                                 | Salle des propulseurs    | Zone pour entretenir les systèmes de propulsion.                            |
+|                                 | Centre de contrôle       | Supervise les départs et arrivées des vaisseaux.                            |
+|                                 | Zone de chargement       | Stocke et prépare les cargaisons pour les expéditions.                      |
+
+
+
 
 **David, Hash et compagnie**
 Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou plusieurs androïdes, l'ensemble des fonctions liées au personnel peut être pris en charge par "Maman" dans une certaine mesure. Nous vous invitons à prendre connaissance de notre article Usage des IA (MU/TH/UR - A.P.O.L.L.O) qui traite des IAs dans une colonie.
@@ -819,61 +903,77 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 | **Infrastructure d’Hypersommeil** | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
 | **Unité de Stockage d’Embryons**  | Stocke et conserve des embryons humains pour le développement démographique à long terme.                  | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
 
+| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                  | PIÈCE 3                 | PIÈCE 4               |
+|---------------------------------|-----------------------|--------------------------|-------------------------|-----------------------|
+| **Infrastructure d’Hypersommeil** | Salle des modules     | Zone de contrôle thermique | Laboratoire biomédical  | Stockage cryogénique  |
+| **Unité de Stockage d’Embryons** | Congélateurs          | Salle de surveillance    | Chambre de transfert    | Systèmes de régulation |
+
+| INFRASTRUCTURE                    | PIÈCE                      | DESCRIPTION                                                                 |
+|-----------------------------------|----------------------------|-----------------------------------------------------------------------------|
+| **Infrastructure d’Hypersommeil** | Salle des modules          | Contient les pods d’hypersommeil des colons.                                |
+|                                   | Zone de contrôle thermique | Régule la température des modules d’hypersommeil.                           |
+|                                   | Laboratoire biomédical     | Surveille les signes vitaux des colons endormis.                            |
+|                                   | Stockage cryogénique       | Stocke les équipements nécessaires au maintien du sommeil cryogénique.      |
+| **Unité de Stockage d’Embryons**  | Congélateurs               | Conservent les embryons à basse température.                                |
+|                                   | Salle de surveillance      | Contrôle et surveille l’état des embryons stockés.                          |
+|                                   | Chambre de transfert       | Gère le déplacement et la manipulation des embryons.                        |
+|                                   | Systèmes de régulation     | Maintiennent les conditions optimales pour la conservation des embryons.    |
+
 **Description des incidents**
 
 | N°  | INCIDENT                               | DESCRIPTION                                                                                              |
 |-----|----------------------------------------|----------------------------------------------------------------------------------------------------------|
 | 1   | **Coupure générale des communications** | Une surtension rend le centre de commandement hors service, coupant toutes les communications internes et externes. |
 | 2   | **Sabotage interne**                    | Des preuves de sabotage sont découvertes, des systèmes critiques du centre de commandement ont été désactivés.      |
-| 3   | **Panne de surveillance des systèmes**  | Le centre de commandement perd la capacité de surveiller les infrastructures vitales de la colonie.                |
-| 4   | **Surchauffe du réacteur**              | Le générateur principal menace d’exploser, forçant les joueurs à prendre des décisions critiques rapidement.         |
+| 3   | **Panne de surveillance des systèmes**  | Le centre de commandement perd la capacité de surveiller les infrastructures vitales de la colonie.                 |
+| 4   | **Surchauffe du réacteur**              | Le générateur principal menace d’exploser, forçant les joueurs à prendre des décisions critiques rapidement.        |
 | 5   | **Défaillance d’une unité de secours**  | Une unité de secours énergétique ne démarre pas lors d’une panne, mettant les systèmes vitaux en danger.            |
-| 6   | **Fuite radioactive**                   | Un réacteur défaillant libère des radiations, forçant des évacuations et une intervention rapide.                    |
-| 7   | **Contamination de l’air**              | Un gaz toxique pénètre dans la colonie via le système de filtration, mettant en danger la santé des colons.          |
+| 6   | **Fuite radioactive**                   | Un réacteur défaillant libère des radiations, forçant des évacuations et une intervention rapide.                   |
+| 7   | **Contamination de l’air**              | Un gaz toxique pénètre dans la colonie via le système de filtration, mettant en danger la santé des colons.         |
 | 8   | **Problème de pression**                | Une variation soudaine de la pression atmosphérique rend certaines sections de la colonie inhabitables.             |
 | 9   | **Invasion d’organismes étrangers**     | Le système de filtration aspire des spores ou organismes extraterrestres qui menacent de se propager.               |
-| 10  | **Contamination de l’eau**              | Une substance toxique ou un micro-organisme extraterrestre contamine la principale source d’eau.                     |
-| 11  | **Rupture de canalisation**             | Une rupture dans le système d'irrigation inonde une zone agricole, détruisant des cultures.                          |
-| 12  | **Panne des pompes**                    | Les pompes cessent de fonctionner, coupant l’approvisionnement en eau potable.                                       |
-| 13  | **Épidémie mystérieuse**                | Un agent pathogène inconnu affecte plusieurs colons, submergeant le centre médical.                                   |
+| 10  | **Contamination de l’eau**              | Une substance toxique ou un micro-organisme extraterrestre contamine la principale source d’eau.                    |
+| 11  | **Rupture de canalisation**             | Une rupture dans le système d'irrigation inonde une zone agricole, détruisant des cultures.                         |
+| 12  | **Panne des pompes**                    | Les pompes cessent de fonctionner, coupant l’approvisionnement en eau potable.                                      |
+| 13  | **Épidémie mystérieuse**                | Un agent pathogène inconnu affecte plusieurs colons, submergeant le centre médical.                                 |
 | 14  | **Panne des équipements chirurgicaux**  | L’équipement médical tombe en panne pendant une urgence critique.                                                   |
-| 15  | **Attaque bioterroriste**               | Une toxine est introduite dans le centre médical, menaçant de contaminer les colons.                                 |
-| 16  | **Infestation d’organismes parasites**  | Une forme de vie extraterrestre envahit les logements résidentiels, menaçant les colons.                             |
-| 17  | **Incendie soudain**                    | Un incendie détruit des habitations, forçant une évacuation et des réparations rapides.                               |
-| 18  | **Émeute ou panique collective**        | Des tensions éclatent parmi les colons, entraînant des violences ou des émeutes dans les logements.                  |
-| 19  | **Accumulation de déchets toxiques**    | Le système de gestion des déchets ne fonctionne plus, entraînant une accumulation dangereuse de matières toxiques.    |
-| 20  | **Infestation dans les conduits**       | Des créatures utilisent les conduits de déchets comme nids, menaçant la sécurité de la colonie.                      |
-| 21  | **Explosion dans le système**           | Une mauvaise gestion des déchets inflammables provoque une explosion.                                                |
-| 22  | **Contamination des cultures**          | Une maladie ou des parasites extraterrestres détruisent les cultures de la serre agricole.                           |
-| 23  | **Rupture de température contrôlée**    | Le système climatique de la serre tombe en panne, exposant les cultures à des conditions extrêmes.                   |
-| 24  | **Sabotage des réserves alimentaires**  | Un espion ou un colon mécontent détruit une partie des ressources alimentaires de la colonie.                        |
-| 25  | **Panne des communications longue portée** | La colonie perd tout contact externe, laissant les colons sans soutien ni coordination extérieure.                    |
-| 26  | **Interférence électromagnétique**      | Une tempête planétaire perturbe les communications internes et externes.                                             |
-| 27  | **Sabotage ou hacking**                 | Un individu hostile piratage le système de communication, compromettant les informations vitales.                    |
-| 28  | **Défaillance des verrouillages**       | Une panne dans le système de sécurité empêche le verrouillage des zones critiques de la colonie.                     |
-| 29  | **Intrusion non détectée**              | Des créatures ou intrus hostiles pénètrent dans la colonie sans être détectés.                                       |
-| 30  | **Piratage des systèmes de sécurité**   | Un groupe hostile désactive les défenses automatisées, exposant la colonie à des attaques.                           |
-| 31  | **Coupure de l’éclairage principal**    | Une panne massive plonge la colonie dans l’obscurité totale, créant panique et désorientation.                        |
-| 32  | **Panne de chauffage dans une zone froide** | Le système de chauffage tombe en panne, exposant les colons à des températures dangereusement basses.                 |
-| 33  | **Surchauffe dans les logements**       | Une surchauffe du système de chauffage menace d’incendier certaines zones résidentielles.                            |
-| 34  | **Manque de pièces détachées**          | Le centre de maintenance se retrouve à court de pièces essentielles après une série de pannes.                       |
-| 35  | **Surcharge de demandes**               | Trop de pannes simultanées surchargent le centre de maintenance, obligeant à des priorisations critiques.             |
-| 36  | **Contamination chimique**              | Une fuite chimique contamine le centre de maintenance, rendant l’accès impossible.                                    |
-| 37  | **Blocage de l’accès**                  | L’abri d’urgence est bloqué par des débris à la suite d’une catastrophe ou d’une attaque.                            |
-| 38  | **Épuisement des réserves**             | Les réserves d'eau et nourriture de l’abri sont sur le point de s’épuiser en pleine crise.                            |
-| 39  | **Infiltration hostile**                | Des créatures extraterrestres envahissent l’abri d’urgence, menaçant directement les colons réfugiés.                 |
-| 40  | **Capteurs défectueux**                 | Les capteurs de périmètre ne fonctionnent plus, laissant certaines zones vulnérables.                                 |
-| 41  | **Désactivation des tourelles**         | Un dysfonctionnement désactive les défenses automatiques, exposant la colonie à des attaques externes.                |
-| 42  | **Fausse alerte répétée**               | Des alertes répétées de menaces inexistantes créent panique et confusion parmi les colons.                            |
-| 43  | **Échec du système de guidage**         | Le système automatisé de guidage des navettes tombe en panne, rendant les atterrissages impossibles.                  |
-| 44  | **Tour de contrôle hors service**       | Une tempête frappe la tour de contrôle, créant chaos et désorganisation dans le trafic spatial.                       |
-| 45  | **Fermeture pour quarantaine**          | Une cargaison suspecte force la fermeture de l’infrastructure spatiale pour quarantaine.                              |
-| 46  | **Réveil intempestif**                 | Une erreur dans le système réveille des colons prématurément.                                 |
-| 47  | **Problème de maintien**         | Déstabilisation du système de cryogénie, menaçant les colons endormis.                |
-| 48  | **Défaillance énergétique**               | Coupure d’énergie affectant les capsules d’hypersommeil.                            |
-| 49  | **Rupture de la cryogénie**         | Panne mettant en péril la viabilité des embryons stockés.                  |
-| 51  | **Contamination biologique**       | Fuite ou intrusion menaçant la sécurité biologique.                       |
-| 52  | **Sabotage**          | Dommages intentionnels affectant les systèmes de stockage des embryons.                              |
+| 15  | **Attaque bioterroriste**               | Une toxine est introduite dans le centre médical, menaçant de contaminer les colons.                                |
+| 16  | **Infestation d’organismes parasites**  | Une forme de vie extraterrestre envahit les logements résidentiels, menaçant les colons.                            |
+| 17  | **Incendie soudain**                    | Un incendie détruit des habitations, forçant une évacuation et des réparations rapides.                             |
+| 18  | **Émeute ou panique collective**        | Des tensions éclatent parmi les colons, entraînant des violences ou des émeutes dans les logements.                 |
+| 19  | **Accumulation de déchets toxiques**    | Le système de gestion des déchets ne fonctionne plus, entraînant une accumulation dangereuse de matières toxiques.  |
+| 20  | **Infestation dans les conduits**       | Des créatures utilisent les conduits de déchets comme nids, menaçant la sécurité de la colonie.                     |
+| 21  | **Explosion dans le système**           | Une mauvaise gestion des déchets inflammables provoque une explosion.                                               |
+| 22  | **Contamination des cultures**          | Une maladie ou des parasites extraterrestres détruisent les cultures de la serre agricole.                          |
+| 23  | **Rupture de température contrôlée**    | Le système climatique de la serre tombe en panne, exposant les cultures à des conditions extrêmes.                  |
+| 24  | **Sabotage des réserves alimentaires**  | Un espion ou un colon mécontent détruit une partie des ressources alimentaires de la colonie.                       |
+| 25  | **Panne des communications longue portée** | La colonie perd tout contact externe, laissant les colons sans soutien ni coordination extérieure.               |
+| 26  | **Interférence électromagnétique**      | Une tempête planétaire perturbe les communications internes et externes.                                            |
+| 27  | **Sabotage ou hacking**                 | Un individu hostile piratage le système de communication, compromettant les informations vitales.                   |
+| 28  | **Défaillance des verrouillages**       | Une panne dans le système de sécurité empêche le verrouillage des zones critiques de la colonie.                    |
+| 29  | **Intrusion non détectée**              | Des créatures ou intrus hostiles pénètrent dans la colonie sans être détectés.                                      |
+| 30  | **Piratage des systèmes de sécurité**   | Un groupe hostile désactive les défenses automatisées, exposant la colonie à des attaques.                          |
+| 31  | **Coupure de l’éclairage principal**    | Une panne massive plonge la colonie dans l’obscurité totale, créant panique et désorientation.                      |
+| 32  | **Panne de chauffage dans une zone froide** | Le système de chauffage tombe en panne, exposant les colons à des températures dangereusement basses.           |
+| 33  | **Surchauffe dans les logements**       | Une surchauffe du système de chauffage menace d’incendier certaines zones résidentielles.                           |
+| 34  | **Manque de pièces détachées**          | Le centre de maintenance se retrouve à court de pièces essentielles après une série de pannes.                      |
+| 35  | **Surcharge de demandes**               | Trop de pannes simultanées surchargent le centre de maintenance, obligeant à des priorisations critiques.           |
+| 36  | **Contamination chimique**              | Une fuite chimique contamine le centre de maintenance, rendant l’accès impossible.                                  |
+| 37  | **Blocage de l’accès**                  | L’abri d’urgence est bloqué par des débris à la suite d’une catastrophe ou d’une attaque.                           |
+| 38  | **Épuisement des réserves**             | Les réserves d'eau et nourriture de l’abri sont sur le point de s’épuiser en pleine crise.                          |
+| 39  | **Infiltration hostile**                | Des créatures extraterrestres envahissent l’abri d’urgence, menaçant directement les colons réfugiés.               |
+| 40  | **Capteurs défectueux**                 | Les capteurs de périmètre ne fonctionnent plus, laissant certaines zones vulnérables.                               |
+| 41  | **Désactivation des tourelles**         | Un dysfonctionnement désactive les défenses automatiques, exposant la colonie à des attaques externes.              |
+| 42  | **Fausse alerte répétée**               | Des alertes répétées de menaces inexistantes créent panique et confusion parmi les colons.                          |
+| 43  | **Échec du système de guidage**         | Le système automatisé de guidage des navettes tombe en panne, rendant les atterrissages impossibles.                |
+| 44  | **Tour de contrôle hors service**       | Une tempête frappe la tour de contrôle, créant chaos et désorganisation dans le trafic spatial.                     |
+| 45  | **Fermeture pour quarantaine**          | Une cargaison suspecte force la fermeture de l’infrastructure spatiale pour quarantaine.                            |
+| 46  | **Réveil intempestif**                  | Une erreur dans le système réveille des colons prématurément.                                                       |
+| 47  | **Problème de maintien**                | Déstabilisation du système de cryogénie, menaçant les colons endormis.                                              |
+| 48  | **Défaillance énergétique**             | Coupure d’énergie affectant les capsules d’hypersommeil.                                                            |
+| 49  | **Rupture de la cryogénie**             | Panne mettant en péril la viabilité des embryons stockés.                                                           |
+| 51  | **Contamination biologique**            | Fuite ou intrusion menaçant la sécurité biologique.                                                                 |
+| 52  | **Sabotage**                            | Dommages intentionnels affectant les systèmes de stockage des embryons.                                             |
 
 
 ## PROMPTS
