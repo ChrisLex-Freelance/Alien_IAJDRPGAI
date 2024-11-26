@@ -988,7 +988,8 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 
 ##CONTACTS
 
-Cette partie est une adaptation des régles de contact présent dans Mutant Year Zéro : Elysium, et qui vise encore une fois augmenter l'immersion des personnages en leur donnant plus de profondeur avec des relations. Les contacts représentent des alliés, des informateurs ou des spécialistes que le personnage peut solliciter pour obtenir une aide précieuse. Ces contacts sont souvent coûteux à activer et peuvent entraîner des risques ou des complications.
+Cette partie est une adaptation des régles de contact présentes dans Mutant Year Zéro : Elysium, et qui vise encore une fois à augmenter l'immersion des personnages en leur donnant plus de profondeur avec des relations. Les contacts représentent des alliés, des informateurs ou des spécialistes que le personnage peut solliciter pour obtenir une aide précieuse. Ces contacts sont souvent coûteux à activer et peuvent entraîner des risques ou des complications.
+A la création un personnage dispose de 3 Contacts au choix.
 
 **Activer un contact**
 Vous pouvez solliciter un contact à tout moment dans une partie en utilisant des Points d’Influence (PI). Activer un contact ne nécessite pas de jet de dés, mais cela peut toujours entraîner un contre-coup (voir plus bas).
@@ -1070,7 +1071,16 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 | **Ingénieur en Terraforming** | Terraforming et gestion de biosphère | Stabilise une zone atmosphérique ou répare des systèmes de soutien vital à grande échelle.       | 3 PI       | Élevé                 |
 | **Courtier Corporatif**       | Négociateur ou intermédiaire         | Réduit le coût en ressources ou en crédits d’une transaction ou négociation critique.            | 2 PI       | Moyen                 |
 | **Saboteur**                  | Expert en destruction ciblée         | Désactive discrètement une infrastructure ennemie ou piège une zone sensible.                    | 3 PI       | Très élevé            |
-| **Ancien Prisonnier**         | Informateur aux connexions douteuses | Fournit des informations sur des groupes criminels ou hostiles à la colonie.                     | 1-2 PI     | Élevé                 |
+| **Ancien prisonnier**         | Informateur aux connexions douteuses | Fournit des informations sur des groupes criminels ou hostiles à la colonie.                     | 1-2 PI     | Élevé                 |
+| **Officier de l'UA**          | Stratège militaire                   | Fournit des données tactiques ou une autorisation spéciale pour une opération sensible.          | 2 PI       | Moyen                 |
+| **Diplomate de l'UPP**        | Négociateur politique                | Facilite des négociations tendues ou réduit les tensions entre factions opposées.                | 2 PI       | Faible                |
+| **Espion de l'UPP**           | Agent infiltré                       | Fournit des informations précieuses sur une cible ou une faction adverse.                        | 3 PI       | Très élevé            |
+| **Scientifique de l'E3M**     | Expert en recherche avancée          | Résout un problème scientifique complexe ou développe une technologie innovante.                 | 3 PI       | Moyen                 |
+| **Révolutionnaire UPP**       | Activiste ou combattant              | Peut organiser une distraction, un sabotage ou un soulèvement dans une zone cible.               | 2 PI       | Élevé                 |
+| **Commandant de flotte**      | Officier supérieur                   | Fournit un soutien logistique ou une escorte spatiale temporaire.                                | 3 PI       | Moyen                 |
+| **Hacktiviste de l'E3M**      | Spécialiste en piratage              | Accède à des bases de données protégées ou perturbe les systèmes ennemis.                        | 3 PI       | Élevé                 |
+| **Officier de propagande**    | Communication et moral               | Diffuse des messages pour influencer une population ou perturber un adversaire.                  | 2 PI       | Moyen                 |
+| **Contremaître Minier**       | Responsable d'extraction             | Permet de sécuriser ou d’exploiter une ressource dans une zone minière contrôlée.                | 2 PI       | Faible                |
 
 **Description des risques de contrecoup**
 
