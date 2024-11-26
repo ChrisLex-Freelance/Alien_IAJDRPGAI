@@ -1091,4 +1091,34 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 | Élevé | Le risque de contre-coup est important (attention hostile, perte de contact). |
 | Très élevé | Le contact pourrait se retourner contre le groupe ou provoquer une crise. |
 
+## Implants Cybernétiques
+
+| IMPLANT                     | DESCRIPTION                                                                                           | BONUS / EFFETS                                                | COMPÉTENCE / ATTRIBUT LIÉ     | COÛT EN $ |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------|-----------------|
+| **Amplificateur vocal**     | Permet de parler extrêmement fort, comme avec un mégaphone.                                           | +2 Manipulation ou Intimidation.                              | Manipulation (EMPATHIE)       | 2 000           |
+| **Banques de données**      | Stockage neuronal intégré pour vidéo, audio ou fichiers.                                              | +2 à l'utilisation de technologies complexes.                 | Comtech (ESPRIT)              | 7 000           |
+| **Bras mécanique**          | Bras puissant en métal et composites.                                                                 | +2 Combat rapproché et +2 pour manipuler des objets lourds.   | Combat rapproché (FORCE) / Machines lourdes (FORCE) | 5 000 |
+| **Communicateur**           | Implant de communication radio intégré.                                                               | Communication longue portée intégrée.                         | Aucun                        | 2 000           |
+| **Crâne renforcé**          | Mélange de métal et céramique pour protéger la tête.                                                  | Protection +3 contre attaques ciblant la tête.                | Endurance (FORCE)             | 2 000           |
+| **Détecteur de mensonges**  | Capteurs pour analyser le rythme cardiaque et la respiration.                                         | +2 Observation pour repérer les émotions ou mensonges.        | Observation (ESPRIT)          | 4 000           |
+| **Inhibiteurs de douleur**  | Glandes synthétiques réduisant la douleur et l'épuisement.                                            | Ignore les malus dus aux blessures ou fatigue.                | Endurance (FORCE)             | 6 000           |
+| **Interface**               | Connecteurs neuronaux pour se lier directement à des systèmes informatiques.                          | +2 Comtech pour piratage ou interface directe.                | Comtech (ESPRIT)              | 5 000           |
+| **Jambes mécaniques**       | Prothèses puissantes remplaçant les jambes humaines.                                                  | +2 Mobilité et +2 Force pour des sauts ou courses prolongées. | Mobilité (AGILITÉ)            | 6 000           |
+| **Poigne électrique**       | Main équipée d'électrodes pour neutraliser les cibles.                                                | +2 Combat rapproché, 2 dégâts et possibilité de paralysie.    | Combat rapproché (FORCE)      | 4 000           |
+| **Filtre respiratoire**     | Barrières chimiques intégrées pour détecter et éliminer les agents pathogènes.                        | Immunité contre les infections graves.                        | Soins médicaux (EMPATHIE)     | 6 000           |
+| **Réservoir d'air**         | Réservoir interne pour respirer sans équipement externe.                                              | Respiration autonome (15 min) et +2 Mobilité sous l'eau.      | Mobilité (AGILITÉ)            | 3 000           |
+| **Support d’arme**          | Monture intégrée pour un pistolet ou une arme similaire.                                              | Dégainage instantané et +1 précision au tir.                  | Combat à distance (AGILITÉ)   | 3 000           |
+| **Surregime**               | Augmentation musculaire et nerveuse pour des exploits de vitesse.                                     | +2 Mobilité et +1D6 Initiative lors d'actions rapides.        | Mobilité (AGILITÉ)            | 7 000           |
+| **Tripes blindées**         | Renforcement des organes internes pour survivre à des blessures graves.                               | Réduit les dégâts internes de 2.                              | Endurance (FORCE)             | 3 000           |
+| **Viseur intégré**          | Viseur optique installé dans l’œil pour améliorer la précision.                                       | +2 Combat à distance, annule malus de faible lumière.         | Combat à distance (AGILITÉ)   | 7 000           |
+| **Vision thermique**        | Détecte la chaleur et permet de repérer des cibles dans l’obscurité totale.                           | +2 Observation dans les zones sombres.                        | Observation (ESPRIT)          | 4 000           |
+
+## Règles Spéciales
+
+1. **Risque d'Interférence** : Les implants technologiques peuvent être affectés par des interférences électromagnétiques ou un piratage. En cas de panne, lancer un test de **Comtech** pour résoudre le problème.
+2. **Stress et Implants Illégaux** : Les implants obtenus sur le marché noir ajoutent 1 point de **Stress** à chaque utilisation. En cas de panne, un échec critique peut entraîner des blessures internes ou une incapacité temporaire.
+3. **Maintenance** : Tous les implants nécessitent un entretien régulier. Un implant mal entretenu peut infliger un malus de -1D aux tests associés jusqu'à réparation.
+
+
+
 ## PROMPTS
