@@ -1072,10 +1072,13 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 | **Saboteur**                  | Expert en destruction ciblée         | Désactive discrètement une infrastructure ennemie ou piège une zone sensible.                    | 3 PI       | Très élevé            |
 | **Ancien Prisonnier**         | Informateur aux connexions douteuses | Fournit des informations sur des groupes criminels ou hostiles à la colonie.                     | 1-2 PI     | Élevé                 |
 
-**Description des risques**
-Faible : Peu de chances qu’un événement imprévu se produise.
-Moyen : Le contre-coup peut entraîner des problèmes modérés (délais, complications).
-Élevé : Le risque de contre-coup est important (attention hostile, perte de contact).
-Très élevé : Le contact pourrait se retourner contre le groupe ou provoquer une crise.
+**Description des risques de contrecoup**
+
+| RISQUE  | DESCRIPTION | MODIFICATEUR SUR LA TABLE DES CONTRECOUPS |
+|---------|-------------|-------------------------------------------|
+| Faible | Peu de chances qu’un événement imprévu se produise. |
+| Moyen | Le contre-coup peut entraîner des problèmes modérés (délais, complications). |
+| Élevé | Le risque de contre-coup est important (attention hostile, perte de contact). |
+| Très élevé | Le contact pourrait se retourner contre le groupe ou provoquer une crise. |
 
 ## PROMPTS
