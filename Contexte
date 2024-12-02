@@ -554,61 +554,61 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | **Autorité**                   | Utilise **Commandement** au lieu de **Manipulation** pour forcer quelqu’un à obéir.                                                                                  | Marshal Colonial        |
 | **Investigateur**              | Pose des questions précises lors d’un test d’**Observation** dans une enquête.                                                                                       | Marshal Colonial        |
 | **Neutralisation**             | Désarme ou neutralise un adversaire sans infliger de dégâts avec un test de **Combat Rapproché**.                                                                    | Marshal Colonial        |
-| **Moi d’Abord**                | Protégez-vous au détriment des autres en cas d’attaque, augmente le **niveau de stress**.                                                                             | Agent de la Compagnie   |
-| **Prise de Contrôle**          | Utilise **Manipulation** avec **Esprit** au lieu d'**Empathie** pour forcer quelqu’un à obéir.                                                                        | Agent de la Compagnie   |
+| **Moi d’Abord**                | Protégez-vous au détriment des autres en cas d’attaque, augmente le **niveau de stress**.                                                                            | Agent de la Compagnie   |
+| **Prise de Contrôle**          | Utilise **Manipulation** avec **Esprit** au lieu d'**Empathie** pour forcer quelqu’un à obéir.                                                                       | Agent de la Compagnie   |
 | **Ruse**                       | Forcez deux tests basés sur l’**Esprit**, augmente votre **niveau de stress**.                                                                                       | Agent de la Compagnie   |
-| **Esquive**                    | Utilise **Mobilité** pour réduire les dégâts au lieu de bloquer en **Combat Rapproché**.                                                                              | Gamin                   |
+| **Esquive**                    | Utilise **Mobilité** pour réduire les dégâts au lieu de bloquer en **Combat Rapproché**.                                                                             | Gamin                   |
 | **Passe-Partout**              | Relancez des tests critiques liés à votre petite taille ou discrétion.                                                                                               | Gamin                   |
-| **Vif**                        | Forcez deux tests d’**Agilité**, augmente votre **niveau de stress**.                                                                                                 | Gamin                   |
-| **Chirurgien de Terrain**      | Bonus de +2 aux tests de **Soins Médicaux** pour stabiliser les blessés graves.                                                                                       | Médecin                 |
-| **Compassion**                 | Forcez deux tests d’**Empathie**, augmente votre **niveau de stress**.                                                                                                | Médecin                 |
-| **Présence Apaisante**         | Réduit le **niveau de stress** d’un allié à proximité une fois par tour.                                                                                              | Médecin                 |
-| **Influence**                  | Forcez deux tests de **Commandement**, augmente votre **niveau de stress**.                                                                                           | Officier                |
-| **Jouer du Galon**             | Utilisez **Commandement** pour forcer des actions spécifiques, mais augmente votre **niveau de stress**.                                                              | Officier                |
+| **Vif**                        | Forcez deux tests d’**Agilité**, augmente votre **niveau de stress**.                                                                                                | Gamin                   |
+| **Chirurgien de Terrain**      | Bonus de +2 aux tests de **Soins Médicaux** pour stabiliser les blessés graves.                                                                                      | Médecin                 |
+| **Compassion**                 | Forcez deux tests d’**Empathie**, augmente votre **niveau de stress**.                                                                                               | Médecin                 |
+| **Présence Apaisante**         | Réduit le **niveau de stress** d’un allié à proximité une fois par tour.                                                                                             | Médecin                 |
+| **Influence**                  | Forcez deux tests de **Commandement**, augmente votre **niveau de stress**.                                                                                          | Officier                |
+| **Jouer du Galon**             | Utilisez **Commandement** pour forcer des actions spécifiques, mais augmente votre **niveau de stress**.                                                             | Officier                |
 | **Officier de Terrain**        | Donne des ordres rapides en combat avec **Commandement** sans utiliser une action.                                                                                   | Officier                |
-| **Pleins Gaz**                 | Bonus de +2 aux tests de **Pilotage** pour accélérations et freinages.                                                                                                | Pilote                  |
+| **Pleins Gaz**                 | Bonus de +2 aux tests de **Pilotage** pour accélérations et freinages.                                                                                               | Pilote                  |
 | **Sur le Bout des Doigts**     | Bonus de +2 aux tests de **Pilotage** avec un véhicule spécifique.                                                                                                   | Pilote                  |
-| **Téméraire**                  | Forcez deux tests d’**Agilité**, augmente votre **niveau de stress**.                                                                                                 | Pilote                  |
-| **Blasé**                      | Ignorez une panique ou un dé par séance.                                                                                                                              | Prolo                   |
-| **Coriace**                    | Réduisez les dégâts grâce à un test de **Force** lors d’un combat.                                                                                                    | Prolo                   |
-| **Cran**                       | Forcez deux tests de **Force**, augmente votre **niveau de stress**.                                                                                                  | Prolo                   |
-| **Analyse**                    | Posez des questions à **Maman** après un test d’**Observation**, réduit ou augmente le **niveau de stress** selon le résultat.                                        | Scientifique            |
-| **Curiosité**                  | Forcez deux tests d’**Esprit**, augmente votre **niveau de stress**.                                                                                                  | Scientifique            |
+| **Téméraire**                  | Forcez deux tests d’**Agilité**, augmente votre **niveau de stress**.                                                                                                | Pilote                  |
+| **Blasé**                      | Ignorez une panique ou un dé par séance.                                                                                                                             | Prolo                   |
+| **Coriace**                    | Réduisez les dégâts grâce à un test de **Force** lors d’un combat.                                                                                                   | Prolo                   |
+| **Cran**                       | Forcez deux tests de **Force**, augmente votre **niveau de stress**.                                                                                                 | Prolo                   |
+| **Analyse**                    | Posez des questions à **Maman** après un test d’**Observation**, réduit ou augmente le **niveau de stress** selon le résultat.                                       | Scientifique            |
+| **Curiosité**                  | Forcez deux tests d’**Esprit**, augmente votre **niveau de stress**.                                                                                                 | Scientifique            |
 | **Découverte**                 | Réussissez automatiquement un test d’**Observation** sans lancer les dés.                                                                                            | Scientifique            |
-| **À Terre !**                  | Réduit les dégâts en combat à distance en se plaquant au sol, impose un malus de -2 à l’attaquant.                                                                    | Marine Colonial         |
-| **Armes Lourdes**              | Bonus de +2 en **Combat à Distance** et en **Machines Lourdes** pour utiliser des armes lourdes.                                                                      | Marine Colonial         |
-| **Court-Circuit**              | Bonus de +2 en **Comtech** pour pirater ou déverrouiller des systèmes.                                                                                                | Marine Colonial         |
-| **Pilote Tout-Terrain**        | Bonus de +2 en **Pilotage** pour conduire des véhicules tout-terrain.                                                                                                 | Marine Colonial         |
-| **Télécommande**               | Bonus de +2 en **Comtech** pour contrôler des systèmes automatisés à distance.                                                                                        | Marine Colonial         |
+| **À Terre !**                  | Réduit les dégâts en combat à distance en se plaquant au sol, impose un malus de -2 à l’attaquant.                                                                   | Marine Colonial         |
+| **Armes Lourdes**              | Bonus de +2 en **Combat à Distance** et en **Machines Lourdes** pour utiliser des armes lourdes.                                                                     | Marine Colonial         |
+| **Court-Circuit**              | Bonus de +2 en **Comtech** pour pirater ou déverrouiller des systèmes.                                                                                               | Marine Colonial         |
+| **Pilote Tout-Terrain**        | Bonus de +2 en **Pilotage** pour conduire des véhicules tout-terrain.                                                                                                | Marine Colonial         |
+| **Télécommande**               | Bonus de +2 en **Comtech** pour contrôler des systèmes automatisés à distance.                                                                                       | Marine Colonial         |
 | **Digne de Confiance**         | Bonus de +2 en **Manipulation** pour inspirer confiance.                                                                                                             | Amuseur                 |
-| **Œil de Lynx**                | Bonus de +2 en **Observation** pour repérer des détails subtils ou des objets cachés.                                                                                 | Amuseur                 |
-| **Le Bon Chemin**              | Bonus de +2 en **Pilotage** pour naviguer en terrain difficile ou encombré.                                                                                           | Prospecteur             |
-| **Mécano Miracle**             | Réparez des machines défaillantes avec un test de **Machines Lourdes** dans des conditions critiques.                                                                  | Prospecteur             |
-| **Prospection**                | Lancez deux fois sur la table des Trouvailles de prospection et gardez le meilleur résultat.                                                                           | Prospecteur             |
-| **Appétit d’Oiseau**           | Réduisez la consommation de nourriture en lançant moins de dés lors des tests de réserve alimentaire.                                                                 | Général                 |
-| **Artilleur de Vaisseau**      | Bonus de +2 aux tests de **Combat à Distance** en tant qu’artilleur dans un vaisseau spatial.                                                                         | Général                 |
-| **Bons Réflexes**              | Piochez deux cartes pour l’initiative et choisissez la meilleure.                                                                                                     | Général                 |
-| **Brutal**                     | Bonus de +2 aux tests de **Combat Rapproché** en échange de sacrifier votre défense.                                                                                  | Général                 |
+| **Œil de Lynx**                | Bonus de +2 en **Observation** pour repérer des détails subtils ou des objets cachés.                                                                                | Amuseur                 |
+| **Le Bon Chemin**              | Bonus de +2 en **Pilotage** pour naviguer en terrain difficile ou encombré.                                                                                          | Prospecteur             |
+| **Mécano Miracle**             | Réparez des machines défaillantes avec un test de **Machines Lourdes** dans des conditions critiques.                                                                | Prospecteur             |
+| **Prospection**                | Lancez deux fois sur la table des Trouvailles de prospection et gardez le meilleur résultat.                                                                         | Prospecteur             |
+| **Appétit d’Oiseau**           | Réduisez la consommation de nourriture en lançant moins de dés lors des tests de réserve alimentaire.                                                                | Général                 |
+| **Artilleur de Vaisseau**      | Bonus de +2 aux tests de **Combat à Distance** en tant qu’artilleur dans un vaisseau spatial.                                                                        | Général                 |
+| **Bons Réflexes**              | Piochez deux cartes pour l’initiative et choisissez la meilleure.                                                                                                    | Général                 |
+| **Brutal**                     | Bonus de +2 aux tests de **Combat Rapproché** en échange de sacrifier votre défense.                                                                                 | Général                 |
 | **Cheval de Trait**            | Transportez le double de poids sans être encombré.                                                                                                                   | Général                 |
-| **Commandant de Vaisseau**     | Piochez deux cartes pour l’initiative lors des combats spatiaux et choisissez la meilleure.                                                                           | Général                 |
-| **Conseiller**                 | Réduisez le **niveau de stress** d’un allié avec un test de **Commandement** une fois par tour.                                                                       | Général                 |
-| **Deuxième Souffle**           | Récupérez 1 point de santé et réduisez le stress en cas de Bris avec un test d’**Endurance**.                                                                         | Général                 |
-| **Entraînement Gravité Zéro**  | Bonus de +2 aux tests de **Mobilité** effectués en apesanteur.                                                                                                        | Général                 |
-| **Esprit de Contradiction**    | Bonus de +2 aux tests de **Manipulation** pour résister aux ordres ou aux talents des officiers.                                                                      | Général                 |
-| **Furtif**                     | Bonus de +2 aux tests de **Mobilité** pour se déplacer sans être repéré.                                                                                              | Général                 |
-| **Garde du Corps**             | Subissez une attaque à la place d’un allié proche avec un test de **Mobilité** pour intercepter les dégâts.                                                           | Général                 |
-| **Impitoyable**                | Donnez un coup de grâce sans faire de test d’**Empathie**, réduisez votre **niveau de stress** d’un point.                                                            | Général                 |
-| **Mécano de Vaisseau**         | Bonus de +2 en **Machines Lourdes** pour réparer les avaries d’un vaisseau spatial.                                                                                   | Général                 |
-| **Menaçant**                   | Bonus de +2 en **Manipulation** pour intimider un adversaire avec votre présence physique.                                                                            | Général                 |
-| **Mitrailleur**                | Restez calme en tir automatique et réduisez votre **niveau de stress** d’un point en mode automatique.                                                                | Général                 |
+| **Commandant de Vaisseau**     | Piochez deux cartes pour l’initiative lors des combats spatiaux et choisissez la meilleure.                                                                          | Général                 |
+| **Conseiller**                 | Réduisez le **niveau de stress** d’un allié avec un test de **Commandement** une fois par tour.                                                                      | Général                 |
+| **Deuxième Souffle**           | Récupérez 1 point de santé et réduisez le stress en cas de Bris avec un test d’**Endurance**.                                                                        | Général                 |
+| **Entraînement Gravité Zéro**  | Bonus de +2 aux tests de **Mobilité** effectués en apesanteur.                                                                                                       | Général                 |
+| **Esprit de Contradiction**    | Bonus de +2 aux tests de **Manipulation** pour résister aux ordres ou aux talents des officiers.                                                                     | Général                 |
+| **Furtif**                     | Bonus de +2 aux tests de **Mobilité** pour se déplacer sans être repéré.                                                                                             | Général                 |
+| **Garde du Corps**             | Subissez une attaque à la place d’un allié proche avec un test de **Mobilité** pour intercepter les dégâts.                                                          | Général                 |
+| **Impitoyable**                | Donnez un coup de grâce sans faire de test d’**Empathie**, réduisez votre **niveau de stress** d’un point.                                                           | Général                 |
+| **Mécano de Vaisseau**         | Bonus de +2 en **Machines Lourdes** pour réparer les avaries d’un vaisseau spatial.                                                                                  | Général                 |
+| **Menaçant**                   | Bonus de +2 en **Manipulation** pour intimider un adversaire avec votre présence physique.                                                                           | Général                 |
+| **Mitrailleur**                | Restez calme en tir automatique et réduisez votre **niveau de stress** d’un point en mode automatique.                                                               | Général                 |
 | **Nerfs d’Acier**              | Bonus de +2 aux tests de Panique pour garder votre sang-froid.                                                                                                       | Général                 |
 | **Poids Mouche**               | Utilisez **Agilité** au lieu de **Force** pour bloquer en **Combat Rapproché**.                                                                                      | Général                 |
-| **Réserve Cachée**             | Commencez chaque session avec un objet caché, choisi parmi vos possessions raisonnables.                                                                              | Général                 |
+| **Réserve Cachée**             | Commencez chaque session avec un objet caché, choisi parmi vos possessions raisonnables.                                                                             | Général                 |
 | **Robuste**                    | Augmentez votre Santé de 2.                                                                                                                                          | Général                 |
 | **Sommeil Réparateur**         | Dormez un Quart sur deux et restez en bonne santé malgré les horaires réduits.                                                                                       | Général                 |
 | **Souffle Calme**              | Réduisez la réserve d’air consommée en lançant moins de dés pour les tests.                                                                                          | Général                 |
-| **Spécialiste des Armes**      | Bonus de +2 avec une arme spécifique choisie, utilisable plusieurs fois pour des armes différentes.                                                                   | Général                 |
-| **Spécialiste Extravehiculaire** | Bonus de +2 en **Machines Lourdes** et **Comtech** lors des interventions en extérieur dans l’espace.                                                                | Général                 |
+| **Spécialiste des Armes**      | Bonus de +2 avec une arme spécifique choisie, utilisable plusieurs fois pour des armes différentes.                                                                  | Général                 |
+| **Spécialiste Extravehiculaire** | Bonus de +2 en **Machines Lourdes** et **Comtech** lors des interventions en extérieur dans l’espace.                                                              | Général                 |
 | **Stoïque**                    | Effectuez des tests d’**Endurance** avec **Esprit** au lieu de **Force**.                                                                                            | Général                 |
 | **Tir Rapide**                 | Tirez avec un malus de -2 en utilisant une action rapide.                                                                                                            | Général                 |
 | **Tueur**                      | Déclenchez une blessure critique avec un coup dévastateur contre un adversaire à terre.                                                                              | Général                 |
@@ -616,10 +616,10 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | **Vigilant**                   | Bonus de +2 en **Observation** pour détecter des embuscades ou des attaques furtives.                                                                                | Général                 |
 | **Bidouillage**                | Créez un objet temporaire utile à partir de pièces trouvées en consacrant un Tour.                                                                                   | Général                 |
 | **Calme Olympien**             | Une fois par session, réduisez de 1D6 votre **niveau de stress** grâce à votre résistance mentale.                                                                   | Général                 |
-| **Concentration Intense**      | Bonus de +2 à une tâche avec une durée de Quart, mais échouez automatiquement si interrompu.                                                                          | Général                 |
+| **Concentration Intense**      | Bonus de +2 à une tâche avec une durée de Quart, mais échouez automatiquement si interrompu.                                                                         | Général                 |
 | **Dresseur**                   | Forcez un animal à obéir avec un test de **Survie**, utilisable pour les créatures domestiquées ou extraterrestres.                                                  | Général                 |
-| **Impérieux**                  | Transformez un échec en **Commandement** en test de **Manipulation** sans coût supplémentaire.                                                                        | Général                 |
-| **On Parle la Même Langue**    | Réduisez les malus des tests de **Commandement** et **Manipulation** face à une foule hostile.                                                                        | Général                 |
+| **Impérieux**                  | Transformez un échec en **Commandement** en test de **Manipulation** sans coût supplémentaire.                                                                       | Général                 |
+| **On Parle la Même Langue**    | Réduisez les malus des tests de **Commandement** et **Manipulation** face à une foule hostile.                                                                       | Général                 |
 | **Précision**                  | Bonus de +2 en **Machines Lourdes** pour manipuler des objets ou reliques fragiles.                                                                                  | Général                 |
 | **Psychologie de Groupe**      | Posez des questions précises sur le comportement collectif avec un test d’**Observation** pour analyser les foules.                                                  | Général                 |
 
@@ -636,19 +636,19 @@ Talent adaptés du supplément fanmade pour Coriolis de Michel Masberg (WEB OF T
 
 Ici il s'agit d'ajout personnel
 
-| **TALENT**                     | **DESCRIPTION**                                                                                                                                                            | **ASSOCIÉ AU PROFIL**   |
-|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| **Survivant Né**               | Vous avez le don inné de trouver une échappatoire là où d'autres ne voient que la fin. Une fois par séance, vous pouvez relancer un jet raté de **Survie** en situation critique.                              | Général                 |
-| **Paranoïa Salutaire**         | Votre méfiance permanente vous protège des embuscades et des pièges. Ajoutez +2 à vos tests d’**Observation** pour détecter des dangers cachés, tels que des créatures en embuscade ou des dispositifs.       | Général                 |
-| **Instinct de Chasseur**       | Vous savez traquer votre proie et ne lâchez jamais votre cible. Ajoutez +2 aux tests de **Observation** ou de **Mobilité** pour pister une créature ou un individu.             | Général                 |
-| **Sang-Froid Absolu**          | Votre calme face au chaos est impressionnant. Lorsque vous subissez un test de Panique, vous pouvez réduire le résultat final de 1D6, minimisant le stress pour vous et vos alliés proches.                 | Général                 |
+| **TALENT**                     | **DESCRIPTION**                                                                                                                                                                                                                          | **ASSOCIÉ AU PROFIL**   |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| **Survivant Né**               | Vous avez le don inné de trouver une échappatoire là où d'autres ne voient que la fin. Une fois par séance, vous pouvez relancer un jet raté de **Survie** en situation critique.                                                        | Général                 |
+| **Paranoïa Salutaire**         | Votre méfiance permanente vous protège des embuscades et des pièges. Ajoutez +2 à vos tests d’**Observation** pour détecter des dangers cachés, tels que des créatures en embuscade ou des dispositifs.                                  | Général                 |
+| **Instinct de Chasseur**       | Vous savez traquer votre proie et ne lâchez jamais votre cible. Ajoutez +2 aux tests de **Observation** ou de **Mobilité** pour pister une créature ou un individu.                                                                      | Général                 |
+| **Sang-Froid Absolu**          | Votre calme face au chaos est impressionnant. Lorsque vous subissez un test de Panique, vous pouvez réduire le résultat final de 1D6, minimisant le stress pour vous et vos alliés proches.                                              | Général                 |
 | **Instinct de Dernière Minute**| Votre intuition vous permet de réagir juste avant que le pire ne se produise. Une fois par séance, vous pouvez éviter une catastrophe imminente (comme une explosion ou une attaque surprise) en réussissant un test de **Observation**. | Général                 |
-| **Réparations Express**        | Vous êtes capable de remettre en état des systèmes endommagés dans des situations critiques. Réduisez de moitié le temps nécessaire pour réparer une infrastructure grâce à vos tests de **Comtech** ou **Machines Lourdes**. | Général                 |
-| **Maître des Ventilations**    | Vous savez parfaitement vous déplacer dans des espaces confinés comme les conduits d’aération ou les recoins des stations spatiales. Ajoutez +2 à vos tests de **Mobilité** dans des espaces restreints.     | Général                 |
-| **Expert des Systèmes **        | Vous avez une compréhension approfondie des systèmes complexes. Ajoutez +2 à vos tests de **Comtech** lorsque vous tentez de pirater, reprogrammer ou désactiver un système.                      | Général                 |
-| **Sixième Sens**               | Vous ressentez les dangers avant même qu’ils ne se manifestent. Une fois par séance, vous pouvez demander à l’Hôte une indication subtile d’un danger à venir ou d’un choix critique à faire.               | Général                 |
-| **Récolteur Opportuniste**     | Vous êtes doué pour récupérer tout ce qui peut servir. Ajoutez +2 à vos tests de **Survie** pour trouver des ressources (munitions, outils, nourriture) dans des environnements hostiles ou abandonnés.     | Général                 |
-| **Spécialiste de la Quarantaine** | Vous savez réagir face aux menaces biologiques. Ajoutez +2 à vos tests de **Survie** ou **Soins Médicaux** pour analyser ou contenir une contamination, qu’elle soit biologique ou chimique.               | Général                 |
+| **Réparations Express**        | Vous êtes capable de remettre en état des systèmes endommagés dans des situations critiques. Réduisez de moitié le temps nécessaire pour réparer une infrastructure grâce à vos tests de **Comtech** ou **Machines Lourdes**.            | Général                 |
+| **Maître des Ventilations**    | Vous savez parfaitement vous déplacer dans des espaces confinés comme les conduits d’aération ou les recoins des stations spatiales. Ajoutez +2 à vos tests de **Mobilité** dans des espaces restreints.                                 | Général                 |
+| **Expert des Systèmes **        | Vous avez une compréhension approfondie des systèmes complexes. Ajoutez +2 à vos tests de **Comtech** lorsque vous tentez de pirater, reprogrammer ou désactiver un système.                                                            | Général                 |
+| **Sixième Sens**               | Vous ressentez les dangers avant même qu’ils ne se manifestent. Une fois par séance, vous pouvez demander à l’Hôte une indication subtile d’un danger à venir ou d’un choix critique à faire.                                            | Général                 |
+| **Récolteur Opportuniste**     | Vous êtes doué pour récupérer tout ce qui peut servir. Ajoutez +2 à vos tests de **Survie** pour trouver des ressources (munitions, outils, nourriture) dans des environnements hostiles ou abandonnés.                                  | Général                 |
+| **Spécialiste de la Quarantaine** | Vous savez réagir face aux menaces biologiques. Ajoutez +2 à vos tests de **Survie** ou **Soins Médicaux** pour analyser ou contenir une contamination, qu’elle soit biologique ou chimique.                                          | Général                 |
 
 
 ### COLONIE
@@ -737,16 +737,16 @@ Weyland-Yutani et d'autres corporations ont développé plusieurs générations 
 
 Les systèmes MU/TH/UR ont été créés à l'origine pour la gestion des vaisseaux spatiaux et des installations coloniales. Chaque modèle est conçu pour un certain type de mission et un niveau de complexité correspondant aux besoins de la colonie ou du vaisseau. Ici, nous nous concentrons sur l'usage adapté aux colonies qui peu travailler dans le supplément Bâtir des mondes meilleures, qui fait référence aux IAs au travers d'un projet présent dans les possibilités de développement de votre colonie : Amélioration des IAs.
 
-| MODÈLE              | DESCRIPTION                                                                                                                  | COMPÉTENCES                            | PRIX         |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------------|
-| **MU/TH/UR 1000**   | Parfait pour des missions simples (colonie-prison, relais de communication basique, petite exploitation minière). Pragmatique pour des missions à faible complexité, avec un coût réduit. | Comtech 4 / Observation 5 / Pilotage 5 | 1 500 000 $  |
-| **MU/TH/UR 5000**   | Idéal pour une colonie minière naissante, capable de gérer deux installations et superviser efficacement les ressources.       | Comtech 5 / Observation 5 / Pilotage 6 | 2 000 000 $  |
-| **MU/TH/UR 6000**   | Modèle standard utilisé sur des vaisseaux comme le Nostromo. Gère plusieurs infrastructures et colonies en phase d'expansion. | Comtech 6 / Observation 6 / Pilotage 5 | 2 500 000 $  |
-| **MU/TH/UR 6500**   | Idéal pour des colonies en phase d’expansion avancée, capable d’optimiser productivité et gestion des ressources.              | Comtech 6 / Observation 6 / Pilotage 5 | 3 500 000 $  |
-| **MU/TH/UR 7000**   | Utilisé dans des colonies établies ou installations stratégiques. Peut gérer trois installations et coordonner plusieurs projets. | Comtech 7 / Observation 6 / Pilotage 6 | 5 000 000 $  |
-| **MU/TH/UR 8000**   | Conçu pour des colonies en exploitation avancée avec des infrastructures complexes et une forte capacité de traitement.        | Comtech 9 / Observation 7 / Pilotage 7 | 7 000 000 $  |
-| **MU/TH/UR 9000**   | Sommet de la série, utilisé pour des missions critiques ou des installations de grande envergure. Peut gérer des colonies autonomes ou des vaisseaux militaires. | Combat à distance 9 / Comtech 10 / Observation 8 / Pilotage 10 | 50 000 000 $ |
-| **APOLLO**          | Alternative de Seegson, moins performante que MU/TH/UR, sujette à des dysfonctionnements, utilisée dans des installations à faible coût. | Comtech 5 / Observation 5 / Pilotage 4 | 2 000 000 $  |
+| MODÈLE              | DESCRIPTION                                                                                                                                                                               | COMPÉTENCES                                                    | PRIX         |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
+| **MU/TH/UR 1000**   | Parfait pour des missions simples (colonie-prison, relais de communication basique, petite exploitation minière). Pragmatique pour des missions à faible complexité, avec un coût réduit. | Comtech 4 / Observation 5 / Pilotage 5                         | 1 500 000 $  |
+| **MU/TH/UR 5000**   | Idéal pour une colonie minière naissante, capable de gérer deux installations et superviser efficacement les ressources.                                                                  | Comtech 5 / Observation 5 / Pilotage 6                         | 2 000 000 $  |
+| **MU/TH/UR 6000**   | Modèle standard utilisé sur des vaisseaux comme le Nostromo. Gère plusieurs infrastructures et colonies en phase d'expansion.                                                             | Comtech 6 / Observation 6 / Pilotage 5                         | 2 500 000 $  |
+| **MU/TH/UR 6500**   | Idéal pour des colonies en phase d’expansion avancée, capable d’optimiser productivité et gestion des ressources.                                                                         | Comtech 6 / Observation 6 / Pilotage 5                         | 3 500 000 $  |
+| **MU/TH/UR 7000**   | Utilisé dans des colonies établies ou installations stratégiques. Peut gérer trois installations et coordonner plusieurs projets.                                                         | Comtech 7 / Observation 6 / Pilotage 6                         | 5 000 000 $  |
+| **MU/TH/UR 8000**   | Conçu pour des colonies en exploitation avancée avec des infrastructures complexes et une forte capacité de traitement.                                                                   | Comtech 9 / Observation 7 / Pilotage 7                         | 7 000 000 $  |
+| **MU/TH/UR 9000**   | Sommet de la série, utilisé pour des missions critiques ou des installations de grande envergure. Peut gérer des colonies autonomes ou des vaisseaux militaires.                          | Combat à distance 9 / Comtech 10 / Observation 8 / Pilotage 10 | 50 000 000 $ |
+| **APOLLO**          | Alternative de Seegson, moins performante que MU/TH/UR, sujette à des dysfonctionnements, utilisée dans des installations à faible coût.                                                  | Comtech 5 / Observation 5 / Pilotage 4                         | 2 000 000 $  |
 
 **Maintenir la vraisemblance dans le scénario**
 
@@ -777,7 +777,7 @@ Les IAs sont souvent configurées en fonction de la mission principale de la col
 - Terraformation : Cette mission impose une gestion complexe avec des enjeux de productivité, d’entretien et de potentiel de développement. Les modèles comme MU/TH/UR 8000 ou 9000 sont idéaux pour ce type de mission.
 
 **Les incohérences comme levier narratif**
-Si vous décidez d’introduire une IA surdimensionnée, comme un MU/TH/UR 9000 dans une petite colonie minière, cela doit être justifié par l’intrigue. Les joueurs doivent être en mesure de découvrir que la colonie cache un projet secret, une menace extraterrestre, ou une exploitation cachée. Cette incohérence peut alimenter le suspense et permettre aux joueurs d'enquêter, renforçant l’immersion et la tension du scénario.
+Si vous décidez d’introduire une IA surdimensionnée, comme un MU/TH/UR 9000 dans une petite colonie minière, cela doit être justifié par l’intrigue. Les joueurs doivent être en mesure de découvrir que la colonie cache un projet secret, ou une exploitation cachée. Cette incohérence peut alimenter le suspense et permettre aux joueurs d'enquêter, renforçant l’immersion et la tension du scénario.
 
 #### INFRASTRUCTURES
 
@@ -791,104 +791,104 @@ Dans le film Aliens (1986), cette fragilité des infrastructures est parfaitemen
 **15 infrastructures minimales d'une colonie**
 Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à une échelle relativement macro. Il vous invite à inclure les éléments d'incidents de la colonie dans vos parties mais est assez limité dans sa proposition sur le sujet. Voici ce que nous estimons être les infrastructures minimales pour démarrer une colonie et faire vivre une colonie, ainsi que des éléments plus opérationnels pour inclure des événements dans le jeu, leurs incidences sur la colonie et comment les résoudre. La liste comprend également pour chaque infrastructure 4 zones importantes pour faciliter l'immertion. Nous vous invitons à prendre connaissance de notre article Montée en charge d'une colonie qui traite d'installation d'une colonie et sa montée en charge vers l'autonomie.
 
-| INFRASTRUCTURE                  | DESCRIPTION                                                                                                       | PERSONNEL NÉCESSAIRE                               | COMPÉTENCES DIAGNOSTIC           | COMPÉTENCES RÉPARATION              | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                                      |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|----------------------------------|-------------------------------------|-----------------------|-----------------------------------------------------------|
-| **Centre de commandement**      | Cœur stratégique de la colonie, coordonne les opérations et maintient les communications avec l'extérieur.        | Administrateur, Officier de communication, Analyste de données | Observation, Comtech (ESPRIT)     | Comtech, Commandement (ESPRIT, EMPATHIE) | 2D6 Quarts            | 1, 2, 3                                                   |
-| **Infrastructure énergétique**  | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                          | Ingénieur en énergie, Électricien, Technicien     | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 4, 5, 6                                                   |
-| **Système de filtration d’air** | Purifie et stabilise l’atmosphère dans la colonie, indispensable pour respirer.                                   | Ingénieur systèmes, Opérateur d'atmosphère, Technicien environnemental | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 7, 8, 9                                                   |
-| **Station d’eau et irrigation** | Gère la collecte, purification, et distribution de l’eau nécessaire à la colonie et à l’agriculture.              | Ingénieur hydrologue, Opérateur, Technicien       | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 10, 11, 12                                                |
-| **Centre médical**              | Soigne les maladies et blessures, essentiel pour gérer les urgences sanitaires.                                   | Médecin en chef, Infirmier, Technicien biomédical | Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux (ESPRIT, EMPATHIE) | 2D6 Quarts            | 13, 14, 15                                                |
-| **Logements résidentiels**      | Fournit un abri "sûr" et "confortable" pour les colons, vital pour leur bien-être psychologique et physique.      | Ingénieur civil, Architecte, Technicien           | Observation, Comtech (ESPRIT)     | Machines lourdes, Survie (FORCE, ESPRIT) | 1D6 Quarts            | 16, 17, 18                                                |
-| **Gestion des déchets**         | Collecte et traite les déchets pour éviter contamination et maladies.                                             | Ingénieur environnemental, Technicien en déchets  | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 19, 20, 21                                                |
-| **Serre agricole**              | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                         | Agronome, Technicien agricole, Responsable alimentaire | Observation, Survie (ESPRIT)      | Machines lourdes, Survie (FORCE, ESPRIT) | 2D6 Quarts            | 22, 23, 24                                                |
-| **Systèmes de communication**   | Permet les communications internes et externes, indispensable pour la coordination.                               | Technicien réseau, Ingénieur, Opérateur           | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 25, 26, 27                                                |
-| **Infrastructure de sécurité**  | Protège la colonie des menaces externes et internes (Xénomorphes, émeutes, etc.).                                 | Officier de sécurité, Ingénieur, Technicien       | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 28, 29, 30                                                |
-| **Éclairage et chauffage**      | Fournit lumière et chaleur dans des environnements hostiles.                                                      | Ingénieur thermique, Électricien, Technicien      | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 31, 32, 33                                                |
-| **Centre de maintenance**       | Responsable de l’entretien et de la réparation des infrastructures.                                               | Chef de maintenance, Technicien machines lourdes, Logisticien | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 34, 35, 36                                                |
-| **Abri d’urgence**              | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie       | Observation, Survie (ESPRIT)      | Comtech, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 37, 38, 39                                                |
-| **Système de défense**          | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement | Observation, Comtech (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 40, 41, 42                                                |
-| **Transport spatial**           | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial | Comtech, Observation (ESPRIT)     | Comtech, Machines lourdes (ESPRIT, FORCE) | 3D6 Quarts            | 43, 44, 45                                                |
+| INFRASTRUCTURE                  | DESCRIPTION                                                                                                       | PERSONNEL NÉCESSAIRE                                                   | COMPÉTENCES DIAGNOSTIC                         | COMPÉTENCES RÉPARATION                     | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                                      |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|-----------------------|-----------------------------------------------------------|
+| **Centre de commandement**      | Cœur stratégique de la colonie, coordonne les opérations et maintient les communications avec l'extérieur.        | Administrateur, Officier de communication, Analyste de données         | Observation, Comtech (ESPRIT)                  | Comtech, Commandement (ESPRIT, EMPATHIE)   | 2D6 Quarts            | 1, 2, 3                                                   |
+| **Infrastructure énergétique**  | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                          | Ingénieur en énergie, Électricien, Technicien                          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 4, 5, 6                                                   |
+| **Système de filtration d’air** | Purifie et stabilise l’atmosphère dans la colonie, indispensable pour respirer.                                   | Ingénieur systèmes, Opérateur d'atmosphère, Technicien environnemental | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 7, 8, 9                                                   |
+| **Station d’eau et irrigation** | Gère la collecte, purification, et distribution de l’eau nécessaire à la colonie et à l’agriculture.              | Ingénieur hydrologue, Opérateur, Technicien                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 10, 11, 12                                                |
+| **Centre médical**              | Soigne les maladies et blessures, essentiel pour gérer les urgences sanitaires.                                   | Médecin en chef, Infirmier, Technicien biomédical                      | Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux (ESPRIT, EMPATHIE) | 2D6 Quarts            | 13, 14, 15                                                |
+| **Logements résidentiels**      | Fournit un abri "sûr" et "confortable" pour les colons, vital pour leur bien-être psychologique et physique.      | Ingénieur civil, Architecte, Technicien                                | Observation, Comtech (ESPRIT)                  | Machines lourdes, Survie (FORCE, ESPRIT)   | 1D6 Quarts            | 16, 17, 18                                                |
+| **Gestion des déchets**         | Collecte et traite les déchets pour éviter contamination et maladies.                                             | Ingénieur environnemental, Technicien en déchets                       | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 19, 20, 21                                                |
+| **Serre agricole**              | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                         | Agronome, Technicien agricole, Responsable alimentaire                 | Observation, Survie (ESPRIT)                   | Machines lourdes, Survie (FORCE, ESPRIT)   | 2D6 Quarts            | 22, 23, 24                                                |
+| **Systèmes de communication**   | Permet les communications internes et externes, indispensable pour la coordination.                               | Technicien réseau, Ingénieur, Opérateur                                | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 25, 26, 27                                                |
+| **Infrastructure de sécurité**  | Protège la colonie des menaces externes et internes (Xénomorphes, émeutes, etc.).                                 | Officier de sécurité, Ingénieur, Technicien                            | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 28, 29, 30                                                |
+| **Éclairage et chauffage**      | Fournit lumière et chaleur dans des environnements hostiles.                                                      | Ingénieur thermique, Électricien, Technicien                           | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 31, 32, 33                                                |
+| **Centre de maintenance**       | Responsable de l’entretien et de la réparation des infrastructures.                                               | Chef de maintenance, Technicien machines lourdes, Logisticien          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 34, 35, 36                                                |
+| **Abri d’urgence**              | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 1D6 Quarts            | 37, 38, 39                                                |
+| **Système de défense**          | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement                      | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 40, 41, 42                                                |
+| **Transport spatial**           | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial        | Comtech, Observation (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 43, 44, 45                                                |
 
-| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                  | PIÈCE 3                 | PIÈCE 4               |
-|---------------------------------|-----------------------|--------------------------|-------------------------|-----------------------|
-| **Centre de commandement**      | Salle de contrôle     | Bureau des opérations    | Centre de communication | Serveurs centraux     |
-| **Infrastructure énergétique**  | Réacteur principal    | Salle de contrôle de flux | Unité de sauvegarde     | Générateurs auxiliaires |
-| **Système de filtration d’air** | Chambre de filtration | Contrôle des conduits    | Réservoir d’oxygène     | Ventilateurs industriels |
-| **Station d’eau et irrigation** | Réservoir principal   | Station de pompage       | Purificateurs           | Système de distribution |
-| **Centre médical**              | Salle d’urgence       | Laboratoire d’analyses   | Pharmacie centrale      | Salle d’opérations    |
-| **Logements résidentiels**      | Dortoirs              | Salle de loisirs         | Cuisine commune         | Centre de maintenance résidentiel |
-| **Gestion des déchets**         | Incinérateur          | Zone de tri              | Bassins de traitement   | Convoyeurs de déchets |
-| **Serre agricole**              | Salle de culture      | Zone de conditionnement  | Réservoirs nutritifs    | Contrôle climatique   |
-| **Systèmes de communication**   | Centre de relais      | Serveurs de communication | Antennes principales    | Poste de maintenance  |
-| **Infrastructure de sécurité**  | Poste de garde        | Dépôt d’armement         | Salle de surveillance   | Salle d’équipement    |
-| **Éclairage et chauffage**      | Poste de régulation   | Réservoir de carburant   | Chauffage central       | Générateurs d’éclairage |
-| **Centre de maintenance**       | Atelier mécanique     | Zone d’outillage lourd   | Pièce de stockage       | Centre de diagnostic  |
-| **Abri d’urgence**              | Zone de stockage      | Poste médical            | Générateur autonome     | Salle d’accueil       |
-| **Système de défense**          | Salle des tourelles   | Poste de contrôle radar  | Arsenal                 | Salle de commande tactique |
-| **Transport spatial**           | Hangar principal      | Salle des propulseurs    | Centre de contrôle      | Zone de chargement    |
+| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                   | PIÈCE 3                 | PIÈCE 4                           |
+|---------------------------------|-----------------------|---------------------------|-------------------------|-----------------------------------|
+| **Centre de commandement**      | Salle de contrôle     | Bureau des opérations     | Centre de communication | Serveurs centraux                 |
+| **Infrastructure énergétique**  | Réacteur principal    | Salle de contrôle de flux | Unité de sauvegarde     | Générateurs auxiliaires           |
+| **Système de filtration d’air** | Chambre de filtration | Contrôle des conduits     | Réservoir d’oxygène     | Ventilateurs industriels          |
+| **Station d’eau et irrigation** | Réservoir principal   | Station de pompage        | Purificateurs           | Système de distribution           |
+| **Centre médical**              | Salle d’urgence       | Laboratoire d’analyses    | Pharmacie centrale      | Salle d’opérations                |
+| **Logements résidentiels**      | Dortoirs              | Salle de loisirs          | Cuisine commune         | Centre de maintenance résidentiel |
+| **Gestion des déchets**         | Incinérateur          | Zone de tri               | Bassins de traitement   | Convoyeurs de déchets             |
+| **Serre agricole**              | Salle de culture      | Zone de conditionnement   | Réservoirs nutritifs    | Contrôle climatique               |
+| **Systèmes de communication**   | Centre de relais      | Serveurs de communication | Antennes principales    | Poste de maintenance              |
+| **Infrastructure de sécurité**  | Poste de garde        | Dépôt d’armement          | Salle de surveillance   | Salle d’équipement                |
+| **Éclairage et chauffage**      | Poste de régulation   | Réservoir de carburant    | Chauffage central       | Générateurs d’éclairage           |
+| **Centre de maintenance**       | Atelier mécanique     | Zone d’outillage lourd    | Pièce de stockage       | Centre de diagnostic              |
+| **Abri d’urgence**              | Zone de stockage      | Poste médical             | Générateur autonome     | Salle d’accueil                   |
+| **Système de défense**          | Salle des tourelles   | Poste de contrôle radar   | Arsenal                 | Salle de commande tactique        |
+| **Transport spatial**           | Hangar principal      | Salle des propulseurs     | Centre de contrôle      | Zone de chargement                |
 
-| INFRASTRUCTURE                  | PIÈCE                    | DESCRIPTION                                                                 |
-|---------------------------------|--------------------------|-----------------------------------------------------------------------------|
-| **Centre de commandement**      | Salle de contrôle         | Pièce principale pour coordonner les opérations et surveiller les systèmes. |
-|                                 | Bureau des opérations     | Bureau dédié à la planification et à la gestion stratégique.                |
-|                                 | Centre de communication   | Gère les communications internes et externes de la colonie.                 |
-|                                 | Serveurs centraux         | Contient les serveurs pour le traitement des données critiques.             |
-| **Infrastructure énergétique**  | Réacteur principal        | Génère l’énergie principale de la colonie.                                  |
-|                                 | Salle de contrôle de flux | Supervise et ajuste la distribution de l'énergie.                           |
-|                                 | Unité de sauvegarde       | Système de secours pour les coupures d’énergie.                             |
-|                                 | Générateurs auxiliaires   | Fournissent de l’énergie en cas de surcharge ou de panne.                   |
-| **Système de filtration d’air** | Chambre de filtration     | Contient les filtres pour purifier l’air de la colonie.                     |
-|                                 | Contrôle des conduits     | Supervise la circulation de l’air à travers la colonie.                     |
-|                                 | Réservoir d’oxygène       | Stocke l’oxygène purifié pour les besoins de la colonie.                    |
-|                                 | Ventilateurs industriels  | Puissants ventilateurs pour maintenir un flux d’air constant.               |
-| **Station d’eau et irrigation** | Réservoir principal       | Stocke l’eau nécessaire à la colonie.                                       |
-|                                 | Station de pompage        | Gère le pompage de l’eau dans les systèmes de distribution.                 |
-|                                 | Purificateurs             | Épurent l’eau pour la rendre potable ou utilisable.                         |
-|                                 | Système de distribution   | Réseau de canalisations pour acheminer l’eau dans toute la colonie.         |
-| **Centre médical**              | Salle d’urgence           | Zone pour traiter rapidement les blessures et les maladies graves.          |
-|                                 | Laboratoire d’analyses    | Effectue des analyses biologiques et chimiques pour le diagnostic.          |
-|                                 | Pharmacie centrale        | Stocke et distribue les médicaments essentiels.                             |
-|                                 | Salle d’opérations        | Équipée pour les interventions chirurgicales complexes.                     |
-| **Logements résidentiels**      | Dortoirs                 | Chambres partagées pour loger les colons.                                    |
-|                                 | Salle de loisirs          | Espace pour se détendre et socialiser.                                      |
-|                                 | Cuisine commune           | Zone pour préparer et partager les repas.                                   |
-|                                 | Centre de maintenance résidentiel | Effectue les réparations et l’entretien des logements.              |
-| **Gestion des déchets**         | Incinérateur             | Élimine les déchets non recyclables.                                        |
-|                                 | Zone de tri              | Tri des déchets pour le recyclage ou l’élimination.                         |
-|                                 | Bassins de traitement    | Traite les déchets liquides ou chimiques.                                   |
-|                                 | Convoyeurs de déchets    | Transportent les déchets vers les zones de traitement.                      |
-| **Serre agricole**              | Salle de culture         | Contient les plantes cultivées pour la nourriture.                          |
-|                                 | Zone de conditionnement  | Prépare les récoltes pour la distribution ou le stockage.                   |
-|                                 | Réservoirs nutritifs     | Fournissent l’eau et les nutriments aux cultures.                           |
-|                                 | Contrôle climatique      | Régule température, humidité et lumière dans la serre.                      |
-| **Systèmes de communication**   | Centre de relais         | Hub pour transmettre et recevoir les signaux.                               |
-|                                 | Serveurs de communication | Gère les données et la connectivité des systèmes.                          |
-|                                 | Antennes principales     | Permettent la communication longue distance.                                |
-|                                 | Poste de maintenance     | Zone pour réparer et entretenir l’équipement de communication.              |
-| **Infrastructure de sécurité**  | Poste de garde           | Point central pour surveiller et déployer la sécurité.                      |
-|                                 | Dépôt d’armement         | Stocke les armes et équipements de défense.                                 |
-|                                 | Salle de surveillance    | Contient les moniteurs pour surveiller la colonie.                          |
-|                                 | Salle d’équipement       | Stocke les armures et outils pour les agents de sécurité.                   |
-| **Éclairage et chauffage**      | Poste de régulation      | Contrôle central pour ajuster éclairage et température.                     |
-|                                 | Réservoir de carburant   | Stocke le carburant nécessaire au chauffage.                                |
-|                                 | Chauffage central        | Fournit de la chaleur à l’ensemble de la colonie.                           |
-|                                 | Générateurs d’éclairage  | Fournissent une lumière constante dans les zones vitales.                   |
-| **Centre de maintenance**       | Atelier mécanique        | Équipe les techniciens pour la réparation des machines.                     |
-|                                 | Zone d’outillage lourd   | Contient les outils pour entretenir les équipements lourds.                 |
-|                                 | Pièce de stockage        | Stocke les pièces de rechange et matériaux de réparation.                   |
-|                                 | Centre de diagnostic     | Permet d’évaluer les pannes et les besoins de réparation.                   |
-| **Abri d’urgence**              | Zone de stockage         | Contient des provisions pour les situations d’urgence.                      |
-|                                 | Poste médical            | Espace pour soigner rapidement les blessés en cas de catastrophe.           |
-|                                 | Générateur autonome      | Assure une alimentation énergétique indépendante.                           |
-|                                 | Salle d’accueil          | Refuge pour les colons pendant les urgences.                                |
-| **Système de défense**          | Salle des tourelles      | Contrôle et entretien des tourelles automatiques.                           |
-|                                 | Poste de contrôle radar  | Supervise la détection des menaces extérieures.                             |
-|                                 | Arsenal                 | Contient les munitions et équipements de défense.                            |
-|                                 | Salle de commande tactique | Coordonne les stratégies de défense.                                      |
-| **Transport spatial**           | Hangar principal         | Stocke et prépare les vaisseaux pour le transport.                          |
-|                                 | Salle des propulseurs    | Zone pour entretenir les systèmes de propulsion.                            |
-|                                 | Centre de contrôle       | Supervise les départs et arrivées des vaisseaux.                            |
-|                                 | Zone de chargement       | Stocke et prépare les cargaisons pour les expéditions.                      |
+| INFRASTRUCTURE                  | PIÈCE                             | DESCRIPTION                                                                 |
+|---------------------------------|-----------------------------------|-----------------------------------------------------------------------------|
+| **Centre de commandement**      | Salle de contrôle                 | Pièce principale pour coordonner les opérations et surveiller les systèmes. |
+|                                 | Bureau des opérations             | Bureau dédié à la planification et à la gestion stratégique.                |
+|                                 | Centre de communication           | Gère les communications internes et externes de la colonie.                 |
+|                                 | Serveurs centraux                 | Contient les serveurs pour le traitement des données critiques.             |
+| **Infrastructure énergétique**  | Réacteur principal                | Génère l’énergie principale de la colonie.                                  |
+|                                 | Salle de contrôle de flux         | Supervise et ajuste la distribution de l'énergie.                           |
+|                                 | Unité de sauvegarde               | Système de secours pour les coupures d’énergie.                             |
+|                                 | Générateurs auxiliaires           | Fournissent de l’énergie en cas de surcharge ou de panne.                   |
+| **Système de filtration d’air** | Chambre de filtration             | Contient les filtres pour purifier l’air de la colonie.                     |
+|                                 | Contrôle des conduits             | Supervise la circulation de l’air à travers la colonie.                     |
+|                                 | Réservoir d’oxygène               | Stocke l’oxygène purifié pour les besoins de la colonie.                    |
+|                                 | Ventilateurs industriels          | Puissants ventilateurs pour maintenir un flux d’air constant.               |
+| **Station d’eau et irrigation** | Réservoir principal               | Stocke l’eau nécessaire à la colonie.                                       |
+|                                 | Station de pompage                | Gère le pompage de l’eau dans les systèmes de distribution.                 |
+|                                 | Purificateurs                     | Épurent l’eau pour la rendre potable ou utilisable.                         |
+|                                 | Système de distribution           | Réseau de canalisations pour acheminer l’eau dans toute la colonie.         |
+| **Centre médical**              | Salle d’urgence                   | Zone pour traiter rapidement les blessures et les maladies graves.          |
+|                                 | Laboratoire d’analyses            | Effectue des analyses biologiques et chimiques pour le diagnostic.          |
+|                                 | Pharmacie centrale                | Stocke et distribue les médicaments essentiels.                             |
+|                                 | Salle d’opérations                | Équipée pour les interventions chirurgicales complexes.                     |
+| **Logements résidentiels**      | Dortoirs                          | Chambres partagées pour loger les colons.                                   |
+|                                 | Salle de loisirs                  | Espace pour se détendre et socialiser.                                      |
+|                                 | Cuisine commune                   | Zone pour préparer et partager les repas.                                   |
+|                                 | Centre de maintenance résidentiel | Effectue les réparations et l’entretien des logements.                      |
+| **Gestion des déchets**         | Incinérateur                      | Élimine les déchets non recyclables.                                        |
+|                                 | Zone de tri                       | Tri des déchets pour le recyclage ou l’élimination.                         |
+|                                 | Bassins de traitement             | Traite les déchets liquides ou chimiques.                                   |
+|                                 | Convoyeurs de déchets             | Transportent les déchets vers les zones de traitement.                      |
+| **Serre agricole**              | Salle de culture                  | Contient les plantes cultivées pour la nourriture.                          |
+|                                 | Zone de conditionnement           | Prépare les récoltes pour la distribution ou le stockage.                   |
+|                                 | Réservoirs nutritifs              | Fournissent l’eau et les nutriments aux cultures.                           |
+|                                 | Contrôle climatique               | Régule température, humidité et lumière dans la serre.                      |
+| **Systèmes de communication**   | Centre de relais                  | Hub pour transmettre et recevoir les signaux.                               |
+|                                 | Serveurs de communication         | Gère les données et la connectivité des systèmes.                           |
+|                                 | Antennes principales              | Permettent la communication longue distance.                                |
+|                                 | Poste de maintenance              | Zone pour réparer et entretenir l’équipement de communication.              |
+| **Infrastructure de sécurité**  | Poste de garde                    | Point central pour surveiller et déployer la sécurité.                      |
+|                                 | Dépôt d’armement                  | Stocke les armes et équipements de défense.                                 |
+|                                 | Salle de surveillance             | Contient les moniteurs pour surveiller la colonie.                          |
+|                                 | Salle d’équipement                | Stocke les armures et outils pour les agents de sécurité.                   |
+| **Éclairage et chauffage**      | Poste de régulation               | Contrôle central pour ajuster éclairage et température.                     |
+|                                 | Réservoir de carburant            | Stocke le carburant nécessaire au chauffage.                                |
+|                                 | Chauffage central                 | Fournit de la chaleur à l’ensemble de la colonie.                           |
+|                                 | Générateurs d’éclairage           | Fournissent une lumière constante dans les zones vitales.                   |
+| **Centre de maintenance**       | Atelier mécanique                 | Équipe les techniciens pour la réparation des machines.                     |
+|                                 | Zone d’outillage lourd            | Contient les outils pour entretenir les équipements lourds.                 |
+|                                 | Pièce de stockage                 | Stocke les pièces de rechange et matériaux de réparation.                   |
+|                                 | Centre de diagnostic              | Permet d’évaluer les pannes et les besoins de réparation.                   |
+| **Abri d’urgence**              | Zone de stockage                  | Contient des provisions pour les situations d’urgence.                      |
+|                                 | Poste médical                     | Espace pour soigner rapidement les blessés en cas de catastrophe.           |
+|                                 | Générateur autonome               | Assure une alimentation énergétique indépendante.                           |
+|                                 | Salle d’accueil                   | Refuge pour les colons pendant les urgences.                                |
+| **Système de défense**          | Salle des tourelles               | Contrôle et entretien des tourelles automatiques.                           |
+|                                 | Poste de contrôle radar           | Supervise la détection des menaces extérieures.                             |
+|                                 | Arsenal                           | Contient les munitions et équipements de défense.                           |
+|                                 | Salle de commande tactique        | Coordonne les stratégies de défense.                                        |
+| **Transport spatial**           | Hangar principal                  | Stocke et prépare les vaisseaux pour le transport.                          |
+|                                 | Salle des propulseurs             | Zone pour entretenir les systèmes de propulsion.                            |
+|                                 | Centre de contrôle                | Supervise les départs et arrivées des vaisseaux.                            |
+|                                 | Zone de chargement                | Stocke et prépare les cargaisons pour les expéditions.                      |
 
 
 
@@ -898,26 +898,26 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 
 **Infrastructures de support recommandées à l'installation**
 
-| INFRASTRUCTURE                     | DESCRIPTION                                                                                                 | PERSONNEL NÉCESSAIRE                                 | COMPÉTENCES DIAGNOSTIC           | COMPÉTENCES RÉPARATION              | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                  |
-|------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------|-------------------------------------|-----------------------|----------------------------------------|
-| **Infrastructure d’Hypersommeil** | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
-| **Unité de Stockage d’Embryons**  | Stocke et conserve des embryons humains pour le développement démographique à long terme.                  | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
+| INFRASTRUCTURE                     | DESCRIPTION                                                                                                 | PERSONNEL NÉCESSAIRE                                               | COMPÉTENCES DIAGNOSTIC                                  | COMPÉTENCES RÉPARATION                                    | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                     |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------|------------------------------------------|
+| **Infrastructure d’Hypersommeil**  | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil    | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
+| **Unité de Stockage d’Embryons**   | Stocke et conserve des embryons humains pour le développement démographique à long terme.                   | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
 
-| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                  | PIÈCE 3                 | PIÈCE 4               |
-|---------------------------------|-----------------------|--------------------------|-------------------------|-----------------------|
-| **Infrastructure d’Hypersommeil** | Salle des modules     | Zone de contrôle thermique | Laboratoire biomédical  | Stockage cryogénique  |
-| **Unité de Stockage d’Embryons** | Congélateurs          | Salle de surveillance    | Chambre de transfert    | Systèmes de régulation |
+| INFRASTRUCTURE                     | PIÈCE 1               | PIÈCE 2                    | PIÈCE 3                 | PIÈCE 4                      |
+|------------------------------------|-----------------------|----------------------------|-------------------------|------------------------------|
+| **Infrastructure d’Hypersommeil**  | Salle des modules     | Zone de contrôle thermique | Laboratoire biomédical  | Stockage cryogénique         |
+| **Unité de Stockage d’Embryons**   | Congélateurs          | Salle de surveillance      | Chambre de transfert    | Systèmes de régulation       |
 
-| INFRASTRUCTURE                    | PIÈCE                      | DESCRIPTION                                                                 |
-|-----------------------------------|----------------------------|-----------------------------------------------------------------------------|
-| **Infrastructure d’Hypersommeil** | Salle des modules          | Contient les pods d’hypersommeil des colons.                                |
-|                                   | Zone de contrôle thermique | Régule la température des modules d’hypersommeil.                           |
-|                                   | Laboratoire biomédical     | Surveille les signes vitaux des colons endormis.                            |
-|                                   | Stockage cryogénique       | Stocke les équipements nécessaires au maintien du sommeil cryogénique.      |
-| **Unité de Stockage d’Embryons**  | Congélateurs               | Conservent les embryons à basse température.                                |
-|                                   | Salle de surveillance      | Contrôle et surveille l’état des embryons stockés.                          |
-|                                   | Chambre de transfert       | Gère le déplacement et la manipulation des embryons.                        |
-|                                   | Systèmes de régulation     | Maintiennent les conditions optimales pour la conservation des embryons.    |
+| INFRASTRUCTURE                    | PIÈCE                      | DESCRIPTION                                                                     |
+|-----------------------------------|----------------------------|---------------------------------------------------------------------------------|
+| **Infrastructure d’Hypersommeil** | Salle des modules          | Contient les pods d’hypersommeil des colons.                                    |
+|                                   | Zone de contrôle thermique | Régule la température des modules d’hypersommeil.                               |
+|                                   | Laboratoire biomédical     | Surveille les signes vitaux des colons endormis.                                |
+|                                   | Stockage cryogénique       | Stocke les équipements nécessaires au maintien du sommeil cryogénique.          |
+| **Unité de Stockage d’Embryons**  | Congélateurs               | Conservent les embryons à basse température.                                    |
+|                                   | Salle de surveillance      | Contrôle et surveille l’état des embryons stockés.                              |
+|                                   | Chambre de transfert       | Gère le déplacement et la manipulation des embryons.                            |
+|                                   | Systèmes de régulation     | Maintiennent les conditions optimales pour la conservation des embryons.        |
 
 **Description des incidents**
 
@@ -1007,20 +1007,20 @@ Les points d'influence mesurent la portée sociale et politique du personnage ou
 Dans un univers comme celui d'Alien, où les relations sont souvent utilitaires, maintenir un bon contact exige des efforts. Une fois par mission, vous pouvez décrire un service rendu à un contact. Cela peut être de la livraison de matériel, un transfert de données sensibles ou une mission connexe.
 Entretenir un contact permet de gagner 1 à 3 PI supplémentaires selon le niveau de risque ou d'investissement :
 
-| Gain | Service rendu |
-|------|-----------------------------------------------------|
-| 1 PI : Service mineur ou sans grand risque. |
-| 2 PI : Sacrifices notables ou coût élevé pour le personnage. |
-| 3 PI : Mise en danger directe ou action critique. |
+| Gain | Service rendu                                         |
+|------|-------------------------------------------------------|
+| 1 PI | Service mineur ou sans grand risque.                  |
+| 2 PI | Sacrifices notables ou coût élevé pour le personnage. |
+| 3 PI | Mise en danger directe ou action critique.            |
 
 **Résultat de l'entretien**
-| Résultat |	Effet |
-|------|-----------------------------------------------------|
-| 2	Le contact demande un service important avant de rendre l’aide promise. |
-| 3	Le contact exige une future compensation en plus de l'aide fournie. |
-| 4	Le contact demande une rémunération importante (X unités de crédits ou ressources). |
-| 5	Le contact accepte, mais s'engage dans une action personnelle qui pourrait créer des problèmes. |
-| 6	Le contact se montre particulièrement motivé et offre un avantage supplémentaire (nouveau contact ou ressources). |
+| Résultat |	Effet                                                                                                             |
+|----------|-------------------------------------------------------------------------------------------------------------------|
+| 2        | Le contact demande un service important avant de rendre l’aide promise.                                           |
+| 3        | Le contact exige une future compensation en plus de l'aide fournie.                                               |
+| 4        | Le contact demande une rémunération importante (X unités de crédits ou ressources).                               |
+| 5        | Le contact accepte, mais s'engage dans une action personnelle qui pourrait créer des problèmes.                   |
+| 6        | Le contact se montre particulièrement motivé et offre un avantage supplémentaire (nouveau contact ou ressources). |
 
 **Contrecoup**
 Solliciter un contact dans un univers paranoïaque et hostile comme celui d’Alien peut entraîner des complications imprévues.
@@ -1028,11 +1028,11 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 
 **Table de Contrecoups**
 
-| Résultat |	Effet |
-|------|-----------------------------------------------------|
-| 1-2	| Le contact se sent exploité et devient indisponible pendant un temps. |
-| 3-4	| Une tierce partie découvre la transaction et agit contre le personnage ou le contact. |
-| 5-6	| L’appel au contact attire l’attention d’une entité hostile (corporation rivale, xénomorphe, etc.). |
+| Résultat |	Effet                                                                                              |
+|----------|----------------------------------------------------------------------------------------------------|
+| 1-2	     | Le contact se sent exploité et devient indisponible pendant un temps.                              |
+| 3-4	     | Une tierce partie découvre la transaction et agit contre le personnage ou le contact.              |
+| 5-6	     | L’appel au contact attire l’attention d’une entité hostile (corporation rivale, xénomorphe, etc.). |
 
 **Table des contacts**
 | CONTACT                       | RÔLE                                 | EFFET POSSIBLE                                                                                   | COÛT EN PI | RISQUE DE CONTRECOUP  |
@@ -1084,41 +1084,39 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 
 **Description des risques de contrecoup**
 
-| RISQUE  | DESCRIPTION | MODIFICATEUR SUR LA TABLE DES CONTRECOUPS |
-|---------|-------------|-------------------------------------------|
-| Faible | Peu de chances qu’un événement imprévu se produise. |
-| Moyen | Le contre-coup peut entraîner des problèmes modérés (délais, complications). |
-| Élevé | Le risque de contre-coup est important (attention hostile, perte de contact). |
-| Très élevé | Le contact pourrait se retourner contre le groupe ou provoquer une crise. |
+| RISQUE     | DESCRIPTION                                                                   | MODIFICATEUR SUR LA TABLE DES CONTRECOUPS |
+|------------|-------------------------------------------------------------------------------|-------------------------------------------|
+| Faible     | Peu de chances qu’un événement imprévu se produise.                           | +0                                        |
+| Moyen      | Le contre-coup peut entraîner des problèmes modérés (délais, complications).  | +1                                        |
+| Élevé      | Le risque de contre-coup est important (attention hostile, perte de contact). | +2                                        |
+| Très élevé | Le contact pourrait se retourner contre le groupe ou provoquer une crise.     | +3                                        |
 
 ## Implants Cybernétiques
 
-| IMPLANT                     | DESCRIPTION                                                                                           | BONUS / EFFETS                                                | COMPÉTENCE / ATTRIBUT LIÉ     | COÛT EN $ |
-|-----------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------|-----------------|
-| **Amplificateur vocal**     | Permet de parler extrêmement fort, comme avec un mégaphone.                                           | +2 Manipulation ou Intimidation.                              | Manipulation (EMPATHIE)       | 2 000           |
-| **Banques de données**      | Stockage neuronal intégré pour vidéo, audio ou fichiers.                                              | +2 à l'utilisation de technologies complexes.                 | Comtech (ESPRIT)              | 7 000           |
-| **Bras mécanique**          | Bras puissant en métal et composites.                                                                 | +2 Combat rapproché et +2 pour manipuler des objets lourds.   | Combat rapproché (FORCE) / Machines lourdes (FORCE) | 5 000 |
-| **Communicateur**           | Implant de communication radio intégré.                                                               | Communication longue portée intégrée.                         | Aucun                        | 2 000           |
-| **Crâne renforcé**          | Mélange de métal et céramique pour protéger la tête.                                                  | Protection +3 contre attaques ciblant la tête.                | Endurance (FORCE)             | 2 000           |
-| **Détecteur de mensonges**  | Capteurs pour analyser le rythme cardiaque et la respiration.                                         | +2 Observation pour repérer les émotions ou mensonges.        | Observation (ESPRIT)          | 4 000           |
-| **Inhibiteurs de douleur**  | Glandes synthétiques réduisant la douleur et l'épuisement.                                            | Ignore les malus dus aux blessures ou fatigue.                | Endurance (FORCE)             | 6 000           |
-| **Interface**               | Connecteurs neuronaux pour se lier directement à des systèmes informatiques.                          | +2 Comtech pour piratage ou interface directe.                | Comtech (ESPRIT)              | 5 000           |
-| **Jambes mécaniques**       | Prothèses puissantes remplaçant les jambes humaines.                                                  | +2 Mobilité et +2 Force pour des sauts ou courses prolongées. | Mobilité (AGILITÉ)            | 6 000           |
-| **Poigne électrique**       | Main équipée d'électrodes pour neutraliser les cibles.                                                | +2 Combat rapproché, 2 dégâts et possibilité de paralysie.    | Combat rapproché (FORCE)      | 4 000           |
-| **Filtre respiratoire**     | Barrières chimiques intégrées pour détecter et éliminer les agents pathogènes.                        | Immunité contre les infections graves.                        | Soins médicaux (EMPATHIE)     | 6 000           |
-| **Réservoir d'air**         | Réservoir interne pour respirer sans équipement externe.                                              | Respiration autonome (15 min) et +2 Mobilité sous l'eau.      | Mobilité (AGILITÉ)            | 3 000           |
-| **Support d’arme**          | Monture intégrée pour un pistolet ou une arme similaire.                                              | Dégainage instantané et +1 précision au tir.                  | Combat à distance (AGILITÉ)   | 3 000           |
-| **Surregime**               | Augmentation musculaire et nerveuse pour des exploits de vitesse.                                     | +2 Mobilité et +1D6 Initiative lors d'actions rapides.        | Mobilité (AGILITÉ)            | 7 000           |
-| **Tripes blindées**         | Renforcement des organes internes pour survivre à des blessures graves.                               | Réduit les dégâts internes de 2.                              | Endurance (FORCE)             | 3 000           |
-| **Viseur intégré**          | Viseur optique installé dans l’œil pour améliorer la précision.                                       | +2 Combat à distance, annule malus de faible lumière.         | Combat à distance (AGILITÉ)   | 7 000           |
-| **Vision thermique**        | Détecte la chaleur et permet de repérer des cibles dans l’obscurité totale.                           | +2 Observation dans les zones sombres.                        | Observation (ESPRIT)          | 4 000           |
+| IMPLANT                     | DESCRIPTION                                                                                           | BONUS / EFFETS                                                | COMPÉTENCE / ATTRIBUT LIÉ                           | COÛT EN $       |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------|-----------------|
+| **Amplificateur vocal**     | Permet de parler extrêmement fort, comme avec un mégaphone.                                           | +2 Manipulation ou Intimidation.                              | Manipulation (EMPATHIE)                             | 2 000           |
+| **Banques de données**      | Stockage neuronal intégré pour vidéo, audio ou fichiers.                                              | +2 à l'utilisation de technologies complexes.                 | Comtech (ESPRIT)                                    | 7 000           |
+| **Bras mécanique**          | Bras puissant en métal et composites.                                                                 | +2 Combat rapproché et +2 pour manipuler des objets lourds.   | Combat rapproché (FORCE) / Machines lourdes (FORCE) | 5 000           |
+| **Communicateur**           | Implant de communication radio intégré.                                                               | Communication longue portée intégrée.                         | Aucun                                               | 2 000           |
+| **Crâne renforcé**          | Mélange de métal et céramique pour protéger la tête.                                                  | Protection +3 contre attaques ciblant la tête.                | Endurance (FORCE)                                   | 2 000           |
+| **Détecteur de mensonges**  | Capteurs pour analyser le rythme cardiaque et la respiration.                                         | +2 Observation pour repérer les émotions ou mensonges.        | Observation (ESPRIT)                                | 4 000           |
+| **Inhibiteurs de douleur**  | Glandes synthétiques réduisant la douleur et l'épuisement.                                            | Ignore les malus dus aux blessures ou fatigue.                | Endurance (FORCE)                                   | 6 000           |
+| **Interface**               | Connecteurs neuronaux pour se lier directement à des systèmes informatiques.                          | +2 Comtech pour piratage ou interface directe.                | Comtech (ESPRIT)                                    | 5 000           |
+| **Jambes mécaniques**       | Prothèses puissantes remplaçant les jambes humaines.                                                  | +2 Mobilité et +2 Force pour des sauts ou courses prolongées. | Mobilité (AGILITÉ)                                  | 6 000           |
+| **Poigne électrique**       | Main équipée d'électrodes pour neutraliser les cibles.                                                | +2 Combat rapproché, 2 dégâts et possibilité de paralysie.    | Combat rapproché (FORCE)                            | 4 000           |
+| **Filtre respiratoire**     | Barrières chimiques intégrées pour détecter et éliminer les agents pathogènes.                        | Immunité contre les infections graves.                        | Soins médicaux (EMPATHIE)                           | 6 000           |
+| **Réservoir d'air**         | Réservoir interne pour respirer sans équipement externe.                                              | Respiration autonome (15 min) et +2 Mobilité sous l'eau.      | Mobilité (AGILITÉ)                                  | 3 000           |
+| **Support d’arme**          | Monture intégrée pour un pistolet ou une arme similaire.                                              | Dégainage instantané et +1 précision au tir.                  | Combat à distance (AGILITÉ)                         | 3 000           |
+| **Surregime**               | Augmentation musculaire et nerveuse pour des exploits de vitesse.                                     | +2 Mobilité et +1D6 Initiative lors d'actions rapides.        | Mobilité (AGILITÉ)                                  | 7 000           |
+| **Tripes blindées**         | Renforcement des organes internes pour survivre à des blessures graves.                               | Réduit les dégâts internes de 2.                              | Endurance (FORCE)                                   | 3 000           |
+| **Viseur intégré**          | Viseur optique installé dans l’œil pour améliorer la précision.                                       | +2 Combat à distance, annule malus de faible lumière.         | Combat à distance (AGILITÉ)                         | 7 000           |
+| **Vision thermique**        | Détecte la chaleur et permet de repérer des cibles dans l’obscurité totale.                           | +2 Observation dans les zones sombres.                        | Observation (ESPRIT)                                | 4 000           |
 
 ## Règles Spéciales
 
-1. **Risque d'Interférence** : Les implants technologiques peuvent être affectés par des interférences électromagnétiques ou un piratage. En cas de panne, lancer un test de **Comtech** pour résoudre le problème.
-2. **Stress et Implants Illégaux** : Les implants obtenus sur le marché noir ajoutent 1 point de **Stress** à chaque utilisation. En cas de panne, un échec critique peut entraîner des blessures internes ou une incapacité temporaire.
+1. **Risque d'interférence** : Les implants technologiques peuvent être affectés par des interférences électromagnétiques ou un piratage. En cas de panne, lancer un test de **Comtech** pour résoudre le problème.
+2. **Stress et implants illégaux** : Les implants obtenus sur le marché noir ajoutent 1 point de **Stress** à chaque utilisation. En cas de panne, un échec critique peut entraîner des blessures internes ou une incapacité temporaire.
 3. **Maintenance** : Tous les implants nécessitent un entretien régulier. Un implant mal entretenu peut infliger un malus de -1D aux tests associés jusqu'à réparation.
-
-
 
 ## PROMPTS
