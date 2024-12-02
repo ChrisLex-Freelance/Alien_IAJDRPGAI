@@ -1119,4 +1119,239 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 2. **Stress et implants illégaux** : Les implants obtenus sur le marché noir ajoutent 1 point de **Stress** à chaque utilisation. En cas de panne, un échec critique peut entraîner des blessures internes ou une incapacité temporaire.
 3. **Maintenance** : Tous les implants nécessitent un entretien régulier. Un implant mal entretenu peut infliger un malus de -1D aux tests associés jusqu'à réparation.
 
+#PNJ's
+
+| **Rôle**                         | **Force** | **Agilité** | **Esprit** | **Empathie** | **Santé** | **Compétences**                                                                      | **Équipement**                                                       | **Talent**                     |
+|----------------------------------|-----------|-------------|------------|--------------|-----------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------|
+| Adepte d'une secte               | 4         | 3           | 2          | 5            | 4         | Combat rapproché 3, Manipulation 3, Observation 2, Combat à distance 2               | Deux couteaux de chasse, 12 doses de drogues, revolver .357 magnum   | Esprit de contradiction        |
+| Androïde, cachant sa nature      | 8         | 8           | 3          | 1            | 8         | Combat rapproché 3, Combat à distance 2, Survie 1, Comtech 2, Machines lourdes 2     | -                                                                    | Prise de contrôle              |
+| Androïde, curieux                | 4         | 4           | 8          | 4            | 4         | Observation 3, Mobilité 2, Comtech 3, Endurance 2                                    | -                                                                    | Vigilant                       |
+| Androïde, rénové                 | 7         | 7           | 3          | 3            | 7         | Machines lourdes 2, Comtech 2, Observation 2, Pilotage 4                             | -                                                                    | Mécano de vaisseau             |
+| Assassin d'une grande compagnie  | 4         | 5           | 4          | 1            | 4         | Combat rapproché 3, Combat à distance 4, Observation 2, Mobilité 1                   | Fusil à lunette M42A, couteau de chasse, medikit portable, etc.      | Impitoyable                    |
+| Directeur des opérations         | 2         | 4           | 5          | 5            | 2         | Endurance 2, Comtech 1, Commandement 3, Manipulation 2, Survie 1, Machines lourdes 1 | -                                                                    | Conseiller                     |
+| Dirigeant d'entreprise           | 2         | 3           | 5          | 4            | 2         | Commandement 3, Manipulation 4, Observation 3                                        | Lampe stylo, pot-de-vin, enregistreur vocal                          | Prise de contrôle              |
+| Expert en récupération           | 5         | 4           | 3          | 2            | 5         | Machines lourdes 3, Mobilité 3, Endurance 2, Survie 2                                | Lampe torche solide, multi-outil, cric d'entretien                   | Mécano de vaisseau             |
+| Inspecteur de la CCI             | 3         | 3           | 5          | 3            | 3         | Observation 4, Comtech 2, Commandement 2, Manipulation 2                             | P-DAT Seegson, lampe torche, enregistreur vocal                      | Vigilant                       |
+| Marshal colonial                 | 4         | 4           | 4          | 2            | 4         | Mobilité 1, Observation 2, Soins médicaux 1, Combat rapproché 2, Combat à distance 3 | Couteau pliant, fusil à pompe, menottes, torche électrique           | Bons réflexes                  |
+| Médecin                          | 2         | 3           | 4          | 5            | 2         | Observation 3, Soins médicaux 4, Manipulation 3                                      | Médikit personnel, nécessaire chirurgical, lampe torche              | Chirurgien de terrain          |
+| Mercenaire/Soldat                | 5         | 4           | 3          | 2            | 5         | Combat rapproché 2, Endurance 2, Combat à distance 3, Mobilité 2, Survie 1           | Pistolet M4A3, médikit personnel, fusil à impulsion, grenades        | Tueur                          |
+| Pilote                           | 3         | 4           | 3          | 3            | 3         | Pilotage 3, Combat à distance 3, Comtech 2, Observation 1, Survie 1                  | Pistolet M4A3, jumelles, lampe torche, cartes de navigation          | Pleins gaz                     |
+| Prospecteur minier               | 5         | 4           | 3          | 3            | 5         | Endurance 2, Combat rapproché 1, Survie 3, Machines lourdes 3, Comtech 1             | Analyse géologique, équipement d’escalade, lampe torche              | Impitoyable                    |
+| Scientifique rebelle             | 3         | 4           | 5          | 2            | 3         | Observation 4, Survie 2, Comtech 3, Mobilité 1                                       | Analyse biologique, outils, enregistreur vocal, mallette             | Analyse                        |
+
+# ACCROCHES DE SCÉNARIO
+
+| **D100** | **Accroche**                                                                                                                       |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Les vols et divers chapardages forcent la sécurité à fouiller les chambres et les casiers.                                         |
+| 2        | Les sabotages se multiplient ; la sécurité soupçonne une campagne organisée.                                                       |
+| 3        | L’Administration Coloniale enquête sur la colonie pour pratiques illégales.                                                        |
+| 4        | Des colons retournent à la base et rapportent avoir vu un « monstre » à la surface.                                                |
+| 5        | Les délits, vols et sabotages sont monnaie courante.                                                                               |
+| 6        | Un dysfonctionnement de l’équipement force les colons à se rationner. Tout le monde a les nerfs à fleur de peau.                   |
+| 7        | Des vaisseaux récemment arrivés contenaient un parasite qui se répand bientôt dans toute la colonie.                               |
+| 8        | On vend ici des produits volés… pour une bouchée de pain !                                                                         |
+| 9        | À votre insu, un vieil ennemi/amant se trouve dans la colonie.                                                                     |
+| 10       | Un notable/dignitaire visite l’endroit en compagnie de plusieurs assistants ou gardes.                                             |
+| 11       | Une partie de la colonie est temporairement interdite d’accès… sans explication.                                                   |
+| 12       | La libre circulation est soudain restreinte dans la colonie, à moins que vous ne trouviez un moyen de contourner le problème.      |
+| 13       | Après une urgence, des pièces et des provisions vitales sont importées d’une colonie voisine.                                      |
+| 14       | Une crise locale est sur le point d’éclater (tempête, séisme, émeutes, incendie, etc.).                                            |
+| 15       | Période d’éruption solaire : les communications seront coupées pendant un Quart (ou 6 jours pour une étoile de type MV).           |
+| 16       | Des espions venus d’une colonie voisine ont été découverts et arrêtés.                                                             |
+| 17       | Le superviseur des opérations et son adjoint sont « en conflit » ; tout le monde choisit son camp.                                 |
+| 18       | Les PJ sont invités à un dîner, une réunion ou à une fête officielle.                                                              |
+| 19       | Les colons locaux ne sont pas ce qu’ils semblent être.                                                                             |
+| 20       | Un vaisseau militaire est en orbite et l’équipe envoyée à la surface recherche quelqu’un ou quelque chose.                         |
+| 21       | Une colonie ou compagnie rivale est sur le point de perpétrer un sabotage.                                                         |
+| 22       | Le spatiport est actuellement en quarantaine.                                                                                      |
+| 23       | Problème de sécurité à la colonie.                                                                                                 |
+| 24       | Une bande de mineurs d’astéroïdes en permission fait du grabuge.                                                                   |
+| 25       | Un mystérieux vaisseau arrive au spatiport.                                                                                        |
+| 26       | Des troubles civils sont sur le point d’éclater.                                                                                   |
+| 27       | Les colons sont piégés loin de la colonie et ont besoin d’aide.                                                                    |
+| 28       | Les autorités viennent de mettre la colonie en confinement après une émeute.                                                       |
+| 29       | Un leader religieux attise les mécontentements.                                                                                    |
+| 30       | Les PJ sont harcelés par les habitants du coin, hors d’eux. Pourquoi cette colère ? Et pourquoi la focaliser sur des étrangers ?   |
+| 31       | Une expédition se rassemble pour une exploration de la surface. Les PJ sont invités.                                               |
+| 32       | Un important fonctionnaire colonial est assassiné une heure seulement avant l’arrivée des PJ.                                      |
+| 33       | Une navette de sauvetage s’est écrasée sur la planète, avec à son bord un individu intéressant.                                    |
+| 34       | Une tempête de météorites menace la colonie ; tout le monde doit s’abriter.                                                        |
+| 35       | Une infection inconnue commence à se propager parmi les colons.                                                                    |
+| 36       | Les systèmes d’approvisionnement en eau tombent en panne.                                                                          |
+| 37       | Une faction rebelle dans la colonie prépare une insurrection.                                                                      |
+| 38       | Un enfant disparaît mystérieusement, provoquant la panique parmi les habitants.                                                    |
+| 39       | Un artefact extraterrestre est découvert, déclenchant la curiosité et les conflits.                                                |
+| 40       | Les drones de surveillance de la colonie cessent soudainement de fonctionner.                                                      |
+| 41       | Une mystérieuse balise de détresse est captée, mais son origine est incertaine.                                                    |
+| 42       | Les PJ découvrent des preuves d’un complot visant à renverser le chef de la colonie.                                               |
+| 43       | Des tensions éclatent entre différentes factions politiques de la colonie.                                                         |
+| 44       | Un météore s’écrase près de la colonie, libérant un gaz toxique.                                                                   |
+| 45       | Un groupe de colons disparaît lors d’une expédition.                                                                               |
+| 46       | Des équipements cruciaux sont volés, mettant en péril les systèmes de survie.                                                      |
+| 47       | Une équipe de secours ne revient pas d’une mission à la surface.                                                                   |
+| 48       | Une créature hostile réussit à pénétrer dans les murs de la colonie.                                                               |
+| 49       | Une ancienne archive contenant des secrets sur la colonie est découverte.                                                          |
+| 50       | Un incendie se déclare dans l’un des modules principaux de la colonie.                                                             |
+| 51       | Une société rivale tente de saboter les opérations de la colonie.                                                                  |
+| 52       | Une rumeur se répand sur une malédiction associée à un site local.                                                                 |
+| 53       | Un colon isolé affirme avoir vu des extraterrestres et provoque la panique.                                                        |
+| 54       | Les PJ trouvent un journal contenant des informations sur des expériences interdites.                                              |
+| 55       | Une crise énergétique met en péril le fonctionnement de la colonie.                                                                |
+| 56       | Une intelligence artificielle commence à se comporter de manière erratique.                                                        |
+| 57       | Des bruits étranges sont captés dans une zone censée être inhabitée.                                                               |
+| 58       | Une étrange maladie touche uniquement les humains, laissant les androïdes intacts.                                                 |
+| 59       | Un animal inconnu commence à ravager les cultures et les réserves alimentaires.                                                    |
+| 60       | Les réserves d’oxygène de la colonie sont endommagées ; la réparation devient urgente.                                             |
+| 61       | Une cargaison précieuse est volée ; les responsables la cachent dans un secteur difficile d’accès.                                 |
+| 62       | Une tempête électrique endommage gravement les boucliers énergétiques, exposant la colonie à des dangers.                          |
+| 63       | Une ancienne carte découverte dans les archives pointe vers une zone interdite de la planète.                                      |
+| 64       | Des colons rapportent avoir vu des lumières étranges dans le ciel nocturne, déclenchant des rumeurs d'une présence hostile.        |
+| 65       | Un androïde en panne commence à se souvenir de choses qu’il n’a jamais vécues, indiquant une potentielle expérience cachée passé.  |
+| 66       | Une équipe minière déclenche accidentellement une explosion, exposant un réseau souterrain inconnu.                                |
+| 67       | Une épidémie de cauchemars inexpliqués touche les colons, entraînant panique et violence.                                          |
+| 68       | Les PJ découvrent qu’un groupe de colons complote pour quitter la planète en volant un vaisseau de secours.                        |
+| 69       | Un générateur principal tombe en panne, menaçant de plonger toute la colonie dans l’obscurité et le froid.                         |
+| 70       | Un mystérieux vaisseau abandonné est découvert en orbite ; une expédition est organisée pour l’explorer.                           |
+| 71       | Une plante locale cultivée par les colons se révèle avoir des propriétés hallucinogènes dangereuses.                               |
+| 72       | Une attaque coordonnée de créatures locales menace les avant-postes extérieurs de la colonie.                                      |
+| 73       | Les restes fossilisés d’une espèce intelligente extraterrestre sont découverts près d’une mine.                                    |
+| 74       | Une anomalie gravitationnelle provoque des perturbations physiques et psychologiques dans un secteur de la colonie.                |
+| 75       | Un message crypté est reçu depuis une zone où personne n’est censé être encore en vie.                                             |
+| 76       | Une nouvelle drogue fait des ravages parmi les colons ; son origine est mystérieuse.                                               |
+| 77       | Un colon récemment arrivé commence à montrer des capacités inexplicables et surnaturelles.                                         |
+| 78       | Une colonie rivale envoie des espions pour voler des ressources ou des secrets technologiques.                                     |
+| 79       | Une étrange radiation détectée dans un secteur éloigné semble modifier le comportement des équipements électroniques.              |
+| 80       | Une intelligence artificielle commence à réactiver des machines interdites depuis longtemps.                                       |
+| 81       | Un groupe religieux prend de l’ampleur, provoquant des tensions avec les autorités coloniales.                                     |
+| 82       | Des colons commencent à entendre des voix mystérieuses, prétendant venir d’un ancien peuple.                                       |
+| 83       | Une catastrophe naturelle s’annonce, forçant la colonie à se préparer en urgence.                                                  |
+| 84       | Une expédition découvre une structure massive sous la surface, mais elle n’apparaît sur aucune carte.                              |
+| 85       | Un vaisseau transportant des prisonniers politiques s’écrase à proximité ; certains survivent et cherchent refuge dans la colonie. |
+| 86       | Les PJ sont embauchés pour escorter un scientifique dont les recherches pourraient bouleverser l’ordre établi dans la colonie.     |
+| 87       | Des créatures bioluminescentes sont repérées près de la colonie, attirant la curiosité scientifique.                               |
+| 88       | Un combat éclate entre deux factions rivales pour le contrôle d’un secteur stratégique de la colonie.                              |
+| 89       | Une ancienne balise d’urgence s’active soudainement, mais elle provient d’une zone inhabitée depuis des années.                    |
+| 90       | Une pluie de cendres volcaniques menace de recouvrir la colonie, bloquant les panneaux solaires et rendant l’air irrespirable.     |
+| 91       | Une révolte éclate parmi les travailleurs qui réclament de meilleures conditions de vie.                                           |
+| 92       | Les colons découvrent une grotte contenant des pictogrammes extraterrestres anciens.                                               |
+| 93       | Un colon affirme avoir trouvé un minerai aux propriétés extraordinaires, mais refuse de révéler sa localisation exacte.            |
+| 94       | Un androïde surchargé de tâches commence à montrer des signes d’émotions humaines inattendues.                                     |
+| 95       | Une épidémie de fièvre inexpliquée éclate parmi les enfants de la colonie.                                                         |
+| 96       | Un groupe de colons prévoit de saboter une centrale énergétique pour des raisons idéologiques.                                     |
+| 97       | Une vague de suicides secoue la colonie, et les causes en sont mystérieuses.                                                       |
+| 98       | Une tempête magnétique endommage gravement les appareils de communication et de navigation.                                        |
+| 99       | Une expédition découvre une ancienne structure souterraine contenant un environnement encore actif et inconnu.                     |
+| 100      | Une fissure dans une paroi rocheuse révèle une ancienne salle remplie de machines inconnues et toujours fonctionnelles.            |
+
+# COMPLICATIONS DE SCÉNARIO
+
+| **D50** | **Complication**                                                                                                                    |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Une cargaison importante disparaît mystérieusement dans un hangar sécurisé.                                                        |
+| 2        | Un groupe d’ouvriers refuse de travailler, exigeant une amélioration des conditions de vie.                                        |
+| 3        | Une explosion inexpliquée détruit une installation clé, perturbant les opérations de la colonie.                                   |
+| 4        | Une créature invasive commence à envahir les conduits d’aération, rendant certains secteurs inhabités.                             |
+| 5        | Une tempête géomagnétique provoque des coupures de courant et des pannes électroniques dans toute la colonie.                      |
+| 6        | Un sabotage interne endommage les systèmes de filtration d’air, menaçant la survie des colons.                                     |
+| 7        | Une panne du système de recyclage de l’eau force la colonie à rationner l’eau potable.                                             |
+| 8        | Un colon influent est accusé de collaborer avec une faction rivale.                                                                |
+| 9        | Les systèmes de navigation d’un vaisseau s’éteignent soudainement, laissant l’équipage à la dérive.                                |
+| 10       | Un androïde défectueux s’échappe et commence à saboter des installations critiques.                                                |
+| 11       | Des rumeurs de trahison parmi les colons entraînent des conflits internes.                                                         |
+| 12       | Une zone d’exploitation minière s’effondre, emprisonnant des travailleurs sous terre.                                              |
+| 13       | Une fuite toxique oblige l’évacuation immédiate d’un module résidentiel.                                                           |
+| 14       | Une station satellite cesse de répondre, perturbant les communications avec d’autres colonies.                                     |
+| 15       | Une menace locale (animale ou humaine) s’approche de la colonie et provoque l’alerte générale.                                     |
+| 16       | Une infection bactérienne provenant d’une plante locale se propage rapidement parmi les colons.                                    |
+| 17       | Une cargaison dangereuse est livrée par erreur à la colonie, mettant en péril ses habitants.                                       |
+| 18       | Une puissante tempête de sable isole la colonie, coupant les liaisons avec les avant-postes extérieurs.                            |
+| 19       | Une panne complète du système de transport empêche l’acheminement de ressources vitales.                                           |
+| 20       | Des voix non identifiées sont captées sur les fréquences de communication de la colonie.                                           |
+| 21       | Une alerte d’évacuation est lancée à la suite d’un risque d’explosion dans une centrale énergétique.                               |
+| 22       | Une erreur administrative provoque une pénurie imprévue de nourriture dans la colonie.                                             |
+| 23       | Un vaisseau étranger se pose sans autorisation près de la colonie et refuse de communiquer.                                        |
+| 24       | Une défaillance de la gravité artificielle provoque des accidents et des blessures parmi les colons.                               |
+| 25       | Une fissure dans un dôme de protection atmosphérique met en danger un secteur entier de la colonie.                                |
+| 26       | Une panne d’unité de traitement des déchets provoque une accumulation toxique dans les modules techniques.                         |
+| 27       | Une explosion accidentelle dans un laboratoire libère une substance inconnue dans l’atmosphère.                                    |
+| 28       | Un drone de reconnaissance ramène des données qui ne correspondent à aucune carte connue de la zone environnante.                  |
+| 29       | Une capsule de secours s’écrase près de la colonie, mais elle est vide à son arrivée.                                              |
+| 30       | Un incendie incontrôlé se déclare dans une serre agricole, détruisant une partie des cultures.                                     |
+| 31       | Un groupe de colons armés tente de s’emparer des réserves de la colonie.                                                           |
+| 32       | Un véhicule blindé tombe en panne en territoire hostile, laissant son équipage à la merci des dangers extérieurs.                  |
+| 33       | Une navette transportant des fournitures essentielles disparaît sans laisser de trace.                                             |
+| 34       | Une nouvelle espèce d’insectes envahit les quartiers d’habitation, provoquant des réactions allergiques graves.                    |
+| 35       | Un colon prétend avoir découvert un trésor caché, mais les autorités doutent de ses intentions.                                    |
+| 36       | Les modules médicaux de la colonie sont débordés à la suite d’un mystérieux empoisonnement de masse.                               |
+| 37       | Une ancienne structure découverte dans un canyon proche s’effondre, bloquant l’accès à une mine cruciale.                          |
+| 38       | Une sonde automatique revient avec des données inquiétantes sur des activités anormales sous la surface.                           |
+| 39       | Une grève générale éclate parmi les techniciens, paralysant les opérations quotidiennes.                                           |
+| 40       | Un nouveau chef de la sécurité impose des règles strictes qui provoquent des tensions parmi les colons.                            |
+| 41       | Une mission d’exploration est interrompue par une série de bruits inquiétants venant du sol.                                       |
+| 42       | Un animal domestique ramené par un colon montre des signes d’agressivité inhabituelle.                                             |
+| 43       | Une série de vols ciblant les équipements technologiques de pointe paralyse les activités de recherche.                            |
+| 44       | Une pluie acide détruit plusieurs installations extérieures non protégées.                                                         |
+| 45       | Une fuite d’information révèle des secrets embarrassants pour le conseil de la colonie.                                            |
+| 46       | Un groupe de colons demande à se séparer pour créer leur propre campement, provoquant un débat houleux.                            |
+| 47       | Un vaisseau d’approvisionnement transporte par erreur une cargaison d’armes illégales.                                             |
+| 48       | Un incident diplomatique éclate avec une colonie voisine sur des droits d’exploitation minière.                                    |
+| 49       | Une équipe d’exploration tombe malade après avoir consommé une plante locale non identifiée.                                       |
+| 50       | Les antennes de communication sont détruites par une chute de débris orbitaux, coupant tout contact avec l’extérieur.              |
+
+# RETOURNEMENTS DE SITUATION
+
+| **D50** | **Retournement de Situation**                                                                                                     |
+|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Un message de détresse d’un ancien vaisseau perdu dans le secteur est capté par les PJ.                                          |
+| 2        | Un colon clé disparaît mystérieusement juste avant une réunion cruciale.                                                         |
+| 3        | Une panne massive de courant plonge toute la colonie dans le noir, entraînant panique et désordre.                               |
+| 4        | Une équipe d’exploration retourne avec un membre en moins… mais personne ne semble s’en souvenir.                                |
+| 5        | Les communications extérieures sont coupées, laissant les PJ et la colonie totalement isolés.                                    |
+| 6        | Une faction rivale lance une attaque surprise pour prendre le contrôle des ressources locales.                                   |
+| 7        | Un système automatisé de défense se déclenche par erreur, ciblant les alliés comme des ennemis.                                  |
+| 8        | Une tempête solaire interfère avec tous les systèmes électroniques, provoquant des défaillances en série.                        |
+| 9        | Un traître parmi les colons sabote une mission cruciale.                                                                         |
+| 10       | Un androïde parmi l’équipe révèle qu’il a reçu des ordres secrets contrecarrant la mission.                                      |
+| 11       | Un vaisseau inconnu sort de l’hyperespace et refuse tout contact, flottant silencieusement près de la colonie.                   |
+| 12       | Une contamination biologique oblige à mettre toute la colonie en quarantaine immédiate.                                          |
+| 13       | Une explosion retentit dans une installation vitale, provoquant de nombreux blessés et coupant l’accès à une zone stratégique.   |
+| 14       | Une secte locale se soulève, accusant les PJ d’avoir offensé leurs croyances.                                                    |
+| 15       | Un phénomène climatique extrême force une évacuation d’urgence de certains secteurs de la colonie.                               |
+| 16       | Un des alliés des PJ change soudainement de camp pour des raisons obscures.                                                      |
+| 17       | Des signaux radio cryptés provenant de sous la surface de la planète sont détectés.                                              |
+| 18       | Une explosion volcanique inattendue menace de détruire une base ou une station clé.                                              |
+| 19       | Des preuves d’un ancien massacre sont découvertes, suggérant que les PJ ne sont pas les premiers colons sur cette planète.       |
+| 20       | Le chef de mission ou un haut gradé est assassiné, laissant les PJ en charge.                                                    |
+| 21       | Une ancienne machine découverte récemment s’active et modifie les conditions environnantes de façon drastique.                   |
+| 22       | Un membre clé de l’équipe tombe gravement malade sans remède apparent.                                                           |
+| 23       | Une faction au sein de la colonie tente de renverser le gouvernement ou les responsables actuels.                                |
+| 24       | Une guerre éclate entre deux groupes locaux, piégeant les PJ au milieu.                                                          |
+| 25       | Une attaque de drones ennemis non identifiés endommage sévèrement les infrastructures essentielles.                              |
+| 26       | Un contact extérieur révèle qu’un espion se trouve parmi les colons ou les membres de l’équipe.                                  |
+| 27       | Une ressource vitale est contaminée, obligeant la colonie à puiser dans ses réserves de secours.                                 |
+| 28       | Une découverte archéologique provoque la colère des autochtones ou libère un danger dormant.                                     |
+| 29       | Une faille géologique provoque un effondrement massif, coupant des routes d’approvisionnement ou emprisonnant des colons.        |
+| 30       | Un phénomène lumineux inexpliqué dans le ciel provoque la panique et des comportements irrationnels chez les colons.             |
+| 31       | Un colon ou un membre de l’équipe se révèle être un agent dormant d’une faction ennemie.                                         |
+| 32       | Une ruée vers une ressource précieuse récemment découverte provoque des tensions et des violences.                               |
+| 33       | Une anomalie gravitationnelle provoque des changements physiques dans l’environnement et les infrastructures.                    |
+| 34       | Une navette de secours transportant des réfugiés s’écrase à proximité, nécessitant une intervention immédiate.                   |
+| 35       | Une attaque de créatures locales particulièrement agressives déborde les défenses.                                               |
+| 36       | Les PJ découvrent que leurs ordres initiaux reposaient sur une fausse information ou un mensonge.                                |
+| 37       | Une organisation extérieure arrive soudainement pour réclamer la propriété de la colonie ou des ressources locales.              |
+| 38       | Les équipements de survie se détériorent à un rythme anormal, réduisant drastiquement leur durée de vie prévue.                  |
+| 39       | Une faction de colons se radicalise et prend en otage une partie de la colonie.                                                  |
+| 40       | Un allié ou un contact important disparaît, laissant derrière lui des indices cryptiques.                                        |
+| 41       | Une substance chimique échappée d’un laboratoire altère temporairement les perceptions des habitants, provoquant un chaos total. |
+| 42       | Une créature massive et inconnue apparaît à la surface, attirant curiosité et peur.                                              |
+| 43       | Les réserves d’oxygène ou de carburant s’avèrent avoir été sabotées ou volées.                                                   |
+| 44       | Un membre influent de l’équipe ou de la colonie exige une démission immédiate, déclenchant une crise politique.                  |
+| 45       | Une détection d’explosion imminente sur une infrastructure essentielle provoque une course contre la montre pour l’éviter.       |
+| 46       | Une rumeur d’arme biologique secrète se répand, causant des conflits internes.                                                   |
+| 47       | Un groupe de colons propose un pacte avec une faction locale considérée comme hostile.                                           |
+| 48       | Les drones ou robots de la colonie commencent à agir de manière imprévisible, menaçant les habitants.                            |
+| 49       | Une chasse est organisée pour retrouver un fugitif responsable d’un sabotage majeur.                                             |
+| 50       | Une tempête d’astéroïdes imprévue oblige à évacuer des secteurs entiers sous la menace imminente d’impacts dévastateurs.         |
+
 ## PROMPTS
