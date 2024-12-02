@@ -10,12 +10,12 @@ Une grande partie du contexte ci-dessous résulte d'articles initialement écrit
 ### GEOGRAPHIE GALACTIQUE
 Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé etc.
 
-| ZONE GALACTIQUE | DESCRIPTION |
-| ------- | ------ |
-| SYSTÈMES DU NOYAU | Le cœur de la civilisation humaine dans la galaxie, où se trouvent les systèmes solaires les plus densément peuplés et les planètes les plus développées. Contrôlés pour la plupart par la Weyland-Yutani et d'autres mégacorporations, les Systèmes du Noyau sont le centre des affaires, de la recherche et de la gouvernance interstellaire. La sécurité y est élevée, mais l’ombre des manipulations politiques et des complots corporatifs plane sur chaque coin de rue. Ces systèmes offrent des infrastructures avancées, des métropoles de haute technologie et un relatif confort… pour ceux qui peuvent se le permettre. |
-| VOILE EXTÉRIEUR | Zone intermédiaire entre le noyau et les régions éloignées, le Voile Extérieur est une ceinture de mondes en expansion contrôlée par divers groupes d’influence. C’est une région de transition où la présence des mégacorporations est forte mais plus diversifiée, avec des colonies minières, des avant-postes scientifiques, et des installations de transformation. Le Voile Extérieur est en perpétuelle évolution, avec des villes en croissance rapide et des avant-postes isolés. C'est également une zone où les dangers commencent à se multiplier, avec un environnement de travail souvent brutal et des infrastructures moins sécurisées. |
+| ZONE GALACTIQUE    | DESCRIPTION |
+|--------------------|-------------|
+| SYSTÈMES DU NOYAU  | Le cœur de la civilisation humaine dans la galaxie, où se trouvent les systèmes solaires les plus densément peuplés et les planètes les plus développées. Contrôlés pour la plupart par la Weyland-Yutani et d'autres mégacorporations, les Systèmes du Noyau sont le centre des affaires, de la recherche et de la gouvernance interstellaire. La sécurité y est élevée, mais l’ombre des manipulations politiques et des complots corporatifs plane sur chaque coin de rue. Ces systèmes offrent des infrastructures avancées, des métropoles de haute technologie et un relatif confort… pour ceux qui peuvent se le permettre. |
+| VOILE EXTÉRIEUR    | Zone intermédiaire entre le noyau et les régions éloignées, le Voile Extérieur est une ceinture de mondes en expansion contrôlée par divers groupes d’influence. C’est une région de transition où la présence des mégacorporations est forte mais plus diversifiée, avec des colonies minières, des avant-postes scientifiques, et des installations de transformation. Le Voile Extérieur est en perpétuelle évolution, avec des villes en croissance rapide et des avant-postes isolés. C'est également une zone où les dangers commencent à se multiplier, avec un environnement de travail souvent brutal et des infrastructures moins sécurisées. |
 | BORDURE EXTÉRIEURE | Un espace aux confins de l’autorité centrale où règnent des tensions grandissantes. La Bordure Extérieure est peuplée de colonies établies récemment, d'avant-postes de recherche, et de stations minérales opérant dans des conditions extrêmes. L’environnement y est rude, avec des planètes à peine terraformées et des ressources limitées, obligeant les colons à développer une autonomie forte. Les forces de sécurité sont souvent insuffisantes pour assurer la protection, et les tensions entre les corporations et les communautés locales créent des situations explosives. La méfiance envers les corporations y est courante, et certains colons craignent une forme de « nettoyage » en cas de découverte d'un danger biologique. |
-| LES CONFINS | Région la plus éloignée et la moins explorée de la galaxie, les Confins sont une frontière de l'inconnu. Les colons et explorateurs des Confins affrontent des environnements extrêmes et isolés, sans aucun support ni aide rapide en cas d'incident. La vie y est dangereuse, et les règles traditionnelles de sécurité et de coopération sont souvent ignorées. Ce secteur attire les pionniers téméraires, les chercheurs, et parfois des fugitifs cherchant à échapper aux lois des Systèmes du Noyau. Dans les Confins, la menace des créatures inconnues, des parasites mortels et des zones hostiles est omniprésente, et la Weyland-Yutani, toujours avide de découvertes, surveille cette région pour y trouver des ressources ou des espèces nouvelles. |
+| LES CONFINS        | Région la plus éloignée et la moins explorée de la galaxie, les Confins sont une frontière de l'inconnu. Les colons et explorateurs des Confins affrontent des environnements extrêmes et isolés, sans aucun support ni aide rapide en cas d'incident. La vie y est dangereuse, et les règles traditionnelles de sécurité et de coopération sont souvent ignorées. Ce secteur attire les pionniers téméraires, les chercheurs, et parfois des fugitifs cherchant à échapper aux lois des Systèmes du Noyau. Dans les Confins, la menace des créatures inconnues, des parasites mortels et des zones hostiles est omniprésente, et la Weyland-Yutani, toujours avide de découvertes, surveille cette région pour y trouver des ressources ou des espèces nouvelles. |
 
 ### ETATS/NATIONS
 
@@ -28,18 +28,18 @@ Ce contexte peut servir pour la génération d'un scénario ou celle d'un person
 
 ### CORPORATION
 
-| CORPORATION           | DESCRIPTION                                                                                                                      |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Weyland-Yutani**    | La plus influente et redoutée des corporations humaines, Weyland-Yutani domine des secteurs clés comme la terraformation, la biotechnologie, et la colonisation. Sa quête insatiable de profits l’amène à des pratiques controversées, comme l’expérimentation sur des formes de vie extraterrestres. Si elle représente l’apogée de l’innovation humaine, son mépris pour les droits individuels et l’éthique en fait un symbole d’exploitation et de corruption. |
-| **Seegson**           | Connu pour ses produits abordables et ses efforts de démocratisation technologique, Seegson se positionne comme une alternative économique à Weyland-Yutani. Bien que ses androïdes et équipements soient moins sophistiqués, leur fiabilité relative les rend populaires dans les colonies modestes. Cependant, la corporation souffre d'une réputation mitigée à cause de produits parfois défectueux et d’un manque d’innovation. |
-| **Hyperdyne**         | Un leader dans le domaine des synthétiques et des armements, Hyperdyne est réputé pour ses androïdes de pointe et ses solutions militaires avancées. Si ses produits surpassent ceux de nombreux concurrents, ses méthodes d'exploitation des ressources naturelles et des travailleurs sont critiquées. Hyperdyne est également accusé de renforcer les tensions dans des zones frontalières en fournissant des technologies militaires à des acteurs controversés. |
+| CORPORATION            | DESCRIPTION                                                                                                                      |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Weyland-Yutani**     | La plus influente et redoutée des corporations humaines, Weyland-Yutani domine des secteurs clés comme la terraformation, la biotechnologie, et la colonisation. Sa quête insatiable de profits l’amène à des pratiques controversées, comme l’expérimentation sur des formes de vie extraterrestres. Si elle représente l’apogée de l’innovation humaine, son mépris pour les droits individuels et l’éthique en fait un symbole d’exploitation et de corruption. |
+| **Seegson**            | Connu pour ses produits abordables et ses efforts de démocratisation technologique, Seegson se positionne comme une alternative économique à Weyland-Yutani. Bien que ses androïdes et équipements soient moins sophistiqués, leur fiabilité relative les rend populaires dans les colonies modestes. Cependant, la corporation souffre d'une réputation mitigée à cause de produits parfois défectueux et d’un manque d’innovation. |
+| **Hyperdyne**          | Un leader dans le domaine des synthétiques et des armements, Hyperdyne est réputé pour ses androïdes de pointe et ses solutions militaires avancées. Si ses produits surpassent ceux de nombreux concurrents, ses méthodes d'exploitation des ressources naturelles et des travailleurs sont critiquées. Hyperdyne est également accusé de renforcer les tensions dans des zones frontalières en fournissant des technologies militaires à des acteurs controversés. |
 | **LaSalle Bionational**| Spécialisée dans la biotechnologie et l’agriculture, LaSalle Bionational est une pionnière dans le développement de cultures résistantes et de solutions biologiques pour la colonisation spatiale. Bien qu’elle se présente comme un acteur durable, ses pratiques en matière de brevets et ses expérimentations sur des organismes vivants soulèvent des préoccupations éthiques. Sa position dominante sur les marchés alimentaires en fait une force incontournable mais souvent critiquée. |
-| **Kelland Mining**    | Acteur clé de l’extraction de ressources dans les environnements extrêmes, Kelland Mining alimente une grande partie de l’économie spatiale grâce à ses opérations minières. Si elle est reconnue pour sa robustesse et sa capacité à fournir des ressources essentielles, ses pratiques d’exploitation sont souvent perçues comme brutales, avec des accusations de négligence envers la sécurité des travailleurs et les impacts environnementaux. |
-| **Gemini Exoplanet**  | Spécialisée dans l’exploitation minière spatiale, Gemini Exoplanet est connue pour son innovation dans les technologies d’extraction de ressources. Cependant, ses pratiques agressives et son manque de considération pour les écosystèmes extraterrestres en font une cible fréquente des critiques environnementales. Son alliance stratégique avec Weyland-Yutani renforce son influence mais soulève également des questions sur son indépendance. |
-| **Omni-Tech**         | Corporation spécialisée dans la terraformation et la construction d’infrastructures spatiales, Omni-Tech est un acteur clé dans l’habitation humaine de nouveaux mondes. Ses innovations dans les technologies durables sont louées, mais ses projets sont parfois jugés trop ambitieux, avec des impacts environnementaux imprévus. Elle est perçue comme une entreprise visionnaire mais risquée. |
-| **Anders-Corp**       | Une corporation de taille moyenne qui se concentre sur les solutions logistiques et la gestion des chaînes d'approvisionnement interstellaires. Bien qu’elle soit moins visible que des géants comme Weyland-Yutani, Anders-Corp est essentielle à la stabilité des échanges commerciaux entre colonies. Elle est souvent critiquée pour ses contrats exclusifs avec des corporations majeures, limitant l’accès aux ressources pour les petites colonies. |
-| **MedTech Systems**   | Spécialisée dans les technologies médicales avancées, MedTech Systems est un acteur majeur dans le développement de soins médicaux adaptés aux environnements spatiaux. Ses recherches sauvent des vies, mais son association avec Weyland-Yutani pour le développement d’armes biologiques a terni sa réputation. Ses services, bien que précieux, sont souvent hors de prix pour les colonies indépendantes. |
-| **Nova Dynamics**     | Leader émergent dans le domaine de l’exploration spatiale automatisée, Nova Dynamics développe des sondes et des technologies de cartographie destinées à explorer des systèmes stellaires inconnus. Ses innovations sont saluées, mais ses ambitions de privatiser les données d'exploration pour un usage exclusif inquiètent les scientifiques et explorateurs indépendants. |
+| **Kelland Mining**     | Acteur clé de l’extraction de ressources dans les environnements extrêmes, Kelland Mining alimente une grande partie de l’économie spatiale grâce à ses opérations minières. Si elle est reconnue pour sa robustesse et sa capacité à fournir des ressources essentielles, ses pratiques d’exploitation sont souvent perçues comme brutales, avec des accusations de négligence envers la sécurité des travailleurs et les impacts environnementaux. |
+| **Gemini Exoplanet**   | Spécialisée dans l’exploitation minière spatiale, Gemini Exoplanet est connue pour son innovation dans les technologies d’extraction de ressources. Cependant, ses pratiques agressives et son manque de considération pour les écosystèmes extraterrestres en font une cible fréquente des critiques environnementales. Son alliance stratégique avec Weyland-Yutani renforce son influence mais soulève également des questions sur son indépendance. |
+| **Omni-Tech**          | Corporation spécialisée dans la terraformation et la construction d’infrastructures spatiales, Omni-Tech est un acteur clé dans l’habitation humaine de nouveaux mondes. Ses innovations dans les technologies durables sont louées, mais ses projets sont parfois jugés trop ambitieux, avec des impacts environnementaux imprévus. Elle est perçue comme une entreprise visionnaire mais risquée. |
+| **Anders-Corp**        | Une corporation de taille moyenne qui se concentre sur les solutions logistiques et la gestion des chaînes d'approvisionnement interstellaires. Bien qu’elle soit moins visible que des géants comme Weyland-Yutani, Anders-Corp est essentielle à la stabilité des échanges commerciaux entre colonies. Elle est souvent critiquée pour ses contrats exclusifs avec des corporations majeures, limitant l’accès aux ressources pour les petites colonies. |
+| **MedTech Systems**    | Spécialisée dans les technologies médicales avancées, MedTech Systems est un acteur majeur dans le développement de soins médicaux adaptés aux environnements spatiaux. Ses recherches sauvent des vies, mais son association avec Weyland-Yutani pour le développement d’armes biologiques a terni sa réputation. Ses services, bien que précieux, sont souvent hors de prix pour les colonies indépendantes. |
+| **Nova Dynamics**      | Leader émergent dans le domaine de l’exploration spatiale automatisée, Nova Dynamics développe des sondes et des technologies de cartographie destinées à explorer des systèmes stellaires inconnus. Ses innovations sont saluées, mais ses ambitions de privatiser les données d'exploration pour un usage exclusif inquiètent les scientifiques et explorateurs indépendants. |
 
 ### ÂGE
 
@@ -182,11 +182,11 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 | 5-6 | Deux frères et/ou sœurs.                            | 5-6 | Relations très proches et supportives.                   |
 | 6   | Trois frères et/ou sœurs ou plus.                   |     |                                                          |
 
-| D6  | SITUATION ÉCONOMIQUE FAMILIALE                     | D6  | INFLUENCE FAMILIALE                                       |
-|-----|----------------------------------------------------|-----|-----------------------------------------------------------|
-| 1-3 | Pauvreté, difficultés financières constantes.      | 1-3 | Aucune influence notable, famille peu connue.             |
-| 4-5 | Classe moyenne, suffisamment stable financièrement. Vous gagnez +1D6x100$. | 4-5 | Influence modérée, famille bien établie dans une petite communauté. |
-| 6   | Aisée, sans soucis financiers majeurs. Vous gagnez +2D6x100$. | 6   | Famille très influente, connue au niveau régional ou sectoriel. Vous gagnez +2D6x100$. |
+| D6  | SITUATION ÉCONOMIQUE FAMILIALE                                             | D6  | INFLUENCE FAMILIALE                                                                    |
+|-----|----------------------------------------------------------------------------|-----|----------------------------------------------------------------------------------------|
+| 1-3 | Pauvreté, difficultés financières constantes.                              | 1-3 | Aucune influence notable, famille peu connue.                                          |
+| 4-5 | Classe moyenne, suffisamment stable financièrement. Vous gagnez +1D6x100$. | 4-5 | Influence modérée, famille bien établie dans une petite communauté.                    |
+| 6   | Aisée, sans soucis financiers majeurs. Vous gagnez +2D6x100$.              | 6   | Famille très influente, connue au niveau régional ou sectoriel. Vous gagnez +2D6x100$. |
 
 ### RÊVE
 
@@ -198,33 +198,33 @@ De plus, ces souvenirs permettent aux joueurs de s'aventurer dans la peau de per
 
 Le moment où le souvenir s'est formé est crucial pour comprendre l'impact qu'il a eu sur le personnage.
 
-| D6  | Moment                                                                 |
-|-----|------------------------------------------------------------------------|
-| 1   | Lorsque vous étiez un enfant, une mémoire floue qui hante vos rêves.   |
-| 2   | Pendant votre enfance, un souvenir marquant qui a façonné vos peurs.   |
+| D6  | Moment                                                                          |
+|-----|---------------------------------------------------------------------------------|
+| 1   | Lorsque vous étiez un enfant, une mémoire floue qui hante vos rêves.            |
+| 2   | Pendant votre enfance, un souvenir marquant qui a façonné vos peurs.            |
 | 3   | Lorsque vous étiez adolescent, un événement qui a changé votre vision du monde. |
-| 4   | À la fin de l'adolescence, alors que vous deveniez adulte.             |
-| 5   | Il y a quelques années, un événement que vous essayez d'oublier.       |
-| 6   | Récemment, il y a seulement quelques semaines.                         |
+| 4   | À la fin de l'adolescence, alors que vous deveniez adulte.                      |
+| 5   | Il y a quelques années, un événement que vous essayez d'oublier.                |
+| 6   | Récemment, il y a seulement quelques semaines.                                  |
 
 **Où cela s'est-il passé ?**
 
 Les lieux reflètent le danger constant de la vie dans l'espace.
 
-| D12 | Lieu                                                                   |
-|-----|------------------------------------------------------------------------|
-| 1   | À bord d'un vaisseau en dérive, perdu dans l'espace.                   |
-| 2   | Dans une station spatiale commerciale bondée et oppressante.           |
-| 3   | Dans les couloirs sombres d'une base minière sur une lune isolée.      |
+| D12 | Lieu                                                                                  |
+|-----|---------------------------------------------------------------------------------------|
+| 1   | À bord d'un vaisseau en dérive, perdu dans l'espace.                                  |
+| 2   | Dans une station spatiale commerciale bondée et oppressante.                          |
+| 3   | Dans les couloirs sombres d'une base minière sur une lune isolée.                     |
 | 4   | En train d'attendre dans une salle d'embarquement glaciale sur une colonie lointaine. |
-| 5   | Dans un centre de recherche abandonné, quelque part dans le vide spatial. |
-| 6   | Sur un monde désertique, à l'intérieur d'un avant-poste en ruines.     |
-| 7   | Dans un ascenseur orbital, entre la Terre et les étoiles.              |
-| 8   | À la surface d'une planète tempétueuse, sous une pluie acide constante.|
-| 9   | Dans un centre de détention de la Compagnie, austère et sans âme.      |
-| 10  | À la frontière d'une forêt extraterrestre, où la nature vous paraissait étrangère. |
-| 11  | Dans un secteur industriel de la Station Gateway, entouré de travailleurs épuisés. |
-| 12  | À l'intérieur d'une navette de secours, seul dans l'immensité de l'espace. |
+| 5   | Dans un centre de recherche abandonné, quelque part dans le vide spatial.             |
+| 6   | Sur un monde désertique, à l'intérieur d'un avant-poste en ruines.                    |
+| 7   | Dans un ascenseur orbital, entre la Terre et les étoiles.                             |
+| 8   | À la surface d'une planète tempétueuse, sous une pluie acide constante.               |
+| 9   | Dans un centre de détention de la Compagnie, austère et sans âme.                     |
+| 10  | À la frontière d'une forêt extraterrestre, où la nature vous paraissait étrangère.    |
+| 11  | Dans un secteur industriel de la Station Gateway, entouré de travailleurs épuisés.    |
+| 12  | À l'intérieur d'une navette de secours, seul dans l'immensité de l'espace.            |
 
 **Qui était présent ?**
 
@@ -249,83 +249,83 @@ Les personnes impliquées façonnent la complexité psychologique du personnage.
 
 Les événements définissent les traumatismes et dilemmes moraux des personnages.
 
-| D12 | Événement                                                              |
-|-----|------------------------------------------------------------------------|
+| D12 | Événement                                                                            |
+|-----|--------------------------------------------------------------------------------------|
 | 1   | Vous avez été témoin d'une catastrophe à bord, quelque chose de difficile à oublier. |
-| 2   | Vous avez pris part à une opération qui a mal tourné.                  |
-| 3   | Vous avez vu un phénomène naturel inexpliqué, terrifiant et fascinant. |
-| 4   | Vous avez dû fuir un danger inconnu qui semblait vous traquer.         |
-| 5   | Vous avez été soumis à des tests ou à une expérience de la Compagnie.  |
-| 6   | Vous avez été confronté à la trahison de quelqu'un en qui vous aviez confiance. |
-| 7   | Vous avez dû prendre une décision terrible pour survivre.              |
-| 8   | Vous avez assisté à la perte de contrôle de votre vaisseau ou de votre base. |
-| 9   | Vous avez survécu à un accident qui a coûté la vie à d'autres.         |
-| 10  | Vous avez été témoin d'un acte de sacrifice héroïque.                  |
-| 11  | Vous avez été forcé de commettre l'impensable pour sauver votre peau.  |
-| 12  | Vous avez vu quelque chose d'inexplicable qui vous hante encore.       |
+| 2   | Vous avez pris part à une opération qui a mal tourné.                                |
+| 3   | Vous avez vu un phénomène naturel inexpliqué, terrifiant et fascinant.               |
+| 4   | Vous avez dû fuir un danger inconnu qui semblait vous traquer.                       |
+| 5   | Vous avez été soumis à des tests ou à une expérience de la Compagnie.                |
+| 6   | Vous avez été confronté à la trahison de quelqu'un en qui vous aviez confiance.      |
+| 7   | Vous avez dû prendre une décision terrible pour survivre.                            |
+| 8   | Vous avez assisté à la perte de contrôle de votre vaisseau ou de votre base.         |
+| 9   | Vous avez survécu à un accident qui a coûté la vie à d'autres.                       |
+| 10  | Vous avez été témoin d'un acte de sacrifice héroïque.                                |
+| 11  | Vous avez été forcé de commettre l'impensable pour sauver votre peau.                |
+| 12  | Vous avez vu quelque chose d'inexplicable qui vous hante encore.                     |
 
 **Conséquences morales**
 
 Les dilemmes moraux reflètent les choix difficiles que les personnages ont dû faire.
 
-| D6  | Conséquence                                                           |
-|-----|----------------------------------------------------------------------|
-| 1   | Vous avez dû sacrifier une autre personne pour survivre.             |
-| 2   | Vous avez trahi un ami ou un allié sous la pression.                 |
-| 3   | Vous avez choisi de ne pas aider quelqu'un dans le besoin.           |
+| D6  | Conséquence                                                                                        |
+|-----|----------------------------------------------------------------------------------------------------|
+| 1   | Vous avez dû sacrifier une autre personne pour survivre.                                           |
+| 2   | Vous avez trahi un ami ou un allié sous la pression.                                               |
+| 3   | Vous avez choisi de ne pas aider quelqu'un dans le besoin.                                         |
 | 4   | Vous avez été témoin d'un acte héroïque qui vous a inspiré, mais auquel vous n'avez pas participé. |
-| 5   | Vous avez dénoncé quelqu'un à la Compagnie pour sauver votre peau.   |
-| 6   | Vous avez été contraint de renier vos propres principes pour vivre un jour de plus. |
+| 5   | Vous avez dénoncé quelqu'un à la Compagnie pour sauver votre peau.                                 |
+| 6   | Vous avez été contraint de renier vos propres principes pour vivre un jour de plus.                |
 
 **Qu'est-ce que vous avez perdu ?**
 
 L'univers d'Alien est synonyme de perte.
 
-| D6  | Perte                                                                 |
-|-----|----------------------------------------------------------------------|
-| 1   | Un être cher, dont l'absence vous hante encore.                      |
-| 2   | Votre innocence, confronté trop tôt à l'horreur.                     |
-| 3   | Votre foi en l'humanité, brisée par la trahison ou la cupidité.      |
-| 4   | Une partie de votre corps, blessé lors de cet événement.             |
-| 5   | Votre liberté, contraint de suivre les ordres de la Compagnie.       |
+| D6  | Perte                                                                     |
+|-----|---------------------------------------------------------------------------|
+| 1   | Un être cher, dont l'absence vous hante encore.                           |
+| 2   | Votre innocence, confronté trop tôt à l'horreur.                          |
+| 3   | Votre foi en l'humanité, brisée par la trahison ou la cupidité.           |
+| 4   | Une partie de votre corps, blessé lors de cet événement.                  |
+| 5   | Votre liberté, contraint de suivre les ordres de la Compagnie.            |
 | 6   | Votre identité, vous êtes devenu une autre personne depuis cet événement. |
 
 **Comment cela vous a-t-il affecté ?**
 
 L'impact psychologique est essentiel dans l'univers d'Alien.
 
-| D6  | Effet                                                                 |
-|-----|----------------------------------------------------------------------|
-| 1   | Vous souffrez de cauchemars récurrents, perturbant votre sommeil et votre concentration. |
+| D6  | Effet                                                                                                    |
+|-----|----------------------------------------------------------------------------------------------------------|
+| 1   | Vous souffrez de cauchemars récurrents, perturbant votre sommeil et votre concentration.                 |
 | 2   | Vous avez développé une peur irrationnelle liée à l'événement (l'obscurité, les espaces confinés, etc.). |
-| 3   | Vous êtes devenu méfiant envers les autres, ne faisant confiance à personne. |
-| 4   | Vous ressentez une obsession à comprendre ce qui s'est passé, parfois au détriment de votre sécurité. |
-| 5   | Vous avez enfoui ce souvenir au fond de votre esprit, mais il resurgit dans des moments de stress. |
-| 6   | Vous avez choisi de devenir insensible à la souffrance, agissant avec froideur et détachement. |
+| 3   | Vous êtes devenu méfiant envers les autres, ne faisant confiance à personne.                             |
+| 4   | Vous ressentez une obsession à comprendre ce qui s'est passé, parfois au détriment de votre sécurité.    |
+| 5   | Vous avez enfoui ce souvenir au fond de votre esprit, mais il resurgit dans des moments de stress.       |
+| 6   | Vous avez choisi de devenir insensible à la souffrance, agissant avec froideur et détachement.           |
 
 #### Pour aller plus loin
 
 **Implication de la Compagnie**
 
-| D6  | Implication                                                          |
-|-----|----------------------------------------------------------------------|
-| 1   | La Compagnie a essayé de dissimuler l'événement pour éviter le scandale. |
-| 2   | Vous avez été contraint de signer une clause de confidentialité.     |
-| 3   | La Compagnie a envoyé des agents pour s'assurer que vous restiez silencieux. |
-| 4   | Vos supérieurs ont tenté de vous convaincre que vous aviez imaginé l'événement. |
-| 5   | Vous avez reçu une promotion suspecte peu de temps après.            |
-| 6   | La Compagnie a utilisé cet événement comme une opportunité pour tester votre loyauté. |
+| D6  | Implication                                                                                              |
+|-----|----------------------------------------------------------------------------------------------------------|
+| 1   | La Compagnie a essayé de dissimuler l'événement pour éviter le scandale.                                 |
+| 2   | Vous avez été contraint de signer une clause de confidentialité.                                         |
+| 3   | La Compagnie a envoyé des agents pour s'assurer que vous restiez silencieux.                             |
+| 4   | Vos supérieurs ont tenté de vous convaincre que vous aviez imaginé l'événement.                          |
+| 5   | Vous avez reçu une promotion suspecte peu de temps après.                                                |
+| 6   | La Compagnie a utilisé cet événement comme une opportunité pour tester votre loyauté.                    |
 
 **Dangers de l'espace**
 
-| D6  | Danger                                                              |
-|-----|---------------------------------------------------------------------|
-| 1   | Vous avez été témoin d'une éruption solaire qui a failli anéantir votre vaisseau. |
-| 2   | Vous avez vécu une dépressurisation soudaine et terrifiante.         |
-| 3   | Vous vous êtes perdu lors d'une sortie dans l'espace, dérivant seul avant d'être sauvé in extremis. |
-| 4   | Vous avez vu un vaisseau fantôme dériver sans vie dans le vide spatial. |
-| 5   | Vous avez assisté à la désintégration d'une navette dans l'atmosphère d'une planète. |
-| 6   | Vous avez survécu à une panne de cryo-sommeil, piégé dans le noir glacé de votre capsule. |
+| D6  | Danger                                                                                                   |
+|-----|----------------------------------------------------------------------------------------------------------|
+| 1   | Vous avez été témoin d'une éruption solaire qui a failli anéantir votre vaisseau.                        |
+| 2   | Vous avez vécu une dépressurisation soudaine et terrifiante.                                             |
+| 3   | Vous vous êtes perdu lors d'une sortie dans l'espace, dérivant seul avant d'être sauvé in extremis.      |
+| 4   | Vous avez vu un vaisseau fantôme dériver sans vie dans le vide spatial.                                  |
+| 5   | Vous avez assisté à la désintégration d'une navette dans l'atmosphère d'une planète.                     |
+| 6   | Vous avez survécu à une panne de cryo-sommeil, piégé dans le noir glacé de votre capsule.                |
 
 
 ### OPINIONS
@@ -354,13 +354,13 @@ L’opinion du personnage sur les différentes régions de l’espace, comme les
 
 L’opinion d'un personnage sur les régions de l’espace peut influencer le déroulement de l'aventure et les choix stratégiques. Une opinion très positive pourrait mener à des expéditions enthousiastes même si elles sont risquées, tandis qu’une opinion très négative pourrait générer des conflits internes ou des refus de coopération, enrichissant ainsi les scénarios.
 
-| D66  | OPINION       | SYSTÈMES DU NOYAU                                                   | VOILE EXTÉRIEUR                                                          | BORDURE EXTÉRIEURE                                                      | LES CONFINS                                                              |
-|------|---------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 11-16| **++**        | Vous percevez les Systèmes du Noyau comme le cœur battant de l'humanité, un creuset de culture, d'innovation, et de gouvernance efficace. | Vous percevez Le Voile Extérieur comme une terre de liberté et d'opportunité, loin de la bureaucratie. | Vous percevez La Bordure Extérieure comme la frontière ultime de l'humanité, offrant des possibilités illimitées. | Vous percevez Les Confins comme le dernier bastion de la véritable exploration, repoussant les frontières de la connaissance. |
-| 21-34| **+**         | Vous appréciez cette région pour son dynamisme économique, sa stabilité politique et son haut niveau de développement. | Vous appréciez Le Voile Extérieur pour ses vastes ressources et son potentiel de croissance malgré ses défis. | Vous appréciez La Bordure Extérieure pour son opportunité de recommencer une nouvelle vie loin des contraintes des systèmes centraux. | Vous appréciez Les Confins pour leur potentiel de découverte et leur liberté presque sans limites. |
-| 35-44| **\***        | Vous reconnaissez les Systèmes du Noyau pour leur prospérité, mais vous critiquez leur centralisation excessive et leur détachement des réalités des régions éloignées. | Vous reconnaissez Le Voile Extérieur pour ses ressources, mais les conditions de vie précaires et dangereuses restent une préoccupation. | Vous reconnaissez La Bordure Extérieure pour ses opportunités, mais les risques et dangers inhérents à la région suscitent des débats. | Vous reconnaissez Les Confins pour leur beauté et leur potentiel, mais aussi pour leur nature sauvage et leurs dangers extrêmes. |
-| 45-62| **-**         | Vous critiquez les Systèmes du Noyau comme des bastions de complaisance et de corruption, où les besoins des colonies moins privilégiées sont ignorés. | Vous critiquez Le Voile Extérieur pour ses infrastructures sous-développées et les dangers liés à l'exploitation des travailleurs. | Vous critiquez La Bordure Extérieure pour ses conditions de travail souvent inhumaines et le mépris pour les normes de sécurité. | Vous critiquez Les Confins pour leur abandon et leur manque de régulation, laissant les habitants dans des conditions extrêmement difficiles. |
-| 56-66| **--**        | Vous considérez les Systèmes du Noyau comme des symboles d'oppression et d'inégalité, où le pouvoir exploite les zones moins développées pour leur propre gain. | Vous considérez Le Voile Extérieur comme un lieu d'exploitation brutale, abandonné par les grandes puissances face aux défis hostiles. | Vous considérez La Bordure Extérieure comme un lieu d'exploitation et de désespoir, où la vie humaine est sacrifiée pour le profit. | Vous considérez Les Confins comme un lieu de non-droit, où la survie prime sur l'éthique et la sécurité humaine. |
+| D66  | OPINION       | SYSTÈMES DU NOYAU                                                                                                                                                       | VOILE EXTÉRIEUR                                                                                                                          | BORDURE EXTÉRIEURE                                                                                                                     | LES CONFINS                                                                                                                                   |
+|------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 11-16| **++**        | Vous percevez les Systèmes du Noyau comme le cœur battant de l'humanité, un creuset de culture, d'innovation, et de gouvernance efficace.                               | Vous percevez Le Voile Extérieur comme une terre de liberté et d'opportunité, loin de la bureaucratie.                                   | Vous percevez La Bordure Extérieure comme la frontière ultime de l'humanité, offrant des possibilités illimitées.                      | Vous percevez Les Confins comme le dernier bastion de la véritable exploration, repoussant les frontières de la connaissance.                 |
+| 21-34| **+**         | Vous appréciez cette région pour son dynamisme économique, sa stabilité politique et son haut niveau de développement.                                                  | Vous appréciez Le Voile Extérieur pour ses vastes ressources et son potentiel de croissance malgré ses défis.                            | Vous appréciez La Bordure Extérieure pour son opportunité de recommencer une nouvelle vie loin des contraintes des systèmes centraux.  | Vous appréciez Les Confins pour leur potentiel de découverte et leur liberté presque sans limites.                                            |
+| 35-44| **\***        | Vous reconnaissez les Systèmes du Noyau pour leur prospérité, mais vous critiquez leur centralisation excessive et leur détachement des réalités des régions éloignées. | Vous reconnaissez Le Voile Extérieur pour ses ressources, mais les conditions de vie précaires et dangereuses restent une préoccupation. | Vous reconnaissez La Bordure Extérieure pour ses opportunités, mais les risques et dangers inhérents à la région suscitent des débats. | Vous reconnaissez Les Confins pour leur beauté et leur potentiel, mais aussi pour leur nature sauvage et leurs dangers extrêmes.              |
+| 45-62| **-**         | Vous critiquez les Systèmes du Noyau comme des bastions de complaisance et de corruption, où les besoins des colonies moins privilégiées sont ignorés.                  | Vous critiquez Le Voile Extérieur pour ses infrastructures sous-développées et les dangers liés à l'exploitation des travailleurs.       | Vous critiquez La Bordure Extérieure pour ses conditions de travail souvent inhumaines et le mépris pour les normes de sécurité.       | Vous critiquez Les Confins pour leur abandon et leur manque de régulation, laissant les habitants dans des conditions extrêmement difficiles. |
+| 56-66| **--**        | Vous considérez les Systèmes du Noyau comme des symboles d'oppression et d'inégalité, où le pouvoir exploite les zones moins développées pour leur propre gain.         | Vous considérez Le Voile Extérieur comme un lieu d'exploitation brutale, abandonné par les grandes puissances face aux défis hostiles.   | Vous considérez La Bordure Extérieure comme un lieu d'exploitation et de désespoir, où la vie humaine est sacrifiée pour le profit.    | Vous considérez Les Confins comme un lieu de non-droit, où la survie prime sur l'éthique et la sécurité humaine.                              |
 
 **Etats/Nations**
 Les grandes nations de l'univers d'Alien, comme les CIN (Colonies Indépendantes) ou l’Empire des Trois Mondes, sont au cœur des intrigues politiques et diplomatiques. Les opinions des personnages sur ces entités influencent directement leur comportement et leurs alliances :
@@ -375,13 +375,13 @@ Les grandes nations de l'univers d'Alien, comme les CIN (Colonies Indépendantes
 
 Les opinions d'un personnage sur les nations peuvent influencer ses choix stratégiques, notamment en matière d'alliance ou de mission. Un personnage très favorable à une nation pourrait se voir confier des missions spéciales, tandis qu’un personnage très critique pourrait devenir un agent double ou un traître potentiel, créant ainsi des intrigues riches en retournements.
 
-| D66  | OPINION       | CIN                                                                     | AMÉRIQUES UNIES                                                          | EMPIRE DES 3 MONDES                                                      | UPP                                                                       |
-|------|---------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 11-16| **++**        | Vous percevez les CIN comme des pionniers de la liberté et de l'innovation dans l'espace, grâce à leur structure décentralisée et leur entrepreneuriat florissant. | Vous percevez les AU comme le pinacle de la coopération humaine, étendant la présence humaine dans l'espace avec leadership et vision. | Vous percevez l'E3M comme un modèle de coopération et de progrès technologique, contribuant à l'expansion humaine. | Vous percevez l'UPP comme un bastion de l'idéalisme socialiste, défendant l'égalité et la solidarité face aux blocs capitalistes. |
-| 21-34| **+**         | Vous appréciez les CIN pour leur gouvernance décentralisée qui favorise l'efficacité et la prospérité économique sans l'intervention des gouvernements traditionnels. | Vous appréciez les AU pour leur stabilisation des régions frontalières et leur soutien aux colonies, préservant la paix et le développement. | Vous appréciez l'E3M pour son rôle dans l'exploration spatiale et sa gestion stable, bien que ses frontières soient souvent confiées à WY. | Vous appréciez l'UPP pour son engagement envers les principes socialistes et son fort sentiment de communauté, malgré des ressources limitées. |
-| 35-44| **\***        | Vous reconnaissez les CIN pour leur innovation, mais critiquez leur dépendance excessive aux intérêts corporatifs et leur manque de régulation. | Vous reconnaissez les AU pour leur sécurité et politique externe efficaces, mais critiquez leur favoritisme envers les grandes entreprises. | Vous reconnaissez l'E3M pour son importance, mais notez sa dépendance à WY pour la gestion des colonies frontières, posant des questions sur sa souveraineté. | Vous reconnaissez l'UPP pour son rôle de contrepoids politique, mais critiquez sa bureaucratie et son antagonisme envers les autres blocs. |
-| 45-62| **-**         | Vous critiquez les CIN pour leur manque de protection des travailleurs, mettant en avant les profits au détriment des droits humains. | Vous critiquez les AU pour leur politique autoritaire et leur exploitation des colonies moins développées au profit des grandes entreprises. | Vous critiquez l'E3M pour sa dépendance excessive à WY, limitant sa souveraineté et exposant ses citoyens aux dangers des colonies frontières. | Vous critiquez l'UPP pour ses difficultés économiques, sa bureaucratie lourde et son isolement volontaire, qui freinent l'innovation et la coopération. |
-| 56-66| **--**        | Vous considérez les CIN comme des dystopies corporatives où les entreprises exploitent ressources et personnes sans considération éthique, masquant leur irresponsabilité sous une indépendance apparente. | Vous considérez les AU comme un régime impérialiste, contrôlant et exploitant les ressources des colonies tout en échouant à les protéger. | Vous considérez l'E3M comme une façade pour une exploitation corporative dominée par WY, sacrifiant environnement et droits des travailleurs. | Vous considérez l'UPP comme une entité autoritaire et stagnante, masquant ses échecs sous une rhétorique socialiste et alimentant les tensions internationales. |
+| D66  | OPINION       | CIN                                                                                                                                                                                                        | AMÉRIQUES UNIES                                                                                                                              | EMPIRE DES 3 MONDES                                                                                                                                           | UPP                                                                                                                                                             |
+|------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11-16| **++**        | Vous percevez les CIN comme des pionniers de la liberté et de l'innovation dans l'espace, grâce à leur structure décentralisée et leur entrepreneuriat florissant.                                         | Vous percevez les AU comme le pinacle de la coopération humaine, étendant la présence humaine dans l'espace avec leadership et vision.       | Vous percevez l'E3M comme un modèle de coopération et de progrès technologique, contribuant à l'expansion humaine.                                            | Vous percevez l'UPP comme un bastion de l'idéalisme socialiste, défendant l'égalité et la solidarité face aux blocs capitalistes.                               |
+| 21-34| **+**         | Vous appréciez les CIN pour leur gouvernance décentralisée qui favorise l'efficacité et la prospérité économique sans l'intervention des gouvernements traditionnels.                                      | Vous appréciez les AU pour leur stabilisation des régions frontalières et leur soutien aux colonies, préservant la paix et le développement. | Vous appréciez l'E3M pour son rôle dans l'exploration spatiale et sa gestion stable, bien que ses frontières soient souvent confiées à WY.                    | Vous appréciez l'UPP pour son engagement envers les principes socialistes et son fort sentiment de communauté, malgré des ressources limitées.                  |
+| 35-44| **\***        | Vous reconnaissez les CIN pour leur innovation, mais critiquez leur dépendance excessive aux intérêts corporatifs et leur manque de régulation.                                                            | Vous reconnaissez les AU pour leur sécurité et politique externe efficaces, mais critiquez leur favoritisme envers les grandes entreprises.  | Vous reconnaissez l'E3M pour son importance, mais notez sa dépendance à WY pour la gestion des colonies frontières, posant des questions sur sa souveraineté. | Vous reconnaissez l'UPP pour son rôle de contrepoids politique, mais critiquez sa bureaucratie et son antagonisme envers les autres blocs.                      |
+| 45-62| **-**         | Vous critiquez les CIN pour leur manque de protection des travailleurs, mettant en avant les profits au détriment des droits humains.                                                                      | Vous critiquez les AU pour leur politique autoritaire et leur exploitation des colonies moins développées au profit des grandes entreprises. | Vous critiquez l'E3M pour sa dépendance excessive à WY, limitant sa souveraineté et exposant ses citoyens aux dangers des colonies frontières.                | Vous critiquez l'UPP pour ses difficultés économiques, sa bureaucratie lourde et son isolement volontaire, qui freinent l'innovation et la coopération.         |
+| 56-66| **--**        | Vous considérez les CIN comme des dystopies corporatives où les entreprises exploitent ressources et personnes sans considération éthique, masquant leur irresponsabilité sous une indépendance apparente. | Vous considérez les AU comme un régime impérialiste, contrôlant et exploitant les ressources des colonies tout en échouant à les protéger.   | Vous considérez l'E3M comme une façade pour une exploitation corporative dominée par WY, sacrifiant environnement et droits des travailleurs.                 | Vous considérez l'UPP comme une entité autoritaire et stagnante, masquant ses échecs sous une rhétorique socialiste et alimentant les tensions internationales. |
 
 **Corporation**
 
@@ -397,21 +397,21 @@ Les grandes corporations dans l'univers d'Alien jouent un rôle central, influen
 
 L'opinion du personnage sur les corporations peut être utilisée pour orienter ses interactions avec des PNJ affiliés à ces entités. Une opinion très favorable peut se traduire par des alliances, tandis qu'une opinion négative pourrait engendrer des tensions, voire des confrontations directes. Ces dynamiques ajoutent de la profondeur aux intrigues, rendant chaque rencontre potentiellement significative.
 
-| D66  | OPINION       | GÉNÉRALE                                                                 | WEYLAND-YUTANI                                                          | LASALLE BIONATIONAL                                                     | SEEGSON                                                                   |
-|------|---------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 11-16| **++**        | Vous percevez les corporations comme les moteurs de l'innovation et du progrès. Elles permettent la colonisation spatiale et améliorent la qualité de vie. | Vous percevez WY comme une force de progrès et d'innovation, menant l'humanité vers de nouveaux horizons avec ses technologies avancées. | Vous percevez LB comme une pionnière de l'innovation biotechnologique, offrant des solutions pour l'agriculture et la gestion des ressources. | Vous percevez Seegson comme démocratisant l'accès à la technologie spatiale avec des solutions abordables pour les colonies modestes. |
-| 21-34| **+**         | Vous appréciez les corporations pour leur rôle dans la stabilisation économique et le développement des régions moins développées. | Vous appréciez WY pour ses technologies et son rôle dans l'amélioration des standards de vie malgré certaines controverses. | Vous appréciez LB pour son engagement envers le développement durable et l'amélioration des conditions de vie dans les colonies. | Vous appréciez Seegson pour ses innovations à faible coût et ses produits accessibles, bien qu'ils soient moins sophistiqués. |
-| 35-44| **\***        | Vous reconnaissez les corporations pour leur efficacité, mais vous êtes préoccupé par leur influence excessive et leur monopole potentiel. | Vous reconnaissez WY pour ses opportunités et innovations, mais leur puissance peut paraître oppressante, soulevant des questions éthiques. | Vous reconnaissez LB pour sa compétence technique, mais vous vous interrogez sur ses motivations et son impact sur l'équité. | Vous reconnaissez Seegson comme une entreprise pragmatique remplissant une niche, mais parfois au détriment de la qualité. |
-| 45-62| **-**         | Vous critiquez les corporations pour leur approche de maximisation des profits qui néglige les besoins des communautés et des travailleurs. | Vous critiquez WY pour son exploitation des ressources et travailleurs, et ses expérimentations dangereuses sur des armes biologiques. | Vous critiquez LB pour ses préoccupations éthiques concernant ses produits biologiques et sa stratégie agressive de monopole. | Vous critiquez Seegson pour la fiabilité inférieure de ses produits, qui peut poser des risques dans des environnements spatiaux. |
-| 56-66| **--**        | Vous considérez les corporations comme des entités oppressives, manipulant les lois et sacrifiant la sécurité et l'éthique pour leurs profits. | Vous considérez WY comme une corporation malveillante, exploitant sans scrupule et mettant l'humanité en danger avec ses expérimentations irresponsables. | Vous considérez LB comme une menace qui monopolise les marchés alimentaires et exploite les besoins humains de base sans considération éthique. | Vous considérez Seegson comme une corporation opportuniste, mettant en danger la vie des travailleurs avec ses produits de basse qualité. |
+| D66  | OPINION       | GÉNÉRALE                                                                                                                                                   | WEYLAND-YUTANI                                                                                                                                            | LASALLE BIONATIONAL                                                                                                                             | SEEGSON                                                                                                                                   |
+|------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 11-16| **++**        | Vous percevez les corporations comme les moteurs de l'innovation et du progrès. Elles permettent la colonisation spatiale et améliorent la qualité de vie. | Vous percevez WY comme une force de progrès et d'innovation, menant l'humanité vers de nouveaux horizons avec ses technologies avancées.                  | Vous percevez LB comme une pionnière de l'innovation biotechnologique, offrant des solutions pour l'agriculture et la gestion des ressources.   | Vous percevez Seegson comme démocratisant l'accès à la technologie spatiale avec des solutions abordables pour les colonies modestes.     |
+| 21-34| **+**         | Vous appréciez les corporations pour leur rôle dans la stabilisation économique et le développement des régions moins développées.                         | Vous appréciez WY pour ses technologies et son rôle dans l'amélioration des standards de vie malgré certaines controverses.                               | Vous appréciez LB pour son engagement envers le développement durable et l'amélioration des conditions de vie dans les colonies.                | Vous appréciez Seegson pour ses innovations à faible coût et ses produits accessibles, bien qu'ils soient moins sophistiqués.             |
+| 35-44| **\***        | Vous reconnaissez les corporations pour leur efficacité, mais vous êtes préoccupé par leur influence excessive et leur monopole potentiel.                 | Vous reconnaissez WY pour ses opportunités et innovations, mais leur puissance peut paraître oppressante, soulevant des questions éthiques.               | Vous reconnaissez LB pour sa compétence technique, mais vous vous interrogez sur ses motivations et son impact sur l'équité.                    | Vous reconnaissez Seegson comme une entreprise pragmatique remplissant une niche, mais parfois au détriment de la qualité.                |
+| 45-62| **-**         | Vous critiquez les corporations pour leur approche de maximisation des profits qui néglige les besoins des communautés et des travailleurs.                | Vous critiquez WY pour son exploitation des ressources et travailleurs, et ses expérimentations dangereuses sur des armes biologiques.                    | Vous critiquez LB pour ses préoccupations éthiques concernant ses produits biologiques et sa stratégie agressive de monopole.                   | Vous critiquez Seegson pour la fiabilité inférieure de ses produits, qui peut poser des risques dans des environnements spatiaux.         |
+| 56-66| **--**        | Vous considérez les corporations comme des entités oppressives, manipulant les lois et sacrifiant la sécurité et l'éthique pour leurs profits.             | Vous considérez WY comme une corporation malveillante, exploitant sans scrupule et mettant l'humanité en danger avec ses expérimentations irresponsables. | Vous considérez LB comme une menace qui monopolise les marchés alimentaires et exploite les besoins humains de base sans considération éthique. | Vous considérez Seegson comme une corporation opportuniste, mettant en danger la vie des travailleurs avec ses produits de basse qualité. |
 
-| D66  | OPINION       | HYPERDYNE                                                                | OMNI-TECH                                                               | GEMINI EXOPLANET                                                        | KELLAND MINING                                                           |
-|------|---------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 11-16| **++**        | Vous percevez Hyperdyne comme un pionnier de l'innovation technologique, vital pour l'expansion et la survie des colonies spatiales. | Vous percevez Omni-Tech comme une pionnière courageuse, dévouée à la terraformation et au développement de technologies durables. | Vous percevez Gemini comme un leader de l'innovation minière spatiale, apportant des technologies essentielles à l'expansion humaine. | Vous percevez KMCC comme un pilier industriel crucial pour fournir des ressources essentielles aux colonies spatiales. |
-| 21-34| **+**         | Vous appréciez Hyperdyne pour sa capacité à repousser les frontières de la science et pour créer des opportunités dans des régions éloignées. | Vous appréciez Omni-Tech pour son esprit d'indépendance et ses innovations en terraformation. | Vous appréciez Gemini pour ses avancées en technologie minière et sa collaboration avec de grands acteurs industriels. | Vous appréciez KMCC pour sa robustesse et son rôle clé dans l'économie spatiale grâce à ses opérations minières efficaces. |
-| 35-44| **\***        | Vous reconnaissez Hyperdyne pour ses contributions technologiques, mais vous êtes préoccupé par la dépendance croissante des colonies à ses technologies. | Vous reconnaissez Omni-Tech pour ses efforts en terraformation, mais les impacts environnementaux à long terme restent préoccupants. | Vous reconnaissez Gemini pour ses méthodes efficaces, mais l'impact environnemental de ses activités est une source de débat. | Vous reconnaissez KMCC pour son importance industrielle, mais ses pratiques d'exploitation soulèvent des questions éthiques. |
-| 45-62| **-**         | Vous critiquez Hyperdyne pour ses pratiques d'exploitation des ressources et des travailleurs, notamment dans les colonies frontalières. | Vous critiquez Omni-Tech pour les risques environnementaux potentiels liés à ses méthodes de terraformation, parfois jugées agressives. | Vous critiquez Gemini pour ses opérations minières priorisant le profit au détriment de la protection des environnements exploités. | Vous critiquez KMCC pour ses pratiques impitoyables qui négligent les conséquences écologiques et sociales de ses activités. |
-| 56-66| **--**        | Vous considérez Hyperdyne comme une entité impitoyable, privilégiant les profits au détriment du bien-être des individus et des écosystèmes. | Vous considérez Omni-Tech comme une entreprise exploitante qui monopolise les ressources sans égard pour l'éthique ou les écosystèmes locaux. | Vous considérez Gemini comme une force de destruction, épuisant et contaminant les exoplanètes pour des gains à court terme. | Vous considérez KMCC comme un symbole de cupidité, détruisant des habitats et négligeant la sécurité des travailleurs pour maximiser ses profits. |
+| D66  | OPINION       | HYPERDYNE                                                                                                                                                 | OMNI-TECH                                                                                                                                     | GEMINI EXOPLANET                                                                                                                      | KELLAND MINING                                                                                                                                    |
+|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11-16| **++**        | Vous percevez Hyperdyne comme un pionnier de l'innovation technologique, vital pour l'expansion et la survie des colonies spatiales.                      | Vous percevez Omni-Tech comme une pionnière courageuse, dévouée à la terraformation et au développement de technologies durables.             | Vous percevez Gemini comme un leader de l'innovation minière spatiale, apportant des technologies essentielles à l'expansion humaine. | Vous percevez KMCC comme un pilier industriel crucial pour fournir des ressources essentielles aux colonies spatiales.                            |
+| 21-34| **+**         | Vous appréciez Hyperdyne pour sa capacité à repousser les frontières de la science et pour créer des opportunités dans des régions éloignées.             | Vous appréciez Omni-Tech pour son esprit d'indépendance et ses innovations en terraformation.                                                 | Vous appréciez Gemini pour ses avancées en technologie minière et sa collaboration avec de grands acteurs industriels.                | Vous appréciez KMCC pour sa robustesse et son rôle clé dans l'économie spatiale grâce à ses opérations minières efficaces.                        |
+| 35-44| **\***        | Vous reconnaissez Hyperdyne pour ses contributions technologiques, mais vous êtes préoccupé par la dépendance croissante des colonies à ses technologies. | Vous reconnaissez Omni-Tech pour ses efforts en terraformation, mais les impacts environnementaux à long terme restent préoccupants.          | Vous reconnaissez Gemini pour ses méthodes efficaces, mais l'impact environnemental de ses activités est une source de débat.         | Vous reconnaissez KMCC pour son importance industrielle, mais ses pratiques d'exploitation soulèvent des questions éthiques.                      |
+| 45-62| **-**         | Vous critiquez Hyperdyne pour ses pratiques d'exploitation des ressources et des travailleurs, notamment dans les colonies frontalières.                  | Vous critiquez Omni-Tech pour les risques environnementaux potentiels liés à ses méthodes de terraformation, parfois jugées agressives.       | Vous critiquez Gemini pour ses opérations minières priorisant le profit au détriment de la protection des environnements exploités.   | Vous critiquez KMCC pour ses pratiques impitoyables qui négligent les conséquences écologiques et sociales de ses activités.                      |
+| 56-66| **--**        | Vous considérez Hyperdyne comme une entité impitoyable, privilégiant les profits au détriment du bien-être des individus et des écosystèmes.              | Vous considérez Omni-Tech comme une entreprise exploitante qui monopolise les ressources sans égard pour l'éthique ou les écosystèmes locaux. | Vous considérez Gemini comme une force de destruction, épuisant et contaminant les exoplanètes pour des gains à court terme.          | Vous considérez KMCC comme un symbole de cupidité, détruisant des habitats et négligeant la sécurité des travailleurs pour maximiser ses profits. |
 
 **Corps armées**
 
