@@ -1334,7 +1334,8 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 | 49       | Une chasse est organisée pour retrouver un fugitif responsable d’un sabotage majeur.                                             |
 | 50       | Une tempête d’astéroïdes imprévue oblige à évacuer des secteurs entiers sous la menace imminente d’impacts dévastateurs.         |
 
-# PNJ's
+## PNJ's
+### TABLEAU DES TEMPLATES DE PNJ'S
 
 | **Rôle**                                           | For | Agi | Esp | Emp | San | **Compétences**                                                                                      | **Talent**                                                           | **Équipement**                                                                                                                                          |
 |----------------------------------------------------|-----|-----|-----|-----|-----|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
