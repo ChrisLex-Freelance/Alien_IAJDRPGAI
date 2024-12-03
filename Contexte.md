@@ -171,7 +171,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Influence modérée : Utilisez l'influence de la famille pour offrir au personnage des opportunités ou des choix difficiles, comme choisir entre ses obligations familiales et ses aspirations personnelles. Vous pouvez également exploiter les connexions familiales pour introduire des alliés ou des adversaires dans l’histoire.
 - Famille très influente : L'influence de la famille peut être un moteur puissant pour l'intrigue. Peut-être que le personnage est contraint de suivre des ordres ou des directives familiales qui vont à l'encontre de ses propres désirs. Vous pourriez également introduire des conflits où l'influence familiale devient une arme à double tranchant, attirant autant d’ennemis que d’alliés.
 
-#### TABLES D'ENVIRONNEMENTS FAMILIALE
+#### TABLES D'ENVIRONNEMENT FAMILIAL
 
 | D6  | PARENTS                                             | D6  | RELATION AVEC LES PARENTS                                |
 |-----|-----------------------------------------------------|-----|----------------------------------------------------------|
