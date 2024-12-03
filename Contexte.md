@@ -41,6 +41,8 @@ Ce contexte peut servir pour la génération d'un scénario ou celle d'un person
 | **MedTech Systems**    | Spécialisée dans les technologies médicales avancées, MedTech Systems est un acteur majeur dans le développement de soins médicaux adaptés aux environnements spatiaux. Ses recherches sauvent des vies, mais son association avec Weyland-Yutani pour le développement d’armes biologiques a terni sa réputation. Ses services, bien que précieux, sont souvent hors de prix pour les colonies indépendantes. |
 | **Nova Dynamics**      | Leader émergent dans le domaine de l’exploration spatiale automatisée, Nova Dynamics développe des sondes et des technologies de cartographie destinées à explorer des systèmes stellaires inconnus. Ses innovations sont saluées, mais ses ambitions de privatiser les données d'exploration pour un usage exclusif inquiètent les scientifiques et explorateurs indépendants. |
 
+## PERSONNAGE
+
 ### ÂGE
 
 il y a un aspect de la création de personnage que je trouve regrettable, surtout dans le cadre des campagnes : la suppression de la sélection de la tranche d'âge des personnages, au profit d'un simple profil de Gamin.
@@ -194,7 +196,7 @@ L'ajout des souvenirs en tant qu'éléments de contexte est utile pour renforcer
 
 De plus, ces souvenirs permettent aux joueurs de s'aventurer dans la peau de personnages dits "mauvais" d'une manière nuancée et crédible, en ancrant leurs actions dans un passé qui justifie leurs choix et comportements. Un personnage peut afficher des attitudes cruelles, égoïstes ou même violentes, non par nature, mais en raison des épreuves et traumatismes qu'il a traversés. Les souvenirs offrent un contexte à ces comportements, révélant des raisons "légitimes" pour expliquer leur noirceur. Peut-être ce personnage a-t-il dû trahir un être cher pour survivre, a-t-il été témoin de trahisons répétées de la part de ceux qu'il aimait, ou a-t-il été manipulé par la Compagnie au point de devenir insensible. Ces expériences forgent un individu qui, pour se protéger ou éviter de revivre des situations douloureuses, choisit des actions moralement discutables. Les souvenirs permettent ainsi d'explorer la complexité du mal non pas comme une fin en soi, mais comme un mécanisme de survie façonné par un univers cruel. Cela enrichit le récit, invitant les joueurs à réfléchir plus profondément sur les thèmes de la moralité, de la survie et de la nature humaine.
 
-**Quand cela s'est-il produit ?**
+#### QUAND CELA S'EST-il PRODUIT
 
 Le moment où le souvenir s'est formé est crucial pour comprendre l'impact qu'il a eu sur le personnage.
 
@@ -207,7 +209,7 @@ Le moment où le souvenir s'est formé est crucial pour comprendre l'impact qu'i
 | 5   | Il y a quelques années, un événement que vous essayez d'oublier.                |
 | 6   | Récemment, il y a seulement quelques semaines.                                  |
 
-**Où cela s'est-il passé ?**
+#### OU CELA S'EST-IL PASSE
 
 Les lieux reflètent le danger constant de la vie dans l'espace.
 
@@ -226,7 +228,7 @@ Les lieux reflètent le danger constant de la vie dans l'espace.
 | 11  | Dans un secteur industriel de la Station Gateway, entouré de travailleurs épuisés.    |
 | 12  | À l'intérieur d'une navette de secours, seul dans l'immensité de l'espace.            |
 
-**Qui était présent ?**
+#### QUI ETAIT PRESENT
 
 Les personnes impliquées façonnent la complexité psychologique du personnage.
 
@@ -245,7 +247,7 @@ Les personnes impliquées façonnent la complexité psychologique du personnage.
 | 11  | Un étranger rencontré lors d'une escale, qui en savait trop.          |
 | 12  | Personne, vous étiez seul face à l'horreur.                           |
 
-**Que s'est-il passé ?**
+#### QUE S'EST-IL PASSE
 
 Les événements définissent les traumatismes et dilemmes moraux des personnages.
 
@@ -264,7 +266,7 @@ Les événements définissent les traumatismes et dilemmes moraux des personnage
 | 11  | Vous avez été forcé de commettre l'impensable pour sauver votre peau.                |
 | 12  | Vous avez vu quelque chose d'inexplicable qui vous hante encore.                     |
 
-**Conséquences morales**
+#### CONSEQUENCES MORALE
 
 Les dilemmes moraux reflètent les choix difficiles que les personnages ont dû faire.
 
@@ -277,7 +279,7 @@ Les dilemmes moraux reflètent les choix difficiles que les personnages ont dû 
 | 5   | Vous avez dénoncé quelqu'un à la Compagnie pour sauver votre peau.                                 |
 | 6   | Vous avez été contraint de renier vos propres principes pour vivre un jour de plus.                |
 
-**Qu'est-ce que vous avez perdu ?**
+#### QU'EST-CE QUE VOUS AVEZ PERDU
 
 L'univers d'Alien est synonyme de perte.
 
@@ -290,7 +292,7 @@ L'univers d'Alien est synonyme de perte.
 | 5   | Votre liberté, contraint de suivre les ordres de la Compagnie.            |
 | 6   | Votre identité, vous êtes devenu une autre personne depuis cet événement. |
 
-**Comment cela vous a-t-il affecté ?**
+#### COMMENT CELA VOUS A-T-IL AFFECTE
 
 L'impact psychologique est essentiel dans l'univers d'Alien.
 
@@ -303,9 +305,9 @@ L'impact psychologique est essentiel dans l'univers d'Alien.
 | 5   | Vous avez enfoui ce souvenir au fond de votre esprit, mais il resurgit dans des moments de stress.       |
 | 6   | Vous avez choisi de devenir insensible à la souffrance, agissant avec froideur et détachement.           |
 
-#### Pour aller plus loin
+**Pour aller plus loin**
 
-**Implication de la Compagnie**
+#### IMPLICATION DE LA COMPAGNIE
 
 | D6  | Implication                                                                                              |
 |-----|----------------------------------------------------------------------------------------------------------|
@@ -316,7 +318,7 @@ L'impact psychologique est essentiel dans l'univers d'Alien.
 | 5   | Vous avez reçu une promotion suspecte peu de temps après.                                                |
 | 6   | La Compagnie a utilisé cet événement comme une opportunité pour tester votre loyauté.                    |
 
-**Dangers de l'espace**
+#### DANGERS DE L'ESPACE
 
 | D6  | Danger                                                                                                   |
 |-----|----------------------------------------------------------------------------------------------------------|
