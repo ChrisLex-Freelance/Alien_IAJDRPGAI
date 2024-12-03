@@ -919,7 +919,7 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 |                                   | Chambre de transfert       | Gère le déplacement et la manipulation des embryons.                            |
 |                                   | Systèmes de régulation     | Maintiennent les conditions optimales pour la conservation des embryons.        |
 
-**Description des incidents**
+### DESCRITPION DES INCIDENTS
 
 | N°  | INCIDENT                                    | DESCRIPTION                                                                                                         |
 |-----|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -975,7 +975,7 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 | 51  | **Contamination biologique**                | Fuite ou intrusion menaçant la sécurité biologique.                                                                 |
 | 52  | **Sabotage**                                | Dommages intentionnels affectant les systèmes de stockage des embryons.                                             |
 
-**Gestion des états de l'infrastructure**
+### GESTION DES ETATS DE L'INFRASTRUCTURE
 
 | ÉTAT                  | DESCRIPTION                                                                      | IMPACT SUR LES OPÉRATIONS                             | NIVEAU D'URGENCE DE RÉPARATION | MODIFICATEUR DE TEST | MODIFICATEUR AU TEMPS DE RÉPARATION |
 |-----------------------|----------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------|----------------------|-------------------------------------|
@@ -986,7 +986,7 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 | **Critique**          | État presque inutilisable, fonctionnement partiel ou intermittent.               | Pannes fréquentes, impact majeur sur les opérations.  | Très élevé                     | -3D6                 | +4D6                                |
 | **Hors service**      | Infrastructure inutilisable, nécessitant une intervention immédiate.             | Fonctionnement totalement interrompu.                 | Urgent                         | -3D6                 | +5D6                                |
 
-##CONTACTS
+## CONTACTS
 
 Cette partie est une adaptation des régles de contact présentes dans Mutant Year Zéro : Elysium, et qui vise encore une fois à augmenter l'immersion des personnages en leur donnant plus de profondeur avec des relations. Les contacts représentent des alliés, des informateurs ou des spécialistes que le personnage peut solliciter pour obtenir une aide précieuse. Ces contacts sont souvent coûteux à activer et peuvent entraîner des risques ou des complications.
 A la création un personnage dispose de 3 Contacts au choix.
