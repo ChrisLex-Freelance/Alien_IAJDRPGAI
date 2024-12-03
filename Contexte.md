@@ -47,23 +47,25 @@ Ce contexte peut servir pour la génération d'un scénario ou celle d'un person
 
 il y a un aspect de la création de personnage que je trouve regrettable, surtout dans le cadre des campagnes : la suppression de la sélection de la tranche d'âge des personnages, au profit d'un simple profil de Gamin.
 
-**Simplicité vs. richesse narrative**
-La décision de simplifier la création de personnage en supprimant la tranche d'âge s'explique par la volonté de faciliter l'accès au jeu, particulièrement dans le mode cinématique, où l'action rapide et les choix simples sont essentiels pour maintenir le rythme. Dans ce contexte, l'archétype du Gamin permet d'introduire un personnage jeune et vulnérable, ce qui renforce l'intensité dramatique des parties.
+#### SIMPLICITE VS RICHESSE NARRATIVE
+La décision de simplifier la création de personnage en supprimant la tranche d'âge par rapport au YZE "générique" s'explique par la volonté de faciliter l'accès au jeu, particulièrement dans le mode cinématique, où l'action rapide et les choix simples sont essentiels pour maintenir le rythme. Dans ce contexte, l'archétype du Gamin permet d'introduire un personnage jeune et vulnérable, ce qui renforce l'intensité dramatique des parties.
 
 Cependant, lorsqu'on passe au mode campagne, où l'histoire se développe sur plusieurs sessions et où les personnages évoluent, cette simplification peut devenir une limite. Dans d'autres jeux utilisant le moteur Year Zero Engine (YZE), la tranche d'âge joue un rôle dans la définition des personnages, influençant non seulement leurs capacités, mais aussi leur place et leur rôle dans l'histoire. L'âge d'un personnage peut déterminer ses compétences, sa sagesse, et son comportement face aux événements, ce qui est particulièrement pertinent dans l'univers d'Alien.
 
-**Proposer une nouvelle étape de création de personnage**
+#### PROPOSER UNE NOUVELLE ETAPE DE CREATION
 
 Pour enrichir l'expérience des campagnes, nous proposons de réintégrer la sélection de la tranche d'âge comme une étape supplémentaire dans la création de personnage pour Alien. Cette étape permettrait de choisir entre trois tranches d'âge : Jeune, Adulte, et Ancien, chacune ayant un impact direct sur les attributs, les compétences, et les talents du personnage.
 
 Ce système reflète les différences d'âge non seulement dans les capacités physiques et mentales, mais aussi dans l'accumulation de talents et d'expériences de vie. Les jeunes personnages, bien que plus robustes, auront accès à moins de talents, reflétant leur manque d'expérience. À l'inverse, les personnages plus âgés seront moins performants physiquement, mais compenseront par un plus grand nombre de compétences et de talents, témoins d'une vie riche en expériences.
 
-**Une approche équilibrée et immersive**
+#### UNE APPROCHE EQUILIBREE ET IMMERSIVE
 Réintroduire la tranche d'âge dans le processus de création de personnage apporte une richesse narrative essentielle pour les campagnes de longue durée dans Alien. Cela offre aux joueurs la possibilité d'explorer des personnages plus diversifiés, dont les motivations et les compétences sont en partie façonnées par leur âge. Par exemple, un Ancien pourrait être un survivant endurci, plein de sagesse mais limité physiquement, tandis qu'un Jeune pourrait être un novice plein de potentiel, encore en apprentissage de la dure réalité de l'univers Alien.
 
 De plus, cette modification n'alourdie pas excessivement les règles. Elle ajoute une couche de profondeur qui permet de mieux s'immerger dans les dynamiques interpersonnelles, les conflits générationnels, et les défis propres à chaque âge, tout en maintenant l'accessibilité du jeu. 
 
 **Si un joueur souhaite incarner un Gamin**, la tranche d'âge sera automatiquement définie comme **Jeune**, ce qui respecte l'esprit du jeu tout en laissant une plus grande liberté aux autres joueurs.
+
+#### TABLE DES TRANCHES D'ÂGES
 
 | TRANCHE D'ÂGE | ÂGE            | POINTS D'ATTRIBUTS | POINTS DE COMPÉTENCES | TALENTS                                                                 |
 |---------------|----------------|--------------------|-----------------------|-------------------------------------------------------------------------|
@@ -73,17 +75,17 @@ De plus, cette modification n'alourdie pas excessivement les règles. Elle ajout
 
 ### FOYER FAMILLIALE
 
-#### L'Importance d'un arrière-plan familial
+#### IMPORTANCE D'UN ARRIERE-PLAN FAMILIAL
 Pour illustrer l'importance d'un arrière-plan familial riche, il suffit de se pencher sur l'arc narratif de Ellen Ripley dans la saga Alien. Dans le film Aliens (1986), Ripley apprend que sa fille, Amanda, est décédée de vieillesse pendant son sommeil cryogénique. Ce détail, qui semble au départ n'être qu'une note tragique, devient un moteur puissant pour le personnage. C'est cette perte qui pousse Ripley à se rapprocher de la petite Newt, qu'elle finit par considérer comme une fille de substitution. Sans cette profondeur émotionnelle liée à son passé familial, la décision de Ripley de risquer sa vie pour sauver Newt perdrait une grande partie de sa force et de son impact.
 
 Cet exemple démontre à quel point un passé familial bien défini peut enrichir non seulement un personnage, mais aussi l'histoire dans son ensemble. C'est dans cet esprit que je propose l'utilisation d'une table d’environnement familial pour les personnages du JDR Alien, afin de leur offrir une profondeur similaire à celle de Ripley.
 
-#### Comment utiliser cette table
+**Comment utiliser cette table**
 Chaque personnage peut être défini plus en détail en effectuant un jet d'1D6 dans chacune des catégories de cette table. Par exemple, un personnage pourrait se révéler être un orphelin ayant grandi dans des conditions de pauvreté avec un frère avec lequel il entretient des relations tendues. Ce contexte familial complexe fournit non seulement une base solide pour le développement du personnage, mais il peut également influencer ses décisions, ses motivations et ses relations avec les autres membres du groupe.
 
 Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés dans le déroulement de l'histoire. Un maître de jeu pourrait exploiter ces informations pour introduire des intrigues secondaires ou des dilemmes moraux, créant ainsi une profondeur narrative qui fait souvent défaut dans les campagnes où les personnages sont moins développés.
 
-#### Les parents
+#### LES PARENTS
 
 **Conseils d'interprétation pour les joueurs**
 
@@ -97,7 +99,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Un parent vivant : Utilisez ce parent encore en vie comme un levier narratif. Peut-être est-il en danger, ou peut-être a-t-il des informations cruciales qui pourraient pousser le personnage à prendre des décisions difficiles. Le parent disparu pourrait aussi être une source de mystère ou de motivation, incitant le personnage à enquêter sur ce qui s’est réellement passé.
 - Deux parents vivants : Les parents peuvent être utilisés pour introduire des éléments de conflit familial. Peut-être ne soutiennent-ils pas les choix de vie du personnage, ce qui pourrait créer des tensions. Ils pourraient également être des victimes potentielles ou des personnages à sauver, ajoutant une dimension émotionnelle à la mission.
 
-#### Relation avec les parents
+##### RELATIONS AVEC LES PARENTS
 
 **Conseils d’interprétation pour les joueurs**
 
@@ -111,7 +113,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Relations normales : Utilisez cette dynamique pour apporter un soutien modéré au personnage, comme des conseils de la part des parents ou une aide ponctuelle. Cela peut également être l’occasion de montrer que même des relations "normales" peuvent cacher des problèmes plus profonds, que le maître de jeu peut exploiter pour complexifier l’histoire.
 - Relations très proches et de soutient : Le soutien parental peut devenir une source de motivation ou de confort pour le personnage, mais aussi une faiblesse potentielle si ses parents sont menacés. Vous pouvez jouer sur le thème du sacrifice familial ou sur le besoin de protéger ses proches à tout prix, ce qui pourrait entraîner le personnage dans des situations périlleuses.
 
-#### Frères/Sœurs
+#### FRERES/SOEURS
 
 **Conseils d'interprétation pour les joueurs**
 
@@ -127,7 +129,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Deux frères et/ou sœurs : Les relations familiales peuvent être explorées plus en profondeur, avec des alliances ou des rivalités au sein de la fratrie qui influencent les décisions du personnage. Le maître de jeu peut également jouer sur le thème de la loyauté familiale, par exemple en mettant le personnage face à un choix difficile entre sa mission et sa famille.
 - Trois frères et/ou sœurs ou plus : Une grande famille offre de nombreuses possibilités narratives. Peut-être que certains membres de la famille sont en conflit avec d'autres, créant ainsi des dilemmes pour le personnage. Vous pourriez également introduire des éléments où la famille joue un rôle central, comme un héritage familial ou une dette à honorer.
 
-#### Relation avec les frères/sœurs
+##### REALTIONS AVEC LES FRERES/SOEURS
 
 **Conseils d’interprétation pour les joueurs**
 
@@ -141,7 +143,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Relations normales : Utilisez cette dynamique pour créer des situations où le personnage doit faire face à des conflits familiaux mineurs mais significatifs, comme une décision concernant un héritage ou un soutien à apporter à un membre de la famille en difficulté. Ces situations peuvent ajouter une profondeur supplémentaire à l’histoire sans la dominer complètement.
 - Relations très proches et de soutient : Les relations étroites avec les frères et sœurs peuvent être une force pour le personnage, mais aussi une vulnérabilité. Le maître de jeu peut introduire des situations où ces frères et sœurs deviennent des cibles ou sont mis en danger, obligeant le personnage à choisir entre ses obligations familiales et les objectifs de la mission. Ces relations peuvent également servir de levier émotionnel pour pousser le personnage à accomplir des actes héroïques ou, au contraire, à prendre des décisions irrationnelles pour protéger ses proches.
 
-#### Situation économique familiale
+#### SITUATION FAMILIALE
 
 **Conseils d'interprétation pour les joueurs**
 
@@ -155,7 +157,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Classe moyenne : Cette stabilité apparente peut être remise en question par des événements qui menacent la sécurité financière du personnage ou de sa famille. Par exemple, une faillite soudaine, un héritage incertain ou des dettes familiales pourraient perturber cette situation et pousser le personnage à prendre des mesures drastiques.
 - Aisée : Utilisez la richesse familiale pour introduire des éléments de jeu liés au pouvoir et à l'influence. Par exemple, la famille pourrait être ciblée par des rivaux ou impliquée dans des scandales financiers. Vous pourriez également jouer sur le thème du déclin familial, où le personnage doit choisir entre préserver la fortune familiale ou suivre ses propres idéaux.
 
-#### Influence familiale
+#### INFLUENCE FAMILIALE
 
 **Conseils d'interprétation pour les joueurs**
 
@@ -169,7 +171,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - Influence modérée : Utilisez l'influence de la famille pour offrir au personnage des opportunités ou des choix difficiles, comme choisir entre ses obligations familiales et ses aspirations personnelles. Vous pouvez également exploiter les connexions familiales pour introduire des alliés ou des adversaires dans l’histoire.
 - Famille très influente : L'influence de la famille peut être un moteur puissant pour l'intrigue. Peut-être que le personnage est contraint de suivre des ordres ou des directives familiales qui vont à l'encontre de ses propres désirs. Vous pourriez également introduire des conflits où l'influence familiale devient une arme à double tranchant, attirant autant d’ennemis que d’alliés.
 
-#### Tables d’environnement familial
+#### TABLES D'ENVIRONNEMENTS FAMILIALE
 
 | D6  | PARENTS                                             | D6  | RELATION AVEC LES PARENTS                                |
 |-----|-----------------------------------------------------|-----|----------------------------------------------------------|
