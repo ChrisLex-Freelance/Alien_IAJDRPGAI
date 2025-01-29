@@ -10,6 +10,13 @@ Ce projet est un regroupement de différent éléments de contextes pour le Jeu 
 # OBJECTIF
 Apporter des éléments de contexte complémentaires pour enrichir l'expérience de jeu. Ce fichier peut être utilisé comme support pour alimenter le contexte d'un personnage, d'un scénario, d'une campagne ou pour incrémenter le contexte d'un prompt avec des informations propres à l'univers d'Alien.
 
+## GENERATEUR ONLINE
+Une partie des éléments de contexte développé dans le cadre de ce projet ont été utilisé pour constituer des générateurs online et disponible sur le site de [Chartopia](https://chartopia.d12dev.com/) :
+
+- [PITCH GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/101361/)
+- [NPC GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/102139/)
+- [MEMORY GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/100558/)
+
 ## [CONTEXTE GENERAL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Contexte.md#contexte)
 ### [GEOGRAPHIE GALACTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Contexte.md#geographie-galactique)
 ### [ETATS / NATIONS](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Contexte.md#etatsnations)
