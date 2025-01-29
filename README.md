@@ -4,11 +4,11 @@ Cet article est sous licence Creative Commons Attribution - Pas d'utilisation co
 # INTRODUCTION
 Ce projet est un regroupement de différent éléments de contextes pour le Jeu de Rôle Alien.
 
-# OBJECTIF
-Apporter des éléments de contexte complémentaires pour enrichir l'expérience de jeu. Ce fichier peut être utilisé comme support pour alimenter le contexte d'un personnage, d'un scénario, d'une campagne ou pour incrémenter le contexte d'un prompt avec des informations propres à l'univers d'Alien.
-
 - https://alien-rpg.com/
 - https://frialigan.se/en/games/alien/
+
+# OBJECTIF
+Apporter des éléments de contexte complémentaires pour enrichir l'expérience de jeu. Ce fichier peut être utilisé comme support pour alimenter le contexte d'un personnage, d'un scénario, d'une campagne ou pour incrémenter le contexte d'un prompt avec des informations propres à l'univers d'Alien.
 
 ## [CONTEXTE GENERAL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Contexte.md#contexte)
 ### [GEOGRAPHIE GALACTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Contexte.md#geographie-galactique)
