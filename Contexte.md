@@ -591,110 +591,110 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **MACHINE LOURDES**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | - Comprendre les bases du fonctionnement d’une machine lourde. - Conduire un véhicule massif en ligne droite sans accident. - Manipuler une machine simple avec des instructions claires. - Identifier les composants basiques d’un moteur ou d’un mécanisme. | - Piloter une machine lourde dans un environnement difficile. - Effectuer une réparation mineure sur un équipement en panne. - Charger ou décharger une cargaison avec une grue de précision. - Manœuvrer une machine lourde sous stress ou dans une situation dangereuse. |
+| 2/5 (Confirmé)        | - Conduire un véhicule lourd en terrain normal sans problème. - Réaliser une réparation simple avec des outils basiques. - Manipuler une machine industrielle standard (grue, excavatrice). - Diagnostiquer un problème mécanique évident. | - Réparer une panne plus complexe sous pression. - Effectuer une manœuvre de précision avec une grue ou un bras mécanique. - Piloter une machine lourde sur un terrain instable ou dangereux. |
+| 3/5 (Compétent)       | - Réparer et entretenir un véhicule ou une machine avec les bons outils. - Piloter une machine lourde avec efficacité dans un environnement difficile. - Manœuvrer un véhicule ou un robot lourd avec précision. - Improviser une réparation temporaire pour éviter une panne complète. | - Faire fonctionner une machine complexe sans formation préalable. - Réparer un système gravement endommagé. - Utiliser une machine lourde de façon défensive ou offensive (démolition, attaque). |
+| 4/5 (Expert)          | - Réparer n’importe quelle machine lourde avec des pièces de rechange. - Piloter un véhicule industriel dans des conditions extrêmes. - Modifier une machine pour la rendre plus performante. - Diagnostiquer immédiatement une panne complexe. | - Construire une machine lourde fonctionnelle à partir de pièces détachées. - Faire fonctionner une machine hors-service en improvisant une solution. - Manœuvrer un véhicule lourd dans un combat ou une situation critique. |
+| 5/5 (Maître)          | - Réparer une machine lourde même en état critique. - Piloter un engin gigantesque avec une maîtrise parfaite. - Concevoir et modifier des machines industrielles avancées. - Récupérer des pièces d’un équipement pour en réparer un autre sans erreur. - Utiliser une machine lourde comme une arme improvisée avec précision. | - Réparer ou recréer un système complexe sans schéma technique. - Conduire un véhicule massif dans une situation apparemment impossible. - Faire fonctionner un engin en panne totale en trouvant une solution inédite. |
 
 **ENDURANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **MOBILITE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **COMBAT A DISTANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **PILOTAGE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **OBSERVATION**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **SURVIE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **COMTECH**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **COMMANDEMENT**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **MANIPULATION**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 **SOINS MEDICAUX**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-|   | | |
-|   | | |
-|   | | |
-|   | | |
-|   | | |
+| 1/5 (Novice/Débutant) | | |
+| 2/5 (Confirmé)        | | |
+| 3/5 (Compétent)       | | |
+| 4/5 (Expert)          | | |
+| 5/5 (Maître)          | | |
 
 ### TALENTS
 
