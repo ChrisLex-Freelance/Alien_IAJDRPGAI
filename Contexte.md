@@ -552,22 +552,22 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 5/5 (Élégance Parfaite)| - Éviter instinctivement la plupart des dangers physiques. - Exécuter des mouvements acrobatiques spectaculaires avec aisance. - Réagir en une fraction de seconde à toute situation. - Manier avec fluidité n’importe quel objet nécessitant de la précision. - Se déplacer sans effort apparent, quelle que soit la difficulté du terrain. | - Effectuer des mouvements jugés impossibles par la physique normale. - Esquiver une attaque de dernière seconde sans visibilité préalable. - Réaliser une action nécessitant une rapidité quasi surnaturelle. |
 
 **ESPRIT**
-| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
-|----------------|------------------------------------------------|-----------------------------|
-| 1/5   | | |
-| 2/5   | | |
-| 3/5   | | |
-| 4/5   | | |
-| 5/5   | | |
+| Niveau	          | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|------------------|------------------------------------------------|-----------------------------|
+| 1/5 (Limité)     | - Se souvenir d’informations simples du quotidien. - Comprendre un concept de base s’il est bien expliqué. - Résoudre des problèmes évidents avec du temps. - Repérer des détails visibles s’ils sont flagrants.                                                            | - Analyser une situation complexe. - Résoudre un problème logique sous pression. - Identifier un mensonge subtil ou une incohérence cachée. - Lire et comprendre un texte technique. |
+| 2/5 (Moyen)      | - Se rappeler d’informations essentielles sur un sujet familier. - Suivre des instructions précises sans erreur majeure. - Identifier un élément anormal dans un environnement connu. - Comprendre des concepts modérément abstraits.                                    | - Trouver une solution rapide à un problème pratique. - Déduire un schéma de pensée caché (mensonge, manipulation). - Identifier des indices dans une scène sans analyse poussée. |
+| 3/5 (Intelligent)| - Mémoriser des informations complexes avec peu d’effort. - Analyser une situation pour en tirer des conclusions pertinentes. - Comprendre et appliquer rapidement un principe technique ou scientifique. - Lire une scène de crime ou un lieu et y voir des indices utiles. | - Résoudre une énigme compliquée sans aide. - Comprendre immédiatement un plan ou un stratagème en observant les indices. - Déduire des intentions cachées à partir d’éléments subtils. |
+| 4/5 (Brillant)   | - Résoudre rapidement des problèmes complexes dans un environnement stressant. - Apprendre et comprendre un sujet inconnu en peu de temps. - Déchiffrer des messages codés ou des langages inconnus avec peu de données. - Repérer des connexions invisibles entre des éléments séparés. - Trouver des solutions à des problèmes qui semblent insolubles. | - Interpréter des indices flous pour prévoir une situation à venir. - Concevoir des stratégies complexes en un temps réduit. - Repérer des manipulations intellectuelles extrêmement fines. |
+| 5/5 (Génie)      | - Comprendre et analyser des sujets extrêmement complexes sans effort. - Résoudre des problèmes avec des solutions créatives et inédites. - Déduire des conclusions précises à partir d’informations minimes. - Repérer immédiatement les failles d’un raisonnement ou d’un plan. - Concevoir une stratégie parfaite en anticipant les mouvements ennemis. | - Résoudre instantanément une énigme normalement impossible. - Prédire avec précision le comportement d’un individu ou d’un groupe en fonction des données disponibles. - Inventer une technologie ou un concept révolutionnaire à partir de rien. |
 
 **EMPATHIE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5   | | |
-| 2/5   | | |
-| 3/5   | | |
-| 4/5   | | |
-| 5/5   | | |
+| 1/5 (Distant/Maladroit socialement)   | - Tenir une conversation de base sans froisser son interlocuteur. - Comprendre quand quelqu’un est visiblement heureux, triste ou en colère. - Demander un service simple à une personne bien disposée. - Interagir normalement avec des proches sans créer de malaise. | - Distinguer une émotion cachée ou dissimulée. - Influencer l’état émotionnel de quelqu’un. - Gagner la confiance d’un inconnu. - Détecter un mensonge bien dissimulé. |
+| 2/5 (Sociable)   | - Tenir une discussion agréable avec un inconnu sans créer de malaise. - Convaincre quelqu’un d’effectuer une tâche simple en jouant sur la logique ou la sympathie. - Comprendre si une personne est nerveuse ou mal à l’aise. - Identifier un malaise dans une conversation. | - Détecter une manipulation subtile dans un échange verbal. - Amener quelqu’un à se confier sur un sujet sensible. - Persuader un individu de faire un effort modéré pour soi. |
+| 3/5 (Charismatique)  | - Lire facilement les émotions d’une personne, même si elle essaie de les masquer. - Convaincre une personne hésitante d’accepter une demande raisonnable. - Amener une personne réticente à parler en jouant sur sa sensibilité. - Désamorcer une situation tendue par le dialogue. - Faire preuve d’une grande écoute et mettre son interlocuteur à l’aise. | - Mentir avec subtilité à une personne vigilante. - Influencer une décision importante par la parole. - Gérer une foule modérément agitée sans la brusquer. |
+| 4/5 (Magnétique)   | - Inspirer confiance presque instantanément. - Convaincre des personnes opposées à son opinion de reconsidérer leur position. - Manipuler une discussion pour en sortir gagnant sans que l’interlocuteur ne s’en rende compte. - Calmer une situation explosive avec la bonne approche. - Influencer un groupe à travers son charisme naturel. | - Retourner un adversaire hésitant à son avantage. - Pousser quelqu’un à trahir une conviction par pure persuasion. - Manipuler un individu à long terme sans qu’il ne s’en aperçoive. |
+| 5/5 (Légendaire)  | - Influencer massivement l’opinion d’un groupe ou d’une foule. - Lire une personne comme un livre ouvert, quelles que soient ses défenses. - Convaincre un adversaire acharné de changer de camp. - Pousser une personne à agir contre ses propres intérêts de manière inconsciente. - Maintenir un contrôle psychologique profond sur un individu fragile. | - Manipuler une nation ou un mouvement social à travers son influence. - Retourner un ennemi mortel en allié fidèle. - Faire d’un mensonge une vérité incontestable pour un interlocuteur. |
 
 ### COMPETENCES
 
