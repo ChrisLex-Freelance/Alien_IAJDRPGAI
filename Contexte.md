@@ -609,11 +609,11 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Frapper un adversaire immobile ou non défensif. - Se défendre maladroitement contre une attaque simple. - Saisir un ennemi non entraîné dans une lutte basique. - Porter un coup de poing ou de pied avec peu de technique. | - Se battre efficacement contre un adversaire entraîné. - Parer une attaque rapide ou puissante. - Maintenir une prise sur un adversaire qui se débat. - Réagir correctement face à plusieurs assaillants. |
+| 2/5 (Confirmé)        | - Asséner un coup précis contre un adversaire non défendu. - Bloquer une attaque standard avec un minimum de technique. - Esquiver instinctivement une attaque non maîtrisée. - Dominer un adversaire peu expérimenté dans une lutte. | - Engager un duel contre un adversaire de même niveau. - Tenter une prise pour immobiliser quelqu’un. - Se défendre efficacement contre une attaque bien exécutée. |
+| 3/5 (Compétent)       | - Se battre efficacement contre un adversaire moyen. - Désarmer un combattant inexpérimenté. - Esquiver plusieurs attaques standard en combat rapproché. - Maintenir une prise sur un adversaire de force équivalente. - Enchaîner des attaques sans perdre son équilibre. | - Lutter contre un adversaire plus fort physiquement. - Parer et contre-attaquer dans le même mouvement. - Réagir rapidement à une attaque surprise en mêlée. |
+| 4/5 (Expert)          | - Gérer plusieurs adversaires non entraînés sans difficulté. - Neutraliser rapidement un combattant standard. - Utiliser l’environnement à son avantage en combat rapproché. - Réagir et adapter son style en fonction de l’ennemi. - Lutter contre un adversaire fort et entraîné en ayant l’avantage. | - Dominer un combat face à un expert en combat rapproché. - Se battre dans des conditions défavorables sans être désavantagé. - Désarmer un ennemi armé tout en restant en sécurité. |
+| 5/5 (Maître)          | - Vaincre plusieurs adversaires en mêlée avec une précision chirurgicale. - Réagir instantanément à toute attaque rapprochée. - Prendre le dessus sur un expert sans effort visible. - Désarmer et neutraliser un adversaire d’un seul mouvement fluide. - Anticiper les attaques d’un ennemi avant qu’elles ne soient exécutées. | - Se battre et dominer un maître du combat sans donner l’impression d’effort. - Gérer un combat en mêlée sans se faire toucher. - Effectuer des techniques de combat dignes des plus grands experts martiaux. |
 
 **MOBILITE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
