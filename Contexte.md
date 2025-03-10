@@ -536,11 +536,38 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **FORCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Faible)   |- Soulever un objet léger (moins de 10 kg) sans difficulté. - Effectuer un effort physique modéré sur une courte période. - Porter un sac à dos sans gêne sur quelques heures. - Frapper quelqu’un avec peu d’impact.                            | - Soulever un objet de plus de 20 kg. - Casser une structure fragile à mains nues. - Maintenir un effort physique intense (courir longtemps, soulever quelqu’un). | - Soulever un objet de plus de 20 kg. - Casser une structure fragile à mains nues. - Maintenir un effort physique intense (courir longtemps, soulever quelqu’un).                             |
+| 1/5 (Faible)   |- Soulever un objet léger (moins de 10 kg) sans difficulté. - Effectuer un effort physique modéré sur une courte période. - Porter un sac à dos sans gêne sur quelques heures. - Frapper quelqu’un avec peu d’impact.                            | - Soulever un objet de plus de 20 kg. - Casser une structure fragile à mains nues. - Maintenir un effort physique intense (courir longtemps, soulever quelqu’un). |
 | 2/5 (Moyen)    |- Soulever un objet de 20 kg avec un peu d’effort. - Porter une personne sur une courte distance. - Briser un objet fragile d’un coup bien placé. - Exécuter des tâches physiques exigeantes sur plusieurs heures avec des pauses.                       | - Soulever un poids supérieur à 40 kg. - Démolir une porte en bois ou un meuble solide. - Exercer une prise ferme sur un adversaire en lutte.     |
 | 3/5 (Solide)   |- Soulever 40 kg sans problème. - Briser une planche de bois épaisse d’un coup. - Transporter un objet encombrant sans ralentir excessivement. - Tenir un effort physique prolongé (combat, course avec charge).                                    | - Soulever un poids de plus de 60 kg. - Casser une structure robuste à mains nues. - Projeter un adversaire de corpulence moyenne au sol.         |
 | 4/5 (Puissant) |- Soulever 60 kg sans effort notable. - Démolir une cloison fine avec un bon coup. - Porter une charge lourde (plus de 50 kg) sans ralentir immédiatement. - Maintenir un effort physique intense sans montrer de fatigue apparente.              | - Soulever plus de 80 kg. - Forcer une porte renforcée. - Mettre à terre un adversaire puissant d’un seul coup.                                   |
 | 5/5 (Hercule)  |- Soulever plus de 100 kg sans difficulté apparente. - Démolir un obstacle solide (murs fins, barres métalliques légères). - Manipuler de lourdes charges comme si elles étaient bien plus légères. - Réaliser des exploits physiques surhumains.  | - Briser une structure métallique sans outils. - Porter une charge extrême (>150 kg). - Exécuter un mouvement de force normalement impossible.    |
+
+**AGILITE**
+| Niveau	                | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|------------------------|------------------------------------------------|-----------------------------|
+| 1/5 ((Lent/Maladroit)  | - Marcher et se déplacer normalement sans trébucher. - Lancer un objet avec une précision limitée. - Réagir à une situation normale sans précipitation. - Esquiver un obstacle évident. | - Effectuer une manœuvre rapide sous pression. - Attraper un objet lancé à vitesse moyenne. - Courir en terrain accidenté sans perdre l’équilibre. - Réagir rapidement à une attaque soudaine. |
+| 2/5 (Correct)          | - Courir sur une courte distance sans perte d’équilibre. - Effectuer des gestes précis avec un minimum de contrôle. - Lancer un objet vers une cible proche avec une précision correcte. - Réagir modérément vite en cas de danger imminent. | - Esquiver une attaque rapide. - Réaliser un mouvement acrobatique basique (saut, roulade). - Réagir à une situation stressante sans délai important. |
+| 3/5 (Agile)            | - Se déplacer avec fluidité même en terrain légèrement encombré. - Lancer un objet avec une bonne précision. - Esquiver un obstacle en mouvement sans ralentir. - Sauter avec précision d’un point à un autre. - Réagir instantanément à un stimulus inattendu. | - Éviter une attaque rapide en combat. - Effectuer un mouvement acrobatique avancé. - Récupérer rapidement d’une erreur de mouvement. |
+| 4/5 (Très Agile)       | - Réaliser des mouvements complexes avec fluidité. - Esquiver un coup sans effort visible. - Réagir instinctivement au danger et ajuster sa position. - Effectuer une série d’actions rapides sans hésitation. - Se déplacer rapidement sans perdre le contrôle de ses gestes. | - Esquiver plusieurs attaques consécutives sans ralentir. - Réagir à une situation critique avec une précision parfaite. - Réaliser un saut ou une acrobatie en situation extrême. |
+| 5/5 (Élégance Parfaite)| - Éviter instinctivement la plupart des dangers physiques. - Exécuter des mouvements acrobatiques spectaculaires avec aisance. - Réagir en une fraction de seconde à toute situation. - Manier avec fluidité n’importe quel objet nécessitant de la précision. - Se déplacer sans effort apparent, quelle que soit la difficulté du terrain. | - Effectuer des mouvements jugés impossibles par la physique normale. - Esquiver une attaque de dernière seconde sans visibilité préalable. - Réaliser une action nécessitant une rapidité quasi surnaturelle. |
+
+**ESPRIT**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+| 1/5   | | |
+| 2/5   | | |
+| 3/5   | | |
+| 4/5   | | |
+| 5/5   | | |
+
+**EMPATHIE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+| 1/5   | | |
+| 2/5   | | |
+| 3/5   | | |
+| 4/5   | | |
+| 5/5   | | |
 
 ### COMPETENCES
 
