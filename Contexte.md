@@ -586,6 +586,116 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | **Manipulation**        | Capacité à influencer les autres par la persuasion, l'intimidation ou le mensonge pour obtenir ce que l’on souhaite.                              | EMPATHIE             |
 | **Soins médicaux**      | Compétence pour traiter les blessures, diagnostiquer et soigner des maladies, et effectuer des interventions médicales d'urgence.                 | EMPATHIE             |
 
+#### COMMENT LIRE LA COMPETENCE
+
+**MACHINE LOURDES**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**ENDURANCE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**COMBAT RAPPROCHE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**MOBILITE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**COMBAT A DISTANCE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**PILOTAGE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**OBSERVATION**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**SURVIE**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**COMTECH**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**COMMANDEMENT**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**MANIPULATION**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
+**SOINS MEDICAUX**
+| Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
+|----------------|------------------------------------------------|-----------------------------|
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+|   | | |
+
 ### TALENTS
 
 | **TALENT**                     | **DESCRIPTION**                                                                                                                                                      | **ASSOCIÉ AU PROFIL**   |
