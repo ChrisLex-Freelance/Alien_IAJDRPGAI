@@ -600,11 +600,11 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **ENDURANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Marcher plusieurs heures sur terrain plat sans problème. - Porter une charge légère (moins de 10 kg) sur quelques heures. - Endurer un effort modéré pendant une courte période. - Rester éveillé une nuit sans s’effondrer immédiatement. | - Courir plus de 500 m sans pause. - Supporter le froid ou la chaleur sans protection. - Encaisser une douleur importante sans flancher. - Rester éveillé plus de 24h sans malus sévère. |
+| 2/5 (Confirmé)        | - Marcher toute une journée avec un sac de 10-15 kg. - Supporter un effort physique intense sur plusieurs minutes. - Rester fonctionnel après une nuit blanche. - Encaisser des coups mineurs sans être ralenti. | - Courir plusieurs kilomètres sans ralentir. - Encaisser un choc violent sans s’effondrer. - Endurer plusieurs jours avec peu de nourriture ou d’eau. |
+| 3/5 (Compétent)       | - Marcher 30 km avec une charge de 20 kg sans faiblir. - Courir 5 km avant d’être sérieusement fatigué. - Endurer plusieurs jours sans sommeil avec de courts repos. - Survivre sans nourriture pendant plusieurs jours. - Supporter des blessures modérées sans altération immédiate des performances. | - Endurer plusieurs jours en conditions climatiques extrêmes. - Encaisser des blessures graves et continuer à se battre. - Supporter des privations (faim, soif, fatigue) sur une longue période. |
+| 4/5 (Expert)          | - Marcher 50 km avec une charge lourde sans ralentir. - Courir un semi-marathon sans pause notable. - Supporter plusieurs nuits sans sommeil avec des effets limités. - Encaisser des blessures sévères et rester opérationnel. - Survivre dans des conditions extrêmes avec un minimum de ressources. | - Rester fonctionnel après plusieurs jours de privation totale. - Supporter des douleurs intenses sans montrer de signes visibles de souffrance. - Se battre même en état de fatigue ou de blessure critique. |
+| 5/5 (Maître)          | - Marcher pendant des jours avec un poids important sans ralentir. - Courir un marathon en restant efficace après. - Survivre à des blessures normalement fatales par pure résilience. - Récupérer rapidement de conditions extrêmes sans séquelle majeure. - Résister à des conditions surnaturellement éprouvantes. | - Survivre des semaines sans nourriture et avec peu d’eau. - Encaisser des blessures presque mortelles et continuer à agir normalement. - Endurer des tortures physiques sans craquer. |
 
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
