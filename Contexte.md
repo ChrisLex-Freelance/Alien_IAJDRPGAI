@@ -618,20 +618,20 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **MOBILITE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Courir normalement sur terrain stable. - Marcher sur une surface étroite (muret, poutre large) avec prudence. - Sauter par-dessus un obstacle bas (<50 cm). - Monter une échelle sans problème. | - Courir sur un terrain accidenté sans trébucher. - Escalader un mur ou une paroi difficile. - Effectuer un saut acrobatique avec réception contrôlée. - Esquiver un obstacle en mouvement à la dernière seconde. |
+| 2/5 (Confirmé)        | - Courir rapidement sur un terrain légèrement accidenté. - Sauter un obstacle d’environ 1 m sans trop de difficulté. - Effectuer une roulade pour amortir une chute modérée. - Escalader une surface avec prises visibles sans perdre trop d’énergie. | - Esquiver un coup ou un projectile en se jetant sur le côté. - Se faufiler rapidement à travers un environnement encombré. - Réaliser une acrobatie simple sous pression. |
+| 3/5 (Compétent)       | - Courir en terrain irrégulier sans ralentir. - Escalader une surface difficile (mur glissant, corde) rapidement. - Sauter un obstacle de 1,5 m sans élan. - Réaliser une esquive fluide en combat. - Amortir une chute de plusieurs mètres avec un bon mouvement. | - Effectuer un saut long (plus de 2 m) entre deux plateformes. - Réagir instantanément pour éviter une embuscade. - Courir sur une surface instable sans perdre l’équilibre. |
+| 4/5 (Expert)          | - Courir et sauter en plein mouvement sans perte d’élan. - Escalader une paroi complexe rapidement. - Se déplacer efficacement en parkour sur un terrain urbain. - Effectuer une roulade parfaite pour amortir une chute importante. - Réaliser des mouvements de fuite instinctifs en combat. | - Esquiver plusieurs obstacles en mouvement sans s’arrêter. - Réaliser une cascade acrobatique complexe sans erreur. - Courir en évitant des tirs de précision. |
+| 5/5 (Maître)          | - Se déplacer avec une fluidité quasi-parfaite, même en pleine action. - Effectuer des acrobaties spectaculaires sans effort visible. - Réagir instantanément à tout danger physique et éviter les obstacles de justesse. - Courir, sauter et grimper sans ralentir dans des environnements extrêmes. | - Réaliser un saut jugé impossible pour une personne normale. - Esquiver une attaque à la dernière milliseconde sans préparation. - Réagir en une fraction de seconde pour éviter un danger soudain. |
 
 **COMBAT A DISTANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Tirer en direction d’une cible immobile à courte portée (<10m). - Recharger une arme standard sans précipitation. - Tenir une arme sans maladresse évidente. - Viser une cible proche avec un temps d’adaptation. | - Toucher une cible en mouvement. - Atteindre un point précis sur une cible immobile. - Tirer sous pression (combat, mauvaise visibilité, mouvement). - Gérer le recul d’une arme puissante. |
+| 2/5 (Confirmé)        | - Toucher une cible statique jusqu’à 20m. - Recharger une arme efficacement. - Tirer en mouvement avec une précision limitée. - Ajuster rapidement son tir après un premier essai raté. - Maintenir un tir de suppression avec une arme automatique. | - Toucher une cible en partie couverte. - Réaliser un tir précis sous stress ou en combat. - Atteindre une cible mouvante à moyenne distance. |
+| 3/5 (Compétent)       | - Toucher une cible mobile à 30-40m avec précision. - Réaliser un tir précis en quelques secondes. - Tirer en rafale sans perdre totalement en précision. - Toucher un point précis sur une cible immobile (tête, main). | - Toucher une cible en mouvement rapide à longue distance. - Réaliser un tir réflexe sur un ennemi surgissant soudainement. - Tirer avec précision dans des conditions difficiles (vent, obscurité). |
+| 4/5 (Expert)          | - Toucher une cible en mouvement rapide avec une très bonne précision. - Ajuster immédiatement un tir pour compenser une erreur de visée. - Tirer avec précision sur une cible en partie couverte. - Réaliser un tir parfait dans des conditions difficiles. | - Réaliser un tir en pleine course sur une cible éloignée. - Toucher une cible minuscule à longue portée. - Tirer en combat rapproché sans risquer de toucher un allié. |
+| 5/5 (Maître)          | - Toucher une cible en plein mouvement, même à grande distance. - Réaliser un tir précis en une fraction de seconde sans préparation. - Ajuster son tir instantanément en fonction des conditions externes. - Réaliser un tir parfait même dans des conditions extrêmes. | - Réaliser un tir légendaire (toucher un œil à 500m, traverser plusieurs obstacles). - Toucher plusieurs cibles d’affilée en un temps record. - Effectuer des tirs impossibles selon les lois normales de la balistique. |
 
 **PILOTAGE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
