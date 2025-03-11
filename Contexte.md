@@ -663,38 +663,38 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 **COMTECH**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Utiliser un ordinateur ou un terminal standard. - Lancer un programme ou suivre des instructions basiques. - Réparer un problème informatique mineur (bug simple, connexion réseau). - Identifier les composants d’un système électronique basique. | - Détecter une faille dans un système de sécurité numérique. - Réparer un système informatique endommagé. - Pirater un terminal protégé par un mot de passe simple. - Modifier le fonctionnement d’un appareil électronique. |
+| 2/5 (Confirmé)        | - Configurer un appareil électronique avec des réglages avancés. - Identifier un problème dans un réseau informatique. - Déverrouiller un système basique avec des outils standards. - Modifier un logiciel ou un programme simple. | - Contourner une protection informatique modérée. - Réparer un appareil technologique sous pression. - Installer un système de surveillance électronique discret. |
+| 3/5 (Compétent)       | - Pirater un terminal sécurisé avec le bon matériel. - Réparer une machine informatique gravement endommagée. - Coder ou modifier un programme complexe. - Trouver une faille de sécurité dans un réseau protégé. | - Neutraliser un système de surveillance avancé. - Restaurer des fichiers supprimés ou corrompus. - Modifier un système de communication pour intercepter des messages. |
+| 4/5 (Expert)          | - Pirater un système hautement sécurisé en un temps limité. - Reprogrammer un dispositif électronique complexe. - Créer des virus ou des logiciels spécialisés. - Accéder à des données cachées sur un serveur distant. - Désactiver des protocoles de sécurité avancés. | - Manipuler une IA pour obtenir des informations. - Contrôler un système informatique à distance sans être détecté. - Saboter un réseau numérique sans laisser de traces. |
+| 5/5 (Maître)          | - Pénétrer des systèmes de défense militaire ultra-protégés. - Reprogrammer une intelligence artificielle à volonté. - Manipuler des réseaux entiers pour créer de fausses informations. - Concevoir une technologie de pointe avec des ressources limitées. - Faire croire à un système qu’il fonctionne normalement tout en le manipulant secrètement. | - Pirater un système considéré comme impénétrable. - Prendre le contrôle d’un réseau complet à distance. - Détruire ou modifier une infrastructure technologique majeure en un instant. |
 
 **COMMANDEMENT**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Donner un ordre simple à un subordonné déjà disposé à obéir. - Inspirer un minimum de respect par sa posture et son ton. - Maintenir une discussion de groupe sans perdre le contrôle. - Gérer une petite équipe dans une situation calme. | - Convaincre quelqu’un d’exécuter un ordre difficile. - Maintenir l’ordre dans une situation tendue. - Éviter qu’un groupe sous pression ne panique. |
+| 2/5 (Confirmé)        | - Donner des ordres clairs et compréhensibles à une équipe. - Gérer un groupe en situation de stress modéré. - Motiver une personne hésitante à suivre ses instructions. - S’imposer comme chef naturel dans un groupe indécis. | - Commander un groupe dans une situation dangereuse. - Maintenir le moral d’une équipe face à une menace. - Prendre des décisions difficiles sans se heurter à la rébellion. |
+| 3/5 (Compétent)       | - Diriger un groupe de manière efficace, même sous pression. - Inspirer confiance et assurance à ses alliés. - Anticiper les réactions d’un groupe face à une situation difficile. - Gérer une crise sans que son autorité ne soit remise en cause. | - Organiser une équipe pour exécuter un plan complexe. - Gérer une situation de crise extrême sans perdre le contrôle. - Maintenir la cohésion d’un groupe sur le long terme. |
+| 4/5 (Expert)          | - Donner des ordres décisifs qui seront suivis sans hésitation. - Éviter une mutinerie ou une contestation par la seule force de persuasion. - Inspirer un groupe à accomplir des exploits au-delà de ses capacités. - Maintenir la discipline même dans une situation désespérée. | - Retourner une situation critique grâce à son leadership. - Amener une personne récalcitrante à suivre son commandement. - Déjouer une révolte avec des mots plutôt qu’avec la force. |
+| 5/5 (Maître)          | - Inspirer une obéissance quasi absolue par sa simple présence. - Transformer un groupe désorganisé en une unité disciplinée. - Convaincre un ennemi de changer de camp par son charisme seul. - Diriger une armée ou une nation avec une autorité incontestée. | - Maintenir un contrôle total dans une situation de chaos total. - Retourner un groupe ennemi à sa cause par la seule force du discours. - Obtenir la loyauté inébranlable de ses alliés.|
 
 **MANIPULATION**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Mentir sur un sujet peu important à une personne peu méfiante. - Jouer sur les émotions évidentes d’un interlocuteur. - Dissimuler partiellement ses véritables intentions. - Intimider une personne faible ou facilement influençable. | - Mentir à une personne attentive ou méfiante. - Détourner une conversation pour éviter un sujet délicat. - Manipuler quelqu’un pour obtenir un petit avantage. - Feindre une émotion de manière convaincante. |
+| 2/5 (Confirmé)        | - Mentir avec crédibilité sur un sujet mineur. - Faire semblant d’être amical ou bienveillant sans éveiller les soupçons. - Pousser une personne à douter de sa propre position. - Exercer une intimidation subtile sans être trop direct. | - Tromper un individu raisonnablement méfiant. - Influencer une décision sans que la victime s’en rende compte. - Manipuler un groupe sur une courte durée. |
+| 3/5 (Compétent)       | - Mentir avec naturel sur un sujet complexe. - Manipuler un interlocuteur sans qu’il ne s’en aperçoive immédiatement. - Jouer avec les émotions des autres pour obtenir un avantage. - Convaincre une personne hésitante d’accepter une mauvaise décision. - Intimider quelqu’un avec une menace voilée. | - Retourner un allié contre ses propres intérêts. - Manipuler un groupe pour qu’il agisse dans son propre intérêt. - Feindre une identité ou une personnalité sur une longue période. |
+| 4/5 (Expert)          | - Mentir à un expert en détection des mensonges sans éveiller de soupçons. - Retourner progressivement l’opinion d’un individu sur une question cruciale. - Manipuler une foule pour l’amener à agir d’une certaine manière. - Convaincre une personne qu’elle agit de son propre chef alors qu’elle est influencée. - Dissimuler une intention profonde même sous interrogatoire. | - Convaincre un ennemi de trahir ses alliés. - Manipuler une personne à long terme jusqu’à lui faire adopter une nouvelle croyance. - Intimider un individu expérimenté ou très résistant. |
+| 5/5 (Maître)          | - Mentir avec une aisance telle que même les experts sont trompés. - Manipuler un individu sans qu’il ne réalise jamais qu’il a été influencé. - Contrôler une foule entière par des suggestions subtiles. - Jouer un rôle ou une identité factice sans aucune faille. - Faire croire à une personne qu’une idée vient d’elle alors qu’elle a été implantée. | - Manipuler une organisation entière sur le long terme. - Convaincre une cible qu’elle a toujours pensé ce que vous lui avez fait croire. - Intimider ou persuader un adversaire au point de modifier son comportement durablement. |
 
 **SOINS MEDICAUX**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
-| 1/5 (Novice/Débutant) | | |
-| 2/5 (Confirmé)        | | |
-| 3/5 (Compétent)       | | |
-| 4/5 (Expert)          | | |
-| 5/5 (Maître)          | | |
+| 1/5 (Novice/Débutant) | - Nettoyer une plaie mineure et appliquer un bandage. - Stopper un saignement léger avec du matériel de base. - Reconnaître des symptômes évidents de maladie ou d’empoisonnement. - Administrer un médicament en suivant des instructions. | - Stabiliser une personne inconsciente ou gravement blessée. - Recoudre une plaie avec du matériel improvisé. - Diagnostiquer une maladie ou un empoisonnement subtil. - Gérer une fracture de manière efficace. |
+| 2/5 (Confirmé)        | - Soigner efficacement une blessure légère sans risque d’infection. - Appliquer correctement un garrot pour stopper une hémorragie importante. - Stabiliser un patient blessé jusqu’à l’arrivée d’un vrai médecin. - Identifier des signes précoces d’une maladie ou infection. | - Réaliser des soins sous pression (combat, danger imminent). - Gérer une blessure grave sans matériel médical avancé. - Identifier et neutraliser un poison courant. |
+| 3/5 (Compétent)       | - Recoudre proprement une plaie. - Réaliser une immobilisation correcte d’un membre cassé. - Traiter une infection avec les bons médicaments. - Maintenir en vie un patient grièvement blessé avec des soins adaptés. - Diagnostiquer des pathologies complexes. | - Pratiquer une opération mineure avec un équipement limité. - Stopper une hémorragie interne de manière temporaire. - Soigner une personne empoisonnée sans antidote immédiat. |
+| 4/5 (Expert)          | - Réaliser des actes médicaux avancés (trachéotomie, suture interne). - Réanimer un patient en arrêt respiratoire avec des gestes précis. - Soigner un empoisonnement complexe avec un remède improvisé. - Effectuer des soins avancés sous pression extrême. - Diagnostiquer et traiter une pathologie rare. | - Réaliser une opération chirurgicale avec des outils de fortune. - Remettre en état un blessé en état critique sans aide extérieure. - Maintenir un patient stable sur une longue période sans matériel adapté. |
+| 5/5 (Maître)          | - Réaliser une intervention chirurgicale en conditions précaires. - Stabiliser un patient en état de mort imminente avec peu de ressources. - Diagnostiquer instantanément une condition médicale complexe. - Développer un traitement improvisé pour une maladie inconnue. - Neutraliser un poison mortel sans antidote. | - Soigner une blessure normalement fatale. - Réaliser des actes médicaux considérés impossibles sans équipement adéquat. - Rétablir un patient qui devrait être perdu d’après la médecine moderne. |
 
 ### TALENTS
 
