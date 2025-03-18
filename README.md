@@ -1,13 +1,15 @@
-# LICENCE
+# ALIEN
+
+## LICENCE
 Cet article est sous licence Creative Commons Attribution - Pas d'utilisation commerciale - Pas de modification (CC BY-NC-ND). Vous êtes libre de partager cet article avec attribution, mais aucune utilisation commerciale ou modification n'est autorisée.
 
-# INTRODUCTION
+## INTRODUCTION
 Ce projet est un regroupement de différent éléments de contextes pour le Jeu de Rôle Alien.
 
 - https://alien-rpg.com/
 - https://frialigan.se/en/games/alien/
 
-# OBJECTIF
+## OBJECTIF
 Apporter des éléments de contexte complémentaires pour enrichir l'expérience de jeu. Ce fichier peut être utilisé comme support pour alimenter le contexte d'un personnage, d'un scénario, d'une campagne ou pour incrémenter le contexte d'un prompt avec des informations propres à l'univers d'Alien.
 
 ## GENERATEUR ONLINE
@@ -16,15 +18,6 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 - [PITCH GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/101361/)
 - [NPC GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/102139/)
 - [MEMORY GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/100558/)
-
-# ALIEN
-
-## OBJECTIF
-Ce fichier peut être utilisé comme support pour alimenter le contexte d'un personnage, d'un scénario, d'une campagne ou pour incrémenter le contexte d'un prompt avec des informations propres à l'univers d'Alien.
-
-## CONTEXTE
-
-Une grande partie du contexte ci-dessous résulte d'articles initialement écrits pour un blog et que j'ai regroupé sur cette unique page.
 
 ### GEOGRAPHIE GALACTIQUE
 Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé etc.
