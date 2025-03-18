@@ -20,7 +20,7 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 - [MEMORY GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/100558/)
 
 ### GEOGRAPHIE GALACTIQUE
-Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé etc.
+Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé, et plus largement les informations de base dont le personnage a connaissance quelque soit son statut ou son origine social.
 
 | ZONE GALACTIQUE    | DESCRIPTION |
 |--------------------|-------------|
