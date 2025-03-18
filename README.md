@@ -1259,7 +1259,7 @@ Mécanique : Chaque PI dépensé pour activer un contact implique un lancer de D
 | Élevé      | Le risque de contre-coup est important (attention hostile, perte de contact). | +2                                        |
 | Très élevé | Le contact pourrait se retourner contre le groupe ou provoquer une crise.     | +3                                        |
 
-## Implants Cybernétiques
+## IMPLANTS CYBERNETIQUES
 
 | IMPLANT                     | DESCRIPTION                                                                                           | BONUS / EFFETS                                                | COMPÉTENCE / ATTRIBUT LIÉ                           | COÛT EN $       |
 |-----------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------|-----------------|
