@@ -1041,6 +1041,27 @@ Si vous décidez d’introduire une IA surdimensionnée, comme un MU/TH/UR 9000 
 
 Les colonies humaines s’établissent sur des planètes éloignées, souvent hostiles ou directement dans des stations spatiales, dans des conditions extrêmes où la survie dépend de la mise en place d’infrastructures cruciales. Qu'il s'agisse d'une mission d'exploration, de recherche ou d'exploitation industrielle, ces infrastructures sont essentielles pour assurer la cohérence, la vraisemblance et la survie des colons. La gestion de ces infrastructures est non seulement une base pour le jeu, mais elle peut également devenir un puissant levier narratif pour créer des tensions dramatiques, des défis à surmonter et des conséquences fatales si elles sont endommagées ou détruites.
 
+| **CLASSE** | **HAUTEUR**   | **SURFACE ESTIMEE**    | **PONTS**  | **TONNAGE ESTIME**            | **EQUIPAGE**     | **CIVILS**       | **MODULES**                                               | **DEFENSE** | **PRIX (USD)**          |
+|------------|---------------|------------------------|------------|-------------------------------|------------------|------------------|-----------------------------------------------------------|-------------|-------------------------|
+| S          | < 100 m       | 5 000 – 10 000 m²      | 3 – 5      | 5 000 – 15 000 t              | 10 – 30          | 50               | 2 × T.I, 2 × T.II, 1 × T.III                              | Légère      | 10 – 30 M$              |
+| M          | 100 – 300 m   | 20 000 – 50 000 m²     | 6 – 12     | 20 000 – 60 000 t             | 30 – 100         | 200              | 3 × T.I, 3 × T.II, 3 × T.III, 2 × T.IV                    | Moyenne     | 30 – 80 M$              |
+| L          | 300 – 700 m   | 60 000 – 150 000 m²    | 12 – 20    | 80 000 – 200 000 t            | 100 – 300        | 1 000            | 4 × T.I, 5 × T.II, 5 × T.III, 4 × T.IV, 2 × T.V           | Lourde      | 80 – 250 M$             |
+| XL         | 700 – 1 500 m | 200 000 – 500 000 m²   | 20 – 40    | 300 000 – 700 000 t           | 300 – 1 000      | 5 000            | 6 × T.I, 6 × T.II, 6 × T.III, 5 × T.IV, 3 × T.V           | Militaire   | 250 – 600 M$            |
+| XXL        | > 1 500 m     | 750 000 – 2 000 000 m² | 40 – 100+  | 1 – 5 millions de tonnes      | 1 000+           | 20 000+          | 10 × T.I, 10 × T.II, 10 × T.III, 8 × T.IV, 5 × T.V        | Avancée     | 600 M$ – 1+ Md $        |
+
+Note :
+- Le nombre ponts est à convertir en étage pour une colonie terrestre, du fait des infrastructures construites en hauteur ou en sous-sol.
+- Une colonie planétaire standard commence généralement avec une installation de type L.
+
+| Taille | Désignation        | Capacité typique                | Description                                                                                               |
+|--------|--------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------|
+| T.I    | Micro-modules      | 1 – 10 personnes                | Postes isolés, maintenance, pods techniques, centres de communication, IA locales.                        |
+| T.II   | Modules légers     | 10 – 50 personnes               | Soutes, laboratoires standards, quartiers d’équipage réduits, sas.                                        |
+| T.III  | Modules moyens     | 50 – 500 personnes              | Hangars à navettes, medilabs, cryozones, cellules de détention, stockage lourd.                           |
+| T.IV   | Grands modules     | 500 – 2 500 personnes           | Ponts d’habitation, centres scientifiques, hôpitaux orbitaux, serres techniques.                          |
+| T.V    | Méga-structures    | Jusqu’à 10 000 personnes        | Quartiers résidentiels massifs, commandement de flotte, dômes hydroponiques, zones industrielles lourdes. |
+
+
 ##### COLONIE PLANÉTAIRE
 
 Les colonies planétaires doivent composer avec un environnement extérieur potentiellement hostile : atmosphère toxique, variations extrêmes de température, faune agressive, biosphère inconnue, tempêtes, sismicité, voire contamination biologique.
@@ -1093,24 +1114,6 @@ Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à
 | **Abri d’urgence**              | T/O | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 1D6 Quarts            | 37, 38, 39                                                |
 | **Système de défense**          | T/O | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement                      | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 40, 41, 42                                                |
 | **Transport spatial**           | T/O | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial        | Comtech, Observation (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 43, 44, 45                                                |
-
-| INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                   | PIÈCE 3                 | PIÈCE 4                           |
-|---------------------------------|-----------------------|---------------------------|-------------------------|-----------------------------------|
-| **Centre de commandement**      | Salle de contrôle     | Bureau des opérations     | Centre de communication | Serveurs centraux                 |
-| **Infrastructure énergétique**  | Réacteur principal    | Salle de contrôle de flux | Unité de sauvegarde     | Générateurs auxiliaires           |
-| **Système de filtration d’air** | Chambre de filtration | Contrôle des conduits     | Réservoir d’oxygène     | Ventilateurs industriels          |
-| **Station d’eau et irrigation** | Réservoir principal   | Station de pompage        | Purificateurs           | Système de distribution           |
-| **Centre médical**              | Salle d’urgence       | Laboratoire d’analyses    | Pharmacie centrale      | Salle d’opérations                |
-| **Logements résidentiels**      | Dortoirs              | Salle de loisirs          | Cuisine commune         | Centre de maintenance résidentiel |
-| **Gestion des déchets**         | Incinérateur          | Zone de tri               | Bassins de traitement   | Convoyeurs de déchets             |
-| **Serre agricole**              | Salle de culture      | Zone de conditionnement   | Réservoirs nutritifs    | Contrôle climatique               |
-| **Systèmes de communication**   | Centre de relais      | Serveurs de communication | Antennes principales    | Poste de maintenance              |
-| **Infrastructure de sécurité**  | Poste de garde        | Dépôt d’armement          | Salle de surveillance   | Salle d’équipement                |
-| **Éclairage et chauffage**      | Poste de régulation   | Réservoir de carburant    | Chauffage central       | Générateurs d’éclairage           |
-| **Centre de maintenance**       | Atelier mécanique     | Zone d’outillage lourd    | Pièce de stockage       | Centre de diagnostic              |
-| **Abri d’urgence**              | Zone de stockage      | Poste médical             | Générateur autonome     | Salle d’accueil                   |
-| **Système de défense**          | Salle des tourelles   | Poste de contrôle radar   | Arsenal                 | Salle de commande tactique        |
-| **Transport spatial**           | Hangar principal      | Salle des propulseurs     | Centre de contrôle      | Zone de chargement                |
 
 | INFRASTRUCTURE                  | PIÈCE                             | DESCRIPTION                                                                 |
 |---------------------------------|-----------------------------------|-----------------------------------------------------------------------------|
@@ -1175,8 +1178,75 @@ Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à
 |                                 | Centre de contrôle                | Supervise les départs et arrivées des vaisseaux.                            |
 |                                 | Zone de chargement                | Stocke et prépare les cargaisons pour les expéditions.                      |
 
+| INFRASTRUCTURE                  | TAILLE | NOM                                 | SURFACE ESTIMEE    | PONTS OCCUPE   | PERSONNEL        | Fonctions principales                                                                  | Coût           |
+|---------------------------------|--------|-------------------------------------|--------------------|----------------|------------------|----------------------------------------------------------------------------------------|----------------|
+| **Centre de commandement**      | T.I    | Centre de contrôle local            | ~50 – 100 m²       | 0,25           | 1 – 2            | Surveillance locale, alarmes, liaison d'urgence                                        | 100 000 $      |
+|                                 | T.II   | Commandement de colonie             | ~200 – 400 m²      | 0,5            | 5 – 10           | Coordination de base, communications internes, journal d’opérations                    | 500 000 $      |
+|                                 | T.III  | Interface stratégique               | ~1 000 – 2 000 m²  | 1              | 15 – 20          | Commande multi-secteurs, supervision flotte/drones                                     | 2 000 000 $    |
+|                                 | T.IV   | Commandement régional               | ~4 000 – 8 000 m²  | 2 – 3          | 30 – 50          | Coordination inter-colonies, liaison orbitale, planification stratégique               | 6 000 000 $    |
+|                                 | T.V    | Hub central de secteur              | ~15 000 – 30 000 m²| 5 – 8          | 100+             | Commandement sectoriel, supervision de crises et d'opérations secrètes                 | 20 000 000 $   |
+| **Infrastructure énergétique**  | T.I    | Générateur d’appoint                | ~80 – 150 m²       | 0,25           | 0 – 2            | Alimentation de secours locale (1–2 modules), non intégrée au réseau principal         | 150 000 $      |
+|                                 | T.II   | Réseau localisé                     | ~400 – 800 m²      | 0,5 – 1        | 2 – 5            | Distribution à une aile ou étage, gestion locale d’énergie                             | 750 000 $      |
+|                                 | T.III  | Réacteur principal de colonie       | ~1 500 – 3 000 m²  | 1 – 2          | 10 – 20          | Alimentation complète d’une colonie/station, redondance partielle                      | 2 500 000 $    |
+|                                 | T.IV   | Réacteur à haute capacité           | ~6 000 – 12 000 m² | 2 – 4          | 30 – 50          | Alimente plusieurs installations, liaison interstation, sécurisation renforcée         | 8 000 000 $    |
+|                                 | T.V    | Nœud énergétique de secteur         | ~25 000 – 40 000 m²| 6 – 9          | 75 – 100+        | Alimentation interplanétaire, stockage/réorientation d’énergie                         | 25 000 000 $   |
+| **Système de filtration d’air** | T.I    | Purificateur individuel             | ~40 – 80 m²          | 0,25         | 0 – 1            | Filtration simple pour abris isolés, réserve O₂ de secours                             | 100 000 $      |
+|                                 | T.II   | Système localisé                    | ~200 – 500 m²        | 0,5 – 1      | 2 – 4            | Régulation d’air pour petite structure, contrôle de CO₂ et humidité                    | 400 000 $      |
+|                                 | T.III  | Réseau atmosphérique standard       | ~1 000 – 2 000 m²    | 1 – 2        | 5 – 10           | Contrôle complet de l’atmosphère d’une station moyenne, automatisé, capteurs multiples | 1 500 000 $    |
+|                                 | T.IV   | Réseau atmosphérique renforcé       | ~5 000 – 10 000 m²   | 2 – 4        | 20 – 30          | Gestion climatique zone par zone, haut rendement                                       | 5 000 000 $    |
+|                                 | T.V    | Dôme atmosphérique autonome         | ~20 000 – 35 000 m²  | 6 – 8        | 50 – 100         | Simulation environnementale complète, atmosphère mixte ou écologique                   | 15 000 000 $   |
+| **Station d’eau et irrigation** | T.I    | Unité d’appoint                     | ~30 – 60 m²          | 0,25         | 0 – 1            | Stockage local, pompage simple, purification manuelle ou basique                       | 80 000 $       |
+|                                 | T.II   | Réseau localisé                     | ~200 – 400 m²        | 0,5 – 1      | 2 – 4            | Approvisionnement de petits complexes, circulation automatique, filtration classique   | 300 000 $      |
+|                                 | T.III  | Système hydraulique standard        | ~800 – 1 500 m²      | 1 – 2        | 5 – 10           | Boucle fermée de traitement des eaux, irrigation basique, maintenance automatisée      | 1 200 000 $    |
+|                                 | T.IV   | Réseau multi-niveaux                | ~4 000 – 8 000 m²    | 2 – 3        | 15 – 30          | Gestion différenciée (potable, agricole, technique), circuits à pression variable      | 4 000 000 $    |
+|                                 | T.V    | Système hydrologique complète       | ~20 000 – 35 000 m²  | 5 – 8        | 50 – 100         | Traitement total de l’eau à grande échelle, collecte naturelle, bio-recyclage          | 15 000 000 $   |
+| **Centre médical**              | T.I    | Infirmerie de secours               | ~60 – 100 m²         | 0,25         | 1 – 2            | Premiers soins, stabilisation, support d'urgence minimal                               | 150 000 $      |
+|                                 | T.II   | Bloc de soins standards             | ~300 – 600 m²        | 0,5 – 1      | 3 – 5            | Soins courants, chirurgie mineure, analyses biologiques simples                        | 600 000 $      |
+|                                 | T.III  | Urgences & chirurgie                | ~1 500 – 2 500 m²    | 1 – 2        | 10 – 20          | Urgences lourdes, soins intensifs, quarantaine, chirurgie avancée                      | 2 000 000 $    |
+|                                 | T.IV   | Hôpital orbital                     | ~6 000 – 12 000 m²   | 2 – 4        | 50+              | Médecine spécialisée, gestion de crise sanitaire, psychiatrie, bio-analyse             | 6 000 000 $    |
+|                                 | T.V    | Complexe médico-scientifique        | ~25 000 – 40 000 m²  | 5 – 8        | 100+             | Hôpital de pointe, biotechnologie, cryo, implants, recherche expérimentale             | 20 000 000 $   |
+| **Logements résidentiels**      | T.I    | Capsules de survie                  | ~100 – 200 m²        | 0,25 – 0,5   | 1 – 2            | Hébergement de base en rotation, repos minimal, atmosphère régulée                     | 50 000 $       |
+|                                 | T.II   | Quartiers de colons standards       | ~500 – 1 000 m²      | 0,5 – 1      | 2 – 4            | Logement de long terme basique, hygiène collective, soutien moral minimal              | 300 000 $      |
+|                                 | T.III  | Dôme résidentiel                    | ~3 000 – 6 000 m²    | 1 – 2        | 10 – 15          | Vie sociale semi-autonome, confort modéré, gestion de communautés actives              | 1 200 000 $    |
+|                                 | T.IV   | Secteur résidentiel aménagé         | ~10 000 – 20 000 m²  | 3 – 4        | 30 – 50          | Logement familial, services publics internes, urbanisme miniature                      | 5 000 000 $    |
+|                                 | T.V    | Ville orbitale autonome             | ~40 000 – 75 000 m²  | 6 – 10       | 100+             | Habitat massif, stabilité psychologique à grande échelle, gouvernance sociale          | 20 000 000 $   |
+| **Gestion des déchets**         | T.I    | Unité de traitement                 | ~50 – 100 m²         | 0,25         | 0 – 1            | Élimination de base, stockage temporaire, incinération manuelle ou semi-auto           | 75 000 $       |
+|                                 | T.II   | Station de tri modulaire            | ~300 – 600 m²        | 0,5 – 1      | 2 – 4            | Tri sélectif, recyclage primaire, collecte automatisée, sas d’éjection externe         | 300 000 $      |
+|                                 | T.III  | Centre de traitement complet        | ~1 500 – 3 000 m²    | 1 – 2        | 8 – 15           | Traitement organique, chimique et industriel, stérilisation, recyclage secondaire      | 1 500 000 $    |
+|                                 | T.IV   | Infrastructure environnementale     | ~6 000 – 12 000 m²   | 2 – 3        | 25 – 40          | Traitement multi-flux, séparation chimique, automatisation/régulation locale           | 6 000 000 $    |
+|                                 | T.V    | Usine de régénération               | ~25 000 – 40 000 m²  | 5 – 8        | 60 – 100+        | Traitement haute sécurité, distillation moléculaire, recyclage industriel              | 25 000 000 $   |
+| **Serre agricole**              | T.I    | Jardin expérimental                 | ~80 – 150 m²         | 0,25         | 1 – 2            | Cultures de recherche, appoint alimentaire, hydroponie légère                          | 90 000 $       |
+|                                 | T.II   | Unité de culture modulaire          | ~500 – 800 m²        | 0,5 – 1      | 3 – 5            | Nourriture pour petits groupes, algues, oxygène, climat contrôlé                       | 350 000 $      |
+|                                 | T.III  | Dôme agricole modulaire             | ~2 000 – 4 000 m²    | 1 – 2        | 10 – 20          | Production pour une colonie moyenne, gestion segmentée, stockage de semences           | 1 400 000 $    |
+|                                 | T.IV   | Ferme modulaire                     | ~8 000 – 15 000 m²   | 3 – 4        | 30 – 50          | Autosuffisance partielle, cultures variées, drones agricoles, biocycle optimisé        | 5 500 000 $    |
+|                                 | T.V    | Biome autonome                      | ~35 000 – 60 000 m²  | 6 – 10       | 100+             | Cycle de vie fermé, intégration atmosphérique, faune & flore simulées                  | 50 000 000 $   |
+| **Systèmes de communication**   | T.I    | Balise ou intercom local            | ~30 – 60 m²          | 0,25         | 0 – 1            | Communication locale, alarme de proximité, transmissions courtes, détresse             | 50 000 $       |
+|                                 | T.II   | Réseau interne de colonie           | ~300 – 700 m²        | 0,5 – 1      | 2 – 5            | Communications internes audio/vidéo, alertes, surveillance basique, station complète   | 300 000 $      |
+|                                 | T.III  | Relais de communication orbital     | ~1 000 – 2 000 m²    | 1 – 2        | 5 – 10           | Liaisons orbitale, transmission de flotte                                              | 1 000 000 $    |
+|                                 | T.IV   | Réseau interplanétaire              | ~4 000 – 8 000 m²    | 2 – 3        | 20 – 30          | Coordination multi-sites ou flottes, chiffrement militaire                             | 4 000 000 $    |
+|                                 | T.V    | Nœud de communication stratégique   | ~20 000 – 35 000 m²  | 5 – 8        | 100+             | Surveillance et contrôle stellaire, interfaçage tactique, relais stellaire             | 15 000 000 $   |
+| **Infrastructure de sécurité**  | T.I    | Poste de garde                      | ~50 – 100 m²         | 0,25         | 1 – 2            | Surveillance basique, alarme locale, contrôle d’accès manuel                           | 80 000 $       |
+|                                 | T.II   | Unité de sécurité locale            | ~400 – 800 m²        | 0,5 – 1      | 4 – 10           | Patrouille, contrôle zoné, casiers d’armes, salle de surveillance                      | 400 000 $      |
+|                                 | T.III  | Centre de sécurité intégré          | ~2 000 – 3 000 m²    | 1 – 2        | 20 – 30          | Surveillance station entière, gestion de crise, confinement, IA tactique, arsenal      | 1 800 000 $    |
+|                                 | T.IV   | Force de sécurité corporatiste      | ~7 000 – 12 000 m²   | 3 – 4        | 50 – 100         | Répression, maintien de l’ordre, armement lourd, quarantaine, drones d’intervention    | 6 000 000 $    |
+|                                 | T.V    | Système de sécurité militaire auto. | ~30 000 – 50 000 m²  | 6 – 10       | 200+             | Surveillance sectorielle, défense automatisée, riposte, bunker MU/TH/UR                | 20 000 000 $   |
+| **Éclairage et chauffage**      | T.I    | Éclairage/Chauffage individuel      | ~30 – 60 m²          | 0,25         | 0 – 1            | Maintien thermique local, éclairage d’appoint, ventilation légère                      | 40 000 $       |
+|                                 | T.II   | Réseau localisé                     | ~300 – 600 m²        | 0,5 – 1      | 2 – 4            | Chauffage modulé, éclairage circadien, ventilation cyclique                            | 250 000 $      |
+|                                 | T.III  | Système climatique standard         | ~1 500 – 3 000 m²    | 1 – 2        | 5 – 10           | Climat zoné, lumière programmable, effets lumineux réalistes                           | 1 000 000 $    |
+|                                 | T.IV   | Contrôle environnemental intelligent| ~6 000 – 12 000 m²   | 2 – 3        | 20 – 30          | Ambiances dynamiques, simulation météo interne                                         | 4 000 000 $    |
+|                                 | T.V    | Système climatique simulé           | ~25 000 – 40 000 m²  | 5 – 8        | 80 – 100+        | Confort psychologique sectoriel                                                        | 15 000 000 $   |
 
 
+Note :
+- **Infrastructure énergétique :** Obligatoire pour l'installation d'un processeur atmosphérique. L'infrastructures énergétique est prioritaire dans la maintenance et la défense. Leur destruction ou sabotage peut provoquer une panne totale, un blackout, ou un désastre environnemental (fuite radioactive, surchauffe, asphyxie généralisée…).
+- **Système de filtration d’air :** La panne d’un système de filtration peut provoquer une anoxie progressive, une montée du dioxyde de carbone, voire une contamination virale. Il s'agit d’un module souvent ciblé dans les actes de sabotage.
+- **Station d’eau et irrigation :** En cas de défaillance ou de sabotage de cette infrastructure, les conséquences peuvent aller de la déshydratation massive à la propagation de maladies hydro-portées. Les systèmes d’eau sont une cible de choix pour les actions terroristes ou les représailles d’entreprise dans les zones grises du Frontier.
+- **Centre médical :** il est souvent le premier endroit où les signes de contamination ou de mutation apparaissent. Toute salle d’isolement devrait être équipée d’un verrouillage physique indépendant, et d’un protocole de désintégration en cas de fuite biologique.
+- **Logements résidentiels :** Lorsque les logements deviennent surpeuplés, sous-alimentés ou mal régulés, des phénomènes tels que le syndrome de claustration spatiale, les mutineries, ou les fractures communautaires peuvent émerger.
+- **Gestion des déchets :** Si l’odeur ne vous tue pas, les spores, les xéno-agents ou la colère des techniciens sanitaires s’en chargeront. Les centres de traitement sont aussi des points de passage stratégiques pour les infiltrations ou les actes de sabotage et parfois… les corps qu’on veut faire disparaître.
+- **Serre agricole :**Certaines serres anciennes, laissées à l’abandon, deviennent des zones de quarantaine naturelles, des refuges clandestins… ou des terrains de chasse privilégiés pour des parasytes attirées par l’humidité, la chaleur, et le chaos biologique non surveillé.
+- **Systèmes de communication :** Ce module peut devenir un point névralgique en cas de crise. Coupé, il isole la colonie ; compromis, il devient une arme de désinformation. Dans les zones rouges ou de guerre corporatiste, c’est souvent le premier objectif tactique à neutraliser… ou à corrompre.
+- **Éclairage et chauffage :** Une panne d’éclairage prolongée est le prélude de la panique. Lorsque les lampes grésillent, que le froid s’insinue dans les couloirs, et que l’IA commence à rationner l’énergie… les voix s’élèvent, les ombres s’allongent, et tout devient suspect.
 
 **David, Hash et compagnie**
 Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou plusieurs androïdes, l'ensemble des fonctions liées au personnel peut être pris en charge par "Maman" dans une certaine mesure. Nous vous invitons à prendre connaissance de notre article Usage des IA (MU/TH/UR - A.P.O.L.L.O) qui traite des IAs dans une colonie.
@@ -1187,11 +1257,6 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 |------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------|------------------------------------------|
 | **Infrastructure d’Hypersommeil**  | O | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil    | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
 | **Unité de Stockage d’Embryons**   |          | Stocke et conserve des embryons humains pour le développement démographique à long terme.                   | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
-
-| INFRASTRUCTURE                     | PIÈCE 1               | PIÈCE 2                    | PIÈCE 3                 | PIÈCE 4                      |
-|------------------------------------|-----------------------|----------------------------|-------------------------|------------------------------|
-| **Infrastructure d’Hypersommeil**  | Salle des modules     | Zone de contrôle thermique | Laboratoire biomédical  | Stockage cryogénique         |
-| **Unité de Stockage d’Embryons**   | Congélateurs          | Salle de surveillance      | Chambre de transfert    | Systèmes de régulation       |
 
 | INFRASTRUCTURE                    | PIÈCE                      | DESCRIPTION                                                                     |
 |-----------------------------------|----------------------------|---------------------------------------------------------------------------------|
