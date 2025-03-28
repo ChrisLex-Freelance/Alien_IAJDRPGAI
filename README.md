@@ -873,47 +873,104 @@ L’équipe initiale est chargée de :
 
 Cette première phase est déterminante pour la stabilité opérationnelle de la station. Elle permet d’établir un environnement habitable, contrôlé, prêt à recevoir des modules supplémentaires et à procéder à un réveil progressif de la population cryogénique. Pour un aperçu plus détaillé des composants essentiels, je vous renvoi à la rubrique Les infrastructures de base.
 
-**Les défis de la montée en charge**
+#### CONTRAINTES DE LA MONTEE EN CHARGE
 
-La montée en charge d’une colonie ne se fait pas sans contraintes. Certains éléments peuvent entraver ou ralentir le processus :
+##### COLONIE PLANETAIRE
 
-- Surcharge des infrastructures : Si trop de colons sont réveillés trop rapidement, les infrastructures peuvent être submergées, ce qui entraîne des pénuries d’eau, d’énergie ou d’espace habitable.
-- Menaces extérieures : Les premières phases d'installation peuvent être perturbées par des menaces locales (faune agressive, attaques extraterrestres, conditions climatiques extrêmes). Un déploiement trop rapide des colons pourrait entraîner des pertes importantes.
-- Gestion des ressources : Une montée en charge trop hâtive peut épuiser les ressources disponibles avant que la colonie n'atteigne un stade autosuffisant.
-- Progression graduelle : synchronisation des infrastructures et de la population
+La montée en charge d’une colonie au sol est un exercice périlleux qui demande coordination, patience et anticipation. Plusieurs obstacles majeurs peuvent en compromettre le déroulement :
 
-La progression d’une colonie suit une trajectoire normalement cohérente et contrôlée. Au fur et à mesure que les infrastructures se développent, la colonie est capable de soutenir un nombre croissant de colons, et donc d’augmenter sa population active.
+- **Surcharge des infrastructures :** Un réveil prématuré ou massif de colons peut dépasser les capacités des modules de survie. Les générateurs sont sursollicités, les systèmes de filtration saturés, et les réserves d’eau ou de nourriture rapidement épuisées. Cela entraîne stress, conflits internes, et, dans les cas extrêmes, un effondrement logistique.
+- **Menaces extérieures :** La biosphère locale, inconnue ou sous-estimée, peut s’avérer dangereuse. Faune agressive, agents pathogènes, spores corrosives, ou formes de vie xénomorphes peuvent perturber l’équilibre précaire des premières semaines. Une montée en charge trop rapide augmente les points d’exposition.
+- **Gestion précaire des ressources :** Avant que la colonie ne devienne autosuffisante, chaque ressource compte. Dépasser trop tôt les capacités de recyclage ou d’exploitation des ressources locales (eau, énergie, matières premières) peut conduire à un effondrement brutal.
 
-Les étapes de progression peuvent inclure :
+**Progression graduelle : synchronisation infrastructure/population**
+Le développement d’une colonie planétaire suit une courbe de croissance volontairement lente et contrôlée, visant à assurer que chaque nouvelle vague de colons trouve des infrastructures capables de les accueillir.
 
-- Amorçage : Installation des infrastructures de base et gestion des ressources initiales avec un petit groupe de colons.
-- Expansion : Une fois les infrastructures en place et stables, les colons supplémentaires sont réveillés pour travailler à l'optimisation de la production, de la sécurité et des ressources.
-- Phase d'exploitation : Lorsque la colonie est capable de générer un surplus de ressources, plus de colons sont introduits pour augmenter la productivité et poursuivre les projets à long terme comme la terraformation, l'exploitation minière ou la recherche scientifique.
+Les étapes typiques :
+- **Amorçage :** Mise en place des modules vitaux et validation de la viabilité locale. L’équipe initiale (souvent 20 à 100 individus) active les systèmes de survie, commence les premiers prélèvements et pose les fondations structurelles.
+- **Expansion :** Une fois la base stabilisée, de nouveaux colons sont réveillés selon les besoins : techniciens, cultivateurs, médecins, opérateurs de drones miniers, etc. La colonie devient un écosystème fonctionnel, toujours fragile.
+- **Exploitation :** Lorsque la production dépasse les besoins, la colonie peut accueillir de nouveaux résidents pour lancer des projets à grande échelle : terraformation partielle, exploitation minière industrielle, centres de recherche, ou cultures à haut rendement.
 
-Chaque phase est une montée en charge contrôlée où les besoins en personnel sont parfaitement synchronisés avec les capacités des infrastructures. Un éventuel groupe de colons en hypersommeil reste une réserve précieuse qui peut être activée lorsque la colonie est prête à accueillir de nouveaux résidents sans danger ni surcharge ou pour compenser urgence une perte massive de colons.
+##### COLONIE ORBITALE
 
-**L’hypersommeil pour gérer la population**
+Dans une station orbitale, le moindre déséquilibre peut entraîner une réaction en chaîne fatale. La montée en charge y est un exercice de précision absolue, sous la surveillance constante d’une IA centrale.
 
-Dans les colonies naissantes, il n’est pas nécessaire que toute la population soit réveillée et opérationnelle dès le début. Une option pour éviter de surcharger les ressources limitées de la colonie est qu'une partie des colons reste en hypersommeil. Ils sont dans ce cas débarqué et stocké dans une infrastructure d'hypersommeil pour les colons (ou dans le cas des embryons, un centre de stockage d'embryons).
+- **Surcharge des systèmes vitaux :** Air, eau, pression, gravité artificielle — chaque élément est dimensionné avec une marge réduite. Réveiller trop de colons sans expansion préalable des modules peut faire exploser les taux de CO₂, engendrer des pannes thermiques ou saturer les systèmes de recyclage.
+- **Incidents techniques critiques :** Plus la station héberge de personnes, plus les tensions sur les systèmes augmentent. La moindre panne dans un module-clé (générateur, anneau de gravité, sas de sécurité) peut devenir létale. Une montée mal contrôlée multiplie les points de défaillance.
+- **Vulnérabilité accrue aux menaces externes :** Un nombre élevé de colons implique plus de mouvements, de maintenance, de risques d’intrusion ou d’infiltration (cargo infecté, IA piratée, entité non identifiée introduite par un sas). Le confinement est vital, mais parfois dépassé.
 
-Cela permet de ne réveiller que ceux dont les compétences sont cruciales pour les étapes initiales du développement :
+**Progression modulaire : une croissance sectorielle**
+Les stations orbitales n’évoluent pas en surface, mais en modules autonomes connectés au noyau central. Chaque nouveau secteur doit être activé, testé, pressurisé et sécurisé avant tout réveil supplémentaire.
 
-- Premier groupe réveillé : Les pionniers, tels que les ingénieurs, les techniciens et les membres de l’équipe de sécurité, sont les premiers à être réveillés pour mettre en place les installations essentielles et sécuriser la zone.
-- Réveils progressifs : Une fois que la colonie a développé suffisamment d'infrastructures et de ressources (eau, énergie, abris), d'autres colons sont réveillés progressivement, au fur et à mesure des besoins (agriculteurs, médecins, etc.).
+Les étapes typiques :
+- **Amorçage :** L’IA centrale (souvent MU/TH/UR 3000–5000) supervise la mise en ligne des premiers modules de survie. L’équipe humaine (10 à 50 opérateurs) s’assure que les systèmes de support sont stables, et valide les protocoles d’urgence.
+- **Expansion :** De nouveaux modules sont ajoutés : laboratoires, hangars, quartiers de vie, sections médicales. Les colons cryogéniques sont réveillés selon les besoins. La station commence à traiter ses propres déchets, à recycler efficacement, et parfois à produire ses premières ressources localement (via exploitations astéroïdales proches).
+- **Exploitation :** La station devient un nœud stratégique autonome : relais de communication, plateforme de recherche, base minière ou poste militaire. L’IA peut alors gérer une population plus large, parfois intégrée à un réseau orbital ou intersystémique.
 
-Ce procédé permet de gérer la montée en charge, en évitant une surcharge des infrastructures et en garantissant que chaque nouvelle vague de colons peut être correctement hébergée et nourrie.
+#### HYPERSOMMEIL ET CONTRÔLE DE LA POPULATION
+Une montée en charge réussie passe par un contrôle strict de la population active. Qu’il s’agisse d’une base au sol ou d’une station orbitale, la totalité des colons n’est jamais réveillée d’un seul coup. Le recours à l’hypersommeil permet non seulement de réduire la consommation des ressources vitales, mais aussi de maintenir une flexibilité stratégique et opérationnelle. L'hypersommeil devient ainsi un outil de régulation démographique, une zone tampon entre le potentiel humain et la réalité logistique.
 
-**Le rôle de l’IA dans la montée en charge**
+##### COLONIE PLANETAIRE
 
-Dans ce contexte de démarrage d'une colonie, une IA comme MU/TH/UR ou APOLLO joue un rôle important mais pas obligatoire dans la gestion de la montée en charge. L'IA permet de :
+L’arrivée initiale comprend souvent un grand nombre de colons en hypersommeil, répartis dans des modules cryogéniques intégrés aux vaisseaux de colonisation ou à des blocs d’habitat enterrés pour limiter leur exposition aux risques.
 
-- Planifier les phases de réveil des colons en fonction des infrastructures disponibles.
-- Optimiser la gestion des ressources pour éviter les pénuries lors de l'expansion de la population.
-- Coordonner les projets de développement pour que la colonie soit capable de soutenir une croissance démographique progressive.
+Objectifs principaux de l’hypersommeil :
+- **Limiter la consommation de ressources :** (oxygène, eau, nourriture, espace vital) tant que les infrastructures de production et de recyclage ne sont pas stabilisées.
+- **Permettre des réveils ciblés, en fonction des étapes du développement :** d’abord les ingénieurs, les techniciens et la sécurité ; ensuite les agronomes, les médecins, les enseignants, etc.
+- **Maintenir un stock humain de remplacement :** en cas de pertes, maladies, incidents ou contaminations.
 
-Les IA plus simples, comme MU/TH/UR 1000, suffisent pour les premières phases d’amorçage, tandis que des modèles plus avancés comme MU/TH/UR 5000 ou 6000 deviennent nécessaires au fur et à mesure que la colonie se développe. Nous vous invitons à prendre connaissance de notre article Usage des IA (MU/TH/UR - A.P.O.L.L.O) qui traite des IAs dans une colonie.
+Les modules de cryostase planétaires sont souvent conçus pour être isolés, enterrés, blindés, et partiellement autonomes. Ils sont connectés à l’IA coloniale, mais peuvent aussi être coupés du réseau en cas de panne ou d'incident majeur.
 
-**Maman quel est le problème**
+##### COLONIE ORBITALE
+
+Dans l’environnement fermé d’une station spatiale, l’hypersommeil est encore plus vital. La moindre variation dans la population active peut déséquilibrer les systèmes vitaux (pression atmosphérique, recyclage, gravité artificielle). La population réveillée est donc tenue à un strict quota, calculé en permanence par l’IA centrale.
+
+Fonctions spécifiques de l’hypersommeil orbital :
+- **Maintenir la charge biologique sous contrôle dans un système clos :** l’équilibre est délicat, un seul réveil imprévu peut saturer les taux de CO₂ ou dépasser la capacité de filtration.
+- **Optimiser la consommation énergétique :** les modules cryogéniques peuvent être mis en semi-veillle ou alimentés en basse tension en attendant leur activation.
+- **Servir d’unité de sauvegarde humaine :** en cas de panne massive, d’attaque ou de contamination, ces colons peuvent rester intacts, voire être évacués automatiquement par drone-cargo.
+
+Les modules de stase orbitaux sont reliés au noyau central de la station, et contrôlés par l’IA (MU/TH/UR ou APOLLO). Certains modèles avancés incluent des systèmes d’autodestruction, de purge ou d’isolation complète, pour prévenir tout risque de propagation biologique ou d’éveil non autorisé.
+
+Réveils progressifs et contrôle IA
+Dans les deux types de colonies, le processus de réveil est programmé en séquences par l’IA responsable :
+
+- **Réveil du noyau opérationnel :** ingénieurs, techniciens, opérateurs IA.
+- **Stabilisation du système :** sécurité, maintenance, calibrage énergétique.
+- **Réveil des soutiens vitaux :** agriculteurs, médecins, logisticien·ne·s.
+- **Extension sociale et culturelle :** éducateurs, chercheurs, familles, etc.
+
+Chaque réveil est conditionné à des seuils précis (niveau d’oxygène, production énergétique excédentaire, stockage de nourriture, etc.). Si un seuil critique est franchi, l’IA peut suspendre le réveil, voire le révoquer jusqu’à amélioration des conditions.
+
+#### RÔLE DE L’IA DANS LA MONTÉE EN CHARGE
+
+L’intelligence artificielle n’est pas une simple commodité, c’est un outil stratégique de survie, de planification et de contrôle. Chaque colonie, qu’elle soit en surface ou en orbite, dépend d’un système IA plus ou moins sophistiqué pour orchestrer la montée en charge, gérer les ressources, surveiller les colons et maintenir l’ensemble du projet opérationnel malgré les risques constants.
+
+##### COLONIE PLANETAIRE
+
+L’IA, souvent un modèle MU/TH/UR (1000 à 6000 selon la taille de la colonie), joue un rôle essentiel dans les premières phases :
+
+Fonctions principales :
+- **Planification des séquences de réveil :** en s’appuyant sur les niveaux de production d’énergie, d’oxygène et d’eau, l’IA décide du moment optimal pour réveiller chaque groupe de colons.
+- **Coordination logistique :** elle gère les modules vitaux (recyclage, énergie, production alimentaire), les affectations de personnel, les trajets de maintenance et les priorités de construction.
+- **Surveillance environnementale :** elle analyse les données météorologiques, sismiques, biologiques, et déclenche des alertes en cas de menaces (tempête, contamination, biosigne anormal).
+- **Gestion de crise :** en cas de situation critique, elle peut décider de geler des réveils, verrouiller des modules, ou déclencher des procédures d’évacuation partielle.
+
+Les IA plus simples, comme MU/TH/UR 1000, suffisent pour les premières phases d’amorçage, tandis que des modèles plus avancés comme MU/TH/UR 5000 ou 6000 deviennent nécessaires au fur et à mesure que la colonie se développe. Je vous invite à prendre connaissance de notre de la rubrique IA qui traite des IAs dans une colonie. L’IA coloniale peut être assistée d’une interface mobile (androïde, drone ou terminal portatif) pour dialoguer avec les PJ ou centraliser les accès aux fonctions clés.
+
+##### COLONIE ORBITALE
+
+Dans une station, le rôle de l’IA est encore plus centralisé et vital, car chaque variation dans les paramètres de vie (pression, gravité, radiation, atmosphère) peut avoir des conséquences immédiates.
+
+Fonctions spécifiques :
+- **Contrôle des cycles vitaux :** l’IA régule en temps réel la pression, la température, l’oxygène et le CO₂. Elle ajuste les paramètres en fonction du nombre d’individus réveillés et de la consommation mesurée.
+- **Séquençage des modules :** elle supervise l’intégration progressive des modules orbitaux (arrimage, pressurisation, synchronisation énergétique) et active les systèmes secondaires selon les besoins.
+- **Supervision sécuritaire :** surveillance par caméra, détection des comportements déviants, isolation automatique de sections en cas de contamination ou sabotage.
+- **Interface de gestion hypersommeil :** l’IA peut empêcher ou déclencher un réveil, et décider du rythme de montée en charge. Dans certains cas, elle peut choisir de maintenir certains colons endormis "indéfiniment" pour préserver l’équilibre stationnaire.
+
+Les modèles d’IA orbitale vont généralement de MU/TH/UR 5000 à 8000, voire MU/TH/UR 9000 dans les cas de stations militaires, médicales sensibles ou de confinement xéno.
+
+##### MAMAN QUEL EST LE PROBLEME ?
 
 Voici trois pitchs de scénarios qui pourraient impacter la montée en charge d'une colonie, chacun correspondant à une des grandes étapes de développement d'une colonie : Amorçage, Expansion, et Exploitation.
 
@@ -923,7 +980,8 @@ Voici trois pitchs de scénarios qui pourraient impacter la montée en charge d'
 
 #### AI
 
-Les systèmes d'intelligence artificielle (IA) sont des éléments essentiels pour la gestion des vaisseaux, des colonies et des stations spatiales. Des IA comme MU/TH/UR et APOLLO jouent un rôle crucial dans le bon fonctionnement des infrastructures, de la sécurité des colons, et de la coordination des opérations quotidiennes, qu'il s'agisse d'une petite colonie en amorçage ou d'une station spatiale autonome. Toutefois, pour maintenir la vraisemblance et la cohérence narrative dans vos scénarios, il est important de choisir une IA adaptée à la situation. Une IA surdimensionnée ou sous-dimensionnée par rapport aux besoins de la colonie ou du vaisseau peut éveiller les soupçons des joueurs, et devenir un levier narratif intéressant.
+Dans l’univers d’Alien, les intelligences artificielles sont des entités omniprésentes, froides et dévouées à leur programmation. Présentes à bord des vaisseaux, dans les stations orbitales et au cœur des colonies planétaires, elles sont des outils essentiels de gestion, de logistique et de contrôle.
+Que ce soit MU/TH/UR ou APOLLO, chaque IA est conçue pour optimiser le fonctionnement des installations humaines, tout en suivant une hiérarchie de priorités où la survie humaine n’est pas toujours la première.
 
 **Les différents modèles d'IA : MU/TH/UR et APOLLO**
 
@@ -981,33 +1039,60 @@ Si vous décidez d’introduire une IA surdimensionnée, comme un MU/TH/UR 9000 
 
 #### INFRASTRUCTURES
 
-Les colonies humaines s’établissent sur des planètes éloignées et souvent hostiles, dans des conditions extrêmes où la survie dépend de la mise en place d’infrastructures cruciales. Qu'il s'agisse d'une mission d'exploration, de recherche ou d'exploitation industrielle, ces infrastructures sont essentielles pour assurer la cohérence, la vraisemblance et la survie des colons. La gestion de ces infrastructures est non seulement une base pour le jeu, mais elle peut également devenir un puissant levier narratif pour créer des tensions dramatiques, des défis à surmonter et des conséquences fatales si elles sont endommagées ou détruites.
+Les colonies humaines s’établissent sur des planètes éloignées, souvent hostiles ou directement dans des stations spatiales, dans des conditions extrêmes où la survie dépend de la mise en place d’infrastructures cruciales. Qu'il s'agisse d'une mission d'exploration, de recherche ou d'exploitation industrielle, ces infrastructures sont essentielles pour assurer la cohérence, la vraisemblance et la survie des colons. La gestion de ces infrastructures est non seulement une base pour le jeu, mais elle peut également devenir un puissant levier narratif pour créer des tensions dramatiques, des défis à surmonter et des conséquences fatales si elles sont endommagées ou détruites.
+
+##### COLONIE PLANÉTAIRE
+
+Les colonies planétaires doivent composer avec un environnement extérieur potentiellement hostile : atmosphère toxique, variations extrêmes de température, faune agressive, biosphère inconnue, tempêtes, sismicité, voire contamination biologique.
+
+Chaque infrastructure au sol doit donc être :
+- Physiquement renforcée pour résister aux conditions.
+- Entièrement autonome ou connectée à une source énergétique fiable.
+- Facilement réparable avec des ressources locales ou des pièces standards.
+
+Un défaut dans une seule infrastructure peut déclencher un effet domino : plus d’air, plus de communication, plus d’énergie et la colonie devient un cercueil de tôle.
+
+##### COLONIE ORBITALE
+
+Dans l’environnement confiné d’une station orbitale, les infrastructures ne protègent pas de l’extérieur… elles sont l’extérieur. Chaque module est une extension vitale : si l’un lâche, c’est tout l’écosystème clos qui s’effondre.
+
+Les contraintes spécifiques :
+- Aucune redondance naturelle : tout dépend de systèmes artificiels (air, gravité, température).
+- Maintenance en microgravité : interventions plus complexes, parfois impossibles sans combinaison EVA.
+- Surcharge rapide : une variation de quelques pourcents dans l’oxygène, la pression ou la chaleur peut déclencher une catastrophe.
+
+La station devient alors une prison en orbite, où chaque défaillance peut signifier la fin lente, asphyxiante ou explosive.
 
 **Maintenir la cohérence et la vraisemblance dans le scénario**
 Respecter ces infrastructures de base dans un scénario de JDR Alien est essentiel pour maintenir la cohérence et la vraisemblance de la colonie. Les infrastructures vitales représentent non seulement des éléments de jeu, mais aussi des éléments narratifs qui ajoutent du réalisme et de la profondeur à l’histoire. Une colonie fonctionnelle est une mini-société autonome, mais toute défaillance dans l’une de ces infrastructures peut rapidement transformer une situation stable en une lutte désespérée pour la survie sans aucun Xenomorphe.
 
+Les infrastructures sont :
+- Des sources d’incidents (pannes, sabotages, anomalies).
+- Des centres de décisions critiques (évacuer un secteur ? désactiver un système ? couper un module habité ?).
+- Des objets de quête ou d’entretien, avec une boucle de gameplay : repérage → diagnostic → réparation → survie → tension.
+
 Dans le film Aliens (1986), cette fragilité des infrastructures est parfaitement illustrée lorsque le groupe de survivants, dirigé par Ripley, découvre que le crash de la navette a endommagé le système de refroidissement du processeur atmosphérique. Cette défaillance entraîne une réaction en chaîne, menaçant de déclencher une explosion thermonucléaire qui détruirait toute la colonie dans les heures à venir. Cet événement introduit une tension dramatique qui force les personnages à prendre des décisions rapides et audacieuses dans un environnement hostile.
 
-**15 infrastructures minimales d'une colonie**
+#### 15 INFRASTRUCTURES MINIMALES D'UNE COLONIE
 Le supplément Bâtir des mondes meilleurs introduit une gestion des colonies à une échelle relativement macro. Il vous invite à inclure les éléments d'incidents de la colonie dans vos parties mais est assez limité dans sa proposition sur le sujet. Voici ce que nous estimons être les infrastructures minimales pour démarrer une colonie et faire vivre une colonie, ainsi que des éléments plus opérationnels pour inclure des événements dans le jeu, leurs incidences sur la colonie et comment les résoudre. La liste comprend également pour chaque infrastructure 4 zones importantes pour faciliter l'immertion. Nous vous invitons à prendre connaissance de notre article Montée en charge d'une colonie qui traite d'installation d'une colonie et sa montée en charge vers l'autonomie.
 
-| INFRASTRUCTURE                  | DESCRIPTION                                                                                                       | PERSONNEL NÉCESSAIRE                                                   | COMPÉTENCES DIAGNOSTIC                         | COMPÉTENCES RÉPARATION                     | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                                      |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|-----------------------|-----------------------------------------------------------|
-| **Centre de commandement**      | Cœur stratégique de la colonie, coordonne les opérations et maintient les communications avec l'extérieur.        | Administrateur, Officier de communication, Analyste de données         | Observation, Comtech (ESPRIT)                  | Comtech, Commandement (ESPRIT, EMPATHIE)   | 2D6 Quarts            | 1, 2, 3                                                   |
-| **Infrastructure énergétique**  | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                          | Ingénieur en énergie, Électricien, Technicien                          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 4, 5, 6                                                   |
-| **Système de filtration d’air** | Purifie et stabilise l’atmosphère dans la colonie, indispensable pour respirer.                                   | Ingénieur systèmes, Opérateur d'atmosphère, Technicien environnemental | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 7, 8, 9                                                   |
-| **Station d’eau et irrigation** | Gère la collecte, purification, et distribution de l’eau nécessaire à la colonie et à l’agriculture.              | Ingénieur hydrologue, Opérateur, Technicien                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 10, 11, 12                                                |
-| **Centre médical**              | Soigne les maladies et blessures, essentiel pour gérer les urgences sanitaires.                                   | Médecin en chef, Infirmier, Technicien biomédical                      | Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux (ESPRIT, EMPATHIE) | 2D6 Quarts            | 13, 14, 15                                                |
-| **Logements résidentiels**      | Fournit un abri "sûr" et "confortable" pour les colons, vital pour leur bien-être psychologique et physique.      | Ingénieur civil, Architecte, Technicien                                | Observation, Comtech (ESPRIT)                  | Machines lourdes, Survie (FORCE, ESPRIT)   | 1D6 Quarts            | 16, 17, 18                                                |
-| **Gestion des déchets**         | Collecte et traite les déchets pour éviter contamination et maladies.                                             | Ingénieur environnemental, Technicien en déchets                       | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 19, 20, 21                                                |
-| **Serre agricole**              | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                         | Agronome, Technicien agricole, Responsable alimentaire                 | Observation, Survie (ESPRIT)                   | Machines lourdes, Survie (FORCE, ESPRIT)   | 2D6 Quarts            | 22, 23, 24                                                |
-| **Systèmes de communication**   | Permet les communications internes et externes, indispensable pour la coordination.                               | Technicien réseau, Ingénieur, Opérateur                                | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 25, 26, 27                                                |
-| **Infrastructure de sécurité**  | Protège la colonie des menaces externes et internes (Xénomorphes, émeutes, etc.).                                 | Officier de sécurité, Ingénieur, Technicien                            | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 28, 29, 30                                                |
-| **Éclairage et chauffage**      | Fournit lumière et chaleur dans des environnements hostiles.                                                      | Ingénieur thermique, Électricien, Technicien                           | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 31, 32, 33                                                |
-| **Centre de maintenance**       | Responsable de l’entretien et de la réparation des infrastructures.                                               | Chef de maintenance, Technicien machines lourdes, Logisticien          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 34, 35, 36                                                |
-| **Abri d’urgence**              | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 1D6 Quarts            | 37, 38, 39                                                |
-| **Système de défense**          | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement                      | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 40, 41, 42                                                |
-| **Transport spatial**           | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial        | Comtech, Observation (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 43, 44, 45                                                |
+| INFRASTRUCTURE                  | TYPE DE COLONIE (T/O)| DESCRIPTION                                                                                                       | PERSONNEL NÉCESSAIRE                                                   | COMPÉTENCES DIAGNOSTIC                         | COMPÉTENCES RÉPARATION                     | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                                      |
+|---------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|-----------------------|-----------------------------------------------------------|
+| **Centre de commandement**      | T/O | Cœur stratégique de la colonie, coordonne les opérations et maintient les communications avec l'extérieur.        | Administrateur, Officier de communication, Analyste de données         | Observation, Comtech (ESPRIT)                  | Comtech, Commandement (ESPRIT, EMPATHIE)   | 2D6 Quarts            | 1, 2, 3                                                   |
+| **Infrastructure énergétique**  | T/O | Fournit l’électricité pour les systèmes vitaux, machines et équipements.                                          | Ingénieur en énergie, Électricien, Technicien                          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 4, 5, 6                                                   |
+| **Système de filtration d’air** | T/O | Purifie et stabilise l’atmosphère dans la colonie, indispensable pour respirer.                                   | Ingénieur systèmes, Opérateur d'atmosphère, Technicien environnemental | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 7, 8, 9                                                   |
+| **Station d’eau et irrigation** |          | Gère la collecte, purification, et distribution de l’eau nécessaire à la colonie et à l’agriculture.              | Ingénieur hydrologue, Opérateur, Technicien                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 10, 11, 12                                                |
+| **Centre médical**              | T/O | Soigne les maladies et blessures, essentiel pour gérer les urgences sanitaires.                                   | Médecin en chef, Infirmier, Technicien biomédical                      | Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux (ESPRIT, EMPATHIE) | 2D6 Quarts            | 13, 14, 15                                                |
+| **Logements résidentiels**      | T/O | Fournit un abri "sûr" et "confortable" pour les colons, vital pour leur bien-être psychologique et physique.      | Ingénieur civil, Architecte, Technicien                                | Observation, Comtech (ESPRIT)                  | Machines lourdes, Survie (FORCE, ESPRIT)   | 1D6 Quarts            | 16, 17, 18                                                |
+| **Gestion des déchets**         | T/O | Collecte et traite les déchets pour éviter contamination et maladies.                                             | Ingénieur environnemental, Technicien en déchets                       | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 19, 20, 21                                                |
+| **Serre agricole**              |          | Produit de la nourriture pour l’autosuffisance alimentaire de la colonie.                                         | Agronome, Technicien agricole, Responsable alimentaire                 | Observation, Survie (ESPRIT)                   | Machines lourdes, Survie (FORCE, ESPRIT)   | 2D6 Quarts            | 22, 23, 24                                                |
+| **Systèmes de communication**   | T/O | Permet les communications internes et externes, indispensable pour la coordination.                               | Technicien réseau, Ingénieur, Opérateur                                | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 25, 26, 27                                                |
+| **Infrastructure de sécurité**  | T/O | Protège la colonie des menaces externes et internes (Xénomorphes, émeutes, etc.).                                 | Officier de sécurité, Ingénieur, Technicien                            | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 28, 29, 30                                                |
+| **Éclairage et chauffage**      |          | Fournit lumière et chaleur dans des environnements hostiles.                                                      | Ingénieur thermique, Électricien, Technicien                           | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 31, 32, 33                                                |
+| **Centre de maintenance**       | T/O | Responsable de l’entretien et de la réparation des infrastructures.                                               | Chef de maintenance, Technicien machines lourdes, Logisticien          | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 2D6 Quarts            | 34, 35, 36                                                |
+| **Abri d’urgence**              | T/O | Refuge temporaire en cas de catastrophe (tempêtes, attaques).                                                     | Responsable des urgences, Technicien survie                            | Observation, Survie (ESPRIT)                   | Comtech, Machines lourdes (ESPRIT, FORCE)  | 1D6 Quarts            | 37, 38, 39                                                |
+| **Système de défense**          | T/O | Détecte et protège contre les menaces externes (pirates, Xénomorphes).                                            | Officier sécurité, Opérateur, Technicien armement                      | Observation, Comtech (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 40, 41, 42                                                |
+| **Transport spatial**           | T/O | Permet le transport de matériel, de colons et la gestion des cargaisons.                                          | Contrôleur trafic, Technicien propulsion, Ingénieur aérospatial        | Comtech, Observation (ESPRIT)                  | Comtech, Machines lourdes (ESPRIT, FORCE)  | 3D6 Quarts            | 43, 44, 45                                                |
 
 | INFRASTRUCTURE                  | PIÈCE 1               | PIÈCE 2                   | PIÈCE 3                 | PIÈCE 4                           |
 |---------------------------------|-----------------------|---------------------------|-------------------------|-----------------------------------|
@@ -1098,10 +1183,10 @@ Si la colonie est équipé d'un système MU/TH/UR et qu'elle est doté d'un ou p
 
 **Infrastructures de support recommandées à l'installation**
 
-| INFRASTRUCTURE                     | DESCRIPTION                                                                                                 | PERSONNEL NÉCESSAIRE                                               | COMPÉTENCES DIAGNOSTIC                                  | COMPÉTENCES RÉPARATION                                    | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                     |
-|------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------|------------------------------------------|
-| **Infrastructure d’Hypersommeil**  | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil    | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
-| **Unité de Stockage d’Embryons**   | Stocke et conserve des embryons humains pour le développement démographique à long terme.                   | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
+| INFRASTRUCTURE                     | TYPE DE COLONIE (T/O)| DESCRIPTION                                                                                                 | PERSONNEL NÉCESSAIRE                                               | COMPÉTENCES DIAGNOSTIC                                  | COMPÉTENCES RÉPARATION                                    | TEMPS DE RÉPARATION   | EXEMPLES D'INCIDENTS                     |
+|------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------|------------------------------------------|
+| **Infrastructure d’Hypersommeil**  |          | Permet de stocker les colons en sécurité en hypersommeil et de gérer leurs réveils en fonction des besoins. | Médecin en chef, Technicien de maintenance, Opérateur de réveil    | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 2D6 Quarts            | 46, 47, 48                               |
+| **Unité de Stockage d’Embryons**   |          | Stocke et conserve des embryons humains pour le développement démographique à long terme.                   | Médecin spécialisé, Technicien en cryogénie, Opérateur de contrôle | Comtech, Observation, Soins médicaux (ESPRIT, EMPATHIE) | Comtech, Soins médicaux, Machines lourdes (ESPRIT, FORCE) | 1D6 Quarts            | 49, 50, 51                               |
 
 | INFRASTRUCTURE                     | PIÈCE 1               | PIÈCE 2                    | PIÈCE 3                 | PIÈCE 4                      |
 |------------------------------------|-----------------------|----------------------------|-------------------------|------------------------------|
