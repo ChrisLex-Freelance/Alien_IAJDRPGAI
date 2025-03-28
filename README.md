@@ -819,27 +819,59 @@ Ici il s'agit d'ajout personnel
 
 #### MONTEE EN CHARGE D'UNE COLONIE
 
-Dans Alien, la gestion et la montée en charge d’une colonie sont des aspects cruciaux pour sa survie et son développement. Le supplément Bâtir des mondes meilleures présente des éléments encore une fois très macro sur le sujet. Comme précisé dans le supplément, le processus de montée en charge n’implique pas nécessairement une arrivée massive de colons dès le départ, mais plutôt une progression mesurée et graduelle, en fonction des besoins et des ressources disponibles. Cet article explore les différentes étapes et considérations pour faire croître une colonie de manière cohérente et avec vraisemblance dans le cadre d'un scénario pour par exemple bâtir l'historique d'une colonie ou pour mener une campagne avec votre colonie.
+Dans Alien, la gestion et la montée en charge d’une colonie sont des aspects cruciaux pour sa survie et son développement. Le supplément Bâtir des mondes meilleures présente des éléments encore une fois très macro sur le sujet. Comme précisé dans le supplément, le processus de montée en charge n’implique pas nécessairement une arrivée massive de colons dès le départ, mais plutôt une progression mesurée et graduelle, en fonction des besoins et des ressources disponibles. J'explore ici les différentes étapes et considérations pour faire croître une colonie de manière cohérente et avec vraisemblance dans le cadre d'un scénario pour par exemple bâtir l'historique d'une colonie ou pour mener une campagne avec votre colonie.
 
-**Reconnaissance depuis l'orbite : Essentielle avant le déploiement d'une colonie**
+#### NATURE DE LA COLONIE
 
-Avant d’envoyer des colons à la surface d'une planète, une analyse minutieuse de la topographie et de la géographie de la zone doit être réalisée. Cette reconnaissance permet d’éviter les pièges environnementaux, de repérer les ressources essentielles, et de planifier efficacement l’emplacement des infrastructures, ce qui revient à se mettre en adéquation avec la vue macro du supplément Bâtir des mondes meilleures. Pourquoi la reconnaissance cartographique est cruciale :
+Pour commencer, une colonie peut être de deux natures, chacune répondant à des contraintes et des objectifs bien distincts :
 
-- Déploiement de satellites et de sondes : Pour réaliser cette reconnaissance, un déploiement de satellites est indispensable. Ces satellites fourniront des données cartographiques détaillées et des relevés environnementaux, tout en assurant des fonctions de communication essentielles pour les premiers colons.
-- Sécurité et adaptation au terrain : L’étude des reliefs, des conditions climatiques locales et des caractéristiques géologiques permet d’éviter d’installer la colonie dans une zone sujette aux catastrophes naturelles (inondations, séismes, tempêtes de sable, etc.).
-- Identification des ressources : La reconnaissance satellitaire peut détecter des gisements minéraux, des sources d'eau souterraine, ou des zones agricoles potentiellement fertiles, permettant d’optimiser la gestion des ressources de la colonie dès le début.
-- Planification stratégique des infrastructures : L’emplacement des infrastructures critiques (centre de commandement, serres agricoles, abris d’urgence, etc.) peut être optimisé en fonction de la topographie et des besoins énergétiques et logistiques, minimisant ainsi les coûts et le temps de construction.
-- Une population de départ modeste : reconnaissance et installation
+- **Orbitale, via une infrastructure spatiale :** Il s'agit de stations orbitant autour d'une planète, d’un astéroïde, ou même d’un point stratégique (trou noir, artefact, relais de saut…). Ces stations sont souvent déployées là où le terrain ou l’atmosphère rendent une colonisation de surface trop risquée ou inefficace, ou dans des zones nécessitant un contrôle spatial (nœuds commerciaux, zones minières dispersées, surveillance militaire). Leur développement est modulaire, cloisonné, et dépend presque exclusivement de la technologie, de la maintenance IA et du ravitaillement externe. La vie y est plus fragile, mais le contrôle plus strict.
+- **Planétaire, via une infrastructure au sol :** Les colonies planétaires sont plus autonomes à long terme, car elles peuvent s’appuyer sur les ressources locales (eau, sol cultivable, minerais) pour viser l’autosuffisance. Elles nécessitent cependant une phase de sécurisation initiale importante, car le sol peut receler des dangers inconnus (biosphère agressive, conditions climatiques extrêmes, ruines xénomorphes…). Ces colonies peuvent croître en étalement horizontal ou vertical, et à terme, s’ancrer durablement dans l’environnement via la terraformation ou l’industrialisation massive.
+
+Dans les deux cas, la montée en charge suit une logique progressive, par paliers, chacun demandant une adéquation entre infrastructures déployées, ressources maîtrisées et population active contrôlée. La nature même de la colonie influencera les modules déployés, le rôle de l’IA, la stratégie de développement, et les scénarios de crise.
+
+#### RECONNAISSANCE PRÉALABLE (ORBITALE / SOL)
+
+Avant même d'envisager le réveil du premier colon, l’analyse et la reconnaissance de l’environnement ciblé sont des étapes absolument vitales. Qu’il s’agisse d’un sol planétaire ou d’un point orbital, une mauvaise évaluation peut mener à une installation vouée à l’échec… ou à l’extinction pure et simple de la colonie. Cette reconnaissance est d’autant plus cruciale qu’elle s’inscrit dans un contexte où chaque tonne transportée, chaque module posé, et chaque individu réveillé a un coût logistique et stratégique énorme.
+
+**Reconnaissance orbitale – Avant toute colonie planétaire**
+Avant de poser une botte au sol, l’orbite est la première ligne d’observation et de sécurisation. Elle permet d’avoir une vue d’ensemble macro, en parfaite cohérence avec les principes du supplément Bâtir des mondes meilleures.
+
+- **Déploiement de satellites et de sondes :** Pour réaliser cette reconnaissance, un déploiement de satellites est indispensable. Ces satellites fourniront des données cartographiques détaillées et des relevés environnementaux, tout en assurant des fonctions de communication essentielles pour les premiers colons.
+- **Sécurité et adaptation au terrain :** L’étude des reliefs, des conditions climatiques locales et des caractéristiques géologiques permet d’éviter d’installer la colonie dans une zone sujette aux catastrophes naturelles (inondations, séismes, tempêtes de sable, etc.).
+- **Identification des ressources :** La reconnaissance satellitaire peut détecter des gisements minéraux, des sources d'eau souterraine, ou des zones agricoles potentiellement fertiles, permettant d’optimiser la gestion des ressources de la colonie dès le début.
+- **Planification stratégique des infrastructures :** L’emplacement des infrastructures critiques (centre de commandement, serres agricoles, abris d’urgence, etc.) peut être optimisé en fonction de la topographie et des besoins énergétiques et logistiques, minimisant ainsi les coûts et le temps de construction.
+- **Une population de départ modeste :** reconnaissance et installation
 
 La création d’une colonie ne commence pas avec des milliers de colons. Dans la plupart des scénarios, la phase initiale implique un groupe de reconnaissance ou une équipe d’installation composée de quelques dizaines à quelques centaines de colons. Ces premiers arrivants ont pour mission d’établir les infrastructures de base, de s’assurer que les conditions environnementales sont favorables, et de rendre la zone habitable pour l’arrivée de populations plus nombreuses.
 
-Ces colons sont chargés de :
+Ces premiers colons sont chargés de :
 
-- Construire les premières installations vitales : Centre de commandement, Générateur d’énergie, filtration de l’air, etc.
-- Évaluer les ressources locales : Eau, matériaux de construction, potentiels agricoles ou miniers.
-- Assurer la sécurité initiale : En repoussant toute menace locale, qu’elle soit d’origine animale, extraterrestre ou environnementale.
+- **Construire les premières installations vitales :** modules d’habitation pressurisés, centre de commandement, générateurs d’énergie (solaires, nucléaires ou à hydrogène), systèmes de filtration et pressurisation de l’air, et unité de recyclage de l’eau.
+- **Évaluer les ressources locales :** qualité des sols, sources d’eau souterraine, matériaux exploitables à proximité (minerais, roche de construction, biomasse), et potentiel agricole ou industriel à moyen terme.
+- **Assurer la sécurité initiale :** en identifiant et repoussant toute menace biologique (faune agressive, pathogènes inconnus), environnementale (tempêtes acides, glissements de terrain), ou xénomorphe. Cela inclut l’activation de défenses automatisées et la pose de périmètres de surveillance.
 
-Cette première phase est critique car elle détermine la viabilité de la colonie et prépare la structure pour accueillir une montée en charge progressive de la population. Nous vous invitons à prendre connaissance de notre article Les infrastructures de base qui traite des installations primaires minimum pour lancer une colonie.
+Cette première phase est critique car elle conditionne la viabilité de la colonie à long terme. Toute erreur d’évaluation ou d’installation peut entraîner des pertes humaines et compromettre la montée en charge future. Pour approfondir les éléments structurels nécessaires à cette étape, je vous renvoi à la rubrique Les infrastructures de base.
+
+**Reconnaissance préalable à l’installation d’une station orbitale**
+Lorsqu’une station est prévue en orbite — que ce soit autour d’une planète, d’un astéroïde, ou d’un point stratégique — une étude de l’environnement spatial est tout aussi essentielle.
+
+- **Stabilisation de l’orbite :** Le positionnement orbital est un exercice de haute précision. Une orbite mal calculée peut dériver sous l'effet de forces gravitationnelles parasites, ou être rendue instable par la proximité d'un champ de débris.
+- **Analyse du rayonnement et du champ magnétique local :** La station devra résister à d’éventuelles tempêtes solaires, ondes gravitationnelles, ou flux d'énergie inconnus. Ces éléments peuvent perturber les systèmes électroniques, corrompre les IAs ou tout simplement tuer les occupants sans protection adéquate.
+- **Repérage de ressources proches :** Dans un but d’exploitation (stations minières) ou de soutien logistique (eau, métaux, composants radioactifs), la proximité d’astéroïdes exploitables, de stations abandonnées ou de modules en dérive peut devenir un atout majeur.
+- **Détection d'anomalies spatiales ou de menaces exogènes :** On parle ici de signatures énergétiques non identifiées, de structures inconnues en orbite, ou d’objets en mouvement non répertoriés. Ce genre de "bruit dans les capteurs" est parfois ignoré par les corporations… jusqu’à ce qu’il soit trop tard.
+- **Planification stratégique des modules :** L’assemblage des modules essentiels (noyau de commande, recyclage de l’air, générateurs d’énergie, sas d’arrimage, etc.) est planifié en fonction des contraintes orbitales (orientation solaire, équilibre de masse, accès aux liaisons de ravitaillement), afin d’optimiser la répartition des charges, la redondance des systèmes et la sécurité des trajectoires. Chaque ajout modulaire doit minimiser les risques structurels et limiter les besoins en EVA, réduisant ainsi les délais et les coûts d’extension.
+- **Une population de départ modeste :** activation initiale et surveillance
+
+Le démarrage d’une station orbitale ne mobilise qu’une équipe restreinte, généralement composée de quelques dizaines d’individus sélectionnés pour leurs compétences spécifiques : ingénierie en microgravité, maintenance des systèmes de survie, contrôle EVA et surveillance IA. Ce noyau humain a pour mission de superviser l’activation des modules, de valider les systèmes vitaux, et de sécuriser l’environnement immédiat. C’est cette cellule initiale qui prépare la station à accueillir progressivement de nouveaux arrivants depuis les modules cryogéniques ou les cargos en attente.
+
+L’équipe initiale est chargée de :
+
+- **Activer les modules fondamentaux :** noyau central pressurisé, centre de commande, modules de survie (oxygène, filtration, chauffage), alimentation énergétique (cellules solaires, réacteurs compacts) et premiers sas de docking pour les cargos ou EVA.
+- **Contrôler et ajuster les systèmes de support vitaux :** niveaux de pression atmosphérique, taux de CO₂, cycles thermiques, gestion des déchets, intégrité structurelle et calibrage de la gravité artificielle (le cas échéant).
+- **Sécuriser la station contre les menaces spatiales :** micro-déchêts, collisions orbitales, anomalies gravitationnelles, sabotages ou infiltrations via cargaison. Cette sécurité passe aussi par la mise en place de protocoles IA et de surveillance continue des modules inoccupés.
+
+Cette première phase est déterminante pour la stabilité opérationnelle de la station. Elle permet d’établir un environnement habitable, contrôlé, prêt à recevoir des modules supplémentaires et à procéder à un réveil progressif de la population cryogénique. Pour un aperçu plus détaillé des composants essentiels, je vous renvoi à la rubrique Les infrastructures de base.
 
 **Les défis de la montée en charge**
 
