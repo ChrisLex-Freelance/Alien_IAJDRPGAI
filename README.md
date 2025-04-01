@@ -15,9 +15,12 @@ Apporter des éléments de contexte complémentaires pour enrichir l'expérience
 ## GENERATEUR ONLINE
 Une partie des éléments de contexte développé dans le cadre de ce projet ont été utilisé pour constituer des générateurs online et disponible sur le site de [Chartopia](https://chartopia.d12dev.com/) :
 
-- [PITCH GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/101361/)
-- [NPC GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/102139/)
-- [MEMORY GENERATOR (en anglais)](https://chartopia.d12dev.com/chart/100558/)
+- [PITCH GENERATOR](https://chartopia.d12dev.com/chart/101361/) (en anglais) / [GENERATEUR DE SCENARIO](https://chartopia.d12dev.com/chart/106300/) (en français)
+- [SCENARIO HOOK GENERATOR](https://chartopia.d12dev.com/chart/103192/) (en anglais) / [GENERATEUR D'ACCROCHE DE SCENARIO](https://chartopia.d12dev.com/chart/105976/) (en français)
+- [NPC GENERATOR](https://chartopia.d12dev.com/chart/102139/) (en anglais) / **Coming soon**
+- [MEMORY GENERATOR](https://chartopia.d12dev.com/chart/100558/) (en anglais) / **Coming soon**
+- [XENOMORP GENERATOR](https://chartopia.d12dev.com/chart/103013/) (en anglais) / [GENERATEUR DE XENOMORPHE](https://chartopia.d12dev.com/chart/106420/) (en français)
+- [COLONIE ROADMAP GENERATOR](https://chartopia.d12dev.com/chart/103194/) (en anglais) / [GÉNÉRATEUR DE FEUILLE DE ROUTE POUR LES ÉVÉNEMENTS DE LA COLONIE](https://chartopia.d12dev.com/chart/106295/) (en français)
 
 ### GEOGRAPHIE GALACTIQUE
 Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé, et plus largement les informations de base dont le personnage a connaissance quelque soit son statut ou son origine social.
