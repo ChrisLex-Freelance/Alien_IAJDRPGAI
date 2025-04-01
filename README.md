@@ -217,38 +217,16 @@ De plus, ces souvenirs permettent aux joueurs de s'aventurer dans la peau de per
 
 Le moment où le souvenir s'est formé est crucial pour comprendre l'impact qu'il a eu sur le personnage.
 
-##### SOUVENIR / REVE JEUNE
+##### SOUVENIR / REVE
 
-| D6 | Souvenir                                                                 |
-|----|--------------------------------------------------------------------------|
-| 1  | Quelque chose a disparu.                                                 |
-| 2  | Coupé du monde.                                                          |
-| 3  | Trahi trop tôt.                                                          |
-| 4  | Un regard dans l’ombre.                                                  |
-| 5  | Mensonge d’adulte.                                                       |
-| 6  | La peur du vide.                                                         |
-
-##### SOUVENIR / REVE ADULTE
-
-| D6 | Souvenir                                                                 |
-|----|--------------------------------------------------------------------------|
-| 1  | Choix impossible.                                                        |
-| 2  | Erreur irréparable.                                                      |
-| 3  | Ordres discutables.                                                      |
-| 4  | Silence coupable.                                                        |
-| 5  | Compromis moral.                                                         |
-| 6  | Fantômes du passé.                                                       |
-
-##### SOUVENIR / REVE ANCIEN
-
-| D6 | Souvenir                                                                 |
-|----|--------------------------------------------------------------------------|
-| 1  | Ceux qu’on a oubliés.                                                    |
-| 2  | Plus jamais.                                                             |
-| 3  | Effacé des archives.                                                     |
-| 4  | Pas un héros.                                                            |
-| 5  | Toujours en marche.                                                      |
-| 6  | L’ultime sacrifice.                                                      |
+| D6 | REVE JEUNE                                                               | REVE ADULTE                                                              | REVE ADULTE                                                              |
+|----|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1  | Quelque chose a disparu.                                                 | Choix impossible.                                                        | Ceux qu’on a oubliés.                                                    |
+| 2  | Erreur irréparable.                                                      | Coupé du monde.                                                          | Plus jamais.                                                             |
+| 3  | Ordres discutables.                                                      | Trahi trop tôt.                                                          | Effacé des archives.                                                     |
+| 4  | Silence coupable.                                                        | Un regard dans l’ombre.                                                  | Pas un héros.                                                            |
+| 5  | Compromis moral.                                                         | Mensonge d’adulte.                                                       | Toujours en marche.                                                      |
+| 6  | Fantômes du passé.                                                       | La peur du vide.                                                         | L’ultime sacrifice.                                                      |
 
 #### OU CELA S'EST-IL PASSE
 
