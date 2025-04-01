@@ -82,11 +82,11 @@ De plus, cette modification n'alourdie pas excessivement les règles. Elle ajout
 
 #### TABLE DES TRANCHES D'ÂGES
 
-| TRANCHE D'ÂGE | ÂGE            | POINTS D'ATTRIBUTS | POINTS DE COMPÉTENCES | TALENTS                                                                 |
-|---------------|----------------|--------------------|-----------------------|-------------------------------------------------------------------------|
-| **Jeune**     | 16 - 19 ans    | 15 points          | 8 points              | 1 talent de profil / 0 talent général                                   |
-| **Adulte**    | 21 - 49 ans    | 14 points          | 10 points             | 1 talent de profil / 1 talent général                                   |
-| **Ancien**    | 50 ans et plus | 13 points          | 12 points             | 2 talents de profil / 1 talent général                                  |
+| TRANCHE D'ÂGE | ÂGE            | POINTS D'ATTRIBUTS | POINTS DE COMPÉTENCES | TALENTS                                                                 | RÊVE                                                                                                                                                        |
+|---------------|----------------|--------------------|-----------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Jeune**     | 16 - 19 ans    | 15 points          | 8 points              | 1 talent de profil / 0 talent général                                   | Naissance du traumatisme. Ce souvenir façonne l'innocence brisée et les premières peurs. Lancez 1D6 sur la **table SOUVENIR / REVE JEUNE**                  |
+| **Adulte**    | 21 - 49 ans    | 14 points          | 10 points             | 1 talent de profil / 1 talent général                                   | Poids des choix. Il justifie vos actions actuelles, bonnes ou mauvaises. Lancez 1D6 sur les **table SOUVENIR / REVE JEUNE et REVE ADULTE**                  |
+| **Ancien**    | 50 ans et plus | 13 points          | 12 points             | 2 talents de profil / 1 talent général                                  | Mémoire marquée au fer rouge. Lancez 1D6 sur la **table SOUVENIR / REVE JEUNE, REVE ADULTE et REVE ANCIEN**                                                 |
 
 ### FOYER FAMILLIALE
 
@@ -217,33 +217,57 @@ De plus, ces souvenirs permettent aux joueurs de s'aventurer dans la peau de per
 
 Le moment où le souvenir s'est formé est crucial pour comprendre l'impact qu'il a eu sur le personnage.
 
-| D6  | Moment                                                                          |
-|-----|---------------------------------------------------------------------------------|
-| 1   | Lorsque vous étiez un enfant, une mémoire floue qui hante vos rêves.            |
-| 2   | Pendant votre enfance, un souvenir marquant qui a façonné vos peurs.            |
-| 3   | Lorsque vous étiez adolescent, un événement qui a changé votre vision du monde. |
-| 4   | À la fin de l'adolescence, alors que vous deveniez adulte.                      |
-| 5   | Il y a quelques années, un événement que vous essayez d'oublier.                |
-| 6   | Récemment, il y a seulement quelques semaines.                                  |
+##### SOUVENIR / REVE JEUNE
+
+| D6 | Souvenir                                                                 |
+|----|--------------------------------------------------------------------------|
+| 1  | Quelque chose a disparu.                                                 |
+| 2  | Coupé du monde.                                                          |
+| 3  | Trahi trop tôt.                                                          |
+| 4  | Un regard dans l’ombre.                                                  |
+| 5  | Mensonge d’adulte.                                                       |
+| 6  | La peur du vide.                                                         |
+
+##### SOUVENIR / REVE ADULTE
+
+| D6 | Souvenir                                                                 |
+|----|--------------------------------------------------------------------------|
+| 1  | Choix impossible.                                                        |
+| 2  | Erreur irréparable.                                                      |
+| 3  | Ordres discutables.                                                      |
+| 4  | Silence coupable.                                                        |
+| 5  | Compromis moral.                                                         |
+| 6  | Fantômes du passé.                                                       |
+
+##### SOUVENIR / REVE ANCIEN
+
+| D6 | Souvenir                                                                 |
+|----|--------------------------------------------------------------------------|
+| 1  | Ceux qu’on a oubliés.                                                    |
+| 2  | Plus jamais.                                                             |
+| 3  | Effacé des archives.                                                     |
+| 4  | Pas un héros.                                                            |
+| 5  | Toujours en marche.                                                      |
+| 6  | L’ultime sacrifice.                                                      |
 
 #### OU CELA S'EST-IL PASSE
 
 Les lieux reflètent le danger constant de la vie dans l'espace.
 
 | D12 | Lieu                                                                                  |
-|-----|---------------------------------------------------------------------------------------|
-| 1   | À bord d'un vaisseau en dérive, perdu dans l'espace.                                  |
-| 2   | Dans une station spatiale commerciale bondée et oppressante.                          |
-| 3   | Dans les couloirs sombres d'une base minière sur une lune isolée.                     |
-| 4   | En train d'attendre dans une salle d'embarquement glaciale sur une colonie lointaine. |
-| 5   | Dans un centre de recherche abandonné, quelque part dans le vide spatial.             |
-| 6   | Sur un monde désertique, à l'intérieur d'un avant-poste en ruines.                    |
-| 7   | Dans un ascenseur orbital, entre la Terre et les étoiles.                             |
-| 8   | À la surface d'une planète tempétueuse, sous une pluie acide constante.               |
-| 9   | Dans un centre de détention de la Compagnie, austère et sans âme.                     |
-| 10  | À la frontière d'une forêt extraterrestre, où la nature vous paraissait étrangère.    |
-| 11  | Dans un secteur industriel de la Station Gateway, entouré de travailleurs épuisés.    |
-| 12  | À l'intérieur d'une navette de secours, seul dans l'immensité de l'espace.            |
+|------|--------------------------------------------------------------------------------------|
+| 1    | À bord d'un vaisseau en dérive, perdu dans l'espace.                                 |
+| 2    | Dans une station spatiale commerciale bondée et oppressante.                         |
+| 3    | Dans les couloirs sombres d'une base minière sur une lune isolée.                    |
+| 4    | En train d'attendre dans une salle d'embarquement glaciale sur une colonie lointaine.|
+| 5    | Dans un centre de recherche abandonné, quelque part dans le vide spatial.            |
+| 6    | Sur un monde désertique, à l'intérieur d'un avant-poste en ruines.                   |
+| 7    | Dans un ascenseur orbital, entre la Terre et les étoiles.                            |
+| 8    | À la surface d'une planète tempétueuse, sous une pluie acide constante.              |
+| 9    | Dans un centre de détention de la Compagnie, austère et sans âme.                    |
+| 10   | À la frontière d'une forêt extraterrestre, où la nature vous paraissait étrangère.   |
+| 11   | Dans un secteur industriel de la Station Gateway, entouré de travailleurs épuisés.   |
+| 12   | À l'intérieur d'une navette de secours, seul dans l'immensité de l'espace.           |
 
 #### QUI ETAIT PRESENT
 
