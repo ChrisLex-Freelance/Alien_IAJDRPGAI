@@ -423,9 +423,49 @@ L'impact psychologique est essentiel dans l'univers d'Alien.
 
 | D66   | ÉVÉNEMENTS                                                                                                                                                                                  |
 |------ |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11–13 | Vous avez mené une négociation avec un groupe indépendant qui refusait de vendre ses droits miniers. Vos manœuvres ont porté leurs fruits. **Vous gagnez le talent PRISE DE CONTRÔLE.**     |
+| 14–16 | Un unité MU/TH/UR défaillante a causé une panne majeure dans un centre orbital. Vous l’avez isolée et réinitialisée sans perte de données. **Vous gagnez +1 dans la compétence COMTECH.**   |
+| 21–24 | En inspectant un laboratoire secret, vous avez découvert des expériences génétiques illégales. Vous avez choisi de classer l’affaire. **Vous gagnez le talent MOI D’ABORD.**                |
+| 25–31 | Un lanceur d’alerte interne a tenté de vous impliquer. Vous avez manipulé la situation à votre avantage, retournant les soupçons. **Vous gagnez le talent RUSE.**                           |
+| 32–34 | Une réunion diplomatique a mal tourné. Vous avez calmé les tensions en jouant sur la peur et les promesses. **Vous gagnez +1 dans la compétence MANIPULATION.**                             |
+| 35–41 | Vous avez été exposé à une opération classifiée impliquant une espèce non-humaine. Vous avez su garder votre calme. **Vous gagnez le talent NERFS D’ACIER.**                                |
+| 42–44 | Vous avez mené un audit sur une station. Grâce à votre sens de l’analyse, vous avez détecté un réseau de corruption. **Vous gagnez +1 dans la compétence OBSERVATION.**                     |
+| 45–52 | Suite à la disparition d’un superviseur, vous avez pris le commandement temporairement. Vos décisions ont sauvé l’équipe. **Vous gagnez +1 dans la compétence COMMANDEMENT.**               |
+| 53–55 | Vous avez été envoyé en territoire hostile pour récupérer un prototype vital. Malgré les conditions extrêmes, vous êtes revenu intact. **Vous gagnez +1 dans la compétence SURVIE.**        |
+| 56–62 | Durant une crise, vous avez désobéi à un ordre injustifiable venant du siège. Vos actions ont sauvé des vies. **Vous gagnez le talent ESPRIT DE CONTRADICTION.**                            |
+| 63–66 | Vous avez été pris en otage avec un groupe de cadres. Vous avez négocié une sortie, même si cela impliquait un lourd sacrifice. **Vous gagnez +1 dans la compétence MANIPULATION.**         |
 
+#### GAMIN
 
+| D66   | ÉVÉNEMENTS                                                                                                                                                                                  |
+|------ |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11–13 | Vous avez survécu dans les niveaux inférieurs d’une station bondée, volant pour manger, vous cachant pour dormir. **Vous gagnez le talent PASSE-PARTOUT.**                                  |
+| 14–16 | Vous avez échappé à une rafle de la sécurité de la Compagnie en rampant dans les conduits de ventilation. **Vous gagnez +1 dans la compétence MOBILITÉ.**                                   |
+| 21–24 | Vous avez été témoin d’un meurtre dissimulé dans une ruelle. Depuis, vous êtes toujours aux aguets. **Vous gagnez le talent VIGILANT.**                                                     |
+| 25–31 | Vous avez bricolé un appareil fonctionnel à partir de débris électroniques. Un vieux mécano vous a laissé le garder. **Vous gagnez +1 dans la compétence COMTECH.**                         |
+| 32–34 | Vous avez été piégé par une porte automatique. Une voix vous a guidé à distance pour en sortir. **Vous gagnez le talent VIF.**                                                              |
+| 35–41 | Une bande de colons vous a adopté un temps. Vous les avez abandonnés quand les choses ont dégénéré. **Vous gagnez le talent MOI D’ABORD.**                                                  |
+| 42–44 | Vous avez été enfermé dans une cellule de stockage. Vous en êtes sorti seul, plus malin qu’avant. **Vous gagnez +1 dans la compétence OBSERVATION.**                                        |
+| 45–52 | Vous avez exploré une épave spatiale abandonnée et trouvé un objet étrange. Depuis, vous faites des rêves que vous ne comprenez pas. **Vous gagnez le talent CURIOSITÉ.**                   |
+| 53–55 | Vous avez été blessé et personne ne vous a aidé. Vous avez appris à ignorer la douleur. **Vous gagnez +1 dans la compétence ENDURANCE.**                                                    |
+| 56–62 | Un adulte vous a protégé… puis vous a trahi. Depuis, vous ne faites plus confiance à personne. **Vous gagnez le talent FURTIF.**                                                            |
+| 63–66 | Lors d’une fuite d’air, vous avez guidé un petit groupe à travers les conduits d’évacuation. On vous a pris pour un héros. **Vous gagnez +1 dans la compétence COMMANDEMENT.**              |
 
+#### SCIENTIFIQUE
+
+| D66  | ÉVÉNEMENTS                                                                                                                                                                                   |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11–13 | Vous avez isolé un agent pathogène inconnu dans un centre de quarantaine. Vos protocoles ont évité une catastrophe. **Vous gagnez +1 dans la compétence SOINS MÉDICAUX.**                   |
+| 14–16 | Une IA vous a confié des données interdites en pensant que vous étiez autorisé. Vous les avez étudiées en secret. **Vous gagnez +1 dans la compétence COMTECH.**                            |
+| 21–24 | Lors d’une expédition, vous avez catalogué une nouvelle forme de vie microbienne. Cela vous obsède depuis. **Vous gagnez le talent CURIOSITÉ.**                                             |
+| 25–31 | Une expérience sur un organisme inconnu a provoqué une réaction instable. Vous avez gardé votre sang-froid. **Vous gagnez le talent NERFS D’ACIER.**                                        |
+| 32–34 | Vous avez fait une découverte que la Compagnie veut garder secrète. Vous avez choisi de vous taire. **Vous gagnez +1 dans la compétence OBSERVATION.**                                      |
+| 35–41 | On vous a imposé de falsifier des résultats de recherche pour répondre aux attentes de vos supérieurs. Vous vous êtes exécuté. **Vous gagnez le talent RUSE.**                              |
+| 42–44 | Vous avez été exposé à un phénomène inconnu : champ électromagnétique, onde mentale, ou rêve partagé. **Vous gagnez +1 dans la compétence ESPRIT.**                                         |
+| 45–52 | Vous avez tenté de sauver un cobaye humain d’un projet expérimental. Cela a échoué, mais vous avez compris le système. **Vous gagnez +1 dans la compétence COMTECH.**                       |
+| 53–55 | Vous avez publié une théorie qui a été ridiculisée… avant de se révéler exacte. **Vous gagnez le talent ANALYSE.**                                                                          |
+| 56–62 | Une expérience s’est échappée en laboratoire. Vous avez su rester calme et coordonner la réponse. **Vous gagnez +1 dans la compétence COMMANDEMENT.**                                       |
+| 63–66 | Vous avez été désigné responsable scientifique d’une expédition. Vos décisions ont permis à l’équipage de survivre. **Vous gagnez le talent DÉCOUVERTE.**                                   |
 
 ### OPINIONS
 
