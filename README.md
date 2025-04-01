@@ -144,7 +144,7 @@ Comme pour Ripley, ces détails familiaux peuvent devenir des éléments clés d
 - **Deux frères et/ou sœurs :** Les relations familiales peuvent être explorées plus en profondeur, avec des alliances ou des rivalités au sein de la fratrie qui influencent les décisions du personnage. Le maître de jeu peut également jouer sur le thème de la loyauté familiale, par exemple en mettant le personnage face à un choix difficile entre sa mission et sa famille.
 - **Trois frères et/ou sœurs ou plus :** Une grande famille offre de nombreuses possibilités narratives. Peut-être que certains membres de la famille sont en conflit avec d'autres, créant ainsi des dilemmes pour le personnage. Vous pourriez également introduire des éléments où la famille joue un rôle central, comme un héritage familial ou une dette à honorer.
 
-##### REALTIONS AVEC LES FRERES/SOEURS
+##### RELATIONS AVEC LES FRERES/SOEURS
 
 **Conseils d’interprétation pour les joueurs**
 
@@ -416,6 +416,15 @@ L'impact psychologique est essentiel dans l'univers d'Alien.
 | 4   | Vous avez vu un vaisseau fantôme dériver sans vie dans le vide spatial.                                  |
 | 5   | Vous avez assisté à la désintégration d'une navette dans l'atmosphère d'une planète.                     |
 | 6   | Vous avez survécu à une panne de cryo-sommeil, piégé dans le noir glacé de votre capsule.                |
+
+### EVENEMENT DE PROFIL
+
+#### AGENT DE LA COMPAGNIE
+
+| D66   | ÉVÉNEMENTS                                                                                                                                                                                  |
+|------ |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 
 ### OPINIONS
