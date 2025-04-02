@@ -261,9 +261,9 @@ Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la
 | **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                     | Confins, Bordure Extérieure         | 2 Traits         | 2 domaines           |
 
 
-## DOMAINE D'ACTIVITE DE LA CORPORATION
+## DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION
 
-### GENERATEUR DE DOMAINE
+### GENERATEUR DES PRINCIPAUX DOMAINES D'EXPERTISE
 
 Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 
@@ -290,6 +290,43 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | 19  | Intelligence économique          | Espionnage industriel, acquisitions hostiles, sécurisation de secrets.                       |
 | 20  | Logistique & infrastructure      | Planification des flux de biens, modules, personnel, transports.                             |
 
+### MORALITÉ CORPORATISTE
+
+#### GENERATEUR D'ACTIVITÉS SECONDAIRES
+
+| MORALITÉ PERÇUE      | ACTIVITÉS SECONDAIRES | DESCRIPTION NARRATIVE                                                                     |
+|----------------------|-----------------------|-------------------------------------------------------------------------------------------|
+| **Intègre**          | 1                     | La corporation suit les lois interstellaires et les règlements internes à la lettre.      |
+| **Éthique déclarée** | 2                     | Elle projette une image propre mais peut tolérer des écarts discrets et contrôlés.        |
+| **Modérée**          | 3                     | Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.            |
+| **Opportuniste**     | 4                     | Elle exploite toutes les failles possibles, tant que les résultats justifient les moyens. |
+| **Amorale**          | 5                     | Aucune ligne rouge : la rentabilité prime sur l’éthique.                                  |
+| **Fanatique**        | 6                     | L’idéologie remplace la morale. Tout est permis au nom de la doctrine corporatiste.       |
+
+#### GENERATEUR D'ACTIVITÉS SECONDAIRES
+
+| ID  | ACTIVITÉ SECONDAIRE                       | DESCRIPTION                                                                                      |
+|-----|-------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | Sous-traitance industrielle               | Externalisation de production, transport, sécurité ou gestion logistique à des groupes tiers.    |
+| 02  | Marché noir                               | Vente ou achat illégal de biens rares, armes, artefacts ou substances interdites.                |
+| 03  | Recherche secrète                         | Projets non déclarés, dissimulés aux gouvernements ou organes de contrôle.                       |
+| 04  | Milices privées                           | Forces armées para-corporatistes agissant en autonomie ou sous faux drapeau.                     |
+| 05  | Trafic génétique                          | Échange d’ADN, modifications interdites, organes, espèces capturées ou fabriquées.               |
+| 06  | Contrefaçon technologique                 | Copie de brevets, reverse engineering, ventes sous licences falsifiées.                          |
+| 07  | Détournement de données                   | Espionnage numérique, vol de secrets industriels, capture de logs ou IA.                         |
+| 08  | Contrôle de main-d’œuvre                  | Gestion de personnel captif : travailleurs sous dette, clones, mineurs non déclarés.             |
+| 09  | Recyclage non réglementé                  | Démantèlement de stations, récupération de matériaux radioactifs ou biologiques à risque.        |
+| 10  | Endoctrinement religieux                  | Diffusion de dogmes déguisés en formation professionnelle ou motivation sociale.                 |
+| 11  | Hébergement de fugitifs                   | Accueil discret de personnes recherchées ou expérimentales.                                      |
+| 12  | Spéculation sur la colonisation           | Vente anticipée de territoires, modules ou ressources encore non validés.                        |
+| 13  | Piraterie spatiale indirecte              | Subvention de pirates ou corsaires officieux pour affaiblir la concurrence.                      |
+| 14  | Développement de techno-obsolètes         | Conception d'équipements bas de gamme pour marchés contrôlés ou militarisés.                     |
+| 15  | Transport non-déclaré                     | Cargos ou passagers clandestins, modules illégaux, itinéraires non tracés.                       |
+| 16  | Programmes autonomes IA                   | Développement de sous-IA déconnectées du réseau principal, pour expérimentations locales.        |
+| 17  | Ventes de licences culturelles            | Recyclage de symboles, identités, mythes pour contrôler des groupes via propagande.              |
+| 18  | Expérimentations biologiques non-humaines | Tests sur espèces aliens, xénomorphes ou hybrides.                                               |
+| 19  | Surveillance clandestine                  | Espionnage systématique de colonies ou entreprises via drones, implants ou IA.                   |
+| 20  | Sauvetage de crédits perdus               | Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées".                         |
 
 #### TRAITS CORPORATISTE
 | ID | Trait  | Description | 3 avantages | 3 défauts |
