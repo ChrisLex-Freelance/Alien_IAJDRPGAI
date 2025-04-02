@@ -123,7 +123,7 @@ Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la lis
 | 99  | Xenon     | Solutions    |
 | 100 | Eclipse   | Enterprises  |
 
-### SLOGAN
+### SLOGAN DE LA CORPORATION
 
 #### GENERATEUR DE SLOGAN
 
@@ -232,7 +232,7 @@ Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la li
 | 99  | Ce que vous imaginez                                | nous le rendons réel.                                             |
 | 100 | Ensemble                                            | au service du futur.                                              |
 
-### ORIGINE GEOGRAPHIQUE
+### ORIGINE GEOGRAPHIQUE DE LA CORPORATION
 
 #### GEOGRAPHIE GALACTIQUE
 
@@ -245,21 +245,50 @@ Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la
 | 76-90  | **BORDURE EXTÉRIEURE** | Un espace aux confins de l’autorité centrale où règnent des tensions grandissantes. La Bordure Extérieure est peuplée de colonies établies récemment, d'avant-postes de recherche, et de stations minérales opérant dans des conditions extrêmes. L’environnement y est rude, avec des planètes à peine terraformées et des ressources limitées, obligeant les colons à développer une autonomie forte. Les forces de sécurité sont souvent insuffisantes pour assurer la protection, et les tensions entre les corporations et les communautés locales créent des situations explosives. La méfiance envers les corporations y est courante, et certains colons craignent une forme de « nettoyage » en cas de découverte d'un danger biologique. |
 | 91-100 | **LES CONFINS**        | Région la plus éloignée et la moins explorée de la galaxie, les Confins sont une frontière de l'inconnu. Les colons et explorateurs des Confins affrontent des environnements extrêmes et isolés, sans aucun support ni aide rapide en cas d'incident. La vie y est dangereuse, et les règles traditionnelles de sécurité et de coopération sont souvent ignorées. Ce secteur attire les pionniers téméraires, les chercheurs, et parfois des fugitifs cherchant à échapper aux lois des Systèmes du Noyau. Dans les Confins, la menace des créatures inconnues, des parasites mortels et des zones hostiles est omniprésente, et la Weyland-Yutani, toujours avide de découvertes, surveille cette région pour y trouver des ressources ou des espèces nouvelles. |
 
-### TYPE DE STRUCTURE
+### TYPE DE STRUCTURE DE LA CORPORATION
 
 ### GENERATEUR DE STRUCTURE
 
-| TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                             | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|
-| **Mégacorporation**              | Géant économique interstellaire, tentaculaire, aux ramifications légales et illégales. Possède ses propres flottes, armées, stations, système automatisé propriétaires. | Systèmes du Noyau, Voile Extérieur  | 8 Traits         |
-| **Conglomérat Multi-sectoriel**  | Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.                                                  | Systèmes du Noyau, Voile Extérieur  | 6 Traits         |
-| **Filiale spécialisée**          | Structure dépendante d'une méga-entreprise, opérant dans un secteur restreint (biotech, exploitation, sécurité, etc.).                                                  | Voile Extérieur, Bordure Extérieure | 4 Traits         |
-| **Start-up rachetée**            | Ancienne petite entreprise intégrée dans une structure plus vaste. Peut avoir conservé sa culture d’origine ou être totalement transformée.                             | Voile Extérieur, Systèmes du Noyau  | 3 Traits         |
-| **Syndicat de colons privatisé** | Collectif local transformé en entreprise sous pression corporatiste ou par nécessité de survie. Structure fragile mais très résiliente.                                 | Bordure Extérieure, Confins         | 2 Traits         |
-| **Collectif indépendant**        | Faction émergente non encore reconnue officiellement, souvent autogérée ou clandestine.                                                                                 | Bordure Extérieure, Confins         | 1 Trait          |
-| **Délégation autonome**          | Branche locale d’une mégacorporation opérant avec une large autonomie en raison de l’éloignement ou d’une crise.                                                        | Voile Extérieur, Confins            | 2 Traits         |
-| **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                   | Confins, Bordure Extérieure         | 2 Traits         |
+| TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
+| **Mégacorporation**              | Géant économique interstellaire, tentaculaire, aux ramifications légales et illégales. Possède ses propres flottes, armées, stations, systèmes automatisés propriétaires. | Systèmes du Noyau, Voile Extérieur  | 8 Traits         | 6 domaines           |
+| **Conglomérat Multi-sectoriel**  | Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.                                                    | Systèmes du Noyau, Voile Extérieur  | 6 Traits         | 4 domaines           |
+| **Filiale spécialisée**          | Structure dépendante d'une méga-entreprise, opérant dans un secteur restreint (biotech, exploitation, sécurité, etc.).                                                    | Voile Extérieur, Bordure Extérieure | 4 Traits         | 2 domaines           |
+| **Start-up rachetée**            | Ancienne petite entreprise intégrée dans une structure plus vaste. Peut avoir conservé sa culture d’origine ou être totalement transformée.                               | Voile Extérieur, Systèmes du Noyau  | 3 Traits         | 1 domaine            |
+| **Syndicat de colons privatisé** | Collectif local transformé en entreprise sous pression corporatiste ou par nécessité de survie. Structure fragile mais très résiliente.                                   | Bordure Extérieure, Confins         | 2 Traits         | 1 domaine            |
+| **Collectif indépendant**        | Faction émergente non encore reconnue officiellement, souvent autogérée ou clandestine.                                                                                   | Bordure Extérieure, Confins         | 1 Trait          | 1 domaine            |
+| **Délégation autonome**          | Branche locale d’une mégacorporation opérant avec une large autonomie en raison de l’éloignement ou d’une crise.                                                          | Voile Extérieur, Confins            | 2 Traits         | 1 domaine            |
+| **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                     | Confins, Bordure Extérieure         | 2 Traits         | 2 domaines           |
 
+
+## DOMAINE D'ACTIVITE DE LA CORPORATION
+
+### GENERATEUR DE DOMAINE
+
+Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
+
+| ID  | DOMAINE                          | DESCRIPTION                                                                                  |
+|-----|----------------------------------|----------------------------------------------------------------------------------------------|
+| 01  | Colonisation                     | Construction de colonies, infrastructures, modules de vie et environnement terraformé.       |
+| 02  | Terraformage                     | Modification atmosphérique et géologique de planètes hostiles.                               |
+| 03  | Extraction minière               | Exploitation de ressources brutes (minerais, gaz, isotopes rares).                           |
+| 04  | Biotechnologie                   | Manipulation du vivant à des fins médicales, militaires ou agricoles.                        |
+| 05  | Armement & Sécurité              | Production d’armes, mercenariat, sécurité privée, drones, PMC.                               |
+| 06  | Cybernétique & Augmentations     | Implantation d’améliorations technologiques dans le corps humain.                            |
+| 07  | Intelligence Artificielle        | Développement d’IA pour la gestion, l’analyse ou la surveillance.                            |
+| 08  | Transport spatial                | Construction et gestion de vaisseaux, routes, cargos, hubs orbitaux.                         |
+| 09  | Recherche scientifique           | Études appliquées ou fondamentales, souvent en milieu isolé ou expérimental.                 |
+| 10  | Pharmaceutique                   | Production de médicaments, dopants, sédatifs, traitements.                                   |
+| 11  | Manipulation génétique           | Création ou altération de formes de vie (végétales, humaines ou alien).                      |
+| 12  | Exploitation xéno-biologique     | Étude, capture, adaptation ou militarisation d’organismes inconnus.                          |
+| 13  | Communication & Réseaux          | Gestion de l'information, transmission inter-systèmes, propagande.                           |
+| 14  | Divertissement & Contrôle social | Médias, contenus immersifs, endoctrinement par le loisir.                                    |
+| 15  | Réhabilitation & recyclage       | Récupération de matériel, bio-déchets, technologies obsolètes.                               |
+| 16  | Commerce & négoce                | Contrôle de flux économiques, import/export, zones franches.                                 |
+| 17  | Énergie & carburant              | Production, transformation, distribution de ressources énergétiques.                         |
+| 18  | Data mining & analyse prédictive | Exploitation massive de données pour modéliser les comportements, marchés, incidents.        |
+| 19  | Intelligence économique          | Espionnage industriel, acquisitions hostiles, sécurisation de secrets.                       |
+| 20  | Logistique & infrastructure      | Planification des flux de biens, modules, personnel, transports.                             |
 
 
 #### TRAITS CORPORATISTE
