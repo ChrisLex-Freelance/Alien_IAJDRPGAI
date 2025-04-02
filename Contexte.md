@@ -385,5 +385,51 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | 49 | Mémoire conditionnée          | Manipulation de souvenirs pour contrôler les agents ou les colons.                             | Obéissance comportementale, Réduction du traumatisme, Résilience factice           | Identité instable, Fuites mentales, Implosions psychiques |
 | 50 | Refuges cognitifs             | Entretient de stations secrètes pour cadres en réalités simulées ou boucles de confort.        | Préservation mentale, Fidélité accrue, Test d’idées sans conséquence               | Déconnexion du réel, Perte de temps stratégique, Révélations hallucinées |
 
+## STRUCTURE INTERNE DE LA CORPORATION
+
+### INTÉGRATION DE L’IA DANS LA CORPORATISTE
+
+| NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    |
+|--------------------------------|------------------------------------------------------------------------------------------------|
+| **IA consultative**            | L’IA analyse les données et propose des scénarios, mais n’a pas de pouvoir décisionnel direct. |
+| **IA co-gouvernante**          | L’IA prend des décisions conjointement avec le conseil ou la direction humaine.                |
+| **IA dominante**               | L’IA supervise tous les aspects opérationnels et stratégiques. L’humain ne fait qu’exécuter.   |
+| **IA distribuée**              | Plusieurs IA locales spécialisées (logistique, sécurité, navigation) non centralisées.         |
+| **IA dissociée / indépendante**| L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   |
+| **IA expérimentale / instable**| IA en cours de test, parfois sujette à des comportements erratiques.                           |
+
+### RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION
+
+| UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
+|--------------------------------|------------------------------------------------------------------------------------------------|
+| **Main-d'œuvre technique**     | Opèrent dans la maintenance, la médecine, la navigation, la recherche.                         |
+| **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
+| **Agents d’infiltration**      | Modèles à apparence humaine utilisés pour l’espionnage ou la médiation.                        |
+| **Conseillers exécutifs**      | Intégrés dans les conseils d'administration ou comme assistants IA.                            |
+| **Synthétiques obsolètes**     | Modèles anciens ou "ratés", relégués à des tâches ingrates ou cachés.                          |
+| **Absence volontaire**         | Choix idéologique ou culturel de ne pas employer de synthétiques. Exceptionnel et suspect.     |
+
+### MODÈLE HIÉRARCHIQUE DANS LA CORPORATION
+
+| MODÈLE HIÉRARCHIQUE            | DESCRIPTION                                                                                    |
+|------------------------------- |----------------------------------------------------------------------------------------------|
+| **Divisions sectorielles**     | Chaque domaine (biotech, sécurité…) opère de façon autonome.                                |
+| **Hiérarchie militaire**       | Structure rigide par grade. Peu d’autonomie individuelle.                                   |
+| **Structure pyramidale classique** | Cadres > superviseurs > exécutants > personnel auxiliaire.                            |
+| **Organisation modulaire**     | Hiérarchies par projets, recomposées en fonction des besoins.                              |
+| **Structure en cellules**      | Cloisonnement extrême, information très compartimentée.                                     |
+| **Hiérarchie IA-centrique**    | Tous les échelons humains sont subordonnés à l’autorité logique d’une IA.                   |
+| **Hiérarchie rituelle / symbolique** | Rang défini par l’adhésion au dogme ou aux valeurs de l’entreprise. (culte corporatiste) |
+
+### SÉCURITÉ INTERNE DE LA CORPORATION
+
+| SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                      |
+|--------------------------------|--------------------------------------------------------------------------------------------------|
+| **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.             |
+| **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.      |
+| **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                               |
+| **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                            |
+| **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                            |
+| **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
 
 
