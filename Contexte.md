@@ -434,18 +434,20 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 
 ## CULTURE DE LA CORPORATION
 
-### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
+### JARGON INTERNE DE LA CORPORATION
 
-| TERME                           | SIGNIFICATION RÉELLE                          | UTILISATION COURANTE                                      |
-|--------------------------------|-----------------------------------------------|-----------------------------------------------------------|
-| Actif biologique               | Employé / travailleur humain                  | "Actif biologique 22-B en surcharge, recommander analyse." |
-| Module de productivité         | Poste de travail, atelier ou espace de repos | "Les modules de productivité du secteur D sont optimaux." |
-| Unité émotionnelle instable    | Personne en détresse mentale                | "Réaffectation de l’unité émotionnelle instable 3-F"      |
-| Ressource organique excédentaire | Employé jugé superflu ou mutique        | "Récupération autorisée. Statut : excédentaire."          |
-| Échec opérationnel             | Décès ou blessure grave                       | "Mission clôturée suite à un échec opérationnel isolé."   |
-| Signal de silence              | Ordre de ne pas témoigner / classer sans suite | "Émettre un signal de silence sur l’incident E-12."       |
+#### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
 
-### RÉCOMPENSES INTERNES DE LA CORPORATION
+| TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
+|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Actif biologique                 | Employé / travailleur humain                                                    | "Actif biologique 22-B en surcharge, recommander analyse."|
+| Module de productivité           | Poste de travail, atelier ou espace de repos                                    | "Les modules de productivité du secteur D sont optimaux." |
+| Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
+| Ressource organique excédentaire | Employé jugé superflu ou mutique                                                | "Récupération autorisée. Statut : excédentaire."          |
+| Échec opérationnel               | Décès ou blessure grave                                                         | "Mission clôturée suite à un échec opérationnel isolé."   |
+| Signal de silence                | Ordre de ne pas témoigner / classer sans suite                                  | "Émettre un signal de silence sur l’incident E-12."       |
+
+#### RÉCOMPENSES INTERNES DE LA CORPORATION
 
 | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
 |-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
@@ -456,7 +458,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Stase préférentielle        | Mise en sommeil sans effet secondaire ou mémoire altérée                             | Échapper temporairement au stress |
 | Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
 
-### CLASSEMENTS ET NOTATIONS DE LA CORPORATION
+#### CLASSEMENTS ET NOTATIONS DE LA CORPORATION
 
 | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
 |-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
@@ -466,7 +468,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
 | Statut de visibilité        | Plus le rang est élevé, plus la personne est visible aux IA & supérieurs             | Surveillance accrue              |
 
-### PROCÉDURES DE SANCTION DE LA CORPORATION
+#### PROCÉDURES DE SANCTION DE LA CORPORATION
 
 | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
 |-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
@@ -475,4 +477,67 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Effacement comportemental   | Suppression de mémoire / reprogrammation légère                                      | Perte d’identité                 |
 | Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
 | Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
+
+## PROGRAMMES DE FIDÉLISATION
+
+| TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Hédonisme compensatoire       | Accès encadré à des plaisirs artificiels ou contrôlés, utilisés comme soupapes de sécurité. Ces modules offrent une illusion de liberté ou de réconfort dans un environnement oppressant.        | Simulations VR privées, hallucinogènes approuvés, modules charnels agréés, "vacances contrôlées", zones de plaisir             |
+| Endoctrinement idéologique    | Conditionnement répété via doctrines, messages subliminaux, récitations collectives, ou manipulation narrative. Présenté comme une culture d'entreprise, il devient souvent un culte.            | Séances de "récit d'entreprise", chants collectifs, visionnages obligatoires, prière à l’IA, journaux internes dogmatiques     |
+| Dépendance médicamenteuse     | Prescription systématique de produits altérant l’humeur ou la cognition pour maintenir la stabilité émotionnelle du personnel. La fidélité devient biochimique.                                  | Stimulants de concentration, inhibiteurs de stress, injecteurs "d’équilibre", chewing-gums d’obéissance, pilules de conformité |
+| Rituels collectifs            | Activités de cohésion imposées ou "spontanées", qui servent à forger l’illusion d’unité. Ces rituels sont parfois notés, voire hiérarchisés.                                                     | Célébrations d’objectifs, promotion filmée, serments, chants, journée du fondateur, compétition de loyauté, tatouage corpo     |
+| Téléchargements cognitifs     | Transferts d'information, protocoles comportementaux, ou "paquets culturels" injectés dans le cerveau des employés. L’identité personnelle est peu à peu remplacée par une mémoire standardisée. | Upload de compétences, réinitialisation comportementale, injection de souvenirs positifs, désensibilisation aux traumas        |
+| Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
+| Surveillance sociale inversée | Programme où les employés sont responsables de la surveillance et de la conformité de leurs pairs. Encourage la délation comme outil de promotion.                                               | Système de parrainage, notation mutuelle, récompense de dénonciation, rapport anonyme                                          |
+| Parrainage émotionnel         | Chaque employé est assigné à un "binôme comportemental" chargé de surveiller et de stabiliser ses émotions — ou de les signaler en cas de dérive.                                                | Synthétiques thérapeutiques, IA empathique, collègues liés psychologiquement, score d’harmonie émotionnelle                    |
+| Gamification intégrale        | Le quotidien est gamifié : points de loyauté, succès déverrouillés, défis internes. Rend la fidélisation addictive et déconnectée de la réalité.                                                 | Classements de productivité, insignes numériques, quêtes journalières, tableaux d'honneur interactifs                          |
+| Recodage identitaire          | Suppression ou altération des souvenirs personnels, remplacés par des "mémoires officielles" plus compatibles avec la vision corporatiste.                                                       | Implantation de souvenirs, cérémonies de réassignation de vie, réécritures psychiques                                          |
+
+## CAMPAGNES PUBLICITAIRES & SLOGANS
+
+| FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
+| **Visuels propagandistes**                  | Affiches, écrans fixes ou animations mettant en scène des environnements idéalisés, des enfants souriants, des couples heureux dans des colonies.                  | Propagande visuelle omniprésente dans les couloirs, bunkers, zones de transit.                       |
+| **Hologrammes publics**                     | Présence IA ou mascotte projetée dans l’environnement pour diffuser des informations, rappeler les valeurs ou féliciter les employés.                              | Hologramme de l’IA qui vous salue, bulletin lumineux de productivité en direct.                      |
+| **Vidéos de conditionnement**               | Séquences diffusées à des moments clés : embarquement, réveil, pause. Présentées comme informatives mais en réalité manipulatrices.                                | "Briefing motivationnel", "capsule comportementale", "mémoire inspirante".                           |
+| **Influenceurs corpo**                      | Employés modèles choisis pour être les visages de la corpo : leurs récits sont fabriqués, optimisés, et présentés comme authentiques.                              | Vidéo "Une journée avec le Superviseur Yuki", journal de bord public, posts intranet.                |
+| **Slogans à déclenchement adaptatif**       | Slogans personnalisés diffusés par l’IA selon l’état émotionnel, l’historique de rendement ou les événements récents.                                              | "Nous croyons en votre capacité à rebondir, employé 233-A." / "Votre loyauté a été notée."           |
+| **Affichage par couleurs comportementales** | Luminophores muraux ou vêtements qui changent de couleur selon l’état psychologique ou la conformité du porteur.                                                   | Uniformes réactifs, murs signalant le stress latent dans une pièce.                                  |
+| **Publicité inversée**                      | Propagande ciblant les ennemis supposés de la corpo : syndicats, rebelles, concurrents — pour justifier la répression ou les interventions.                        | "Ils veulent voler votre oxygène. Nous voulons protéger vos enfants."                                |
+| **Campagnes de rétro-nostalgie**            | Utilisation d’images et messages anciens de la corpo (réels ou fictifs) pour créer une sensation de continuité, de stabilité rassurante.                           | Logos "vintage", images d’époque, hymnes restaurés.                                                  |
+| **Propagande émotionnelle ciblée**          | IA ou synthétiques injectent directement des séquences émotionnelles via implants, interfaces ou micro-doses sensoriels.                                           | Séquences de "fierté collective", sensation de sécurité, euphorie liée à l'appartenance.             |
+
+## SYMBOLES CORPORATISTES
+
+| SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| Mascotte ou totem         | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                    | Figure rassurante ou propagandiste |
+| Tatouage de conformité    | Marquage corporel visible ou non, lié au statut de l’individu dans la hiérarchie ou son degré de loyauté.                                                | Code-barres, lumière sous-cutanée, encre activée par IA                  | Rend visible l’appartenance et le rang |
+| Mur des fondateurs        | Monument physique ou holographique célébrant les origines mythifiées de la corpo. Présent dans les halls ou zones de repos.                             | Fresque mouvante, mur des visages, stèle vocale                          | Crée un récit fondateur, légitime l’autorité |
+| Totem de recueillement    | Objet d’adoration "neutre" — utilisé officiellement pour apaiser, officieusement pour mesurer ou influencer le personnel.                                | Pierre noire, sphère pulsée, idole IA silencieuse                        | Contrôle émotionnel masqué         |
+| Blason évolutif           | Symbole de rang qui se modifie avec la progression de l’individu (numérique ou vestimentaire).                                                          | Patch thermosensible, insigne projeté, drone signal lumineux             | Gamification statutaire            |
+| Icône cryptée             | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                      | Sceau ésotérique, hologramme privé, cube de données                      | Génère mystère et hiérarchie occulte |
+
+## RITUELS CORPORATISTES
+
+| RITUEL                    | DESCRIPTION ÉTENDUE                                                                                                                                     | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| Mantra obligatoire        | Formule sacrée récitée avant chaque mission ou action critique, souvent diffusée par l’IA.                                                               | "L’ordre précède la survie." / "Obéir, c’est avancer."                    | Unifie les esprits, inhibe la pensée critique |
+| Rituel de promotion       | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                    | Injection mémorielle, serment filmé, rituel VR partagé                   | Crée un passage symbolique        |
+| Jour corporatiste         | Commémoration obligatoire d’un événement glorifié par l’entreprise, parfois falsifié.                                                                   | Fête du PDG, culte des premiers colons, blackout collectif                | Réécrit l’histoire pour renforcer l’unité |
+| Appel aux fondateurs      | Invocation rituelle faite collectivement avant des événements critiques (embarquement, mission).                                                        | Chœur vocal, pulsation IA, projection holographique                       | Rappelle la dette envers la corpo |
+| Lamentation rituelle      | Cérémonie collective après une perte (souvent obligatoire même si le mort est inconnu).                                                                 | Diffusion d’un hymne, minute de silence vocale, lecture IA des noms       | Gère les affects, neutralise la panique |
+| Rite de purge             | Acte symbolique (souvent inutile) effectué après une "erreur" ou une "crise" interne.                                                                   | Lavage collectif, confession vocale, désactivation volontaire d’un drone  | Blâme collectif, régénère le système |
+
+## IDENTITÉ CORPORATISTE
+
+| ÉLÉMENT IDENTITAIRE        | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| Hymne corporatiste         | Musique, chant ou vibration sonore joué régulièrement, lié à la mémoire émotionnelle de la corpo.                                                        | Mélodie dissonante, chœurs automatisés, tonalité physiologiquement relaxante       | Enracinement émotionnel             |
+| Lexique d’entreprise       | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                     | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement    |
+| Identifiant personnel rituel| Numéro d’identification prononcé à chaque déclaration. Le nom personnel est peu à peu oublié.                                                          | "Je suis 73-Δ, module maintenance."                                       | Négation de l’identité individuelle |
+| Signature comportementale  | Geste, salut ou formule imposée à chaque interaction entre membres du personnel.                                                                        | Main sur le cœur, phrase d’alignement, inclinaison standard               | Renforce la soumission, contrôle des rapports |
+| Prière à l’IA              | Moment de recueillement dirigé vers l’Intelligence Centrale, simulant une adoration ou une demande de guidance.                                        | "MU/TH/UR veille.", activation de routine vocale                          | Divinisation technologique         |
+| Narratif officiel          | L’histoire de l’entreprise est récitée comme un mythe fondateur. Elle est connue par cœur par tous les employés.                                       | Projection IA, récitation commune, tatouage-récit                         | Création d’un mythe inaltérable    |
 
