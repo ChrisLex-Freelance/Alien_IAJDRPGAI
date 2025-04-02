@@ -387,7 +387,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 
 ## STRUCTURE INTERNE DE LA CORPORATION
 
-### INTÉGRATION DE L’IA DANS LA CORPORATISTE
+### INTÉGRATION DE L’IA DANS LA CORPORATION
 
 | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    |
 |--------------------------------|------------------------------------------------------------------------------------------------|
