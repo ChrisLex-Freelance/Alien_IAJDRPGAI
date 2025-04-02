@@ -691,3 +691,82 @@ Détermine le **nombre de rivalités actives** qu'une corporation possède dès 
 | 5   | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                       |
 | 6   | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                |
 
+## EVENEMENT HISTORIQUE DE LA CORPORATION
+
+> 🎲 Utilisez ce générateur pour créer l’histoire d’une corporation selon son **ancienneté**  
+> À chaque étape, tirez **1D6 événements (ou choisissez)** dans chaque phase correspondante.
+
+### ANCIENNETÉ DE LA CORPORATION
+
+| ÂGE (années)       | CATÉGORIE               | DESCRIPTION                                                                 |
+|--------------------|-------------------------|-----------------------------------------------------------------------------|
+| 0–10 ans           | **Start-up / Émergente**| Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée.|
+| 10–30 ans          | **Corpo établie**       | Possède une infrastructure solide, impliquée dans la géopolitique spatiale.|
+| 30–80 ans          | **Acteur majeur**       | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.   |
+| 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.             |
+
+### PHASE 1 – Fondation & Expansion Initiale (1D6)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                    |
+| Fusion ou rachat d'une société rivale lors d'une crise économique                                          |
+| Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                        |
+| Développement d’une **technologie propriétaire** (ex : système de synthétique, terraformation, réseau IA) |
+| Découverte d’un **ressource rare** : minerai, organisme de soin, matériau composite                       |
+| Ouverture d’une **colonie-exploitation autonome** sous sa juridiction (mine, ferme, labo)                 |
+
+### PHASE 2 – Crises, Scandales, Ombres (1D6)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Catastrophe industrielle (explosion, effondrement, pollution biogénique...)                                |
+| Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                     |
+| Rébellion ou **sécession d’une colonie** entière                                                           |
+| Conflit technologique : **vol de brevet**, sabotage, guerre économique avec une rivale                     |
+| Implication dans une **expérience génétique ou biologique interdite**                                      |
+| Condamnation par un gouvernement ou l’UNISC pour violation d’un traité interstellaire                      |
+
+### PHASE 3 – Projets Secrets et Disparitions (1D6)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Lancement d’un **programme clandestin xéno-biologique** ou militaire interdit                              |
+| Découverte d’un artefact préhumain – tentative d’exploitation non autorisée                               |
+| Création d’un ou plusieurs **doubles synthétiques infiltrés** dans une autre faction                       |
+| Effacement d’un projet complet (station noire, IA sensible, clone viral)                                  |
+| Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
+| Corruption d’un haut responsable parlementaire ou colonial                                                 |
+
+### PHASE 4 – Expansion Agressive et Dérapages (1D6)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Création d’une **force de sécurité privée armée**, au-dessus des lois locales                             |
+| Implantation dans une **zone interdite ou contestée** sans autorisation                                   |
+| Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                         |
+| Rachat agressif d’un concurrent technologique                                                             |
+| Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                              |
+| Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                      |
+
+### PHASE 5 – Mutations & Innovations Internes (1D6)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Création d’un nouveau **modèle synthétique ou clone** expérimental                                        |
+| IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                               |
+| Découverte d’un matériau alien aux propriétés inconnues                                                   |
+| Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                       |
+| Scission d’un département devenu culte, faction ou secte interne                                          |
+| Modification de ses employés (implants, modification génétique, conditionnement cognitif)                |
+
+### PHASE 6 – Situation actuelle (2183)
+
+| ÉVÉNEMENTS POSSIBLES                                                                                       |
+|------------------------------------------------------------------------------------------------------------|
+| Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
+| Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                   |
+| Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                       |
+| Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
+| Rumeurs d’un **projet lié au génome xéno**                          |
+| Déployée dans une **mission de récupération d’un artefact “pré-humain”** 
