@@ -478,7 +478,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
 | Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
 
-## PROGRAMMES DE FIDÉLISATION
+### PROGRAMMES DE FIDÉLISATION DE LA CORPORATION
 
 | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -493,7 +493,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Gamification intégrale        | Le quotidien est gamifié : points de loyauté, succès déverrouillés, défis internes. Rend la fidélisation addictive et déconnectée de la réalité.                                                 | Classements de productivité, insignes numériques, quêtes journalières, tableaux d'honneur interactifs                          |
 | Recodage identitaire          | Suppression ou altération des souvenirs personnels, remplacés par des "mémoires officielles" plus compatibles avec la vision corporatiste.                                                       | Implantation de souvenirs, cérémonies de réassignation de vie, réécritures psychiques                                          |
 
-## CAMPAGNES PUBLICITAIRES & SLOGANS
+### CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION
 
 | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -508,7 +508,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | **Campagnes de rétro-nostalgie**            | Utilisation d’images et messages anciens de la corpo (réels ou fictifs) pour créer une sensation de continuité, de stabilité rassurante.                           | Logos "vintage", images d’époque, hymnes restaurés.                                                  |
 | **Propagande émotionnelle ciblée**          | IA ou synthétiques injectent directement des séquences émotionnelles via implants, interfaces ou micro-doses sensoriels.                                           | Séquences de "fierté collective", sensation de sécurité, euphorie liée à l'appartenance.             |
 
-## SYMBOLES CORPORATISTES
+### SYMBOLES DE LA CORPORATION
 
 | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
@@ -519,7 +519,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Blason évolutif           | Symbole de rang qui se modifie avec la progression de l’individu (numérique ou vestimentaire).                                                          | Patch thermosensible, insigne projeté, drone signal lumineux             | Gamification statutaire            |
 | Icône cryptée             | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                      | Sceau ésotérique, hologramme privé, cube de données                      | Génère mystère et hiérarchie occulte |
 
-## RITUELS CORPORATISTES
+### RITUELS DE LA CORPORATION
 
 | RITUEL                    | DESCRIPTION ÉTENDUE                                                                                                                                     | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
@@ -530,7 +530,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Lamentation rituelle      | Cérémonie collective après une perte (souvent obligatoire même si le mort est inconnu).                                                                 | Diffusion d’un hymne, minute de silence vocale, lecture IA des noms       | Gère les affects, neutralise la panique |
 | Rite de purge             | Acte symbolique (souvent inutile) effectué après une "erreur" ou une "crise" interne.                                                                   | Lavage collectif, confession vocale, désactivation volontaire d’un drone  | Blâme collectif, régénère le système |
 
-## IDENTITÉ CORPORATISTE
+### IDENTITÉ  DE LA CORPORATION
 
 | ÉLÉMENT IDENTITAIRE        | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
@@ -540,4 +540,154 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | Signature comportementale  | Geste, salut ou formule imposée à chaque interaction entre membres du personnel.                                                                        | Main sur le cœur, phrase d’alignement, inclinaison standard               | Renforce la soumission, contrôle des rapports |
 | Prière à l’IA              | Moment de recueillement dirigé vers l’Intelligence Centrale, simulant une adoration ou une demande de guidance.                                        | "MU/TH/UR veille.", activation de routine vocale                          | Divinisation technologique         |
 | Narratif officiel          | L’histoire de l’entreprise est récitée comme un mythe fondateur. Elle est connue par cœur par tous les employés.                                       | Projection IA, récitation commune, tatouage-récit                         | Création d’un mythe inaltérable    |
+
+## ZONE D'INFLUENCE DE CORPORATION
+
+🗺️ Présence Physique Galactique d’une Corporation – Alien RPG
+
+Détermine l’influence galactique réelle de la corporation à travers :
+- son **type de structure**
+- les **zones galactiques ciblées**
+- un **jet de 1D6**
+
+### 🎲 Formule :
+**1D6** + **Mod. de Structure** + **Mod. par Zone** = Niveau de Présence
+
+---
+
+### Modificateurs par Type de Structure
+
+| TYPE DE STRUCTURE                | MODIFICATEUR |
+|----------------------------------|--------------|
+| Mégacorporation                  | +4           |
+| Conglomérat Multi-sectoriel      | +3           |
+| Filiale spécialisée              | +1           |
+| Start-up rachetée                | +0           |
+| Syndicat de colons privatisé     | –1           |
+| Collectif indépendant            | –2           |
+| Délégation autonome              | +0 *(+1 si sponsorisée)* |
+| Culte corporatiste               | –1 *(+1 si soutenu secrètement)* |
+
+
+### Modificateurs par Zone Galactique
+
+| ZONE GALACTIQUE       | MODIFICATEUR | JUSTIFICATION                                                                 |
+|------------------------|---------------|-------------------------------------------------------------------------------|
+| Systèmes du Noyau      | +2            | Zone centrale, riche et ultra-réglementée : seules les plus puissantes y opèrent. |
+| Voile Extérieur        | +1            | Région en développement, expansion compétitive mais faisable.                |
+| Bordure Extérieure     | 0             | Zone instable, colonies récentes, faible surveillance centrale.              |
+| Les Confins            | –2            | Territoires hostiles, souvent hors-réseau, dangereux et imprévisibles.       |
+
+ Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
+
+### Étendue de Présence Galactique (Résultat final)
+
+| TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
+|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
+| 1–2                 | Locale                 | 1 à 2 systèmes      | Présence marginale, souvent régionale ou semi-légale.                       |
+| 3–4                 | Subsectorielle         | 3 à 5 systèmes      | Influence limitée, dépendance logistique forte.                             |
+| 5–6                 | Intersectorielle       | 6 à 12 systèmes     | Expansion solide, présence dans plusieurs sous-secteurs.                    |
+| 7–8                 | Régionale              | 12 à 25 systèmes    | Infrastructure affirmée dans plusieurs zones galactiques.                   |
+| 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
+| 11+                 | Hégémonique            | 50+ systèmes        | Tentaculaire, omniprésente, influence législative et diplomatique massive.  |
+
+### Exemple de calcul
+
+> Structure : **Conglomérat Multi-sectoriel** (+3)  
+> Zones visées : **Voile Extérieur** (+1), **Bordure Extérieure** (0)  
+> Jet de base : 1D6 = **4**  
+> ➜ Total = 4 + 3 + 1 = **8**  
+> ➜ Résultat : **Présence Régionale** dans **12 à 25 systèmes**, répartie sur 2 zones galactiques.
+
+## RIVALITÉS ACTIVES DE LA CORPORATION
+
+### NOMBRE DE RIVALITE DE LA CORPORATION
+Détermine le **nombre de rivalités actives** qu'une corporation possède dès sa création, en fonction de son **type organisationnel**, lancer 1D10 et appliquez le résultat. Si celui est inférieur au minimum, appliquez le minimum.
+
+| TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
+|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
+| **Mégacorporation**              | 3 rivalités                   | Inévitable à leur échelle. Elles ont des ennemis partout.                     |
+| **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
+| **Filiale spécialisée**          | 1 rivalité                    | Conflit souvent lié à son domaine ou à une maison-mère.                       |
+| **Start-up rachetée**            | 1 rivalité                    | Rancune ancienne ou opposition avec un ex-partenaire.                         |
+| **Syndicat de colons privatisé** | 1 rivalité                    | Résistance d’un autre syndicat, ou rivalité avec une méga.                    |
+| **Collectif indépendant**        | 1 rivalité                    | Considéré comme illégitime ou dérangeant : conflit toujours actif.            |
+| **Délégation autonome**          | 2 rivalités                   | Doit gérer l’hostilité locale **et** une pression verticale (la maison-mère). |
+| **Culte corporatiste**           | 2 rivalités                   | Cibles de persécutions ou croisades internes (contre une autre foi corpo).    |
+
+### TYPE DE RIVALITE DE LA CORPORATION
+
+| D12 | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
+|-----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 1   | Mégacorporation concurrente  | Conflit économique, technologique, idéologique                                   | Guerre de brevets, espionnage, guerre sous-traitée                           | Chantage, infiltration, tension diplomatique                 |
+| 2   | Filiale traîtresse           | Sécession, fuite d’informations, rupture idéologique                             | Activité illégale sous couverture, rumeurs de corruption                     | Purge, traque, dommages collatéraux                          |
+| 3   | Coalition de colons armés    | Refus de l’autorité corporatiste                                                 | Soulèvements, enlèvements, sabotage                                          | Crise militaire, hostilité locale                            |
+| 4   | Syndicat radicalisé          | Conflit social majeur sur les conditions de travail                              | Grèves insurrectionnelles, piratage interne, enlèvements                     | Blocage de production, réponses musclées                     |
+| 5   | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
+| 6   | IA défaillante (ancienne)    | Rupture de contrôle d’un système IA crucial (ancien centre, prototype)           | Station bloquée, langage crypté, massacre initial                            | Exploration à risque, conflit moral, lockdown technologique  |
+| 7   | Culte corporatiste rival     | Doctrine alternative ou dissidente à la foi imposée par la corporation           | Schisme idéologique, récupération de fidèles, guerre de symboles             | Guerre sainte, reprogrammation                               |
+| 8   | Milice privée dissidente     | Bras armé devenu autonome ou corrompu                                            | Contrôle de zones minières, exécutions sommaires                             | Guerre par procuration, besoin de reconquête                 |
+| 9   | Ancien client / contractant  | Litige majeur ayant dégénéré (paiement, brevet, abandon)                         | Affaire classée, mais pas oubliée. Attaque juridique ou violente             | Revendication de dette, vengeance                            |
+| 10  | Survivants d’un projet classé| Groupe ayant survécu à une opération secrète de la corpo                         | Ex-employés, civils ou militaires devenus fous ou justiciers                 | Vérités enfouies, fuite d’informations                       |
+| 11  | Coalition commerciale        | Réseau de petites structures s’unissant pour contrer l’expansion de la corpo     | Sabotage ciblé, embargos communs, guerre d’image                             | Guerre économique clandestine                                |
+| 12  | Réseau criminel infiltré     | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
+
+## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
+
+### TABLE – Morale Corporatiste & Horreur (Alien RPG)
+
+> Appliquez cette table pour moduler les résultats des relations à l’horreur (contacts xénomorphes, secrets, expérimentations, etc.) selon la **morale perçue de la corporation**.
+
+| MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
+|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Intègre**            | Rejette toute implication, dénie ou enterre profondément            | "C'était une anomalie. Les responsables ont été licenciés."             |
+| **Éthique déclarée**   | Discrètement complice, mais agit pour contenir et gérer             | "Des individus isolés ont agi hors du protocole."                       |
+| **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
+| **Opportuniste**       | Exploite toute anomalie, même dangereuse                            | "Nous avons trouvé un potentiel. Qu’il soit risqué ne change rien."     |
+| **Amorale**            | Produit, déclenche ou manipule l’horreur délibérément               | "Nous avons déclenché l’incident pour tester le vecteur de réaction."   |
+| **Fanatique**          | Voit l’horreur comme une épreuve sacrée ou une étape vers la vérité | "La souillure biologique est une épreuve. Seuls les élus y survivent."  |
+
+### TABLE 1 – Nature du lien avec l’Horreur
+
+| D6  | POSITION DE LA CORPO       | DESCRIPTION                                                                                   |
+|-----|----------------------------|-----------------------------------------------------------------------------------------------|
+| 1   | Totalement ignorante       | N’a jamais été exposée, mais un contact est imminent.                                         |
+| 2   | Témoins indirects          | A vu des effets, mais refuse de chercher les causes.                                          |
+| 3   | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                |
+| 4   | Explorateurs de l’interdit | Mène des recherches illégales ou interdites.                                                  |
+| 5   | Exploiteurs de l’horreur   | Tente de tirer profit d’artefacts, ADN, ou organismes dangereux.                             |
+| 6   | Cultistes déguisés         | Considère l’horreur comme un vecteur d’évolution ou une entité supérieure.                   |
+
+### TABLE 2 – Rapport aux entités biologiques (xénomorphes, anomalies)
+
+| D6  | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                       |
+|-----|-----------------------------|---------------------------------------------------------------------------------------------------|
+| 1   | Ignore tout                 | Ne possède aucune archive ou n’a jamais été exposée.                                              |
+| 2   | A reçu des fragments        | Étudie des résidus, enregistrements ou témoignages partiels.                                     |
+| 3   | A classé les données        | Possède des documents verrouillés non exploités.                                                 |
+| 4   | Recherche un spécimen       | Veut capturer ou reconstituer une forme de vie non humaine.                                     |
+| 5   | Détient un échantillon      | Stocke un organisme ou une trace active, sans maîtrise réelle.                                   |
+| 6   | A tenté une expérimentation | A testé un croisement, une implantation ou une activation biologique dangereuse.                |
+
+### TABLE 3 – Crimes & Compromission
+
+| D6  | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                   |
+|-----|------------------------------|-----------------------------------------------------------------------------------------------|
+| 1   | A ignoré un signal d’alerte  | A laissé une colonie ou un équipage sans réponse.                                             |
+| 2   | A sacrifié un équipage       | A coupé tout soutien ou a empêché un retour volontairement.                                  |
+| 3   | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                 |
+| 4   | A expérimenté sans consentement | A utilisé la population d’un site comme cobaye.                                           |
+| 5   | A déclenché un incident      | A volontairement provoqué une crise biologique ou alien.                                      |
+| 6   | A maquillé une extinction    | A effacé les archives d’une colonie disparue.                                                 |
+
+### TABLE 4 – Niveau de Secret Interne
+
+| D6  | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
+|-----|-------------------------------|---------------------------------------------------------------------------------------------------|
+| 1   | Aucun                         | Le personnel sait ce qu’il se passe — ou croit savoir.                                           |
+| 2   | Niveau public                 | Des rumeurs circulent, certains détails sont banalisés.                                           |
+| 3   | Niveau restreint              | Seuls les superviseurs directs ont accès à des fragments de vérité.                              |
+| 4   | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                         |
+| 5   | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                       |
+| 6   | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                |
 
