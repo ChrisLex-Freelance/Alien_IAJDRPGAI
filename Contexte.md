@@ -432,4 +432,47 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 | **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                            |
 | **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
 
+## CULTURE DE LA CORPORATION
+
+### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
+
+| TERME                           | SIGNIFICATION RÉELLE                          | UTILISATION COURANTE                                      |
+|--------------------------------|-----------------------------------------------|-----------------------------------------------------------|
+| Actif biologique               | Employé / travailleur humain                  | "Actif biologique 22-B en surcharge, recommander analyse." |
+| Module de productivité         | Poste de travail, atelier ou espace de repos | "Les modules de productivité du secteur D sont optimaux." |
+| Unité émotionnelle instable    | Personne en détresse mentale                | "Réaffectation de l’unité émotionnelle instable 3-F"      |
+| Ressource organique excédentaire | Employé jugé superflu ou mutique        | "Récupération autorisée. Statut : excédentaire."          |
+| Échec opérationnel             | Décès ou blessure grave                       | "Mission clôturée suite à un échec opérationnel isolé."   |
+| Signal de silence              | Ordre de ne pas témoigner / classer sans suite | "Émettre un signal de silence sur l’incident E-12."       |
+
+### RÉCOMPENSES INTERNES DE LA CORPORATION
+
+| RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
+|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
+| Crédits bonus               | Monnaie interne, souvent inutilisable hors zone ou périmée rapidement                | Fidélisation économique           |
+| Extension de contrat        | Prolongement de l'affectation, interprété comme une faveur                           | Maintien de l’attachement         |
+| Accès privilège             | Modules de repos, repas enrichis, distraction VR                                     | Apaisement superficiel            |
+| Rang de mérite              | Badge ou insigne affichant la conformité parfaite                                    | Hiérarchisation sociale           |
+| Stase préférentielle        | Mise en sommeil sans effet secondaire ou mémoire altérée                             | Échapper temporairement au stress |
+| Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
+
+### CLASSEMENTS ET NOTATIONS DE LA CORPORATION
+
+| SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
+|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| Tableau de conformité       | Classement des employés par efficacité, loyauté, absence d’erreurs                   | Pression constante               |
+| Note de stabilisation       | Calcul IA du stress ou des risques comportementaux                                   | Isolement préventif              |
+| Indice de valorisation      | Rendement + adaptation aux normes psycho-sociétales                                  | Récompenses conditionnelles      |
+| Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
+| Statut de visibilité        | Plus le rang est élevé, plus la personne est visible aux IA & supérieurs             | Surveillance accrue              |
+
+### PROCÉDURES DE SANCTION DE LA CORPORATION
+
+| PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
+|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| Réorientation disciplinaire | Isolement, lavage de cerveau léger                                                   | Rééducation                      |
+| Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
+| Effacement comportemental   | Suppression de mémoire / reprogrammation légère                                      | Perte d’identité                 |
+| Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
+| Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
 
