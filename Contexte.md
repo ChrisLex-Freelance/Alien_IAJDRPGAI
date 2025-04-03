@@ -789,38 +789,116 @@ Utilisez ce générateur pour créer l’histoire d’une corporation selon son 
 - 30–80 ans : Puissante, corrompue, incontournable. Multiples ramifications, justice extraterritoriale.
 - 80+ ans : Tentaculaire, mythifiée, dysfonctionnelle. Moteur historique de conflits ou d’extinctions passées.
 
-| ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
-|--------------------|------------------------------|-----------------------------------------------------------------------------|
-| 0–10 ans           | **Start-up / Émergente**     | Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée. |
-| 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
-| 30–80 ans          | **Acteur majeur**            | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.    |
-| 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.                  |
+| ID  | ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
+|-----|--------------------|------------------------------|-----------------------------------------------------------------------------|
+| 01  | 0–10 ans           | **Start-up / Émergente**     | Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée. |
+| 02  | 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
+| 03  | 30–80 ans          | **Acteur majeur**            | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.    |
+| 04  | 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.                  |
 
 ### FONDATION ET EXPENSION INITIALE
 
-Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés.
+Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés. Leur analyse permet de déterminer l’ADN fonctionnel de la corporation, ainsi que son positionnement institutionnel d’origine.
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                     |
-| Fusion ou rachat d'une société rivale lors d'une crise économique                                          |
-| Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                        |
-| Développement d’une **technologie propriétaire** (ex : système de synthétique, terraformation, réseau IA)  |
-| Découverte d’un **ressource rare** : minerai, organisme de soin, matériau composite                        |
-| Ouverture d’une **colonie-exploitation autonome** sous sa juridiction (mine, ferme, labo)                  |
+| ID | ÉVÉNEMENT POSSIBLE                                                                                    |
+|----|-------------------------------------------------------------------------------------------------------|
+| 01 | Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                |
+| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
+| 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
+| 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
+| 05 | Découverte d’une ressource rare : minerai, organisme de soin, matériau composite                      |
+| 06 | Ouverture d’une colonie-exploitation autonome (mine, ferme, laboratoire, etc.)                        |
+
+#### CRÉATION DANS UN SECTEUR STRATÉGIQUE
+
+Ce sous-tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires.
+
+| ID | DÉTAILS                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------|
+| 1  | Exploitation d'une source d'énergétique orbitale.                                                      |
+| 2  | Déploiement initial d’un système prédictif de maintenance.                                             |
+| 3  | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
+| 4  | Plateforme de terraformation modulaires de classe 5.                                                   |
+| 5  | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
+| 6  | Base de données génétiques intercoloniale – semi-légale.                                               |
+
+#### FUSION OU RACHAT EN TEMPS DE CRISE
+
+Événement courant dans les cycles de consolidation. Ce sous-tableau détermine le mode d’intégration ou de prédation initial ayant permis à la corporation d’émerger à partir de structures existantes affaiblies.
+
+| ID | DÉTAILS                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------|
+| 1  | Absorption d’un concurrent ruiné par un effondrement du marché.                                        |
+| 2  | Intégration d’une start-up avec transfert forcé de personnel.                                          |
+| 3  | Rachat d’un fournisseur militaire suite à une guerre régionale.                                        |
+| 4  | Fusion post-catastrophe écologique d’une ancienne société minière.                                     |
+| 5  | Transfert technologique déguisé via une structure de façade.                                           |
+| 6  | Acquisition par endettement puis liquidation partielle de l’original.                                  |
+
+#### PREMIER CONTRAT D’ÉTAT
+
+Toute entité ayant survécu à sa phase de lancement possède, en général, un historique de relation avec une institution gouvernementale ou para-militaire. Ce contrat fondateur constitue une validation implicite de sa capacité à fonctionner dans des environnements à haute pression réglementaire.
+
+| ID | DÉTAILS                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------|
+| 1  | Fourniture d’un système de surveillance planétaire pour l’E3M.                                         |
+| 2  | Livraison d’implants cognitifs à un bataillon frontalier UPP.                                          |
+| 3  | Réhabilitation d’un avant-poste contaminé pour l’Agence Coloniale.                                     |
+| 4  | Construction d’un centre de tri orbital pour réfugiés.                                                 |
+| 5  | Contrat de forage profond dans une zone juridiquement contestée.                                       |
+| 6  | Élaboration d’un vaccin sous protocole militaire secret.                                               |
+
+#### TECHNOLOGIE PROPRIÉTAIRE
+
+Ce tableau définit la technologie-clé développée ou acquise par la corporation, qui a permis son expansion ou son différenciation. La propriété intellectuelle est souvent contestée, dissimulée ou sujette à controverse.
+
+| ID | DÉTAILS                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------|
+| 1  | Système tactique modulable intégrée à des structures minières.                                         |
+| 2  | Synthétique modulaire pour milieux à haute toxicité.                                                   |
+| 3  | Réseau logistique de communication insensible aux interférences.                                       |
+| 4  | Protocole de terraformation optimisé.                                                                  |
+| 5  | Interface organique de supervision neuro-cognitive.                                                    |
+| 6  | Micro-satellite d’analyse atmosphérique furtif.                                                        |
+
+#### DÉCOUVERTE D’UNE RESSOURCE RARE
+
+Source spéculative d’enrichissement rapide, la découverte d’une ressource rare permet souvent à une structure émergente de contourner le temps nécessaire à une croissance organique. Le contrôle de l’information liée à la découverte est ici critique.
+
+| ID | DÉTAILS                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------|
+| 1  | Minéral à haute densité énergétique ; instable.                                                        |
+| 2  | Organisme cryogénique à capacité de réplication.                                                       |
+| 3  | Roche psychotrope exploitable en neuropharma.                                                          |
+| 4  | Enzyme mutagène extraite d’une flore inconnue.                                                         |
+| 5  | Métal amorphe synthétisable par collision orbitale.                                                    |
+| 6  | Carapace fossilisée à structure non-terrestre.                                                         |
+
+#### OUVERTURE D’UNE COLONIE-EXPLOITATION
+
+Ce tableau désigne la première implantation territoriale sous contrôle direct ou indirect de la corporation. Il s’agit d’une extension territoriale initiale permettant à l’entité de produire, stocker ou tester hors des juridictions centrales.
+
+| ID | DÉTAILS                                                                                                 |
+|----|---------------------------------------------------------------------------------------------------------|
+| 1  | Avant-poste minier automatisé sur lune gravitationnelle.                                                |
+| 2  | Ferme hydroponique orbitale avec serres de bio-ingénierie.                                              |
+| 3  | Laboratoire de recherche atmosphérique sous-dôme.                                                       |
+| 4  | Colonie carcérale déployée en sous-traitance sécuritaire.                                               |
+| 5  | Station de tri des déchets organiques expérimentaux.                                                    |
+| 6  | Plateforme flottante sur monde océanique en voie de terraformation.                                     |
 
 ### PREMIERE CRISE
 
-Explosion, esclavagisme, scandale, sabotage, violation d’accords, sécession d’une colonie. Le moment où l’intégrité affichée se fissure. Ces incidents sont systématiquement minimisés, classifiés ou réinterprétés.
+Ce tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires.
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Catastrophe industrielle (explosion, effondrement, pollution biogénique...)                                |
-| Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                    |
-| Rébellion ou **sécession d’une colonie** entière                                                           |
-| Conflit technologique : **vol de brevet**, sabotage, guerre économique avec une rivale                     |
-| Implication dans une **expérience génétique ou biologique interdite**                                      |
-| Condamnation par un gouvernement ou l’UNISC pour violation d’un traité interstellaire                      |
+| ID  | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|-----|------------------------------------------------------------------------------------------------------------|
+| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)                                |
+| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                    |
+| 03  | Rébellion ou **sécession d’une colonie** entière                                                           |
+| 04  | Conflit technologique : **vol de brevet**, sabotage, guerre économique avec une rivale                     |
+| 05  | Implication dans une **expérience génétique ou biologique interdite**                                      |
+| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité interstellaire                      |
 
 ### PROJET SECRETS ET PREMIERE ZONE D'OMBRE
 
