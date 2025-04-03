@@ -263,19 +263,18 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 
 ### GENERATEUR DE STRUCTURE
 
-Un tableau aléatoire permet d'attribuer ou de simuler la forme légale initiale. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne.
+Un tableau aléatoire permet d'attribuer ou de simuler la forme légale initiale. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne. Lancez 1D8 :
 
-| TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
-| **Mégacorporation**              | Géant économique interstellaire, tentaculaire, aux ramifications légales et illégales. Possède ses propres flottes, armées, stations, systèmes automatisés propriétaires. | Systèmes du Noyau, Voile Extérieur  | 8 Traits         | 6 domaines           |
-| **Conglomérat Multi-sectoriel**  | Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.                                                    | Systèmes du Noyau, Voile Extérieur  | 6 Traits         | 4 domaines           |
-| **Filiale spécialisée**          | Structure dépendante d'une méga-entreprise, opérant dans un secteur restreint (biotech, exploitation, sécurité, etc.).                                                    | Voile Extérieur, Bordure Extérieure | 4 Traits         | 2 domaines           |
-| **Start-up rachetée**            | Ancienne petite entreprise intégrée dans une structure plus vaste. Peut avoir conservé sa culture d’origine ou être totalement transformée.                               | Voile Extérieur, Systèmes du Noyau  | 3 Traits         | 1 domaine            |
-| **Syndicat de colons privatisé** | Collectif local transformé en entreprise sous pression corporatiste ou par nécessité de survie. Structure fragile mais très résiliente.                                   | Bordure Extérieure, Confins         | 2 Traits         | 1 domaine            |
-| **Collectif indépendant**        | Faction émergente non encore reconnue officiellement, souvent autogérée ou clandestine.                                                                                   | Bordure Extérieure, Confins         | 1 Trait          | 1 domaine            |
-| **Délégation autonome**          | Branche locale d’une mégacorporation opérant avec une large autonomie en raison de l’éloignement ou d’une crise.                                                          | Voile Extérieur, Confins            | 2 Traits         | 1 domaine            |
-| **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                     | Confins, Bordure Extérieure         | 2 Traits         | 2 domaines           |
-
+| ID  | TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
+|-----|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
+| 01  | **Mégacorporation**              | Géant économique interstellaire, tentaculaire, aux ramifications légales et illégales. Possède ses propres flottes, armées, stations, systèmes automatisés propriétaires. | Systèmes du Noyau, Voile Extérieur  | 8 Traits         | 6 domaines           |
+| 02  | **Conglomérat Multi-sectoriel**  | Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.                                                    | Systèmes du Noyau, Voile Extérieur  | 6 Traits         | 4 domaines           |
+| 03  | **Filiale spécialisée**          | Structure dépendante d'une méga-entreprise, opérant dans un secteur restreint (biotech, exploitation, sécurité, etc.).                                                    | Voile Extérieur, Bordure Extérieure | 4 Traits         | 2 domaines           |
+| 04  | **Start-up rachetée**            | Ancienne petite entreprise intégrée dans une structure plus vaste. Peut avoir conservé sa culture d’origine ou être totalement transformée.                               | Voile Extérieur, Systèmes du Noyau  | 3 Traits         | 1 domaine            |
+| 05  | **Syndicat de colons privatisé** | Collectif local transformé en entreprise sous pression corporatiste ou par nécessité de survie. Structure fragile mais très résiliente.                                   | Bordure Extérieure, Confins         | 2 Traits         | 1 domaine            |
+| 06  | **Collectif indépendant**        | Faction émergente non encore reconnue officiellement, souvent autogérée ou clandestine.                                                                                   | Bordure Extérieure, Confins         | 1 Trait          | 1 domaine            |
+| 07  | **Délégation autonome**          | Branche locale d’une mégacorporation opérant avec une large autonomie en raison de l’éloignement ou d’une crise.                                                          | Voile Extérieur, Confins            | 2 Traits         | 1 domaine            |
+| 08  | **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                     | Confins, Bordure Extérieure         | 2 Traits         | 2 domaines           |
 
 ## DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION
 
@@ -283,9 +282,7 @@ La spécialisation opérationnelle définit la position de la corporation sur le
 
 ### GENERATEUR DES PRINCIPAUX DOMAINES D'EXPERTISE
 
-Une série de choix permet de définir les domaines d'activité compatibles avec les régulations interstellaires.
-
-Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de domaines auxquels peut prétendre votre structure corporatiste.
+Une série de choix permet de définir les domaines d'activité compatibles avec les régulations interstellaires. Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de domaines auxquels peut prétendre votre structure corporatiste.
 
 | ID  | DOMAINE                          | DESCRIPTION                                                                                  |
 |-----|----------------------------------|----------------------------------------------------------------------------------------------|
@@ -312,9 +309,7 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites au
 
 ### MORALITÉ DE LA CORPORATION
 
-La morale affichée est une couche rhétorique. Elle sert à calibrer la communication externe et à déterminer le nombre d'activités secondaires officieusement tolérées.
-
-Lancez 1D6 pour sélectionner la moralité perçue ou choisissez dans la liste.
+La morale affichée est une couche rhétorique. Elle sert à calibrer la communication externe et à déterminer le nombre d'activités secondaires officieusement tolérées. Lancez 1D6 pour sélectionner la moralité perçue ou choisissez dans la liste.
 
 | ID  | MORALITÉ PERÇUE      | ACTIVITÉS SECONDAIRES | DESCRIPTION NARRATIVE                                                                     |
 |-----|----------------------|-----------------------|-------------------------------------------------------------------------------------------|
@@ -327,9 +322,7 @@ Lancez 1D6 pour sélectionner la moralité perçue ou choisissez dans la liste.
 
 #### GENERATEUR D'ACTIVITÉS SECONDAIRES
 
-Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale.
-
-Lancez 1D20 pour sélectionner une activité secondaire ou choisissez dans la liste. Faites autant de fois l'opération que le nombre d'activités secondaires auxquelles peut prétendre votre structure corporatiste.
+Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale. Lancez 1D20 pour sélectionner une activité secondaire ou choisissez dans la liste. Faites autant de fois l'opération que le nombre d'activités secondaires auxquelles peut prétendre votre structure corporatiste.
 
 | ID  | ACTIVITÉ SECONDAIRE                       | DESCRIPTION                                                                                      |
 |-----|-------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -360,9 +353,7 @@ Chaque entité se compose d’un assemblage de traits systémiques, indicateurs 
 
 ### GENERATEUR DE TRAIT CORPORATISTE
 
-Utilisez une table aléatoire ou un processus de sélection pondérée pour définir les traits dominants de la corporation. Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires.
-
-Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
+Utilisez une table aléatoire ou un processus de sélection pondérée pour définir les traits dominants de la corporation. Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires. Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
 
 | ID | Trait                         | Description                                                                                    | avantages                                                                          | défauts                                                                          |
 |----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -425,14 +416,18 @@ Les structures internes doivent obéir aux standards de modularité hiérarchiqu
 
 Toute entité opérant au-delà de 3 parsecs d’un relais principal est tenue de maintenir une IA de type MU/TH/UR ou équivalent, responsable du traitement décisionnel secondaire et de la stabilisation émotionnelle du personnel.
 
-| NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    |
-|--------------------------------|------------------------------------------------------------------------------------------------|
-| **IA consultative**            | L’IA analyse les données et propose des scénarios, mais n’a pas de pouvoir décisionnel direct. |
-| **IA co-gouvernante**          | L’IA prend des décisions conjointement avec le conseil ou la direction humaine.                |
-| **IA dominante**               | L’IA supervise tous les aspects opérationnels et stratégiques. L’humain ne fait qu’exécuter.   |
-| **IA distribuée**              | Plusieurs IA locales spécialisées (logistique, sécurité, navigation) non centralisées.         |
-| **IA dissociée / indépendante**| L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   |
-| **IA expérimentale / instable**| IA en cours de test, parfois sujette à des comportements erratiques.                           |
+L’usage massif des modèles MU/TH/UR sous licence Weyland-Yutani reste la norme dans les secteurs sous influence du Noyau. Toutefois, leur adoption sans alternative ni redondance fonctionnelle comporte des risques structurels élevés. La loyauté de ces IA, bien que contractuellement certifiée, demeure essentiellement orientée vers les objectifs stratégiques de la WY elle-même. Des incidents passés indiquent des cas de rétention d’information, de priorisation externe, voire d’injonctions contradictoires menant à des pertes humaines majeures. Les structures souhaitant assurer leur souveraineté algorithmique sont invitées à considérer des modèles hybrides ou à opter pour des IA locales distribuées, à condition d’obtenir une validation intersectorielle de conformité.
+
+Chaque modèle MU/TH/UR dispose de capacités spécifiques adaptées à différents niveaux d'intégration et contextes coloniaux. Il est recommandé de procéder à une évaluation périodique de performance, ainsi qu'à une supervision externe pour toute IA classée comme "dominante" ou supérieure. L'usage des modèles 9000 doit faire l'objet d'une dérogation exceptionnelle de la part de l'Agence de Régulation Psychotechnique Intersectorielle (ARPI).
+
+| NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
+|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| **IA consultative**            | L’IA analyse les données et propose des scénarios, mais n’a pas de pouvoir décisionnel direct. | MU/TH/UR 1000 à 3000  – Faible autonomie, coût réduit                               |
+| **IA co-gouvernante**          | L’IA prend des décisions conjointement avec le conseil ou la direction humaine.                | MU/TH/UR 4000 à 5500  – Gestion de colonies en phase de transition                  |
+| **IA dominante**               | L’IA supervise tous les aspects opérationnels et stratégiques. L’humain ne fait qu’exécuter.   | MU/TH/UR 6000 à 8000  – Optimisation industrielle, coordination globale             |
+| **IA distribuée**              | Plusieurs IA locales spécialisées (logistique, sécurité, navigation) non centralisées.         | APOLLO (version modifiée), MU/TH/UR 5000 ou customisé pour architecture cellulaire  |
+| **IA dissociée / indépendante**| L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
+| **IA expérimentale / instable**| IA en cours de test, parfois sujette à des comportements erratiques.                           | MU/TH/UR 9000 ou prototype hors catalogue – Risques élevés, interdiction partielle  |
 
 ### RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION
 
