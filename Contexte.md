@@ -3,20 +3,26 @@
 
 ## INTRODUCTION
 
+Le présent document a été émis par l'Agence de Coopération Coloniale et décrit les protocoles recommandés pour la fondation, l'identification et l'enregistrement d'une entité corporatiste dans l'espace interstellaire réglementé. Toute corporation aspirant à opérer dans les zones déclarées, semi-autonomes ou frontalières est tenue de s'y conformer. Ce guide garantit la compatibilité économique, politique et sociale des entités avec les standards d'exploitation multi-sectorielle promus par l'UNISC et ses partenaires industriels. Les dérogations seront examinées au cas par cas, en fonction de l'utilité perçue de l'entité.
+
 ### OBJECTIFS
 
-- Créer des mégacorporations ou franchises mineures crédibles.
-- Inspirations : Weyland-Yutani, Seegson, Bionational, Hyperdyne, ECA.
-
-Ce que ce guide n’est pas : un catalogue de factions génériques, mais un outil de construction narrative.
+- Standardiser la création des structures corporatistes afin de fluidifier leur insertion dans les flux logistiques interstellaires.
+- Identifier les critères de survie à long terme dans les environnements à haut taux d'incertitude xénologique, juridique ou politique.
+- Optimiser la mise en conformité apparente avec les chartes éthiques coloniales.
+- Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou bancaires.
 
 ## IDENTITE DE LA CORPORATION
 
-Il s'agit de poser les bases de l’organisation.
+Chaque entité doit posséder une identité nominale, visuelle et mémorielle permettant sa reconnaissabilité dans les réseaux de données, les bases douanières, et les systèmes d’authentification biométrique. L'identité n'est pas tant un choix qu'une projection d'acceptabilité marchande.
 
 ### DENOMINATION DE VOTRE CORPORATION
 
+Le nom de la structure doit être court, techniquement neutre, potentiellement multilingue. Les termes religieux, politiques ou explicitement violents sont à éviter sauf si validés par un programme de normalisation sectorielle. Les acronymes sont recommandés pour leur efficacité mnémonique et leur ambigüité juridique.
+
 #### GENERATEUR DE NOM
+
+La base de données intercorporatiste permet de générer des dénominations conformes aux standards esthétiques de l'industrie. L'utilisation de préfixes tels que "Neo", "Sys", "Gen", ou "Tri" augmente la perception d'efficience et de fiabilité.
 
 Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la liste.
 
@@ -125,7 +131,11 @@ Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la lis
 
 ### SLOGAN DE LA CORPORATION
 
+Obligatoire dans toute communication externe, le slogan doit être à la fois rassurant, mobilisateur, et volontairement vague. Il remplit une double fonction : déflection psychologique et pré-endoctrinement.
+
 #### GENERATEUR DE SLOGAN
+
+L'outil intègre une banque de formules inspirées des grands courants de pensée socio-productivistes. Le slogan est idéalement structuré en deux segments : promesse initiale / justification morale.
 
 Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste.
 
@@ -234,6 +244,8 @@ Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la li
 
 ### ORIGINE GEOGRAPHIQUE DE LA CORPORATION
 
+L'origine géographique (Noyau, Voile, Bordure, Confins) détermine les capacités d'expansion, les réseaux d'influence, et le degré de compromission politique de la structure. Les entités issues du Noyau bénéficient d'une présomption de légitimité. Les structures issues des Confins devront prouver leur viabilité.
+
 #### GEOGRAPHIE GALACTIQUE
 
 Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la corporation ou choisissez.
@@ -247,7 +259,11 @@ Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la
 
 ### TYPE DE STRUCTURE DE LA CORPORATION
 
+La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte les capacités décisionnelles, la hiérarchisation des risques, et les seuils d'opacité admise. Le choix de structure est stratégique, mais rarement sincère.
+
 ### GENERATEUR DE STRUCTURE
+
+Un tableau aléatoire permet d'attribuer ou de simuler la forme légale initiale. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne.
 
 | TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
@@ -263,9 +279,13 @@ Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la
 
 ## DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION
 
+La spécialisation opérationnelle définit la position de la corporation sur les chaînes de valeur : extraction, transformation, logistique, militarisation, biotech, etc. À noter : une compétence affichée ne préjuge pas d'une expertise réelle.
+
 ### GENERATEUR DES PRINCIPAUX DOMAINES D'EXPERTISE
 
-Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
+Une série de choix permet de définir les domaines d'activité compatibles avec les régulations interstellaires.
+
+Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de domaines auxquels peut prétendre votre structure corporatiste.
 
 | ID  | DOMAINE                          | DESCRIPTION                                                                                  |
 |-----|----------------------------------|----------------------------------------------------------------------------------------------|
@@ -292,18 +312,24 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 
 ### MORALITÉ DE LA CORPORATION
 
+La morale affichée est une couche rhétorique. Elle sert à calibrer la communication externe et à déterminer le nombre d'activités secondaires officieusement tolérées.
+
+Lancez 1D6 pour sélectionner la moralité perçue ou choisissez dans la liste.
+
+| ID  | MORALITÉ PERÇUE      | ACTIVITÉS SECONDAIRES | DESCRIPTION NARRATIVE                                                                     |
+|-----|----------------------|-----------------------|-------------------------------------------------------------------------------------------|
+| 01  | **Intègre**          | 1                     | La corporation suit les lois interstellaires et les règlements internes à la lettre.      |
+| 02  | **Éthique déclarée** | 2                     | Elle projette une image propre mais peut tolérer des écarts discrets et contrôlés.        |
+| 03  | **Modérée**          | 3                     | Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.            |
+| 04  | **Opportuniste**     | 4                     | Elle exploite toutes les failles possibles, tant que les résultats justifient les moyens. |
+| 05  | **Amorale**          | 5                     | Aucune ligne rouge : la rentabilité prime sur l’éthique.                                  |
+| 06  | **Fanatique**        | 6                     | L’idéologie remplace la morale. Tout est permis au nom de la doctrine corporatiste.       |
+
 #### GENERATEUR D'ACTIVITÉS SECONDAIRES
 
-| MORALITÉ PERÇUE      | ACTIVITÉS SECONDAIRES | DESCRIPTION NARRATIVE                                                                     |
-|----------------------|-----------------------|-------------------------------------------------------------------------------------------|
-| **Intègre**          | 1                     | La corporation suit les lois interstellaires et les règlements internes à la lettre.      |
-| **Éthique déclarée** | 2                     | Elle projette une image propre mais peut tolérer des écarts discrets et contrôlés.        |
-| **Modérée**          | 3                     | Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.            |
-| **Opportuniste**     | 4                     | Elle exploite toutes les failles possibles, tant que les résultats justifient les moyens. |
-| **Amorale**          | 5                     | Aucune ligne rouge : la rentabilité prime sur l’éthique.                                  |
-| **Fanatique**        | 6                     | L’idéologie remplace la morale. Tout est permis au nom de la doctrine corporatiste.       |
+Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale.
 
-#### GENERATEUR D'ACTIVITÉS SECONDAIRES
+Lancez 1D20 pour sélectionner une activité secondaire ou choisissez dans la liste. Faites autant de fois l'opération que le nombre d'activités secondaires auxquelles peut prétendre votre structure corporatiste.
 
 | ID  | ACTIVITÉ SECONDAIRE                       | DESCRIPTION                                                                                      |
 |-----|-------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -330,7 +356,13 @@ Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste.
 
 ## TRAITS DE LA CORPORATION
 
+Chaque entité se compose d’un assemblage de traits systémiques, indicateurs de ses dérives, de ses forces opérationnelles ou de ses anomalies bureaucratiques. Ces traits permettent de classer les structures dans les modèles de gestion de risque établis par le Conseil Intercorporatiste.
+
 ### GENERATEUR DE TRAIT CORPORATISTE
+
+Utilisez une table aléatoire ou un processus de sélection pondérée pour définir les traits dominants de la corporation. Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires.
+
+Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
 
 | ID | Trait                         | Description                                                                                    | avantages                                                                          | défauts                                                                          |
 |----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
