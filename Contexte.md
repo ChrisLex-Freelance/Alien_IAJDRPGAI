@@ -420,54 +420,54 @@ L’usage massif des modèles MU/TH/UR sous licence Weyland-Yutani reste la norm
 
 Chaque modèle MU/TH/UR dispose de capacités spécifiques adaptées à différents niveaux d'intégration et contextes coloniaux. Il est recommandé de procéder à une évaluation périodique de performance, ainsi qu'à une supervision externe pour toute IA classée comme "dominante" ou supérieure. L'usage des modèles 9000 doit faire l'objet d'une dérogation exceptionnelle de la part de l'Agence de Régulation Psychotechnique Intersectorielle (ARPI).
 
-| NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
-|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **IA consultative**            | L’IA analyse les données et propose des scénarios, mais n’a pas de pouvoir décisionnel direct. | MU/TH/UR 1000 à 3000  – Faible autonomie, coût réduit                               |
-| **IA co-gouvernante**          | L’IA prend des décisions conjointement avec le conseil ou la direction humaine.                | MU/TH/UR 4000 à 5500  – Gestion de colonies en phase de transition                  |
-| **IA dominante**               | L’IA supervise tous les aspects opérationnels et stratégiques. L’humain ne fait qu’exécuter.   | MU/TH/UR 6000 à 8000  – Optimisation industrielle, coordination globale             |
-| **IA distribuée**              | Plusieurs IA locales spécialisées (logistique, sécurité, navigation) non centralisées.         | APOLLO (version modifiée), MU/TH/UR 5000 ou customisé pour architecture cellulaire  |
-| **IA dissociée / indépendante**| L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
-| **IA expérimentale / instable**| IA en cours de test, parfois sujette à des comportements erratiques.                           | MU/TH/UR 9000 ou prototype hors catalogue – Risques élevés, interdiction partielle  |
+| ID | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
+|----|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| 01 | **IA consultative**            | L’IA analyse les données et propose des scénarios, mais n’a pas de pouvoir décisionnel direct. | MU/TH/UR 1000 à 3000  – Faible autonomie, coût réduit                               |
+| 02 | **IA co-gouvernante**          | L’IA prend des décisions conjointement avec le conseil ou la direction humaine.                | MU/TH/UR 4000 à 5500  – Gestion de colonies en phase de transition                  |
+| 03 | **IA dominante**               | L’IA supervise tous les aspects opérationnels et stratégiques. L’humain ne fait qu’exécuter.   | MU/TH/UR 6000 à 8000  – Optimisation industrielle, coordination globale             |
+| 04 | **IA distribuée**              | Plusieurs IA locales spécialisées (logistique, sécurité, navigation) non centralisées.         | APOLLO (version modifiée), MU/TH/UR 5000 ou customisé pour architecture cellulaire  |
+| 05 | **IA dissociée**               | L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
+| 06 | **IA expérimentale**           | IA en cours de test, parfois sujette à des comportements erratiques.                           | MU/TH/UR 9000 ou prototype hors catalogue – Risques élevés, interdiction partielle  |
 
 ### RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION
 
 Les unités synthétiques assurent la continuité d’activité, l’interface de sécurité et la médiation humaine. Leur présence est constante, leur loyauté contractuelle, leur obsolescence planifiée.
 
-| UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
-|--------------------------------|------------------------------------------------------------------------------------------------|
-| **Main-d'œuvre technique**     | Opèrent dans la maintenance, la médecine, la navigation, la recherche.                         |
-| **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
-| **Agents d’infiltration**      | Modèles à apparence humaine utilisés pour l’espionnage ou la médiation.                        |
-| **Conseillers exécutifs**      | Intégrés dans les conseils d'administration ou comme assistants IA.                            |
-| **Synthétiques obsolètes**     | Modèles anciens ou "ratés", relégués à des tâches ingrates ou cachés.                          |
-| **Absence volontaire**         | Choix idéologique ou culturel de ne pas employer de synthétiques. Exceptionnel et suspect.     |
+| ID | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
+|----|--------------------------------|------------------------------------------------------------------------------------------------|
+| 01 | **Main-d'œuvre technique**     | Opèrent dans la maintenance, la médecine, la navigation, la recherche.                         |
+| 02 | **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
+| 03 | **Agents d’infiltration**      | Modèles à apparence humaine utilisés pour l’espionnage ou la médiation.                        |
+| 04 | **Conseillers exécutifs**      | Intégrés dans les conseils d'administration ou comme assistants IA.                            |
+| 05 | **Synthétiques obsolètes**     | Modèles anciens ou "ratés", relégués à des tâches ingrates ou cachés.                          |
+| 06 | **Absence volontaire**         | Choix idéologique ou culturel de ne pas employer de synthétiques. Exceptionnel et suspect.     |
 
 ### MODÈLE HIÉRARCHIQUE DANS LA CORPORATION
 
 Divisions, filiales, et micro-cellules doivent être établies selon le Modèle Oméga : une hiérarchie pyramidale où tout comportement déviant est redirigé vers des sous-niveaux contrôlables ou éliminables.
 
-| MODÈLE HIÉRARCHIQUE            | DESCRIPTION                                                                                    |
-|------------------------------- |----------------------------------------------------------------------------------------------|
-| **Divisions sectorielles**     | Chaque domaine (biotech, sécurité…) opère de façon autonome.                                |
-| **Hiérarchie militaire**       | Structure rigide par grade. Peu d’autonomie individuelle.                                   |
-| **Structure pyramidale classique** | Cadres > superviseurs > exécutants > personnel auxiliaire.                            |
-| **Organisation modulaire**     | Hiérarchies par projets, recomposées en fonction des besoins.                              |
-| **Structure en cellules**      | Cloisonnement extrême, information très compartimentée.                                     |
-| **Hiérarchie IA-centrique**    | Tous les échelons humains sont subordonnés à l’autorité logique d’une IA.                   |
-| **Hiérarchie rituelle / symbolique** | Rang défini par l’adhésion au dogme ou aux valeurs de l’entreprise. (culte corporatiste) |
+| ID | MODÈLE HIÉRARCHIQUE            | DESCRIPTION                                                                                    |
+|----|------------------------------- |------------------------------------------------------------------------------------------------|
+| 01 | **Divisions sectorielles**     | Chaque domaine (biotech, sécurité…) opère de façon autonome.                                   |
+| 02 | **Hiérarchie militaire**       | Structure rigide par grade. Peu d’autonomie individuelle.                                      |
+| 03 | **Structure pyramidale classique** | Cadres > superviseurs > exécutants > personnel auxiliaire.                                 |
+| 04 | **Organisation modulaire**     | Hiérarchies par projets, recomposées en fonction des besoins.                                  |
+| 05 | **Structure en cellules**      | Cloisonnement extrême, information très compartimentée.                                        |
+| 06 | **Hiérarchie IA-centrique**    | Tous les échelons humains sont subordonnés à l’autorité logique d’une IA.                      |
+| 07 | **Hiérarchie rituelle / symbolique** | Rang défini par l’adhésion au dogme ou aux valeurs de l’entreprise. (culte corporatiste) |
 
 ### SÉCURITÉ INTERNE DE LA CORPORATION
 
 Protocoles de verrouillage, unités PMC intégrées, surveillance IA, et doctrine de répression par l'exemple forment les quatre piliers de la résilience interne. Le principe fondamental reste : identifier, isoler, neutraliser.
 
-| SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                      |
-|--------------------------------|--------------------------------------------------------------------------------------------------|
-| **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.             |
-| **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.      |
-| **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                               |
-| **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                            |
-| **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                            |
-| **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
+| ID | SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                      |
+|----|--------------------------------|--------------------------------------------------------------------------------------------------|
+| 01 | **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.             |
+| 02 | **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.      |
+| 03 | **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                               |
+| 04 | **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                            |
+| 05 | **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                            |
+| 07 | **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
 
 ## CULTURE DE LA CORPORATION
 
@@ -481,124 +481,124 @@ La terminologie RH favorise la déshumanisation. On ne parle pas d’êtres huma
 
 Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard.
 
-| TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
-|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Actif biologique                 | Employé / travailleur humain                                                    | "Actif biologique 22-B en surcharge, recommander analyse."|
-| Module de productivité           | Poste de travail, atelier ou espace de repos                                    | "Les modules de productivité du secteur D sont optimaux." |
-| Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
-| Ressource organique excédentaire | Employé jugé superflu ou mutique                                                | "Récupération autorisée. Statut : excédentaire."          |
-| Échec opérationnel               | Décès ou blessure grave                                                         | "Mission clôturée suite à un échec opérationnel isolé."   |
-| Signal de silence                | Ordre de ne pas témoigner / classer sans suite                                  | "Émettre un signal de silence sur l’incident E-12."       |
+| ID | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
+|----|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
+| 01 | Actif biologique                 | Employé / travailleur humain                                                    | "Actif biologique 22-B en surcharge, recommander analyse."|
+| 02 | Module de productivité           | Poste de travail, atelier ou espace de repos                                    | "Les modules de productivité du secteur D sont optimaux." |
+| 03 | Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
+| 04 | Ressource organique excédentaire | Employé jugé superflu ou mutique                                                | "Récupération autorisée. Statut : excédentaire."          |
+| 05 | Échec opérationnel               | Décès ou blessure grave                                                         | "Mission clôturée suite à un échec opérationnel isolé."   |
+| 06 | Signal de silence                | Ordre de ne pas témoigner / classer sans suite                                  | "Émettre un signal de silence sur l’incident E-12."       |
 
 #### RÉCOMPENSES INTERNES DE LA CORPORATION
 
 Chaque employé est noté, mesuré, indexé. L’IA supervise les écarts de rendement avec une rigueur mathématique. La hiérarchie repose sur le mérite algorithmique.
 
-| RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
-|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
-| Crédits bonus               | Monnaie interne, souvent inutilisable hors zone ou périmée rapidement                | Fidélisation économique           |
-| Extension de contrat        | Prolongement de l'affectation, interprété comme une faveur                           | Maintien de l’attachement         |
-| Accès privilège             | Modules de repos, repas enrichis, distraction VR                                     | Apaisement superficiel            |
-| Rang de mérite              | Badge ou insigne affichant la conformité parfaite                                    | Hiérarchisation sociale           |
-| Stase préférentielle        | Mise en sommeil sans effet secondaire ou mémoire altérée                             | Échapper temporairement au stress |
-| Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
+| ID | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
+|----|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
+| 01 | Crédits bonus               | Monnaie interne, souvent inutilisable hors zone ou périmée rapidement                | Fidélisation économique           |
+| 02 | Extension de contrat        | Prolongement de l'affectation, interprété comme une faveur                           | Maintien de l’attachement         |
+| 03 | Accès privilège             | Modules de repos, repas enrichis, distraction VR                                     | Apaisement superficiel            |
+| 04 | Rang de mérite              | Badge ou insigne affichant la conformité parfaite                                    | Hiérarchisation sociale           |
+| 05 | Stase préférentielle        | Mise en sommeil sans effet secondaire ou mémoire altérée                             | Échapper temporairement au stress |
+| 06 | Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
 
 #### CLASSEMENTS ET NOTATIONS DE LA CORPORATION
 
 Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard.
 
-| SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
-|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| Tableau de conformité       | Classement des employés par efficacité, loyauté, absence d’erreurs                   | Pression constante               |
-| Note de stabilisation       | Calcul IA du stress ou des risques comportementaux                                   | Isolement préventif              |
-| Indice de valorisation      | Rendement + adaptation aux normes psycho-sociétales                                  | Récompenses conditionnelles      |
-| Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
-| Statut de visibilité        | Plus le rang est élevé, plus la personne est visible aux IA & supérieurs             | Surveillance accrue              |
+| ID | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
+|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| 01 | Tableau de conformité       | Classement des employés par efficacité, loyauté, absence d’erreurs                   | Pression constante               |
+| 02 | Note de stabilisation       | Calcul IA du stress ou des risques comportementaux                                   | Isolement préventif              |
+| 03 | Indice de valorisation      | Rendement + adaptation aux normes psycho-sociétales                                  | Récompenses conditionnelles      |
+| 04 | Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
+| 05 | Statut de visibilité        | Plus le rang est élevé, plus la personne est visible aux IA & supérieurs             | Surveillance accrue              |
 
 #### PROCÉDURES DE SANCTION DE LA CORPORATION
 
 Les erreurs systémiques ou les écarts comportementaux entraînent des mesures d’ajustement : rééducation, déchéance de poste, retrait définitif. Les termes administratifs couvrent : « réinitialisation comportementale » ou « recyclage organique ».
 
-| PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
-|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| Réorientation disciplinaire | Isolement, lavage de cerveau léger                                                   | Rééducation                      |
-| Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
-| Effacement comportemental   | Suppression de mémoire / reprogrammation légère                                      | Perte d’identité                 |
-| Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
-| Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
+| ID | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
+|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| 01 | Réorientation disciplinaire | Isolement, lavage de cerveau léger                                                   | Rééducation                      |
+| 02 | Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
+| 03 | Effacement comportemental   | Suppression de mémoire / reprogrammation légère                                      | Perte d’identité                 |
+| 04 | Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
+| 05 | Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
 
 ### PROGRAMMES DE FIDÉLISATION DE LA CORPORATION
 
 La loyauté ne se décrète pas, elle se conditionne. Accès à des plaisirs simulés, endoctrinement rituel, dépendances chimiques ou avantages génétiques renforcent l’attachement au système.
 
-| TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Hédonisme compensatoire       | Accès encadré à des plaisirs artificiels ou contrôlés, utilisés comme soupapes de sécurité. Ces modules offrent une illusion de liberté ou de réconfort dans un environnement oppressant.        | Simulations VR privées, hallucinogènes approuvés, modules charnels agréés, "vacances contrôlées", zones de plaisir             |
-| Endoctrinement idéologique    | Conditionnement répété via doctrines, messages subliminaux, récitations collectives, ou manipulation narrative. Présenté comme une culture d'entreprise, il devient souvent un culte.            | Séances de "récit d'entreprise", chants collectifs, visionnages obligatoires, prière à l’IA, journaux internes dogmatiques     |
-| Dépendance médicamenteuse     | Prescription systématique de produits altérant l’humeur ou la cognition pour maintenir la stabilité émotionnelle du personnel. La fidélité devient biochimique.                                  | Stimulants de concentration, inhibiteurs de stress, injecteurs "d’équilibre", chewing-gums d’obéissance, pilules de conformité |
-| Rituels collectifs            | Activités de cohésion imposées ou "spontanées", qui servent à forger l’illusion d’unité. Ces rituels sont parfois notés, voire hiérarchisés.                                                     | Célébrations d’objectifs, promotion filmée, serments, chants, journée du fondateur, compétition de loyauté, tatouage corpo     |
-| Téléchargements cognitifs     | Transferts d'information, protocoles comportementaux, ou "paquets culturels" injectés dans le cerveau des employés. L’identité personnelle est peu à peu remplacée par une mémoire standardisée. | Upload de compétences, réinitialisation comportementale, injection de souvenirs positifs, désensibilisation aux traumas        |
-| Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
-| Surveillance sociale inversée | Programme où les employés sont responsables de la surveillance et de la conformité de leurs pairs. Encourage la délation comme outil de promotion.                                               | Système de parrainage, notation mutuelle, récompense de dénonciation, rapport anonyme                                          |
-| Parrainage émotionnel         | Chaque employé est assigné à un "binôme comportemental" chargé de surveiller et de stabiliser ses émotions — ou de les signaler en cas de dérive.                                                | Synthétiques thérapeutiques, IA empathique, collègues liés psychologiquement, score d’harmonie émotionnelle                    |
-| Gamification intégrale        | Le quotidien est gamifié : points de loyauté, succès déverrouillés, défis internes. Rend la fidélisation addictive et déconnectée de la réalité.                                                 | Classements de productivité, insignes numériques, quêtes journalières, tableaux d'honneur interactifs                          |
-| Recodage identitaire          | Suppression ou altération des souvenirs personnels, remplacés par des "mémoires officielles" plus compatibles avec la vision corporatiste.                                                       | Implantation de souvenirs, cérémonies de réassignation de vie, réécritures psychiques                                          |
+| ID | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
+|----|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 01 | Hédonisme compensatoire       | Accès encadré à des plaisirs artificiels ou contrôlés, utilisés comme soupapes de sécurité. Ces modules offrent une illusion de liberté ou de réconfort dans un environnement oppressant.        | Simulations VR privées, hallucinogènes approuvés, modules charnels agréés, "vacances contrôlées", zones de plaisir             |
+| 02 | Endoctrinement idéologique    | Conditionnement répété via doctrines, messages subliminaux, récitations collectives, ou manipulation narrative. Présenté comme une culture d'entreprise, il devient souvent un culte.            | Séances de "récit d'entreprise", chants collectifs, visionnages obligatoires, prière à l’IA, journaux internes dogmatiques     |
+| 03 | Dépendance médicamenteuse     | Prescription systématique de produits altérant l’humeur ou la cognition pour maintenir la stabilité émotionnelle du personnel. La fidélité devient biochimique.                                  | Stimulants de concentration, inhibiteurs de stress, injecteurs "d’équilibre", chewing-gums d’obéissance, pilules de conformité |
+| 04 | Rituels collectifs            | Activités de cohésion imposées ou "spontanées", qui servent à forger l’illusion d’unité. Ces rituels sont parfois notés, voire hiérarchisés.                                                     | Célébrations d’objectifs, promotion filmée, serments, chants, journée du fondateur, compétition de loyauté, tatouage corpo     |
+| 05 | Téléchargements cognitifs     | Transferts d'information, protocoles comportementaux, ou "paquets culturels" injectés dans le cerveau des employés. L’identité personnelle est peu à peu remplacée par une mémoire standardisée. | Upload de compétences, réinitialisation comportementale, injection de souvenirs positifs, désensibilisation aux traumas        |
+| 06 | Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
+| 07 | Surveillance sociale inversée | Programme où les employés sont responsables de la surveillance et de la conformité de leurs pairs. Encourage la délation comme outil de promotion.                                               | Système de parrainage, notation mutuelle, récompense de dénonciation, rapport anonyme                                          |
+| 08 | Parrainage émotionnel         | Chaque employé est assigné à un "binôme comportemental" chargé de surveiller et de stabiliser ses émotions — ou de les signaler en cas de dérive.                                                | Synthétiques thérapeutiques, IA empathique, collègues liés psychologiquement, score d’harmonie émotionnelle                    |
+| 09 | Gamification intégrale        | Le quotidien est gamifié : points de loyauté, succès déverrouillés, défis internes. Rend la fidélisation addictive et déconnectée de la réalité.                                                 | Classements de productivité, insignes numériques, quêtes journalières, tableaux d'honneur interactifs                          |
+| 10 | Recodage identitaire          | Suppression ou altération des souvenirs personnels, remplacés par des "mémoires officielles" plus compatibles avec la vision corporatiste.                                                       | Implantation de souvenirs, cérémonies de réassignation de vie, réécritures psychiques                                          |
 
 ### CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION
 
 Chaque message diffusé doit rassurer tout en affirmant la puissance implicite de l’institution. Le slogan est partout. Le doute, nulle part.
 
-| FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
-| **Visuels propagandistes**                  | Affiches, écrans fixes ou animations mettant en scène des environnements idéalisés, des enfants souriants, des couples heureux dans des colonies.                  | Propagande visuelle omniprésente dans les couloirs, bunkers, zones de transit.                       |
-| **Hologrammes publics**                     | Présence IA ou mascotte projetée dans l’environnement pour diffuser des informations, rappeler les valeurs ou féliciter les employés.                              | Hologramme de l’IA qui vous salue, bulletin lumineux de productivité en direct.                      |
-| **Vidéos de conditionnement**               | Séquences diffusées à des moments clés : embarquement, réveil, pause. Présentées comme informatives mais en réalité manipulatrices.                                | "Briefing motivationnel", "capsule comportementale", "mémoire inspirante".                           |
-| **Influenceurs corpo**                      | Employés modèles choisis pour être les visages de la corpo : leurs récits sont fabriqués, optimisés, et présentés comme authentiques.                              | Vidéo "Une journée avec le Superviseur Yuki", journal de bord public, posts intranet.                |
-| **Slogans à déclenchement adaptatif**       | Slogans personnalisés diffusés par l’IA selon l’état émotionnel, l’historique de rendement ou les événements récents.                                              | "Nous croyons en votre capacité à rebondir, employé 233-A." / "Votre loyauté a été notée."           |
-| **Affichage par couleurs comportementales** | Luminophores muraux ou vêtements qui changent de couleur selon l’état psychologique ou la conformité du porteur.                                                   | Uniformes réactifs, murs signalant le stress latent dans une pièce.                                  |
-| **Publicité inversée**                      | Propagande ciblant les ennemis supposés de la corpo : syndicats, rebelles, concurrents — pour justifier la répression ou les interventions.                        | "Ils veulent voler votre oxygène. Nous voulons protéger vos enfants."                                |
-| **Campagnes de rétro-nostalgie**            | Utilisation d’images et messages anciens de la corpo (réels ou fictifs) pour créer une sensation de continuité, de stabilité rassurante.                           | Logos "vintage", images d’époque, hymnes restaurés.                                                  |
-| **Propagande émotionnelle ciblée**          | IA ou synthétiques injectent directement des séquences émotionnelles via implants, interfaces ou micro-doses sensoriels.                                           | Séquences de "fierté collective", sensation de sécurité, euphorie liée à l'appartenance.             |
+| ID | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
+|----|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 01 | **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
+| 02 | **Visuels propagandistes**                  | Affiches, écrans fixes ou animations mettant en scène des environnements idéalisés, des enfants souriants, des couples heureux dans des colonies.                  | Propagande visuelle omniprésente dans les couloirs, bunkers, zones de transit.                       |
+| 03 | **Hologrammes publics**                     | Présence IA ou mascotte projetée dans l’environnement pour diffuser des informations, rappeler les valeurs ou féliciter les employés.                              | Hologramme de l’IA qui vous salue, bulletin lumineux de productivité en direct.                      |
+| 04 | **Vidéos de conditionnement**               | Séquences diffusées à des moments clés : embarquement, réveil, pause. Présentées comme informatives mais en réalité manipulatrices.                                | "Briefing motivationnel", "capsule comportementale", "mémoire inspirante".                           |
+| 05 | **Influenceurs corpo**                      | Employés modèles choisis pour être les visages de la corpo : leurs récits sont fabriqués, optimisés, et présentés comme authentiques.                              | Vidéo "Une journée avec le Superviseur Yuki", journal de bord public, posts intranet.                |
+| 06 | **Slogans à déclenchement adaptatif**       | Slogans personnalisés diffusés par l’IA selon l’état émotionnel, l’historique de rendement ou les événements récents.                                              | "Nous croyons en votre capacité à rebondir, employé 233-A." / "Votre loyauté a été notée."           |
+| 07 | **Affichage par couleurs comportementales** | Luminophores muraux ou vêtements qui changent de couleur selon l’état psychologique ou la conformité du porteur.                                                   | Uniformes réactifs, murs signalant le stress latent dans une pièce.                                  |
+| 08 | **Publicité inversée**                      | Propagande ciblant les ennemis supposés de la corpo : syndicats, rebelles, concurrents — pour justifier la répression ou les interventions.                        | "Ils veulent voler votre oxygène. Nous voulons protéger vos enfants."                                |
+| 09 | **Campagnes de rétro-nostalgie**            | Utilisation d’images et messages anciens de la corpo (réels ou fictifs) pour créer une sensation de continuité, de stabilité rassurante.                           | Logos "vintage", images d’époque, hymnes restaurés.                                                  |
+| 10 | **Propagande émotionnelle ciblée**          | IA ou synthétiques injectent directement des séquences émotionnelles via implants, interfaces ou micro-doses sensoriels.                                           | Séquences de "fierté collective", sensation de sécurité, euphorie liée à l'appartenance.             |
 
 ### SYMBOLES DE LA CORPORATION
 
 Hymnes, mascottes, stèles biomémorielles et rituels de promotion renforcent l’appartenance et la dissolution de l’identité individuelle.
 
-| SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
-| Mascotte ou totem         | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                    | Figure rassurante ou propagandiste |
-| Tatouage de conformité    | Marquage corporel visible ou non, lié au statut de l’individu dans la hiérarchie ou son degré de loyauté.                                                | Code-barres, lumière sous-cutanée, encre activée par IA                  | Rend visible l’appartenance et le rang |
-| Mur des fondateurs        | Monument physique ou holographique célébrant les origines mythifiées de la corpo. Présent dans les halls ou zones de repos.                             | Fresque mouvante, mur des visages, stèle vocale                          | Crée un récit fondateur, légitime l’autorité |
-| Totem de recueillement    | Objet d’adoration "neutre" — utilisé officiellement pour apaiser, officieusement pour mesurer ou influencer le personnel.                                | Pierre noire, sphère pulsée, idole IA silencieuse                        | Contrôle émotionnel masqué         |
-| Blason évolutif           | Symbole de rang qui se modifie avec la progression de l’individu (numérique ou vestimentaire).                                                          | Patch thermosensible, insigne projeté, drone signal lumineux             | Gamification statutaire            |
-| Icône cryptée             | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                      | Sceau ésotérique, hologramme privé, cube de données                      | Génère mystère et hiérarchie occulte |
+| ID | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                           |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------|
+| 01 | Mascotte ou totem                           | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                     | Figure rassurante ou propagandiste           |
+| 02 | Tatouage de conformité                      | Marquage corporel visible ou non, lié au statut de l’individu dans la hiérarchie ou son degré de loyauté.                                                | Code-barres, lumière sous-cutanée, encre activée par IA                   | Rend visible l’appartenance et le rang       |
+| 03 | Mur des fondateurs                          | Monument physique ou holographique célébrant les origines mythifiées de la corpo. Présent dans les halls ou zones de repos.                              | Fresque mouvante, mur des visages, stèle vocale                           | Crée un récit fondateur, légitime l’autorité |
+| 04 | Totem de recueillement                      | Objet d’adoration "neutre" — utilisé officiellement pour apaiser, officieusement pour mesurer ou influencer le personnel.                                | Pierre noire, sphère pulsée, idole IA silencieuse                         | Contrôle émotionnel masqué                   |
+| 05 | Blason évolutif                             | Symbole de rang qui se modifie avec la progression de l’individu (numérique ou vestimentaire).                                                           | Patch thermosensible, insigne projeté, drone signal lumineux              | Gamification statutaire                      |
+| 06 | Icône cryptée                               | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                       | Sceau ésotérique, hologramme privé, cube de données                       | Génère mystère et hiérarchie occulte         |
 
 ### RITUELS DE LA CORPORATION
 
 Tout passage hiérarchique ou événement marquant est ritualisé : chants synthétiques, tatouages de conformité, minute de synchronisation neuronale.
 
-| RITUEL                    | DESCRIPTION ÉTENDUE                                                                                                                                     | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
-| Mantra obligatoire        | Formule sacrée récitée avant chaque mission ou action critique, souvent diffusée par l’IA.                                                               | "L’ordre précède la survie." / "Obéir, c’est avancer."                    | Unifie les esprits, inhibe la pensée critique |
-| Rituel de promotion       | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                    | Injection mémorielle, serment filmé, rituel VR partagé                   | Crée un passage symbolique        |
-| Jour corporatiste         | Commémoration obligatoire d’un événement glorifié par l’entreprise, parfois falsifié.                                                                   | Fête du PDG, culte des premiers colons, blackout collectif                | Réécrit l’histoire pour renforcer l’unité |
-| Appel aux fondateurs      | Invocation rituelle faite collectivement avant des événements critiques (embarquement, mission).                                                        | Chœur vocal, pulsation IA, projection holographique                       | Rappelle la dette envers la corpo |
-| Lamentation rituelle      | Cérémonie collective après une perte (souvent obligatoire même si le mort est inconnu).                                                                 | Diffusion d’un hymne, minute de silence vocale, lecture IA des noms       | Gère les affects, neutralise la panique |
-| Rite de purge             | Acte symbolique (souvent inutile) effectué après une "erreur" ou une "crise" interne.                                                                   | Lavage collectif, confession vocale, désactivation volontaire d’un drone  | Blâme collectif, régénère le système |
+| ID | RITUEL                                      | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                            |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 01 | Mantra obligatoire                          | Formule sacrée récitée avant chaque mission ou action critique, souvent diffusée par l’IA.                                                               | "L’ordre précède la survie." / "Obéir, c’est avancer."                    | Unifie les esprits, inhibe la pensée critique |
+| 02 | Rituel de promotion                         | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                     | Injection mémorielle, serment filmé, rituel VR partagé                    | Crée un passage symbolique                    |
+| 03 | Jour corporatiste                           | Commémoration obligatoire d’un événement glorifié par l’entreprise, parfois falsifié.                                                                    | Fête du PDG, culte des premiers colons, blackout collectif                | Réécrit l’histoire pour renforcer l’unité     |
+| 04 | Appel aux fondateurs                        | Invocation rituelle faite collectivement avant des événements critiques (embarquement, mission).                                                         | Chœur vocal, pulsation IA, projection holographique                       | Rappelle la dette envers la corpo             |
+| 05 | Lamentation rituelle                        | Cérémonie collective après une perte (souvent obligatoire même si le mort est inconnu).                                                                  | Diffusion d’un hymne, minute de silence vocale, lecture IA des noms       | Gère les affects, neutralise la panique       |
+| 06 | Rite de purge                               | Acte symbolique (souvent inutile) effectué après une "erreur" ou une "crise" interne.                                                                    | Lavage collectif, confession vocale, désactivation volontaire d’un drone  | Blâme collectif, régénère le système          |
 
 ### IDENTITÉ  DE LA CORPORATION
 
 L’entité corporatiste devient un mythe, une nation, un dogme. Elle absorbe la mémoire, réécrit l’histoire, et construit la fiction nécessaire à la survie de sa machine administrative.
 
-| ÉLÉMENT IDENTITAIRE        | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
-| Hymne corporatiste         | Musique, chant ou vibration sonore joué régulièrement, lié à la mémoire émotionnelle de la corpo.                                                        | Mélodie dissonante, chœurs automatisés, tonalité physiologiquement relaxante       | Enracinement émotionnel             |
-| Lexique d’entreprise       | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                     | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement    |
-| Identifiant personnel rituel| Numéro d’identification prononcé à chaque déclaration. Le nom personnel est peu à peu oublié.                                                          | "Je suis 73-Δ, module maintenance."                                       | Négation de l’identité individuelle |
-| Signature comportementale  | Geste, salut ou formule imposée à chaque interaction entre membres du personnel.                                                                        | Main sur le cœur, phrase d’alignement, inclinaison standard               | Renforce la soumission, contrôle des rapports |
-| Prière à l’IA              | Moment de recueillement dirigé vers l’Intelligence Centrale, simulant une adoration ou une demande de guidance.                                        | "MU/TH/UR veille.", activation de routine vocale                          | Divinisation technologique         |
-| Narratif officiel          | L’histoire de l’entreprise est récitée comme un mythe fondateur. Elle est connue par cœur par tous les employés.                                       | Projection IA, récitation commune, tatouage-récit                         | Création d’un mythe inaltérable    |
+| ID | ÉLÉMENT IDENTITAIRE                         | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| 01 | Hymne corporatiste                          | Musique, chant ou vibration sonore joué régulièrement, lié à la mémoire émotionnelle de la corpo.                                                        | Mélodie dissonante, chœurs automatisés, tonalité physiologiquement relaxante | Enracinement émotionnel          |
+| 02 | Lexique d’entreprise                        | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                      | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement     |
+| 03 | Identifiant personnel rituel                | Numéro d’identification prononcé à chaque déclaration. Le nom personnel est peu à peu oublié.                                                            | "Je suis 73-Δ, module maintenance."                                       | Négation de l’identité individuelle |
+| 04 | Signature comportementale                   | Geste, salut ou formule imposée à chaque interaction entre membres du personnel.                                                                         | Main sur le cœur, phrase d’alignement, inclinaison standard               | Renforce la soumission, contrôle des rapports |
+| 05 | Prière à l’IA                               | Moment de recueillement dirigé vers l’Intelligence Centrale, simulant une adoration ou une demande de guidance.                                          | "MU/TH/UR veille.", activation de routine vocale                          | Divinisation technologique          |
+| 06 | Narratif officiel                           | L’histoire de l’entreprise est récitée comme un mythe fondateur. Elle est connue par cœur par tous les employés.                                         | Projection IA, récitation commune, tatouage-récit                         | Création d’un mythe inaltérable     |
 
 ## ZONE D'INFLUENCE DE CORPORATION
 
@@ -612,34 +612,32 @@ Détermine l’influence galactique réelle de la corporation à travers :
 ### 🎲 Formule :
 **1D6** + **Mod. de Structure** + **Mod. par Zone** = Niveau de Présence
 
----
-
 ### Modificateurs par Type de Structure
 
 Le type de structure détermine l’étendue probable de l’influence. Une mégacorporation possède des systèmes entiers. Un collectif indépendant ne contrôle qu’une station, et encore. Chaque forme structurelle impose des seuils plausibles d’expansion.
 
-| TYPE DE STRUCTURE                | MODIFICATEUR |
-|----------------------------------|--------------|
-| Mégacorporation                  | +4           |
-| Conglomérat Multi-sectoriel      | +3           |
-| Filiale spécialisée              | +1           |
-| Start-up rachetée                | +0           |
-| Syndicat de colons privatisé     | –1           |
-| Collectif indépendant            | –2           |
-| Délégation autonome              | +0 *(+1 si sponsorisée)* |
-| Culte corporatiste               | –1 *(+1 si soutenu secrètement)* |
+| ID | TYPE DE STRUCTURE                | MODIFICATEUR                     |
+|----|----------------------------------|----------------------------------|
+| 01 | Mégacorporation                  | +4                               |
+| 02 | Conglomérat Multi-sectoriel      | +3                               |
+| 03 | Filiale spécialisée              | +1                               |
+| 04 | Start-up rachetée                | +0                               |
+| 05 | Syndicat de colons privatisé     | –1                               |
+| 06 | Collectif indépendant            | –2                               |
+| 07 | Délégation autonome              | +0 *(+1 si sponsorisée)*         |
+| 08 | Culte corporatiste               | –1 *(+1 si soutenu secrètement)* |
 
 
 ### Modificateurs par Zone Galactique
 
 Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais instables. La Bordure et les Confins impliquent une autonomie forcée, une insécurité chronique, et une vulnérabilité juridique.
 
-| ZONE GALACTIQUE       | MODIFICATEUR | JUSTIFICATION                                                                 |
-|------------------------|---------------|-------------------------------------------------------------------------------|
-| Systèmes du Noyau      | +2            | Zone centrale, riche et ultra-réglementée : seules les plus puissantes y opèrent. |
-| Voile Extérieur        | +1            | Région en développement, expansion compétitive mais faisable.                |
-| Bordure Extérieure     | 0             | Zone instable, colonies récentes, faible surveillance centrale.              |
-| Les Confins            | –2            | Territoires hostiles, souvent hors-réseau, dangereux et imprévisibles.       |
+| ID | ZONE GALACTIQUE        | MODIFICATEUR  | JUSTIFICATION                                                                     |
+|----|------------------------|---------------|-----------------------------------------------------------------------------------|
+| 01 | Systèmes du Noyau      | +2            | Zone centrale, riche et ultra-réglementée : seules les plus puissantes y opèrent. |
+| 02 | Voile Extérieur        | +1            | Région en développement, expansion compétitive mais faisable.                     |
+| 03 | Bordure Extérieure     | 0             | Zone instable, colonies récentes, faible surveillance centrale.                   |
+| 04 | Les Confins            | –2            | Territoires hostiles, souvent hors-réseau, dangereux et imprévisibles.            |
 
  Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
 
@@ -647,14 +645,14 @@ Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais inst
 
 La présence est mesurée en nombre de systèmes, de colonies actives, de stations revendiquées, et de routes commerciales maintenues. Ces indicateurs sont utilisés par l’UNISC pour définir le rang d’influence d’une entité lors des votes d’arbitrage intercorporatiste.
 
-| TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
-|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
-| 1–2                 | Locale                 | 1 à 2 systèmes      | Présence marginale, souvent régionale ou semi-légale.                       |
-| 3–4                 | Subsectorielle         | 3 à 5 systèmes      | Influence limitée, dépendance logistique forte.                             |
-| 5–6                 | Intersectorielle       | 6 à 12 systèmes     | Expansion solide, présence dans plusieurs sous-secteurs.                    |
-| 7–8                 | Régionale              | 12 à 25 systèmes    | Infrastructure affirmée dans plusieurs zones galactiques.                   |
-| 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
-| 11+                 | Hégémonique            | 50+ systèmes        | Tentaculaire, omniprésente, influence législative et diplomatique massive.  |
+| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
+|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
+| 01 | 1–2                 | Locale                 | 1 à 2 systèmes      | Présence marginale, souvent régionale ou semi-légale.                       |
+| 02 | 3–4                 | Subsectorielle         | 3 à 5 systèmes      | Influence limitée, dépendance logistique forte.                             |
+| 03 | 5–6                 | Intersectorielle       | 6 à 12 systèmes     | Expansion solide, présence dans plusieurs sous-secteurs.                    |
+| 04 | 7–8                 | Régionale              | 12 à 25 systèmes    | Infrastructure affirmée dans plusieurs zones galactiques.                   |
+| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
+| 06 | 11+                 | Hégémonique            | 50+ systèmes        | Tentaculaire, omniprésente, influence législative et diplomatique massive.  |
 
 ### Exemple de calcul
 
@@ -672,32 +670,32 @@ Aucune structure viable n’évolue dans le vide. Les rivalités intercorporatis
 
 Ce nombre dépend du type de structure. Une mégacorporation a forcément trois rivalités actives ou latentes. Une start-up absorbée peut n’en avoir qu’une, souvent issue d’un contentieux non réglé ou d’un projet volé. Lancer 1D10 et appliquez le résultat. Si celui-ci est inférieur au minimum, appliquez le minimum.
 
-| TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
-|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
-| **Mégacorporation**              | 3 rivalités                   | Inévitable à leur échelle. Elles ont des ennemis partout.                     |
-| **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
-| **Filiale spécialisée**          | 1 rivalité                    | Conflit souvent lié à son domaine ou à une maison-mère.                       |
-| **Start-up rachetée**            | 1 rivalité                    | Rancune ancienne ou opposition avec un ex-partenaire.                         |
-| **Syndicat de colons privatisé** | 1 rivalité                    | Résistance d’un autre syndicat, ou rivalité avec une méga.                    |
-| **Collectif indépendant**        | 1 rivalité                    | Considéré comme illégitime ou dérangeant : conflit toujours actif.            |
-| **Délégation autonome**          | 2 rivalités                   | Doit gérer l’hostilité locale **et** une pression verticale (la maison-mère). |
-| **Culte corporatiste**           | 2 rivalités                   | Cibles de persécutions ou croisades internes (contre une autre foi corpo).    |
+| ID | TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
+|----|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
+| 01 | **Mégacorporation**              | 3 rivalités                   | Inévitable à leur échelle. Elles ont des ennemis partout.                     |
+| 02 | **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
+| 03 | **Filiale spécialisée**          | 1 rivalité                    | Conflit souvent lié à son domaine ou à une maison-mère.                       |
+| 04 | **Start-up rachetée**            | 1 rivalité                    | Rancune ancienne ou opposition avec un ex-partenaire.                         |
+| 05 | **Syndicat de colons privatisé** | 1 rivalité                    | Résistance d’un autre syndicat, ou rivalité avec une méga.                    |
+| 06 | **Collectif indépendant**        | 1 rivalité                    | Considéré comme illégitime ou dérangeant : conflit toujours actif.            |
+| 07 | **Délégation autonome**          | 2 rivalités                   | Doit gérer l’hostilité locale **et** une pression verticale (la maison-mère). |
+| 08 | **Culte corporatiste**           | 2 rivalités                   | Cibles de persécutions ou croisades internes (contre une autre foi corpo).    |
 
 ### TYPE DE RIVALITE DE LA CORPORATION
 
 Les conflits incluent : guerre économique, sabotage industriel, lutte pour un artefact xéno, purge concurrentielle, ou opposition idéologique (souvent simulée). Le modèle d’opposition est généré par table ou choix narratif.
 
-| D12 | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
-|-----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 1   | Mégacorporation concurrente  | Conflit économique, technologique, idéologique                                   | Guerre de brevets, espionnage, guerre sous-traitée                           | Chantage, infiltration, tension diplomatique                 |
-| 2   | Filiale traîtresse           | Sécession, fuite d’informations, rupture idéologique                             | Activité illégale sous couverture, rumeurs de corruption                     | Purge, traque, dommages collatéraux                          |
-| 3   | Coalition de colons armés    | Refus de l’autorité corporatiste                                                 | Soulèvements, enlèvements, sabotage                                          | Crise militaire, hostilité locale                            |
-| 4   | Syndicat radicalisé          | Conflit social majeur sur les conditions de travail                              | Grèves insurrectionnelles, piratage interne, enlèvements                     | Blocage de production, réponses musclées                     |
-| 5   | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
-| 6   | IA défaillante (ancienne)    | Rupture de contrôle d’un système IA crucial (ancien centre, prototype)           | Station bloquée, langage crypté, massacre initial                            | Exploration à risque, conflit moral, lockdown technologique  |
-| 7   | Culte corporatiste rival     | Doctrine alternative ou dissidente à la foi imposée par la corporation           | Schisme idéologique, récupération de fidèles, guerre de symboles             | Guerre sainte, reprogrammation                               |
-| 8   | Milice privée dissidente     | Bras armé devenu autonome ou corrompu                                            | Contrôle de zones minières, exécutions sommaires                             | Guerre par procuration, besoin de reconquête                 |
-| 9   | Ancien client / contractant  | Litige majeur ayant dégénéré (paiement, brevet, abandon)                         | Affaire classée, mais pas oubliée. Attaque juridique ou violente             | Revendication de dette, vengeance                            |
+| ID | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
+|----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 01 | Mégacorporation concurrente  | Conflit économique, technologique, idéologique                                   | Guerre de brevets, espionnage, guerre sous-traitée                           | Chantage, infiltration, tension diplomatique                 |
+| 02 | Filiale traîtresse           | Sécession, fuite d’informations, rupture idéologique                             | Activité illégale sous couverture, rumeurs de corruption                     | Purge, traque, dommages collatéraux                          |
+| 03 | Coalition de colons armés    | Refus de l’autorité corporatiste                                                 | Soulèvements, enlèvements, sabotage                                          | Crise militaire, hostilité locale                            |
+| 04 |	Syndicat radicalisé	         | Conflit social majeur sur les conditions de travail	                             | Grèves insurrectionnelles, piratage interne, enlèvements	                    | Blocage de production, réponses musclées                     |
+| 05 | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
+| 06 | IA défaillante (ancienne)    | Rupture de contrôle d’un système IA crucial (ancien centre, prototype)           | Station bloquée, langage crypté, massacre initial                            | Exploration à risque, conflit moral, lockdown technologique  |
+| 07 | Culte corporatiste rival     | Doctrine alternative ou dissidente à la foi imposée par la corporation           | Schisme idéologique, récupération de fidèles, guerre de symboles             | Guerre sainte, reprogrammation                               |
+| 08 | Milice privée dissidente     | Bras armé devenu autonome ou corrompu                                            | Contrôle de zones minières, exécutions sommaires                             | Guerre par procuration, besoin de reconquête                 |
+| 09 | Ancien client / contractant  | Litige majeur ayant dégénéré (paiement, brevet, abandon)                         | Affaire classée, mais pas oubliée. Attaque juridique ou violente             | Revendication de dette, vengeance                            |
 | 10  | Survivants d’un projet classé| Groupe ayant survécu à une opération secrète de la corpo                         | Ex-employés, civils ou militaires devenus fous ou justiciers                 | Vérités enfouies, fuite d’informations                       |
 | 11  | Coalition commerciale        | Réseau de petites structures s’unissant pour contrer l’expansion de la corpo     | Sabotage ciblé, embargos communs, guerre d’image                             | Guerre économique clandestine                                |
 | 12  | Réseau criminel infiltré     | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
@@ -706,72 +704,72 @@ Les conflits incluent : guerre économique, sabotage industriel, lutte pour un a
 
 L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ; ou son échec à venir.
 
-### TABLE – Morale Corporatiste & Horreur
+### MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR
 
 La morale influence le traitement de l’horreur : une structure intègre nie. Une structure amorale exploite. Une structure fanatique glorifie. Le modificateur moral s’applique à toutes les réponses issues des tables horreur.
 
 > Appliquez cette table pour moduler les résultats des relations à l’horreur (contacts xénomorphes, secrets, expérimentations, etc.) selon la **morale perçue de la corporation**.
 
-| MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
-|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Intègre**            | Rejette toute implication, dénie ou enterre profondément            | "C'était une anomalie. Les responsables ont été licenciés."             |
-| **Éthique déclarée**   | Discrètement complice, mais agit pour contenir et gérer             | "Des individus isolés ont agi hors du protocole."                       |
-| **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
-| **Opportuniste**       | Exploite toute anomalie, même dangereuse                            | "Nous avons trouvé un potentiel. Qu’il soit risqué ne change rien."     |
-| **Amorale**            | Produit, déclenche ou manipule l’horreur délibérément               | "Nous avons déclenché l’incident pour tester le vecteur de réaction."   |
-| **Fanatique**          | Voit l’horreur comme une épreuve sacrée ou une étape vers la vérité | "La souillure biologique est une épreuve. Seuls les élus y survivent."  |
+| ID | MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
+|----|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 01 | **Intègre**            | Rejette toute implication, dénie ou enterre profondément            | "C'était une anomalie. Les responsables ont été licenciés."             |
+| 02 | **Éthique déclarée**   | Discrètement complice, mais agit pour contenir et gérer             | "Des individus isolés ont agi hors du protocole."                       |
+| 03 | **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
+| 04 | **Opportuniste**       | Exploite toute anomalie, même dangereuse                            | "Nous avons trouvé un potentiel. Qu’il soit risqué ne change rien."     |
+| 05 | **Amorale**            | Produit, déclenche ou manipule l’horreur délibérément               | "Nous avons déclenché l’incident pour tester le vecteur de réaction."   |
+| 06 | **Fanatique**          | Voit l’horreur comme une épreuve sacrée ou une étape vers la vérité | "La souillure biologique est une épreuve. Seuls les élus y survivent."  |
 
-### TABLE 1 – Nature du lien avec l’Horreur
+### NATURE DU LIEN AVEC L'HORRREUR
 
 Décrit la position officielle ou réelle : ignorante, exploitante, survivante, adoratrice…
 
-| D6  | POSITION DE LA CORPO       | DESCRIPTION                                                                                   |
-|-----|----------------------------|-----------------------------------------------------------------------------------------------|
-| 1   | Totalement ignorante       | N’a jamais été exposée, mais un contact est imminent.                                         |
-| 2   | Témoins indirects          | A vu des effets, mais refuse de chercher les causes.                                          |
-| 3   | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                |
-| 4   | Explorateurs de l’interdit | Mène des recherches illégales ou interdites.                                                  |
-| 5   | Exploiteurs de l’horreur   | Tente de tirer profit d’artefacts, ADN, ou organismes dangereux.                              |
-| 6   | Cultistes déguisés         | Considère l’horreur comme un vecteur d’évolution ou une entité supérieure.                    |
+| ID | POSITION DE LA CORPO       | DESCRIPTION                                                                                   |
+|----|----------------------------|-----------------------------------------------------------------------------------------------|
+| 01 | Totalement ignorante       | N’a jamais été exposée, mais un contact est imminent.                                         |
+| 02 | Témoins indirects          | A vu des effets, mais refuse de chercher les causes.                                          |
+| 03 | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                |
+| 04 | Explorateurs de l’interdit | Mène des recherches illégales ou interdites.                                                  |
+| 05 | Exploiteurs de l’horreur   | Tente de tirer profit d’artefacts, ADN, ou organismes dangereux.                              |
+| 06 | Cultistes déguisés         | Considère l’horreur comme un vecteur d’évolution ou une entité supérieure.                    |
 
-### TABLE 2 – Rapport aux entités biologiques (xénomorphes, anomalies)
+### RAPPORT AUX XENO-ENTITES
 
 Définit le degré de connaissance, d’interaction ou de possession d’un organisme non humain.
 
-| D6  | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                       |
-|-----|-----------------------------|---------------------------------------------------------------------------------------------------|
-| 1   | Ignore tout                 | Ne possède aucune archive ou n’a jamais été exposée.                                              |
-| 2   | A reçu des fragments        | Étudie des résidus, enregistrements ou témoignages partiels.                                      |
-| 3   | A classé les données        | Possède des documents verrouillés non exploités.                                                  |
-| 4   | Recherche un spécimen       | Veut capturer ou reconstituer une forme de vie non humaine.                                       |
-| 5   | Détient un échantillon      | Stocke un organisme ou une trace active, sans maîtrise réelle.                                    |
-| 6   | A tenté une expérimentation | A testé un croisement, une implantation ou une activation biologique dangereuse.                  |
+| ID | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                       |
+|----|-----------------------------|---------------------------------------------------------------------------------------------------|
+| 01 | Ignore tout                 | Ne possède aucune archive ou n’a jamais été exposée.                                              |
+| 02 | A reçu des fragments        | Étudie des résidus, enregistrements ou témoignages partiels.                                      |
+| 03 | A classé les données        | Possède des documents verrouillés non exploités.                                                  |
+| 04 | Recherche un spécimen       | Veut capturer ou reconstituer une forme de vie non humaine.                                       |
+| 05 | Détient un échantillon      | Stocke un organisme ou une trace active, sans maîtrise réelle.                                    |
+| 06 | A tenté une expérimentation | A testé un croisement, une implantation ou une activation biologique dangereuse.                  |
 
-### TABLE 3 – Crimes & Compromission
+### CRIMES ET COMPROMISSION
 
 Évalue les actes commis pour dissimuler, tester, ou propager une entité non contrôlée.
 
-| D6  | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                   |
-|-----|------------------------------|-----------------------------------------------------------------------------------------------|
-| 1   | A ignoré un signal d’alerte  | A laissé une colonie ou un équipage sans réponse.                                             |
-| 2   | A sacrifié un équipage       | A coupé tout soutien ou a empêché un retour volontairement.                                   |
-| 3   | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                  |
-| 4   | A expérimenté sans consentement | A utilisé la population d’un site comme cobaye.                                            |
-| 5   | A déclenché un incident      | A volontairement provoqué une crise biologique ou alien.                                      |
-| 6   | A maquillé une extinction    | A effacé les archives d’une colonie disparue.                                                 |
+| ID | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                   |
+|----|------------------------------|-----------------------------------------------------------------------------------------------|
+| 01 | A ignoré un signal d’alerte  | A laissé une colonie ou un équipage sans réponse.                                             |
+| 02 | A sacrifié un équipage       | A coupé tout soutien ou a empêché un retour volontairement.                                   |
+| 03 | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                  |
+| 04 | A expérimenté sans consentement | A utilisé la population d’un site comme cobaye.                                            |
+| 05 | A déclenché un incident      | A volontairement provoqué une crise biologique ou alien.                                      |
+| 06 | A maquillé une extinction    | A effacé les archives d’une colonie disparue.                                                 |
 
-### TABLE 4 – Niveau de Secret Interne
+### NIVEAU DE SECRET INTERNE
 
 Décrit qui sait quoi, et comment l’ignorance est entretenue ou renforcée.
 
-| D6  | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
-|-----|-------------------------------|---------------------------------------------------------------------------------------------------|
-| 1   | Aucun                         | Le personnel sait ce qu’il se passe — ou croit savoir.                                            |
-| 2   | Niveau public                 | Des rumeurs circulent, certains détails sont banalisés.                                           |
-| 3   | Niveau restreint              | Seuls les superviseurs directs ont accès à des fragments de vérité.                               |
-| 4   | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
-| 5   | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
-| 6   | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
+| ID | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
+|----|-------------------------------|---------------------------------------------------------------------------------------------------|
+| 01 | Aucun                         | Le personnel sait ce qu’il se passe — ou croit savoir.                                            |
+| 02 | Niveau public                 | Des rumeurs circulent, certains détails sont banalisés.                                           |
+| 03 | Niveau restreint              | Seuls les superviseurs directs ont accès à des fragments de vérité.                               |
+| 04 | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
+| 05 | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
+| 06 | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
 
 ## EVENEMENT HISTORIQUE DE LA CORPORATION
 
