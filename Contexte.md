@@ -702,13 +702,11 @@ Les conflits incluent : guerre économique, sabotage industriel, lutte pour un a
 
 ## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
 
-L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ; ou son échec à venir.
+L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ou son échec à venir. Cette section définit les fondements de l’exposition à l’incontrôlable, au non-humain, à la vérité biologique prohibée.
 
 ### MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR
 
-La morale influence le traitement de l’horreur : une structure intègre nie. Une structure amorale exploite. Une structure fanatique glorifie. Le modificateur moral s’applique à toutes les réponses issues des tables horreur.
-
-> Appliquez cette table pour moduler les résultats des relations à l’horreur (contacts xénomorphes, secrets, expérimentations, etc.) selon la **morale perçue de la corporation**.
+Modificateur structurel des réponses aux événements xénomorphes ou non-humains.La morale influence le traitement de l’horreur : une structure intègre nie. Une structure amorale exploite. Une structure fanatique glorifie.Appliquez la ligne correspondante à la morale perçue de la corporation pour moduler toutes les tables relatives à l’horreur, aux crimes ou aux expérimentations biologiques.
 
 | ID | MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
 |----|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -721,7 +719,7 @@ La morale influence le traitement de l’horreur : une structure intègre nie. U
 
 ### NATURE DU LIEN AVEC L'HORRREUR
 
-Décrit la position officielle ou réelle : ignorante, exploitante, survivante, adoratrice…
+Position déclarée ou réelle de la corporation face à l’inconnu organique. Ce tableau évalue la proximité idéologique ou logistique avec des entités, incidents ou environnements à risque biologique extrême.
 
 | ID | POSITION DE LA CORPO       | DESCRIPTION                                                                                   |
 |----|----------------------------|-----------------------------------------------------------------------------------------------|
@@ -734,7 +732,7 @@ Décrit la position officielle ou réelle : ignorante, exploitante, survivante, 
 
 ### RAPPORT AUX XENO-ENTITES
 
-Définit le degré de connaissance, d’interaction ou de possession d’un organisme non humain.
+Degré de connaissance ou de manipulation documentée. Cette section établit les faits ou suppositions en lien avec l’exposition ou la possession d’organismes non humains par l’entité.
 
 | ID | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                       |
 |----|-----------------------------|---------------------------------------------------------------------------------------------------|
@@ -747,7 +745,7 @@ Définit le degré de connaissance, d’interaction ou de possession d’un orga
 
 ### CRIMES ET COMPROMISSION
 
-Évalue les actes commis pour dissimuler, tester, ou propager une entité non contrôlée.
+Actes actifs de compromission, dissimulation ou propagation volontaire. L’horreur ne survit que si elle est couverte, étudiée ou diffusée. Ce tableau révèle jusqu’où la structure est allée et ce qu’elle nie.
 
 | ID | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                   |
 |----|------------------------------|-----------------------------------------------------------------------------------------------|
@@ -760,7 +758,7 @@ Définit le degré de connaissance, d’interaction ou de possession d’un orga
 
 ### NIVEAU DE SECRET INTERNE
 
-Décrit qui sait quoi, et comment l’ignorance est entretenue ou renforcée.
+Degré de connaissance du personnel concernant l’horreur impliquée.Plus le niveau est bas, plus la paranoïa est forte. Plus il est élevé, plus la compromission est systémique.
 
 | ID | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
 |----|-------------------------------|---------------------------------------------------------------------------------------------------|
