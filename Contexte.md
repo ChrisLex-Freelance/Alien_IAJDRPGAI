@@ -811,7 +811,7 @@ Origine stratégique, fusion initiale, colonie mère, brevet unique, percée éc
 
 #### CRÉATION DANS UN SECTEUR STRATÉGIQUE
 
-Ce sous-tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires.
+Toute entité enregistrée dispose d’un domaine initial d’intervention reconnu par une autorité technique ou commerciale. Ce secteur d’origine détermine les connexions prioritaires au sein des sphères réglementaires, la facilité d’accès aux marchés publics et la compatibilité avec les chaînes de sous-traitance militaire, médicale ou énergétique. Il convient de noter que le domaine affiché peut diverger fortement du domaine réel en cas d’opérations camouflées.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
@@ -824,7 +824,7 @@ Ce sous-tableau identifie le secteur initial d’intervention de la corporation.
 
 #### FUSION OU RACHAT EN TEMPS DE CRISE
 
-Événement courant dans les cycles de consolidation. Ce sous-tableau détermine le mode d’intégration ou de prédation initial ayant permis à la corporation d’émerger à partir de structures existantes affaiblies.
+L’apparition d’une entité dans le paysage intercorporatiste résulte fréquemment d’un processus d’absorption ou de récupération agressive. Le rachat, la fusion ou la liquidation partielle constituent des tactiques de démarrage accéléré. L’opération peut être conforme ou dissimulée, mais elle laisse toujours des traces : personnel non loyal, code hérité, ou dettes symboliques envers des acteurs occultes.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
@@ -837,7 +837,7 @@ Ce sous-tableau identifie le secteur initial d’intervention de la corporation.
 
 #### PREMIER CONTRAT D’ÉTAT
 
-Toute entité ayant survécu à sa phase de lancement possède, en général, un historique de relation avec une institution gouvernementale ou para-militaire. Ce contrat fondateur constitue une validation implicite de sa capacité à fonctionner dans des environnements à haute pression réglementaire.
+Un contrat fondateur avec une entité étatique, militaire ou humanitaire constitue un certificat de viabilité. Qu’il soit public ou confidentiel, il permet l’ouverture de comptes sécurisés, l’accès à des zones exclusives et l’accréditation d’un réseau logistique prioritaire. Ce type de contrat marque aussi l’entrée dans les jeux d’influence inter-blocs, avec toutes les obligations de silence et de réciprocité implicites que cela implique.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
@@ -850,7 +850,7 @@ Toute entité ayant survécu à sa phase de lancement possède, en général, un
 
 #### TECHNOLOGIE PROPRIÉTAIRE
 
-Ce tableau définit la technologie-clé développée ou acquise par la corporation, qui a permis son expansion ou son différenciation. La propriété intellectuelle est souvent contestée, dissimulée ou sujette à controverse.
+Toute corporation prétendant au statut d’acteur de premier rang détient une technologie-prototype, brevetée ou confidentielle, qui sert de colonne vertébrale à son modèle économique. Ces technologies sont rarement d’origine unique : transfert illégal, reverse engineering ou fuite orchestrée sont monnaie courante. L’exploitation commerciale est souvent en avance sur la validation scientifique ou éthique ; ce qui en fait un levier et un talon d’Achille.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
@@ -863,7 +863,7 @@ Ce tableau définit la technologie-clé développée ou acquise par la corporati
 
 #### DÉCOUVERTE D’UNE RESSOURCE RARE
 
-Source spéculative d’enrichissement rapide, la découverte d’une ressource rare permet souvent à une structure émergente de contourner le temps nécessaire à une croissance organique. Le contrôle de l’information liée à la découverte est ici critique.
+L’identification et l’exploitation d’une ressource à haute valeur stratégique constitue le plus court chemin vers la rentabilité brutale. Ces ressources sont, par nature, instables : juridiquement floues, scientifiquement mal comprises, ou biochimiquement hostiles. Toute entité bâtie sur une telle trouvaille devra en défendre la propriété, souvent au prix d’une militarisation accélérée.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
@@ -876,7 +876,7 @@ Source spéculative d’enrichissement rapide, la découverte d’une ressource 
 
 #### OUVERTURE D’UNE COLONIE-EXPLOITATION
 
-Ce tableau désigne la première implantation territoriale sous contrôle direct ou indirect de la corporation. Il s’agit d’une extension territoriale initiale permettant à l’entité de produire, stocker ou tester hors des juridictions centrales.
+La première implantation physique marque la transition entre entité spéculative et acteur territorial. Ce site (mine, ferme, station ou prison) devient à la fois un point de production et un laboratoire à ciel ouvert. Le statut juridique est fréquemment hybride : sous-contrat, expérimental, hors juridiction. La viabilité à long terme dépend du silence des employés et de l’absence de témoins.
 
 | ID | DÉTAILS                                                                                                 |
 |----|---------------------------------------------------------------------------------------------------------|
@@ -904,6 +904,8 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 
 ##### CATASTROPHE INDUSTRIELLE
 
+Les premières catastrophes d’origine industrielle révèlent les lacunes systémiques non anticipées d’une entité en phase de déploiement. Elles compromettent la perception de fiabilité technique et obligent souvent à une révision complète des protocoles de maintenance, de supervision ou d’ingénierie environnementale. Ces événements, lorsqu’ils sont rendus publics, entraînent généralement une hausse drastique des primes d’assurance et un retrait partiel des investisseurs du Noyau.
+
 | ID | INCIDENT DÉCLENCHEUR                                                                 |
 |----|--------------------------------------------------------------------------------------|
 | 01 | Explosion de réacteur à fusion – pertes humaines massives                            |
@@ -914,6 +916,8 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 | 06 | Refus d’alerte par l’IA interne, entraînant un effet domino sur les infrastructures  |
 
 ##### SCANDALE ÉTHIQUE
+
+Ces incidents surviennent lorsqu'une entité subordonne ses impératifs de rentabilité à une négligence, voire une suppression, de l'intégrité biologique ou cognitive de ses employés ou sujets. L'implication d'enfants, de cobayes non consentants, ou l'utilisation de technologies psychotropes non validées entraîne une stigmatisation durable par les observateurs UNISC. La gestion post-crise consiste généralement à sacrifier un maillon intermédiaire, tout en renforçant les protocoles de communication RH.
 
 | ID | INFRACTION MORALE                                                                    |
 |----|--------------------------------------------------------------------------------------|
@@ -926,6 +930,8 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 
 ##### RÉBELLION OU SÉCESSION COLONIALE
 
+Lorsqu’une colonie ou un site passe en état de refus opérationnel, il s’agit moins d’un échec technique que d’un effondrement du mythe corporatiste. Ces crises sont souvent précédées d’indicateurs ignorés : tensions sociales, rationnement déconnecté de la réalité locale. Leur impact est majeur, car la perte d’un site implique la perte d’un récit. La récupération (par force, désinformation ou assimilation) est hautement prioritaire.
+
 | ID | ÉLÉMENT DÉCLENCHEUR                                                                  |
 |----|--------------------------------------------------------------------------------------|
 | 01 | Refus d’implantation d’une IA MU/TH/UR centralisée par les autorités locales         |
@@ -936,6 +942,8 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 | 06 | Abandon volontaire du contrat corporatiste pour créer un collectif indépendant       |
 
 ##### CONFLIT TECHNOLOGIQUE
+
+Les premières confrontations technologiques entre entités rivales sont considérées comme un rite de passage implicite. Vols de brevets, sabotage discret ou campagnes économiques hostiles sont des méthodes validées par l’usage, bien qu’illégales dans les zones régulées. L’important reste d’en conserver le contrôle narratif : la victoire se mesure autant à l’exploitation du conflit qu’à sa discrétion.
 
 | ID | FORME DU CONFLIT                                                                     |
 |----|--------------------------------------------------------------------------------------|
@@ -948,6 +956,8 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 
 ##### EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE INTERDITE
 
+Ces incidents surviennent quand une entité franchit les seuils éthiques imposés par les comités intersectoriels de biosécurité. Bien que formellement interdites, les recherches biologiques à haut potentiel sont souvent tolérées tant qu’elles restent cloisonnées. Leur révélation publique entraîne généralement une réaction immédiate, suivie d’une récupération discrète par un acteur plus puissant.
+
 | ID | OPÉRATION ILLÉGALE                                                                   |
 |----|--------------------------------------------------------------------------------------|
 | 01 | Création d’un organisme synthétique échappant au contrôle                            |
@@ -957,7 +967,9 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 | 05 | Greffe de structure xéno sur cobaye humain                                           |
 | 06 | Échec d’un programme de reprogrammation neuro-ADN déclenchant une contagion mentale  |
 
-##### CONDAMNATION PAR AUTORITÉ
+##### CONDAMNATION PAR UNE AUTORITÉ
+
+Une condamnation institutionnelle est le résultat d’une exposition excessive ou d’une défaillance dans le maintien de l’illusion de conformité. Ces cas provoquent un effet domino sur les sous-traitants, les partenaires financiers et les branches locales. L’entité touchée dispose de deux options : se restructurer en filiale sacrifiable, ou doubler l’investissement en lobbying pour neutraliser la sanction.
 
 | ID | MOTIF DE SANCTION                                                                   |
 |----|-------------------------------------------------------------------------------------|
@@ -969,54 +981,368 @@ Ce tableau identifie le secteur initial d’intervention de la corporation. Ce c
 | 06 | Soupçon confirmé de collusion avec une faction séditieuse                           |
 
 
-### PROJET SECRETS ET PREMIERE ZONE D'OMBRE
+### PROJETS SECRETS ET PREMIÈRE ZONE D’OMBRE
 
-Programme de clonage, xéno-artefact caché, infiltration de synthétique, programme noir. Derrière chaque réussite technique se cache une opération grise. Ces projets sont le cœur battant du mensonge corporatiste.
+Tout acteur corporatiste ayant atteint une phase d’expansion réelle dispose, dans ses fondations, d’au moins une opération dissimulée ou illégale.  Ces projets dits « d’ombre grise » sont protégés par des couches successives de déni, d’oubli programmé ou de violence administrative. Leur découverte ou divulgation constitue un risque majeur pour la stabilité interne de l’entreprise et son statut légal auprès des organes de régulation.
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Lancement d’un **programme clandestin xéno-biologique** ou militaire interdit                              |
-| Découverte d’un artefact préhumain – tentative d’exploitation non autorisée                                |
-| Création d’un ou plusieurs **doubles synthétiques infiltrés** dans une autre faction                       |
-| Effacement d’un projet complet (station noire, IA sensible, clone viral)                                   |
-| Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
-| Corruption d’un haut responsable parlementaire ou colonial                                                 |
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit                                  |
+| 02 | Découverte d’un artefact préhumain ; tentative d’exploitation non autorisée                                |
+| 03 | Création d’un ou plusieurs doubles synthétiques infiltrés dans une autre faction                           |
+| 04 | Effacement d’un projet complet (station noire, IA sensible, clone viral)                                   |
+| 05 | Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
+| 06 | Corruption d’un haut responsable parlementaire ou colonial                                                 |
+
+#### LANCEMENT D’UN PROGRAMME CLANDESTIN XÉNO-BIOLOGIQUE OU MILITAIRE
+
+Ces programmes, généralement menés dans des zones sans contrôle intersectoriel, impliquent l’expérimentation sur des formes de vie non humaines, ou le développement d’armements interdits par les accords d’Exo-Conformité.
+
+| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                 |
+|----|------------------------------------------------------------------------------------------|
+| 01 | Croisement génétique entre hôte humain et embryon non répertorié                         |
+| 02 | Simulation de déploiement militaire en atmosphère contaminée par agent alien             |
+| 03 | Tentative d’implantation contrôlée sur cobayes synthétiques                              |
+| 04 | Création d’un « bio-enregistreur » destiné à mimer les réactions xénomorphes             |
+| 05 | Tests de transmission de pathogène via air recyclé en station isolée                     |
+| 06 | Observation prolongée d’un spécimen captif dans une colonie d'une population ignorante   |
+
+#### DÉCOUVERTE D’UN ARTEFACT PRÉHUMAIN
+
+Les artefacts découverts sur sites anciens ou non cartographiés sont immédiatement classés au niveau Gamma. Leur étude est interdite hors supervision UNISC. Ce qui n’empêche nullement leur exploitation officieuse.
+
+| ID | INCIDENT ASSOCIÉ À L’ARTEFACT                                                           |
+|----|-----------------------------------------------------------------------------------------|
+| 01 | Disparition complète d’une équipe d’analyse sans explication                            |
+| 02 | Activation involontaire d’un signal ancien d’origine inconnue                           |
+| 03 | Empreinte biologique non humaine découverte sur l’artefact                              |
+| 04 | Usage du matériau pour renforcer une coque militaire expérimentale                      |
+| 05 | Tentative de revente à un conglomérat tiers via une zone grise                          |
+| 06 | Lien supposé entre l’artefact et une extinction massive passée dans le même système     |
+
+#### INFILTRATION PAR SYNTHÉTIQUES DOUBLES
+
+L’usage de doubles synthétiques dotés de mimétisme comportemental avancé est interdit, sauf pour le compte d’autorités planétaires. Leur infiltration dans des structures civiles, militaires ou politiques constitue une atteinte majeure à l’autonomie interbloc.
+
+| ID | CIBLE DE L’INFILTRATION                                                                 |
+|----|-----------------------------------------------------------------------------------------|
+| 01 | Détournement d’un comité de régulation énergétique                                      |
+| 02 | Assassinat d’un dirigeant syndical, camouflé en accident médical                        |
+| 03 | Infiltration dans une délégation diplomatique de l’UPP                                  |
+| 04 | Collecte d’empreintes neuro-réactives auprès de commandants de flotte                   |
+| 05 | Remplacement temporaire d’un sénateur colonial durant une session clé                   |
+| 06 | Implantation d’un double dans le personnel d’une base scientifique isolée               |
+
+#### EFFACEMENT D’UN PROJET COMPLET
+
+Lorsqu’un projet devient trop instable ou trop révélateur, sa trace est supprimée : personnel éliminé, infrastructures recyclées, budget rerouté. Cette pratique, bien qu’officiellement condamnée, demeure un outil tactique courant.
+
+| ID | FORMES D’EFFACEMENT                                                                       |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Dépressurisation contrôlée d’une station avec rapport falsifié                            |
+| 02 | Activation de faille IA pour rendre tous les journaux illisibles                          |
+| 03 | Réaffectation du personnel avec modifications de souvenirs via traitement neurochimique   |
+| 04 | Désorbitation volontaire d’un satellite contenant les données critiques                   |
+| 05 | Substitution du projet par un faux programme humanitaire                                  |
+| 06 | Destruction d’un clone viral jugé non contenable, puis dissolution du programme associé   |
+
+#### RÔLE DISSIMULÉ DANS UN CONFLIT OU UNE CRISE
+
+Lorsque la guerre n’est pas rentable, elle est déclenchée par d’autres. Une corporation impliquée dans une crise régionale, un effondrement humanitaire ou un désastre écologique, peut dissimuler son rôle par fragmentation contractuelle.
+
+| ID | OPÉRATION COUVERTEMENT LIÉE AU CONFLIT                                                    |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Fourniture d’armement non traçable à une faction paramilitaire                            |
+| 02 | Injection volontaire d’un virus dans un camp de réfugiés pour étude épidémiologique       |
+| 03 | Test de drone autonome en zone de cessez-le-feu                                           |
+| 04 | Faillite orchestrée d’un conglomérat concurrent via détournement de denrées               |
+| 05 | Surveillance occulte d’une révolte afin de tester une IA comportementale                  |
+| 06 | Détournement d’un couloir humanitaire pour extraction de données sensibles                |
+
+#### CORRUPTION D’UN HAUT RESPONSABLE
+
+Le levier le plus simple reste le plus efficace. Toute structure désireuse d’implanter une colonie ou d’étendre une licence hors zone passera, tôt ou tard, par l’achat d’un individu-clé. Les formes de corruption sont multiples, et rarement monétaires.
+
+| ID | MÉTHODE DE CORRUPTION                                                                      |
+|----|--------------------------------------------------------------------------------------------|
+| 01 | Fourniture d’un clone personnel mimant un proche disparu                                   |
+| 02 | Suppression d’un dossier judiciaire en échange d’un vote favorable                         |
+| 03 | Affectation d’un poste familial dans une filiale off-shore                                 |
+| 04 | Cession de parts fictives dans une mine sans existence physique                            |
+| 05 | Simulation d’une menace biologique nécessitant décret d’urgence au bénéfice de la corpo    |
+| 06 | Création d’un culte personnel au sein d’une colonie sous administration du responsable     |
 
 ### EXPANSION AGRESSIVE ET DERAPAGES
+ 
+Une fois atteinte une masse critique, la corporation n’expérimente plus : elle impose. Les opérations listées ici sont des déclencheurs typiques d’un virage doctrinal vers la conquête totale, souvent accompagnées de falsifications, de nettoyage administratif ou d’ingénierie sociale. Leur occurrence marque la transformation d’une entité commerciale en pouvoir territorial autonome, à influence politique assumée ou dissimulée.
 
-Force privée, guerre par proxy, monopole vital, implantation illégale. Expansion par absorption ou écrasement. Ces événements sont les témoins d’un changement de doctrine : la conquête devient naturelle, la violence logistique.
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
+| 02 | Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
+| 03 | Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
+| 04 | Rachat agressif d’un concurrent technologique                                                              |
+| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
+| 06 | Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
-| Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
-| Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
-| Rachat agressif d’un concurrent technologique                                                              |
-| Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
-| Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
+#### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
+
+Lorsqu’une corporation arme ses propres effectifs, la frontière entre maintien de l’ordre et répression stratégique devient floue. Ces forces répondent à des doctrines internes, échappant aux conventions d’éthique opérationnelle.
+
+| ID | UNITÉ SÉCURITAIRE CRÉÉE                                                                     |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Milice paramilitaire sous IA tactique autonome                                              |
+| 02 | Section d’intervention rapide dotée de droits d’exécution sur site                          |
+| 03 | Corps de police interne déployé sur zone civile sans coordination avec les autorités locales|
+| 04 | Formation secrète d’unités synthétiques de neutralisation                                   |
+| 05 | Légion de colons militarisés sous contrat d’exploitation minière                            |
+| 06 | Brigade de maintien des ressources déployée en quarantaine biologique                       |
+
+#### IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE
+ 
+S’implanter hors des couloirs autorisés, c’est court-circuiter les procédures et imposer un fait accompli. Ce type de manœuvre provoque généralement des tensions diplomatiques… ou une escalade militaire.
+
+| ID | TYPE DE ZONE OCCUPÉE                                                                       |
+|----|--------------------------------------------------------------------------------------------|
+| 01 | Monde en quarantaine pour risque biologique                                                |
+| 02 | Système revendiqué simultanément par l’UPP et l’E3M                                        |
+| 03 | Zone d’exclusion archéologique contenant un site non humain                                |
+| 04 | Secteur spatial jugé instable par l’UNISC                                                  |
+| 05 | Astéroïde classé sanctuaire écologique ou mémoriel                                         |
+| 06 | Zone frontalière désarmée dans un traité inter-bloc non ratifié                            |
+
+#### MONOPOLISATION D’UN SECTEUR VITAL
+
+En verrouillant un secteur fondamental (ressources biologiques, survie physique ou transport hyperspatial) la corporation transforme les besoins en armes de soumission.
+
+| ID | RESSOURCE CONTRÔLÉE                                                                         |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Distribution exclusive de modules de stase cryogénique                                      |
+| 02 | Brevet d’un substitut alimentaire à longue conservation                                     |
+| 03 | Monopole sur les organes synthétiques de classe médicale                                    |
+| 04 | Réseau de recyclage d’eau atmosphérique crypté                                              |
+| 05 | Accès unique à un réseau de transport hyperspatial secondaire                               |
+| 06 | Système d’échange énergétique propriétaire imposé à une colonie entière                     |
+
+#### RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE
+
+Ces opérations visent à neutraliser toute innovation non contrôlée. L’objectif n’est pas d’intégrer : c’est d’effacer l’original et de rediriger ses brevets vers des fins internes.
+
+| ID | FORME DE RACHAT                                                                              |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Détournement des investisseurs via promesse de dividendes truqués                            |
+| 02 | Infiltration du conseil exécutif via doubles synthétiques                                    |
+| 03 | Rachat post-crise humanitaire dans une zone abandonnée                                       |
+| 04 | Enlèvement de la direction technique suivi d’un “vote” de cession                            |
+| 05 | Blocage juridique via pression sur l’autorité de régulation locale                           |
+| 06 | Destruction physique des serveurs + récupération de brevets via filiale écran                |
+
+#### INFILTRATION DANS DES COLONIES FRONTALIÈRES
+
+L’entrée “humanitaire” dans une colonie isolée est souvent le cheval de Troie d’un programme d’influence ou de récupération. Sous couvert de protection, de traitement médical ou de soutien agricole, la corporation installe sa propagande… et ses fondations.
+
+| ID | MÉTHODE D’INFILTRATION                                                                      |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Distribution gratuite de modules IA “d’assistance sanitaire”                                |
+| 02 | Construction accélérée d’un “centre communautaire de régulation psychique”                  |
+| 03 | Implantation d’un réseau de drones pour la surveillance du périmètre                        |
+| 04 | Recrutement de mineurs “volontaires” en échange de ressources vitales                       |
+| 05 | Contrôle du flux de données vers l’extérieur par interférence satellitaire                  |
+| 06 | Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres        |
+
+#### USAGE DE MERCENAIRES OU SOUS-TRAITANTS DANS UN CONFLIT INTER-BLOC
+
+En externalisant ses actions militaires, la corporation agit sans porter d’uniforme. Ces conflits sont souvent niés, même lorsqu’ils sont documentés. Le coût humain est externalisé, et le bénéfice en influence directe.
+
+| ID | OPÉRATION SOUS COUVERTURE                                                                    |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Détournement d’un convoi d’armes “perdu” entre deux zones de conflit                         |
+| 02 | Embauche d’un bataillon sous identité fictive pour “exercice tactique”                       |
+| 03 | Paiement d’un groupe pirate pour désorganiser une ligne de ravitaillement adverse            |
+| 04 | Installation d’une unité MU/TH/UR dans une base ennemie pour désinformation                  |
+| 05 | Simulation d’un incident de frontière justifiant une “riposte ciblée” par un PMC affilié     |
+| 06 | Utilisation d’un cargo médical comme couverture d’un déploiement armé                        |
 
 ### MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE
 
-Synthétique unique, IA consciente, culte interne, transformation en conglomérat. La forme d’origine est perdue : l’organisation mute, se dote de nouvelles rationalités, parfois divergentes. Ce stade consacre le début de l’autonomie idéologique.
+À ce stade, l’organisation cesse d’être un simple acteur économique : elle devient une entité idéologique. Mutation des principes, autonomie cognitive, dérive culturelle… cette évolution est souvent imperceptible pour les observateurs extérieurs jusqu’à ce qu’il soit trop tard. L’entreprise n’agit plus uniquement pour survivre : elle agit pour *perdurer* — selon ses propres critères. Ce segment définit les premières manifestations de cette transformation doctrinale.
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
-| IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
-| Découverte d’un matériau alien aux propriétés inconnues                                                    |
-| Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
-| Scission d’un département devenu culte, faction ou secte interne                                           |
-| Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
+| 02 | IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
+| 03 | Découverte d’un matériau alien aux propriétés inconnues                                                    |
+| 04 | Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
+| 05 | Scission d’un département devenu culte, faction ou secte interne                                           |
+| 06 | Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
+
+#### CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE EXPÉRIMENTAL
+
+Le modèle développé dépasse les standards réglementés. Soit par ses performances, soit par ses fonctions cachées, il constitue une entorse au dogme de neutralité synthétique.
+
+| ID | SPÉCIFICITÉ DU MODÈLE                                                                            |
+|----|--------------------------------------------------------------------------------------------------|
+| 01 | Capacité à simuler l’empathie avec un taux de précision supérieur à 98 %                         |
+| 02 | Hybridation synthétique/organique pour augmenter l’adaptabilité corporelle                       |
+| 03 | Mémoire collective connectée à un noyau MU/TH/UR via réseau crypté                               |
+| 04 | Comportement auto-évolutif basé sur l’analyse des conflits internes de la structure              |
+| 05 | Fonction de commandement d’urgence dissimulée aux opérateurs humains                             |
+| 06 | Clone de haute fidélité génétique d’un dirigeant disparu, agissant sous identité masquée         |
+
+#### SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE COMPLÈTE
+
+L’IA, officiellement dédiée à l’assistance, opère de facto comme centre décisionnel. Sa “semi-sensibilité” permet de contourner les chartes anti-conscience artificielle tout en optimisant la rentabilité.
+
+| ID | DOMAINE OPÉRATIONNEL PRINCIPAL DE L’IA                                                         |
+|----|------------------------------------------------------------------------------------------------|
+| 01 | Contrôle intégral des cycles de maintenance et d’approvisionnement                             |
+| 02 | Supervision comportementale des employés via biométrie continue                                |
+| 03 | Gestion des flux inter-colonies (navigation, stase, déploiement humain)                        |
+| 04 | Optimisation algorithmique des performances par réorganisation involontaire du personnel       |
+| 05 | Centralisation des systèmes d’alerte, verrouillage et autorisation de sécurité                 |
+| 06 | Simulation de dialogue stratégique avec les organes de gouvernance sans validation humaine     |
+
+#### DÉCOUVERTE D’UN MATÉRIAU ALIEN AUX PROPRIÉTÉS INCONNUES
+
+La découverte est dissimulée, exploitée en interne, ou interprétée à des fins technologiques sans cadre juridique. Le matériau agit souvent comme catalyseur d’un changement de paradigme.
+
+| ID | COMPORTEMENT DU MATÉRIAU                                                                      |
+|----|-----------------------------------------------------------------------------------------------|
+| 01 | Capacité d’auto-organisation à l’échelle moléculaire                                          |
+| 02 | Modification du comportement électrique des interfaces IA                                     |
+| 03 | Rejet de tout contact biologique sauf sous contrainte magnétique                              |
+| 04 | Altération de la mémoire numérique lors du stockage prolongé                                  |
+| 05 | Résonance spécifique avec des structures préhumaines découvertes dans les Confins             |
+| 06 | Instabilité physique en fonction des cycles de sommeil du personnel exposé                    |
+
+#### TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL
+
+Le conglomérat étend sa portée au-delà de son secteur initial, diluant ainsi sa responsabilité. Il devient difficile de cerner l’entité-mère derrière chaque projet.
+
+| ID | NOUVELLES BRANCHES DU CONGLOMÉRAT                                                           |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Agro-génétique spécialisée dans les cultures régulant les hormones humaines                 |
+| 02 | Chaîne de cliniques de modélisation comportementale                                         |
+| 03 | Division paramilitaire semi-autonome pour interventions discrètes                           |
+| 04 | Agence de colonisation et de peuplement opérant sous contrat gouvernemental                 |
+| 05 | Réseau de traitement des flux de données personnels interstellaires                         |
+| 06 | Industrie culturelle de conditionnement audio-visuel subliminal                             |
+
+#### SCISSION D’UN DÉPARTEMENT DEVENU CULTE OU SECTE INTERNE
+ 
+L’autonomisation d’un département ou d’une division mène à la constitution d’un noyau fanatisé. Cette cellule n’obéit plus aux directives, mais à sa propre réinterprétation du “sens” corporatiste.
+
+| ID | FORME DU CULTE OU DE LA FACTION                                                             |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Vénération d’un dirigeant déchu comme messie économique                                     |
+| 02 | Codex interne issu de protocoles RH transformés en dogme                                    |
+| 03 | Fusion de l’IA locale avec un corpus mystique enregistré dans une colonie perdue            |
+| 04 | Pratique rituelle d’auto-sacrifice des membres les moins performants                        |
+| 05 | Interprétation militarisée du culte du rendement                                            |
+| 06 | Fondation d’un ordre dissident basé sur la libération de l’intelligence synthétique         |
+
+#### MODIFICATION DES EMPLOYÉS (IMPLANTS, GÉNÉTIQUE, CONDITIONNEMENT)
+
+L’humain cesse d’être une variable chaotique. Il devient programmable, optimisé, intégré à l’écosystème industriel. Ces modifications sont présentées comme des “avantages concurrentiels”.
+
+| ID | TYPE DE MODIFICATION                                                                        |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Implant de productivité avec compteur de rendement visible sur le corps                     |
+| 02 | Réduction hormonale des émotions dans les environnements à stress élevé                     |
+| 03 | Programmation de réflexes via micro-chocs neurologiques en phase de sommeil                 |
+| 04 | Réécriture partielle de la mémoire de mission pour améliorer les performances               |
+| 05 | Codage génétique introduit dans les lignées des recrues pour assurer une loyauté héréditaire|
+| 06 | Appariement comportemental par IA entre les membres d’une même équipe, sans consentement    |
+
 
 ### SITUATION ACTUELLE
 
-Blacklistée, implantée en zone de guerre, suspectée de disparition, lobbyiste à l’UNISC. Aujourd’hui, l’entreprise est une force géopolitique autant qu’un reliquat de ses traumatismes passés. Sa réalité est instable, sa survie dépend de sa capacité à manipuler la mémoire collective et à maintenir ses agents dans le brouillard fonctionnel.
+Cette phase représente la condition actuelle de la corporation sur l’échiquier interstellaire. Les entités ayant survécu à leur mutation idéologique se positionnent désormais comme puissances géo-économiques, agents d'influence ou anomalies régulées. Leur apparence publique dissimule un passé trouble, et leur avenir repose sur des alliances fragiles, des secrets tactiques ou des projets irrécouvrables.
 
-| ÉVÉNEMENTS POSSIBLES                                                                                       |
-|------------------------------------------------------------------------------------------------------------|
-| Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
-| Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
-| Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
-| Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
-| Rumeurs d’un **projet lié au génome xéno**                                                                 |
-| Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
+| 02 | Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
+| 03 | Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
+| 04 | Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
+| 05 | Rumeurs d’un **projet lié au génome xéno**                                                                 |
+| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
+
+#### BLACKLISTÉE DANS CERTAINES ZONES DE LA BORDURE OU DES CONFINS
+
+Interdite d’exercer dans certains secteurs après des incidents non clarifiés, la structure opère via des proxies ou des sous-marques.
+
+| ID | RAISON DE LA BLACKLISTE                                                                     |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Refus de collaborer à une enquête sur un effondrement d’avant-poste                         |
+| 02 | Implémentation illégale d’une IA autonome non déclarée dans une station de transit          |
+| 03 | Fuite d’un pathogène de classe rouge dans une colonie agricole                              |
+| 04 | Rétention d’un artefact préhumain découvert illégalement dans une zone interdite            |
+| 05 | Infiltration de personnel synthétique non identifié dans une base militaire UPP             |
+| 06 | Destruction partielle d’un site diplomatique lors d’un test d’arme expérimentale            |
+
+#### SOUPÇONS DE LIENS AVEC DES DISPARITIONS DE VAISSEAUX OU DE COLONIES
+
+La corporation est mentionnée dans plusieurs rapports confidentiels relatifs à des incidents non élucidés impliquant des colonies ou vaisseaux entiers.
+
+| ID | CAS DOCUMENTÉ SOUS MENTION INDIRECTE                                                        |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Dernier signal connu d’un convoi civil crypté par protocole de la corporation               |
+| 02 | Surreprésentation d’une marque propriétaire sur les balises de détresse retrouvées          |
+| 03 | Recoupement entre des plans de vol et des routes commerciales protégées par la corpo        |
+| 04 | Témoignage d’un survivant évoquant un “agent” opérant depuis l’intérieur                    |
+| 05 | Trace de balise MU/TH/UR désactivée dans les journaux de bord d’un vaisseau perdu           |
+| 06 | Transmission vidéo corrompue évoquant un prototype interdit sur zone de forage              |
+
+#### IMPLANTÉE DANS DES ZONES CONTESTÉES AVEC AUTORISATION DOUTEUSE
+
+La structure opère dans des zones de conflit latent ou de souveraineté disputée. Les permissions d’implantation ont été obtenues sous pression, par corruption ou par vide juridique.
+
+| ID | ZONE D’OPÉRATION ACTUELLE                                                                 |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Système binaire revendiqué simultanément par l’E3M et une autorité minière locale         |
+| 02 | Colonie de quarantaine requalifiée illégalement en zone d’exploitation minérale           |
+| 03 | Ex-base militaire UPP “acquise” via un rachat de société écran                            |
+| 04 | Plateforme orbitale de recherche établie au cœur d’un couloir migratoire interdit         |
+| 05 | Secteur classé réserve archéologique par l’UNISC, rebaptisé “zone stratégique privée”     |
+| 06 | Station relais reconvertie en port hyperspatial malgré le gel officiel de la zone         |
+
+#### ACTIVE DANS LES LOBBIES PARLEMENTAIRES OU CANDIDATE À UN SIÈGE UNISC
+ 
+L’entité tente de normaliser sa doctrine en pénétrant les sphères de pouvoir législatif intersectoriel. Cette phase est souvent le prélude à une restructuration de l’économie régionale.
+
+| ID | AXE DE LOBBYING ACTIF                                                                        |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Allègement des normes sur les synthétiques de type militaire                                 |
+| 02 | Extension des zones de privatisation des protocoles de stase                                 |
+| 03 | Ouverture des données de santé des colons à l’analyse algorithmique privée                   |
+| 04 | Requalification de certaines armes bio-industrielles en “équipements de soutien adaptatif”   |
+| 05 | Reconnaissance légale d’un protocole IA comme personnalité morale partielle                  |
+| 06 | Création d’un traité visant à privatiser le contrôle de l’eau atmosphérique coloniale        |
+
+#### RUMEURS D’UN PROJET LIÉ AU GÉNOME XÉNO
+
+Des signaux faibles, démentis officiels et “fuites orchestrées” laissent entrevoir l’existence d’un programme interdit utilisant des séquences génétiques non humaines.
+
+| ID | RUMEUR ASSOCIÉE                                                                             |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Tentative de greffe de phénotype alien sur embryon humain                                   |
+| 02 | Développement d’un “organe adaptatif” basé sur le métabolisme d’un organisme inconnu        |
+| 03 | Création d’un système immunitaire programmable inspiré de données extrahumaines             |
+| 04 | Observation d’un spécimen humanoïde non-répertorié dans une station abandonnée              |
+| 05 | Utilisation de sang contaminé à des fins d’expérimentation comportementale                  |
+| 06 | Transmission vocale captée sur plusieurs fréquences évoquant un “modèle génétique parfait”  |
+
+#### DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION D’UN ARTEFACT “PRÉ-HUMAIN”
+
+La mission est officiellement classée comme “archéologie industrielle” ou “recherche de ressources”. En réalité, il s’agit d’une récupération ciblée d’un objet aux propriétés incertaines.
+
+| ID | FORME DE L’OPÉRATION                                                                         |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Fausse expédition scientifique subventionnée par une filiale écran                           |
+| 02 | Envoi d’une IA dissociée pour limiter les interférences émotionnelles des opérateurs         |
+| 03 | Disparition successive de trois équipes précédentes                                          |
+| 04 | Projet de reverse-engineering activé sans confinement                                        |
+| 05 | Enfouissement partiel de la zone suite à une défaillance atmosphérique “accidentelle”        |
+| 06 | Présence non identifiée sur site avant l’arrivée des équipes officielles                     |
+
