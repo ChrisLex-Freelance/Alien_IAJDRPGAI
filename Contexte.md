@@ -800,7 +800,7 @@ Utilisez ce générateur pour créer l’histoire d’une corporation selon son 
 
 Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés. Leur analyse permet de déterminer l’ADN fonctionnel de la corporation, ainsi que son positionnement institutionnel d’origine.
 
-| ID | ÉVÉNEMENT POSSIBLE                                                                                    |
+| ID | TYPE DE FONDATION                                                                                     |
 |----|-------------------------------------------------------------------------------------------------------|
 | 01 | Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                |
 | 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
@@ -815,12 +815,12 @@ Ce sous-tableau identifie le secteur initial d’intervention de la corporation.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
-| 1  | Exploitation d'une source d'énergétique orbitale.                                                      |
-| 2  | Déploiement initial d’un système prédictif de maintenance.                                             |
-| 3  | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
-| 4  | Plateforme de terraformation modulaires de classe 5.                                                   |
-| 5  | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
-| 6  | Base de données génétiques intercoloniale – semi-légale.                                               |
+| 01 | Exploitation d'une source d'énergétique orbitale.                                                      |
+| 02 | Déploiement initial d’un système prédictif de maintenance.                                             |
+| 03 | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
+| 04 | Plateforme de terraformation modulaires de classe 5.                                                   |
+| 05 | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
+| 06 | Base de données génétiques intercoloniale – semi-légale.                                               |
 
 #### FUSION OU RACHAT EN TEMPS DE CRISE
 
@@ -828,12 +828,12 @@ Ce sous-tableau identifie le secteur initial d’intervention de la corporation.
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
-| 1  | Absorption d’un concurrent ruiné par un effondrement du marché.                                        |
-| 2  | Intégration d’une start-up avec transfert forcé de personnel.                                          |
-| 3  | Rachat d’un fournisseur militaire suite à une guerre régionale.                                        |
-| 4  | Fusion post-catastrophe écologique d’une ancienne société minière.                                     |
-| 5  | Transfert technologique déguisé via une structure de façade.                                           |
-| 6  | Acquisition par endettement puis liquidation partielle de l’original.                                  |
+| 01 | Absorption d’un concurrent ruiné par un effondrement du marché.                                        |
+| 02 | Intégration d’une start-up avec transfert forcé de personnel.                                          |
+| 03 | Rachat d’un fournisseur militaire suite à une guerre régionale.                                        |
+| 04 | Fusion post-catastrophe écologique d’une ancienne société minière.                                     |
+| 05 | Transfert technologique déguisé via une structure de façade.                                           |
+| 06 | Acquisition par endettement puis liquidation partielle de l’original.                                  |
 
 #### PREMIER CONTRAT D’ÉTAT
 
@@ -841,12 +841,12 @@ Toute entité ayant survécu à sa phase de lancement possède, en général, un
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
-| 1  | Fourniture d’un système de surveillance planétaire pour l’E3M.                                         |
-| 2  | Livraison d’implants cognitifs à un bataillon frontalier UPP.                                          |
-| 3  | Réhabilitation d’un avant-poste contaminé pour l’Agence Coloniale.                                     |
-| 4  | Construction d’un centre de tri orbital pour réfugiés.                                                 |
-| 5  | Contrat de forage profond dans une zone juridiquement contestée.                                       |
-| 6  | Élaboration d’un vaccin sous protocole militaire secret.                                               |
+| 01 | Fourniture d’un système de surveillance planétaire pour l’E3M.                                         |
+| 02 | Livraison d’implants cognitifs à un bataillon frontalier UPP.                                          |
+| 03 | Réhabilitation d’un avant-poste contaminé pour l’Agence Coloniale.                                     |
+| 04 | Construction d’un centre de tri orbital pour réfugiés.                                                 |
+| 05 | Contrat de forage profond dans une zone juridiquement contestée.                                       |
+| 06 | Élaboration d’un vaccin sous protocole militaire secret.                                               |
 
 #### TECHNOLOGIE PROPRIÉTAIRE
 
@@ -854,12 +854,12 @@ Ce tableau définit la technologie-clé développée ou acquise par la corporati
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
-| 1  | Système tactique modulable intégrée à des structures minières.                                         |
-| 2  | Synthétique modulaire pour milieux à haute toxicité.                                                   |
-| 3  | Réseau logistique de communication insensible aux interférences.                                       |
-| 4  | Protocole de terraformation optimisé.                                                                  |
-| 5  | Interface organique de supervision neuro-cognitive.                                                    |
-| 6  | Micro-satellite d’analyse atmosphérique furtif.                                                        |
+| 01 | Système tactique modulable intégrée à des structures minières.                                         |
+| 02 | Synthétique modulaire pour milieux à haute toxicité.                                                   |
+| 03 | Réseau logistique de communication insensible aux interférences.                                       |
+| 04 | Protocole de terraformation optimisé.                                                                  |
+| 05 | Interface organique de supervision neuro-cognitive.                                                    |
+| 06 | Micro-satellite d’analyse atmosphérique furtif.                                                        |
 
 #### DÉCOUVERTE D’UNE RESSOURCE RARE
 
@@ -867,12 +867,12 @@ Source spéculative d’enrichissement rapide, la découverte d’une ressource 
 
 | ID | DÉTAILS                                                                                                |
 |----|--------------------------------------------------------------------------------------------------------|
-| 1  | Minéral à haute densité énergétique ; instable.                                                        |
-| 2  | Organisme cryogénique à capacité de réplication.                                                       |
-| 3  | Roche psychotrope exploitable en neuropharma.                                                          |
-| 4  | Enzyme mutagène extraite d’une flore inconnue.                                                         |
-| 5  | Métal amorphe synthétisable par collision orbitale.                                                    |
-| 6  | Carapace fossilisée à structure non-terrestre.                                                         |
+| 01 | Minéral à haute densité énergétique ; instable.                                                        |
+| 02 | Organisme cryogénique à capacité de réplication.                                                       |
+| 03 | Roche psychotrope exploitable en neuropharma.                                                          |
+| 04 | Enzyme mutagène extraite d’une flore inconnue.                                                         |
+| 05 | Métal amorphe synthétisable par collision orbitale.                                                    |
+| 06 | Carapace fossilisée à structure non-terrestre.                                                         |
 
 #### OUVERTURE D’UNE COLONIE-EXPLOITATION
 
@@ -880,25 +880,94 @@ Ce tableau désigne la première implantation territoriale sous contrôle direct
 
 | ID | DÉTAILS                                                                                                 |
 |----|---------------------------------------------------------------------------------------------------------|
-| 1  | Avant-poste minier automatisé sur lune gravitationnelle.                                                |
-| 2  | Ferme hydroponique orbitale avec serres de bio-ingénierie.                                              |
-| 3  | Laboratoire de recherche atmosphérique sous-dôme.                                                       |
-| 4  | Colonie carcérale déployée en sous-traitance sécuritaire.                                               |
-| 5  | Station de tri des déchets organiques expérimentaux.                                                    |
-| 6  | Plateforme flottante sur monde océanique en voie de terraformation.                                     |
+| 01 | Avant-poste minier automatisé sur lune gravitationnelle.                                                |
+| 02 | Ferme hydroponique orbitale avec serres de bio-ingénierie.                                              |
+| 03 | Laboratoire de recherche atmosphérique sous-dôme.                                                       |
+| 04 | Colonie carcérale déployée en sous-traitance sécuritaire.                                               |
+| 05 | Station de tri des déchets organiques expérimentaux.                                                    |
+| 06 | Plateforme flottante sur monde océanique en voie de terraformation.                                     |
 
 ### PREMIERE CRISE
 
-Ce tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires.
+Ce tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires. Elle façonne sa réputation, conditionne ses futures stratégies d’évitement réglementaire, et influence sa notation de risque auprès des organes d’accréditation interstellaires.  
 
-| ID  | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|-----|------------------------------------------------------------------------------------------------------------|
-| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)                                |
-| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                    |
-| 03  | Rébellion ou **sécession d’une colonie** entière                                                           |
-| 04  | Conflit technologique : **vol de brevet**, sabotage, guerre économique avec une rivale                     |
-| 05  | Implication dans une **expérience génétique ou biologique interdite**                                      |
-| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité interstellaire                      |
+#### ORIGINE DE LA CRISE INITIALE
+
+| ID  | ÉVÉNEMENTS POSSIBLES                                                                 |
+|-----|--------------------------------------------------------------------------------------|
+| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)          |
+| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire              |
+| 03  | Rébellion ou sécession d’une colonie entière                                         |
+| 04  | Conflit technologique : vol de brevet, sabotage, guerre économique avec une rivale   |
+| 05  | Implication dans une expérience génétique ou biologique interdite                    |
+| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité               |
+
+##### CATASTROPHE INDUSTRIELLE
+
+| ID | INCIDENT DÉCLENCHEUR                                                                 |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Explosion de réacteur à fusion – pertes humaines massives                            |
+| 02 | Effondrement d’une station orbitale suite à erreur de maintenance automatisée        |
+| 03 | Pollution atmosphérique biogénique dans une zone de terraformation                   |
+| 04 | Effondrement d’un dôme agricole par surcharge logistique                             |
+| 05 | Catastrophe d’origine inconnue : présence d’un agent extérieur non identifié         |
+| 06 | Refus d’alerte par l’IA interne, entraînant un effet domino sur les infrastructures  |
+
+##### SCANDALE ÉTHIQUE
+
+| ID | INFRACTION MORALE                                                                    |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Utilisation d’enfants colons dans des expériences de neuro-accélération              |
+| 02 | Implantation de modules de contrôle comportemental sans consentement                 |
+| 03 | Effacement ciblé de mémoire sur les témoins d’un incident xénomorphique              |
+| 04 | Tests de toxicité sur populations non informées                                      |
+| 05 | Falsification des résultats médicaux entraînant des décès                            |
+| 06 | Utilisation rituelle de cobayes humains dans un projet cultiste à couverture médicale|
+
+##### RÉBELLION OU SÉCESSION COLONIALE
+
+| ID | ÉLÉMENT DÉCLENCHEUR                                                                  |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Refus d’implantation d’une IA MU/TH/UR centralisée par les autorités locales         |
+| 02 | Soulèvement suite à rationnement imposé par algorithme de productivité               |
+| 03 | Détournement d’une station orbitale par son personnel scientifique                   |
+| 04 | Révélation d’un mensonge fondateur lié aux conditions de terraformation              |
+| 05 | Émeutes après censure d’une transmission de détresse                                 |
+| 06 | Abandon volontaire du contrat corporatiste pour créer un collectif indépendant       |
+
+##### CONFLIT TECHNOLOGIQUE
+
+| ID | FORME DU CONFLIT                                                                     |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Vol avéré de brevet sur une IA semi-sensible                                         |
+| 02 | Attaque informatique coordonnée sur un réseau logistique rival                       |
+| 03 | Guerre économique menée via sociétés-écrans                                          |
+| 04 | Rachat frauduleux d’un laboratoire concurrent dans la Bordure Extérieure             |
+| 05 | Fuite d’un prototype d’arme bio-industrielle développée sans autorisation            |
+| 06 | Intégration clandestine de code propriétaire dans une flotte standardisée            |
+
+##### EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE INTERDITE
+
+| ID | OPÉRATION ILLÉGALE                                                                   |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Création d’un organisme synthétique échappant au contrôle                            |
+| 02 | Fusion ADN humain/xéno dans un environnement non sécurisé                            |
+| 03 | Culture d’un pathogène à cycle de gestation non identifié                            |
+| 04 | Réplication d’un œuf alien sans permission légale ni confinement adéquat             |
+| 05 | Greffe de structure xéno sur cobaye humain                                           |
+| 06 | Échec d’un programme de reprogrammation neuro-ADN déclenchant une contagion mentale  |
+
+##### CONDAMNATION PAR AUTORITÉ
+
+| ID | MOTIF DE SANCTION                                                                   |
+|----|-------------------------------------------------------------------------------------|
+| 01 | Violation flagrante de la Charte Coloniale des Droits Bioéthiques                   |
+| 02 | Refus de collaborer avec une mission d’inspection UNISC                             |
+| 03 | Usage d’une force paramilitaire dans une zone désarmée                              |
+| 04 | Détournement de subventions interstellaires vers un programme noir                  |
+| 05 | Rétention d’informations sur un contact xénomorphe documenté                        |
+| 06 | Soupçon confirmé de collusion avec une faction séditieuse                           |
+
 
 ### PROJET SECRETS ET PREMIERE ZONE D'OMBRE
 
