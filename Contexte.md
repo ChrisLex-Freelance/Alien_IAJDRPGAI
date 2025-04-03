@@ -419,7 +419,11 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ## STRUCTURE INTERNE DE LA CORPORATION
 
+Les structures internes doivent obéir aux standards de modularité hiérarchique. Toute déviation entraîne une hausse des taux de dissidence ou une inefficience dans la répression logistique.
+
 ### INTÉGRATION DE L’IA DANS LA CORPORATION
+
+Toute entité opérant au-delà de 3 parsecs d’un relais principal est tenue de maintenir une IA de type MU/TH/UR ou équivalent, responsable du traitement décisionnel secondaire et de la stabilisation émotionnelle du personnel.
 
 | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    |
 |--------------------------------|------------------------------------------------------------------------------------------------|
@@ -432,6 +436,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ### RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION
 
+Les unités synthétiques assurent la continuité d’activité, l’interface de sécurité et la médiation humaine. Leur présence est constante, leur loyauté contractuelle, leur obsolescence planifiée.
+
 | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
 |--------------------------------|------------------------------------------------------------------------------------------------|
 | **Main-d'œuvre technique**     | Opèrent dans la maintenance, la médecine, la navigation, la recherche.                         |
@@ -442,6 +448,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 | **Absence volontaire**         | Choix idéologique ou culturel de ne pas employer de synthétiques. Exceptionnel et suspect.     |
 
 ### MODÈLE HIÉRARCHIQUE DANS LA CORPORATION
+
+Divisions, filiales, et micro-cellules doivent être établies selon le Modèle Oméga : une hiérarchie pyramidale où tout comportement déviant est redirigé vers des sous-niveaux contrôlables ou éliminables.
 
 | MODÈLE HIÉRARCHIQUE            | DESCRIPTION                                                                                    |
 |------------------------------- |----------------------------------------------------------------------------------------------|
@@ -455,6 +463,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ### SÉCURITÉ INTERNE DE LA CORPORATION
 
+Protocoles de verrouillage, unités PMC intégrées, surveillance IA, et doctrine de répression par l'exemple forment les quatre piliers de la résilience interne. Le principe fondamental reste : identifier, isoler, neutraliser.
+
 | SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                      |
 |--------------------------------|--------------------------------------------------------------------------------------------------|
 | **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.             |
@@ -466,9 +476,15 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ## CULTURE DE LA CORPORATION
 
+L’environnement idéologique interne est optimisé pour limiter la déviance et maximiser la conformité productive. La culture corporatiste est une interface comportementale, non une communauté.
+
 ### JARGON INTERNE DE LA CORPORATION
 
+La terminologie RH favorise la déshumanisation. On ne parle pas d’êtres humains, mais d’« unités biologiques productives » ou d’« entités à rendement variable ».
+
 #### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
+
+Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard.
 
 | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
 |----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -481,6 +497,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 #### RÉCOMPENSES INTERNES DE LA CORPORATION
 
+Chaque employé est noté, mesuré, indexé. L’IA supervise les écarts de rendement avec une rigueur mathématique. La hiérarchie repose sur le mérite algorithmique.
+
 | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
 |-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
 | Crédits bonus               | Monnaie interne, souvent inutilisable hors zone ou périmée rapidement                | Fidélisation économique           |
@@ -492,6 +510,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 #### CLASSEMENTS ET NOTATIONS DE LA CORPORATION
 
+Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard.
+
 | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
 |-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
 | Tableau de conformité       | Classement des employés par efficacité, loyauté, absence d’erreurs                   | Pression constante               |
@@ -502,6 +522,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 #### PROCÉDURES DE SANCTION DE LA CORPORATION
 
+Les erreurs systémiques ou les écarts comportementaux entraînent des mesures d’ajustement : rééducation, déchéance de poste, retrait définitif. Les termes administratifs couvrent : « réinitialisation comportementale » ou « recyclage organique ».
+
 | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
 |-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
 | Réorientation disciplinaire | Isolement, lavage de cerveau léger                                                   | Rééducation                      |
@@ -511,6 +533,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 | Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
 
 ### PROGRAMMES DE FIDÉLISATION DE LA CORPORATION
+
+La loyauté ne se décrète pas, elle se conditionne. Accès à des plaisirs simulés, endoctrinement rituel, dépendances chimiques ou avantages génétiques renforcent l’attachement au système.
 
 | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -527,6 +551,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ### CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION
 
+Chaque message diffusé doit rassurer tout en affirmant la puissance implicite de l’institution. Le slogan est partout. Le doute, nulle part.
+
 | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
@@ -542,6 +568,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ### SYMBOLES DE LA CORPORATION
 
+Hymnes, mascottes, stèles biomémorielles et rituels de promotion renforcent l’appartenance et la dissolution de l’identité individuelle.
+
 | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | Mascotte ou totem         | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                    | Figure rassurante ou propagandiste |
@@ -552,6 +580,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 | Icône cryptée             | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                      | Sceau ésotérique, hologramme privé, cube de données                      | Génère mystère et hiérarchie occulte |
 
 ### RITUELS DE LA CORPORATION
+
+Tout passage hiérarchique ou événement marquant est ritualisé : chants synthétiques, tatouages de conformité, minute de synchronisation neuronale.
 
 | RITUEL                    | DESCRIPTION ÉTENDUE                                                                                                                                     | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
@@ -564,6 +594,8 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ### IDENTITÉ  DE LA CORPORATION
 
+L’entité corporatiste devient un mythe, une nation, un dogme. Elle absorbe la mémoire, réécrit l’histoire, et construit la fiction nécessaire à la survie de sa machine administrative.
+
 | ÉLÉMENT IDENTITAIRE        | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | Hymne corporatiste         | Musique, chant ou vibration sonore joué régulièrement, lié à la mémoire émotionnelle de la corpo.                                                        | Mélodie dissonante, chœurs automatisés, tonalité physiologiquement relaxante       | Enracinement émotionnel             |
@@ -575,7 +607,7 @@ Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites a
 
 ## ZONE D'INFLUENCE DE CORPORATION
 
-🗺️ Présence Physique Galactique d’une Corporation – Alien RPG
+Toute entité aspirant à une légitimité opérationnelle doit faire état de son implantation réelle et projetée. La zone d’influence n’est pas une frontière, mais un volume exploité, contesté, ou dissimulé. Elle détermine l’accès aux ressources, aux corridors hyperspatiaux, et aux équilibres géopolitiques sectoriels.
 
 Détermine l’influence galactique réelle de la corporation à travers :
 - son **type de structure**
@@ -588,6 +620,8 @@ Détermine l’influence galactique réelle de la corporation à travers :
 ---
 
 ### Modificateurs par Type de Structure
+
+Le type de structure détermine l’étendue probable de l’influence. Une mégacorporation possède des systèmes entiers. Un collectif indépendant ne contrôle qu’une station, et encore. Chaque forme structurelle impose des seuils plausibles d’expansion.
 
 | TYPE DE STRUCTURE                | MODIFICATEUR |
 |----------------------------------|--------------|
@@ -603,6 +637,8 @@ Détermine l’influence galactique réelle de la corporation à travers :
 
 ### Modificateurs par Zone Galactique
 
+Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais instables. La Bordure et les Confins impliquent une autonomie forcée, une insécurité chronique, et une vulnérabilité juridique.
+
 | ZONE GALACTIQUE       | MODIFICATEUR | JUSTIFICATION                                                                 |
 |------------------------|---------------|-------------------------------------------------------------------------------|
 | Systèmes du Noyau      | +2            | Zone centrale, riche et ultra-réglementée : seules les plus puissantes y opèrent. |
@@ -612,7 +648,9 @@ Détermine l’influence galactique réelle de la corporation à travers :
 
  Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
 
-### Étendue de Présence Galactique (Résultat final)
+### Étendue de Présence Galactique
+
+La présence est mesurée en nombre de systèmes, de colonies actives, de stations revendiquées, et de routes commerciales maintenues. Ces indicateurs sont utilisés par l’UNISC pour définir le rang d’influence d’une entité lors des votes d’arbitrage intercorporatiste.
 
 | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
 |---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
@@ -633,8 +671,11 @@ Détermine l’influence galactique réelle de la corporation à travers :
 
 ## RIVALITÉS ACTIVES DE LA CORPORATION
 
+Aucune structure viable n’évolue dans le vide. Les rivalités intercorporatistes forment le tissu conflictuel normalisé du marché galactique. Elles peuvent être ouvertes, dissimulées, ou niées ; mais jamais absentes.
+
 ### NOMBRE DE RIVALITE DE LA CORPORATION
-Détermine le **nombre de rivalités actives** qu'une corporation possède dès sa création, en fonction de son **type organisationnel**, lancer 1D10 et appliquez le résultat. Si celui est inférieur au minimum, appliquez le minimum.
+
+Ce nombre dépend du type de structure. Une mégacorporation a forcément trois rivalités actives ou latentes. Une start-up absorbée peut n’en avoir qu’une, souvent issue d’un contentieux non réglé ou d’un projet volé. Lancer 1D10 et appliquez le résultat. Si celui-ci est inférieur au minimum, appliquez le minimum.
 
 | TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
 |----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
@@ -648,6 +689,8 @@ Détermine le **nombre de rivalités actives** qu'une corporation possède dès 
 | **Culte corporatiste**           | 2 rivalités                   | Cibles de persécutions ou croisades internes (contre une autre foi corpo).    |
 
 ### TYPE DE RIVALITE DE LA CORPORATION
+
+Les conflits incluent : guerre économique, sabotage industriel, lutte pour un artefact xéno, purge concurrentielle, ou opposition idéologique (souvent simulée). Le modèle d’opposition est généré par table ou choix narratif.
 
 | D12 | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
 |-----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -666,7 +709,11 @@ Détermine le **nombre de rivalités actives** qu'une corporation possède dès 
 
 ## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
 
-### TABLE – Morale Corporatiste & Horreur (Alien RPG)
+L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ; ou son échec à venir.
+
+### TABLE – Morale Corporatiste & Horreur
+
+La morale influence le traitement de l’horreur : une structure intègre nie. Une structure amorale exploite. Une structure fanatique glorifie. Le modificateur moral s’applique à toutes les réponses issues des tables horreur.
 
 > Appliquez cette table pour moduler les résultats des relations à l’horreur (contacts xénomorphes, secrets, expérimentations, etc.) selon la **morale perçue de la corporation**.
 
@@ -681,124 +728,153 @@ Détermine le **nombre de rivalités actives** qu'une corporation possède dès 
 
 ### TABLE 1 – Nature du lien avec l’Horreur
 
+Décrit la position officielle ou réelle : ignorante, exploitante, survivante, adoratrice…
+
 | D6  | POSITION DE LA CORPO       | DESCRIPTION                                                                                   |
 |-----|----------------------------|-----------------------------------------------------------------------------------------------|
 | 1   | Totalement ignorante       | N’a jamais été exposée, mais un contact est imminent.                                         |
 | 2   | Témoins indirects          | A vu des effets, mais refuse de chercher les causes.                                          |
 | 3   | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                |
 | 4   | Explorateurs de l’interdit | Mène des recherches illégales ou interdites.                                                  |
-| 5   | Exploiteurs de l’horreur   | Tente de tirer profit d’artefacts, ADN, ou organismes dangereux.                             |
-| 6   | Cultistes déguisés         | Considère l’horreur comme un vecteur d’évolution ou une entité supérieure.                   |
+| 5   | Exploiteurs de l’horreur   | Tente de tirer profit d’artefacts, ADN, ou organismes dangereux.                              |
+| 6   | Cultistes déguisés         | Considère l’horreur comme un vecteur d’évolution ou une entité supérieure.                    |
 
 ### TABLE 2 – Rapport aux entités biologiques (xénomorphes, anomalies)
+
+Définit le degré de connaissance, d’interaction ou de possession d’un organisme non humain.
 
 | D6  | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                       |
 |-----|-----------------------------|---------------------------------------------------------------------------------------------------|
 | 1   | Ignore tout                 | Ne possède aucune archive ou n’a jamais été exposée.                                              |
-| 2   | A reçu des fragments        | Étudie des résidus, enregistrements ou témoignages partiels.                                     |
-| 3   | A classé les données        | Possède des documents verrouillés non exploités.                                                 |
-| 4   | Recherche un spécimen       | Veut capturer ou reconstituer une forme de vie non humaine.                                     |
-| 5   | Détient un échantillon      | Stocke un organisme ou une trace active, sans maîtrise réelle.                                   |
-| 6   | A tenté une expérimentation | A testé un croisement, une implantation ou une activation biologique dangereuse.                |
+| 2   | A reçu des fragments        | Étudie des résidus, enregistrements ou témoignages partiels.                                      |
+| 3   | A classé les données        | Possède des documents verrouillés non exploités.                                                  |
+| 4   | Recherche un spécimen       | Veut capturer ou reconstituer une forme de vie non humaine.                                       |
+| 5   | Détient un échantillon      | Stocke un organisme ou une trace active, sans maîtrise réelle.                                    |
+| 6   | A tenté une expérimentation | A testé un croisement, une implantation ou une activation biologique dangereuse.                  |
 
 ### TABLE 3 – Crimes & Compromission
+
+Évalue les actes commis pour dissimuler, tester, ou propager une entité non contrôlée.
 
 | D6  | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                   |
 |-----|------------------------------|-----------------------------------------------------------------------------------------------|
 | 1   | A ignoré un signal d’alerte  | A laissé une colonie ou un équipage sans réponse.                                             |
-| 2   | A sacrifié un équipage       | A coupé tout soutien ou a empêché un retour volontairement.                                  |
-| 3   | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                 |
-| 4   | A expérimenté sans consentement | A utilisé la population d’un site comme cobaye.                                           |
+| 2   | A sacrifié un équipage       | A coupé tout soutien ou a empêché un retour volontairement.                                   |
+| 3   | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                  |
+| 4   | A expérimenté sans consentement | A utilisé la population d’un site comme cobaye.                                            |
 | 5   | A déclenché un incident      | A volontairement provoqué une crise biologique ou alien.                                      |
 | 6   | A maquillé une extinction    | A effacé les archives d’une colonie disparue.                                                 |
 
 ### TABLE 4 – Niveau de Secret Interne
 
+Décrit qui sait quoi, et comment l’ignorance est entretenue ou renforcée.
+
 | D6  | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
 |-----|-------------------------------|---------------------------------------------------------------------------------------------------|
-| 1   | Aucun                         | Le personnel sait ce qu’il se passe — ou croit savoir.                                           |
+| 1   | Aucun                         | Le personnel sait ce qu’il se passe — ou croit savoir.                                            |
 | 2   | Niveau public                 | Des rumeurs circulent, certains détails sont banalisés.                                           |
-| 3   | Niveau restreint              | Seuls les superviseurs directs ont accès à des fragments de vérité.                              |
-| 4   | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                         |
-| 5   | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                       |
-| 6   | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                |
+| 3   | Niveau restreint              | Seuls les superviseurs directs ont accès à des fragments de vérité.                               |
+| 4   | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
+| 5   | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
+| 6   | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
 
 ## EVENEMENT HISTORIQUE DE LA CORPORATION
 
-> 🎲 Utilisez ce générateur pour créer l’histoire d’une corporation selon son **ancienneté**  
-> À chaque étape, tirez **1D6 événements (ou choisissez)** dans chaque phase correspondante.
+Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement juridique. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
+
+Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Il est recommandé d’en sélectionner plusieurs à différents stades pour construire une architecture de mémoire crédible ; et potentiellement explosive.
+
+Utilisez ce générateur pour créer l’histoire d’une corporation selon son **ancienneté**  
+À chaque étape, tirez **1D6 événements (ou choisissez)** dans chaque phase correspondante.
 
 ### ANCIENNETÉ DE LA CORPORATION
 
-| ÂGE (années)       | CATÉGORIE               | DESCRIPTION                                                                 |
-|--------------------|-------------------------|-----------------------------------------------------------------------------|
-| 0–10 ans           | **Start-up / Émergente**| Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée.|
-| 10–30 ans          | **Corpo établie**       | Possède une infrastructure solide, impliquée dans la géopolitique spatiale.|
-| 30–80 ans          | **Acteur majeur**       | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.   |
-| 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.             |
+- 0–10 ans : Émergente, instable, malléable. Fortement dépendante de ses bailleurs ou tuteurs.
+- 10–30 ans : Établie, surveillée, compétitive. Commence à cacher ses propres erreurs.
+- 30–80 ans : Puissante, corrompue, incontournable. Multiples ramifications, justice extraterritoriale.
+- 80+ ans : Tentaculaire, mythifiée, dysfonctionnelle. Moteur historique de conflits ou d’extinctions passées.
 
-### PHASE 1 – Fondation & Expansion Initiale (1D6)
+| ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
+|--------------------|------------------------------|-----------------------------------------------------------------------------|
+| 0–10 ans           | **Start-up / Émergente**     | Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée. |
+| 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
+| 30–80 ans          | **Acteur majeur**            | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.    |
+| 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.                  |
+
+### FONDATION ET EXPENSION INITIALE
+
+Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
-| Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                    |
+| Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                     |
 | Fusion ou rachat d'une société rivale lors d'une crise économique                                          |
 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                        |
-| Développement d’une **technologie propriétaire** (ex : système de synthétique, terraformation, réseau IA) |
-| Découverte d’un **ressource rare** : minerai, organisme de soin, matériau composite                       |
-| Ouverture d’une **colonie-exploitation autonome** sous sa juridiction (mine, ferme, labo)                 |
+| Développement d’une **technologie propriétaire** (ex : système de synthétique, terraformation, réseau IA)  |
+| Découverte d’un **ressource rare** : minerai, organisme de soin, matériau composite                        |
+| Ouverture d’une **colonie-exploitation autonome** sous sa juridiction (mine, ferme, labo)                  |
 
-### PHASE 2 – Crises, Scandales, Ombres (1D6)
+### PREMIERE CRISE
+
+Explosion, esclavagisme, scandale, sabotage, violation d’accords, sécession d’une colonie. Le moment où l’intégrité affichée se fissure. Ces incidents sont systématiquement minimisés, classifiés ou réinterprétés.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
 | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)                                |
-| Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                     |
+| Scandale éthique : enfants cobayes, implants forcés, effacement mémoire                                    |
 | Rébellion ou **sécession d’une colonie** entière                                                           |
 | Conflit technologique : **vol de brevet**, sabotage, guerre économique avec une rivale                     |
 | Implication dans une **expérience génétique ou biologique interdite**                                      |
 | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité interstellaire                      |
 
-### PHASE 3 – Projets Secrets et Disparitions (1D6)
+### PROJET SECRETS ET PREMIERE ZONE D'OMBRE
+
+Programme de clonage, xéno-artefact caché, infiltration de synthétique, programme noir. Derrière chaque réussite technique se cache une opération grise. Ces projets sont le cœur battant du mensonge corporatiste.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
 | Lancement d’un **programme clandestin xéno-biologique** ou militaire interdit                              |
-| Découverte d’un artefact préhumain – tentative d’exploitation non autorisée                               |
+| Découverte d’un artefact préhumain – tentative d’exploitation non autorisée                                |
 | Création d’un ou plusieurs **doubles synthétiques infiltrés** dans une autre faction                       |
-| Effacement d’un projet complet (station noire, IA sensible, clone viral)                                  |
+| Effacement d’un projet complet (station noire, IA sensible, clone viral)                                   |
 | Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
 | Corruption d’un haut responsable parlementaire ou colonial                                                 |
 
-### PHASE 4 – Expansion Agressive et Dérapages (1D6)
+### EXPANSION AGRESSIVE ET DERAPAGES
+
+Force privée, guerre par proxy, monopole vital, implantation illégale. Expansion par absorption ou écrasement. Ces événements sont les témoins d’un changement de doctrine : la conquête devient naturelle, la violence logistique.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
-| Création d’une **force de sécurité privée armée**, au-dessus des lois locales                             |
-| Implantation dans une **zone interdite ou contestée** sans autorisation                                   |
-| Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                         |
-| Rachat agressif d’un concurrent technologique                                                             |
-| Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                              |
-| Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                      |
+| Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
+| Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
+| Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
+| Rachat agressif d’un concurrent technologique                                                              |
+| Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
+| Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
 
-### PHASE 5 – Mutations & Innovations Internes (1D6)
+### MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE
+
+Synthétique unique, IA consciente, culte interne, transformation en conglomérat. La forme d’origine est perdue : l’organisation mute, se dote de nouvelles rationalités, parfois divergentes. Ce stade consacre le début de l’autonomie idéologique.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
-| Création d’un nouveau **modèle synthétique ou clone** expérimental                                        |
-| IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                               |
-| Découverte d’un matériau alien aux propriétés inconnues                                                   |
-| Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                       |
-| Scission d’un département devenu culte, faction ou secte interne                                          |
-| Modification de ses employés (implants, modification génétique, conditionnement cognitif)                |
+| Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
+| IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
+| Découverte d’un matériau alien aux propriétés inconnues                                                    |
+| Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
+| Scission d’un département devenu culte, faction ou secte interne                                           |
+| Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
 
-### PHASE 6 – Situation actuelle (2183)
+### SITUATION ACTUELLE
+
+Blacklistée, implantée en zone de guerre, suspectée de disparition, lobbyiste à l’UNISC. Aujourd’hui, l’entreprise est une force géopolitique autant qu’un reliquat de ses traumatismes passés. Sa réalité est instable, sa survie dépend de sa capacité à manipuler la mémoire collective et à maintenir ses agents dans le brouillard fonctionnel.
 
 | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |------------------------------------------------------------------------------------------------------------|
 | Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
-| Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                   |
-| Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                       |
+| Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
+| Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
 | Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
-| Rumeurs d’un **projet lié au génome xéno**                          |
-| Déployée dans une **mission de récupération d’un artefact “pré-humain”** 
+| Rumeurs d’un **projet lié au génome xéno**                                                                 |
+| Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
