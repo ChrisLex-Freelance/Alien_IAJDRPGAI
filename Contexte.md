@@ -1,4 +1,5 @@
-# GUIDE DE CREATION D'UNE CORPORATION ET DE SON CEO
+# GUIDE DE CREATION D'UNE CORPORATION
+
 *UN GUIDE NON OFFICIEL POUR ALIEN*
 
 ## INTRODUCTION
@@ -1435,10 +1436,46 @@ Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon 
 #### REMARQUE
 Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
 
-## AGENTS DE LA CAMPAGNIE
+## PROFILS OPÉRATIONNELS : AGENTS DE LA COMPAGNIE
 
-## PNJ's
-### TABLEAU DES TEMPLATES DE PNJ'S
+Le terme générique « Agent de la Compagnie » désigne tout individu, humain ou synthétique, agissant sous mandat direct ou indirect d’une entité corporatiste. La standardisation de leur profil permet une gestion unifiée du recrutement, du déploiement tactique et de la documentation en cas d’incident disciplinaire, désertion, capture ou compromission.
+
+### STRUCTURE D’IDENTITÉ OPÉRATIONNELLE
+
+Tout agent de la Compagnie est défini par trois paramètres fondamentaux :
+
+- **Nom de profil** : Fonction ou rôle identifié dans la hiérarchie (ex. : PDG, Instructeur, Officier de confinement, Assassin contractuel)
+- **Ancienneté** : Âge de l’agent au moment de sa dernière activation ou affectation
+- **Niveau d’expérience** : Indicateur du vécu opérationnel, de l’exposition au risque et de la résilience
+
+Les synthétiques ne sont pas soumis à cette nomenclature. Leur profil est généré en fonction des exigences narratives, de leur version logicielle, et des routines comportementales autorisées.
+
+### ANCIENNETÉ DE L’AGENT
+
+Définit les ressources psychophysiques de base d’un agent en fonction de sa maturité corporelle et administrative.
+
+| ANCIENNETÉ    | POINTS D’ATTRIBUTS | POINTS DE COMPÉTENCES | TALENTS                                       |
+|---------------|--------------------|------------------------|----------------------------------------------|
+| **Jeune**     | 15 points          | 8 points               | 1 talent de profil / 0 talent général        |
+| **Adulte**    | 14 points          | 10 points              | 1 talent de profil / 1 talent général        |
+| **Ancien**    | 13 points          | 12 points              | 2 talents de profil / 1 talent général       |
+
+**Note :** La diminution des attributs avec l’âge reflète l’usure ou la rigidification corporelle. La montée en compétences représente l’accumulation de savoir-faire reproductible.
+
+### NIVEAU D’EXPÉRIENCE
+
+Indicateur de spécialisation et de survivabilité. Un agent d’élite peut être issu d’un cycle de formation extrême ou d’une survivance accidentelle.
+
+| NIVEAU D’EXPÉRIENCE | COMPÉTENCES SUPPLÉMENTAIRES | TALENTS ADDITIONNELS             |
+|---------------------|-----------------------------|----------------------------------|
+| **Novice**          | +1 point                    | +0 talent général                |
+| **Confirmé**        | +2 points                   | +1 talent général                |
+| **Expert**          | +3 points                   | +2 talents généraux              |
+| **Élite**           | +4 points                   | +3 talents généraux              |
+
+Certains profils hautement classifiés peuvent cumuler une ancienneté élevée avec un niveau d’élite. Ces agents sont désignés comme ressources stratégiques et sont rarement exposés sans supervision directe.
+
+### TABLEAU DE TEMPLATES DE PNJ CORPORATISTES
 
 | **Rôle**                                           | For | Agi | Esp | Emp | San | **Compétences**                                                                                      | **Talent**                                                           | **Équipement**                                                                                                                                          |
 |----------------------------------------------------|-----|-----|-----|-----|-----|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
