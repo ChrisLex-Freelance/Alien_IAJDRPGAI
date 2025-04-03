@@ -1,4 +1,4 @@
-# GUIDE DE CREATION D'UNE CORPORATION
+# GUIDE DE CREATION D'UNE CORPORATION ET DE SON CEO
 *UN GUIDE NON OFFICIEL POUR ALIEN*
 
 ## INTRODUCTION
@@ -1342,3 +1342,95 @@ La mission est officiellement classée comme “archéologie industrielle” ou 
 | 05 | Enfouissement partiel de la zone suite à une défaillance atmosphérique “accidentelle”        |
 | 06 | Présence non identifiée sur site avant l’arrivée des équipes officielles                     |
 
+## DOSSIER DU PROFIL EXECUTIF – FONDATEUR OU CEO ACTUEL
+
+Le CEO constitue l’interface idéologique, opérationnelle et médiatique d’une structure corporatiste. Son passé est filtré, sa légitimité est construite, et son autorité repose sur un mythe entretenu. Ce profil type vise à modéliser les attributs essentiels d’un dirigeant : trajectoire, personnalité, pouvoir réel et zone d’ombre.
+
+### ORIGINE SOCIALE ET TRAJECTOIRE INITIALE
+
+Détermine les fondements sociaux et culturels de l’individu. Influence son rapport au pouvoir, à la hiérarchie et à la doctrine corporatiste.
+
+| ID  | ORIGINE                   | DESCRIPTION                                                                                      |
+|-----|---------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | Héritier d’une dynastie   | Issu d’une famille liée à une méga, élevé dans l’élitisme et le secret.                          |
+| 02  | Rescapé d’une colonie     | Seul survivant d’un incident dissimulé. Recruté pour sa capacité à obéir et oublier.             |
+| 03  | Ancien cadre RH           | Spécialiste de la conformité émotionnelle et des processus de loyauté.                           |
+| 04  | Technicien promu          | Formé à la base dans les modules de maintenance. Ascension par efficacité brutale.               |
+| 05  | Analyste militaire        | Stratège reconverti, passé par un commandement opérationnel sur la Bordure.                      |
+| 06  | Ressortissant politique   | Issu d’une zone instable. A négocié une immunité contre sa collaboration économique.             |
+
+### PROFIL PSYCHOCORPORATIF
+
+Définit les traits cognitifs et affectifs prédominants. Influence la doctrine et la culture interne.
+
+| ID  | PROFIL                    | DESCRIPTION                                                                                      |
+|-----|---------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | Visionnaire froid         | Voit au-delà des bilans. Ne parle que de projections. Son regard est vide mais calculé.          |
+| 02  | Messianique               | Convaincu d’incarner la seule voie vers un futur viable. Charisme obsessionnel.                  |
+| 03  | Cynique absolu            | Ne croit en rien, mais exploite tout. Transforme toute vérité en arme.                           |
+| 04  | Dévoué au silence         | Ne s’exprime qu’à travers ses décisions. Présence rare. Paranoïa opérationnelle.                 |
+| 05  | Architecte                | Fasciné par les structures (sociales, mécaniques, idéologiques). Vit dans les plans.             |
+| 06  | Révisionniste             | Falsifie son passé, manipule les archives, recrée son image tous les cinq ans.                   |
+
+### POUVOIR RÉEL ET MARGE D’AUTONOMIE
+
+> Évalue le degré de liberté stratégique du CEO par rapport au Conseil, à l’IA, ou aux actionnaires.
+
+| ID  | STATUT DE CONTRÔLE        | DESCRIPTION                                                                                      |
+|-----|---------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | Totale autonomie          | Le CEO est la corpo. Aucun contre-pouvoir visible.                                               |
+| 02  | Surveillance indirecte    | Observé par des superviseurs distants, mais jamais contesté ouvertement.                         |
+| 03  | Cadre élu sous pression   | Désigné par compromis. Doit en permanence justifier ses choix.                                   |
+| 04  | Interface du Conseil      | Porte la voix d’un groupe invisible. Son autorité est fabriquée.                                 |
+| 05  | Propriété sous NDA        | Est en fait lui-même lié par un contrat de confidentialité limitant ses décisions.               |
+| 06  | Successeur programmé      | A été désigné comme “héritier d’opportunité” par une IA ou un Conseil absent.                    |
+
+### ZONE D’OMBRE BIOGRAPHIQUE
+
+Toute figure de pouvoir a un vide documentaire : effacé, classifié ou falsifié.
+
+| ID  | MYSTÈRE ASSOCIÉ           | DESCRIPTION                                                                                      |
+|-----|---------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | A changé d’identité       | Dossier originel effacé. Peut avoir remplacé un autre.                                           |
+| 02  | A survécu à une contagion | Était dans une zone d’incident biologique. N’a jamais été déclaré.                               |
+| 03  | N’a aucun lien familial   | Aucun enregistrement génétique connu. Origine inconnue.                                          |
+| 04  | Détient un artefact       | Objet personnel non déclaré. Provoque interférences.                                             |
+| 05  | A connu le contact        | Son comportement a changé après un séjour dans une zone non référencée.                          |
+| 06  | Est surveillé             | Un autre acteur (IA, Conseil, UNISC…) le suit. Il le sait. Il joue avec.                         |
+
+### RELATION À L’HORREUR
+
+Optionnelle, mais hautement révélatrice. Le CEO est-il complice, témoin, survivant… ou prophète ?
+
+| ID  | RAPPORT AU NON-HUMAIN      | DESCRIPTION                                                                                      |
+|-----|----------------------------|--------------------------------------------------------------------------------------------------|
+| 01  | Incrédule                  | Refuse d’admettre l’existence des xénomorphes.                                                   |
+| 02  | Traumatisé                 | A vu. Ne parle plus. Prend des décisions irrationnelles.                                         |
+| 03  | Complice                   | Organise des livraisons, transferts, ou “expériences indirectes”.                                |
+| 04  | Converti                   | Croit que le xénomorphe est une forme supérieure de l’évolution.                                 |
+| 05  | Utilitariste               | Sait. Exploite. Maîtrise partielle. Considère l’espèce comme une ressource brute.                |
+| 06  | Contaminé                  | A été exposé. Son ADN ou son esprit porte une trace. Elle grandit.                               |
+
+### SURVIE EXECUTIVE ET STASE HYPERLUCIDE
+
+Dans l’environnement interstellaire, la notion de durée de mandat exécutif doit être adaptée aux réalités physiques de l’expansion galactique. Les voyages longue distance, les mises en quarantaine prolongées ou les missions de stabilisation en zone reculée imposent une reconfiguration des trajectoires biologiques de commandement.
+
+La technologie de stase hypersommeil permet, depuis plus d’un siècle, la **suspension de l’activité vitale sans détérioration cognitive ou organique** sur des périodes étendues (de 5 à 100 ans selon la génération de modules). À ce titre, il n’est pas rare de rencontrer des dirigeants **âgés de 80 à 120 ans** biologiquement, tout en conservant un corps en état d’opération équivalent à un adulte de 40 années standards.
+
+Dans les structures à gouvernance verticale non démocratique, **le PDG peut ainsi rester à la tête de l’entreprise pendant plusieurs générations d’employés actifs**, réactivé selon les besoins stratégiques, les périodes de crise ou les virages doctrinaux. Le cas le plus célèbre reste celui de **E. Ripley**, employée civile cryogénisée accidentellement durant **plus de six décennies** avant d’être réintégrée dans une procédure opérationnelle sans perte d’aptitude officielle.
+
+### JUSTIFICATIONS OFFICIELLES D’UNE STASE EXÉCUTIVE PROLONGÉE
+
+Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon les doctrines internes, les crises traversées et les impératifs de communication externe. Le récit importe autant que le protocole. Le PDG endormi reste une légende, un outil, ou une menace latente.
+
+| D6 | JUSTIFICATION OFFICIELLE                 | DESCRIPTION                                                                                     |
+|----|------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1  | **Conservation doctrinale**              | La doctrine fondatrice devait être préservée pure, non altérée par les générations suivantes.   |
+| 2  | **Commande d’urgence différée**          | Le PDG ne doit être réveillé que si un seuil de crise prédéfini est atteint.                    |
+| 3  | **Protocole de succession gelée**        | Aucun successeur jugé apte. Le dirigeant a préféré l’attente à la délégation.                   |
+| 4  | **Voyage stratégique intersectoriel**    | Affecté à une mission de très longue durée, le PDG fut cryogénisé en transit vers une colonie.  |
+| 5  | **Évitement tactique volontaire**        | Le CEO s’est placé en stase pour échapper à un conflit ou à un procès interne.                  |
+| 6  | **Symbole vivant**                       | Réduit au rang d’icône, le corps du fondateur est conservé comme autorité dormante absolue.     |
+
+#### REMARQUE
+Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
