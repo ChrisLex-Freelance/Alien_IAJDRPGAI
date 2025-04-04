@@ -10,16 +10,27 @@
 **Âge estimé / ancienneté :**  
 **Statut légal actuel :**  
 
-## SECTEURS D’ACTIVITÉ
+## PRINCIPAUX SECTEURS D'ACTIVITE
 - Domaine 1 :
 - Domaine 2 :
 - Domaine 3 :
 - Domaine 4 :
-- Activités secondaires :
+- Domaine 5 :
+- Domaine 6 :
+
+## ACTIVITES SECONDAIRE
+
 
 ## TRAITS DISTINCTIFS
-| ID | Trait                  | Description                        | Avantages            | Inconvénients         |
+| ID | Trait                  | Description                        | Avantages            | Inconvénients          |
 |----|------------------------|------------------------------------|----------------------|------------------------|
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
+|    |                        |                                    |                      |                        |
 |    |                        |                                    |                      |                        |
 
 ## STRUCTURE INTERNE
