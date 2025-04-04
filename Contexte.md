@@ -1666,3 +1666,5 @@ Ce modèle peut être utilisé pour :
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
 | 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”** : Présence non identifiée sur site avant l’arrivée des équipes officielles. |
+
+
