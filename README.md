@@ -1,10 +1,10 @@
 # ALIEN
 
 ## LICENCE
-Cet article est sous licence Creative Commons Attribution - Pas d'utilisation commerciale - Pas de modification (CC BY-NC-ND). Vous êtes libre de partager cet article avec attribution, mais aucune utilisation commerciale ou modification n'est autorisée.
+Cet article/projet est sous licence Creative Commons Attribution - Pas d'utilisation commerciale - Pas de modification (CC BY-NC-ND). Vous êtes libre de partager cet article avec attribution, mais aucune utilisation commerciale ou modification n'est autorisée.
 
 ## INTRODUCTION
-Ce projet est un regroupement de différent éléments de contextes pour le Jeu de Rôle Alien.
+Ce article/projet est un regroupement de différent éléments de contextes pour le Jeu de Rôle Alien.
 
 - https://alien-rpg.com/
 - https://frialigan.se/en/games/alien/
