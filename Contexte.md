@@ -1436,88 +1436,233 @@ Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon 
 #### REMARQUE
 Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
 
-## PROFILS OPÉRATIONNELS : AGENTS DE LA COMPAGNIE
+## EXEMPLE DE CREATION D'UNE CORPORATION
 
-Le terme générique « Agent de la Compagnie » désigne tout individu, humain ou synthétique, agissant sous mandat direct ou indirect d’une entité corporatiste. La standardisation de leur profil permet une gestion unifiée du recrutement, du déploiement tactique et de la documentation en cas d’incident disciplinaire, désertion, capture ou compromission.
+La présente section fournit un exemple standardisé de processus de création d’une entité corporatiste selon les paramètres définis dans ce manuel. Elle illustre la méthodologie de génération complète, de la doctrine initiale à la compromission finale, en passant par l’organisation interne, la zone d’influence et le rapport au xénomorphe.
 
-### STRUCTURE D’IDENTITÉ OPÉRATIONNELLE
+L’objectif de cet exemple est pédagogique mais non théorique. Chaque paramètre présenté ici peut (et doit) être adapté aux besoins narratifs spécifiques d’une campagne, qu’elle implique un conflit juridique, une mission d’infiltration, une révolte coloniale, ou une fuite biologique incontrôlée.
 
-Tout agent de la Compagnie est défini par trois paramètres fondamentaux :
+**Avertissement :** Toute ressemblance avec une entité existante est volontaire, souhaitée, ou inévitable.
 
-- **Nom de profil** : Fonction ou rôle identifié dans la hiérarchie (ex. : PDG, Instructeur, Officier de confinement, Assassin contractuel)
-- **Ancienneté** : Âge de l’agent au moment de sa dernière activation ou affectation
-- **Niveau d’expérience** : Indicateur du vécu opérationnel, de l’exposition au risque et de la résilience
+Ce modèle peut être utilisé pour :
 
-Les synthétiques ne sont pas soumis à cette nomenclature. Leur profil est généré en fonction des exigences narratives, de leur version logicielle, et des routines comportementales autorisées.
+- Générer une faction antagoniste ou ambiguë
+- Donner une identité crédible à une entreprise partenaire, cliente ou ennemie
+- Simuler l’historique complet d’un conglomérat pour enrichir un univers en expansion
 
-### ANCIENNETÉ DE L’AGENT
+> **Une corporation n’est jamais neutre.**  
+> Elle a une mémoire, une faille, un corps, une voix, et une obsession.
 
-Définit les ressources psychophysiques de base d’un agent en fonction de sa maturité corporelle et administrative.
+---
 
-| ANCIENNETÉ    | POINTS D’ATTRIBUTS | POINTS DE COMPÉTENCES | TALENTS                                       |
-|---------------|--------------------|------------------------|----------------------------------------------|
-| **Jeune**     | 15 points          | 8 points               | 1 talent de profil / 0 talent général        |
-| **Adulte**    | 14 points          | 10 points              | 1 talent de profil / 1 talent général        |
-| **Ancien**    | 13 points          | 12 points              | 2 talents de profil / 1 talent général       |
+## DEEP-ZENITH
+> *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
 
-**Note :** La diminution des attributs avec l’âge reflète l’usure ou la rigidification corporelle. La montée en compétences représente l’accumulation de savoir-faire reproductible.
+### IDENTITE DE LA CORPORATION
 
-### NIVEAU D’EXPÉRIENCE
+**DENOMINATION DE VOTRE CORPORATION :** DEEP-ZENITH
 
-Indicateur de spécialisation et de survivabilité. Un agent d’élite peut être issu d’un cycle de formation extrême ou d’une survivance accidentelle.
+**SLOGAN DE LA CORPORATION :** *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
 
-| NIVEAU D’EXPÉRIENCE | COMPÉTENCES SUPPLÉMENTAIRES | TALENTS ADDITIONNELS             |
-|---------------------|-----------------------------|----------------------------------|
-| **Novice**          | +1 point                    | +0 talent général                |
-| **Confirmé**        | +2 points                   | +1 talent général                |
-| **Expert**          | +3 points                   | +2 talents généraux              |
-| **Élite**           | +4 points                   | +3 talents généraux              |
+**ORIGINE GEOGRAPHIQUE DE LA CORPORATION :** BORDURE EXTÉRIEURE	- Zone périphérique sous-juridique. Colonies récentes et postes avancés exposés à des aléas environnementaux, sociaux ou biologiques non maîtrisés. Haut potentiel de rendement à court terme, mais forte exposition aux conflits latents. Faible fiabilité des institutions locales. Nécessite une autonomie stratégique renforcée.
 
-Certains profils hautement classifiés peuvent cumuler une ancienneté élevée avec un niveau d’élite. Ces agents sont désignés comme ressources stratégiques et sont rarement exposés sans supervision directe.
+**TYPE DE STRUCTURE DE LA CORPORATION :** Conglomérat Multi-sectoriel -	Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.
 
-| PROFIL                      |   FORCE |   AGILITÉ |   ESPRIT |   EMPATHIE |   SANTÉ | COMPÉTENCES                                   | TALENTS                                        | ÉQUIPEMENT                                  |
-|:----------------------------|:------------------------------------------------------------------------------------------------|--------:|----------:|---------:|-----------:|--------:|:----------------------------------------------|:-----------------------------------------------|:--------------------------------------------|
-| Dirigeant d'entreprise (Jeune / Nocice)            | 2   | 3   | 4   | 4   | 2   | Commandement 2, Manipulation 4, Observation 2, Comtech 1         | Prise de contrôle                                          | Lampe stylo, pot-de-vin, enregistreur vocal        |
-| Dirigeant d'entreprise (Jeune / Confirmé)          | 2   | 3   | 4   | 4   | 2   | Commandement 3, Manipulation 4, Observation 2, Comtech 1         | Prise de contrôle                                          | Lampe stylo, pot-de-vin, enregistreur vocal        |
-| Dirigeant d'entreprise (Jeune / Expert)            | 2   | 3   | 4   | 4   | 2   | Commandement 3, Manipulation 4, Observation 3, Comtech 1         | Prise de contrôle                                          | Lampe stylo, pot-de-vin, enregistreur vocal        |
-| Dirigeant d'entreprise (Jeune / Elite)             | 2   | 3   | 4   | 4   | 2   | Commandement 3, Manipulation 4, Observation 3, Comtech 2         | Prise de contrôle                                         | Lampe stylo, pot-de-vin, enregistreur vocal        |
-| Dirigeant d'entreprise (Expert)                    | 2   | 3   | 4   | 4   | 2   | Commandement 4, Manipulation 4, Observation 3, Comtech 1         | Prise de contrôle, Ruse                                    | Lampe stylo, pot-de-vin, enregistreur vocal        |
-| Dirigeant d'entreprise (Senior)                    | 2   | 3   | 4   | 4   | 2   | Commandement 4, Manipulation 4, Observation 4, Comtech 1         | Prise de contrôle, Ruse, Psychologie de groupe             | Lampe stylo, pot-de-vin, enregistreur vocal        |
+**DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION :**
+- Extraction minière	: Exploitation de ressources brutes (minerais, gaz, isotopes rares).
+- Biotechnologie	: Manipulation du vivant à des fins médicales, militaires ou agricoles.
+- Pharmaceutique	: Production de médicaments, dopants, sédatifs, traitements.
+- Exploitation xéno-biologique :	Étude, capture, adaptation ou militarisation d’organismes inconnus.
 
+**MORALITÉ DE LA CORPORATION :** Modérée	- Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.
 
-| Profil \ Ancienneté  | Jeune                                                                 | Adulte                                                                      | Ancien                                                                                      |
-|----------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **Dirigeant Junior** | Moi d’Abord, Digne de Confiance, Vif comme l’Éclair                   | Influence, Esprit de Contradiction, Impitoyable                             | Calme Olympien, Robuste, Impitoyable                                                       |
-| **Dirigeant Expert** | Digne de Confiance, Moi d’Abord, Nerfs d’Acier                        | Jouer du Galon, Influence, Conseiller                                       | Psychologie de Groupe, Concentration Intense, Commandant de Vaisseau                       |
-| **Dirigeant Senior** | Esprit de Contradiction, Moi d’Abord, Vif comme l’Éclair              | Jouer du Galon, Conseiller, Nerfs d’Acier                                   | Calme Olympien, Commandant de Vaisseau, Psychologie de Groupe                              |
-| **Dirigeant Élite**  | Digne de Confiance, Impitoyable, Esprit de Contradiction              | Influence, Jouer du Galon, Concentration Intense, Nerfs d’Acier             | Calme Olympien, Psychologie de Groupe, Commandant de Vaisseau, Stoïque, Impitoyable        |
+**ACTIVITÉ SECONDAIRE DE LA CORPORATION :**
+- Milices privées	 : Forces armées para-corporatistes agissant en autonomie ou sous faux drapeau.
+- Contrôle de main-d’œuvre	: Gestion de personnel captif (travailleurs sous dette, clones, mineurs non déclarés).
+- Sauvetage de crédits perdus	: Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées".
 
+### TRAITS DE LA CORPORATION
 
+| ID | TRAITS                        | DESCRIPTION                                                                                    | AVANTAGES                                                                          | DEFAUTS                                                                          |
+|----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 05 | Endoctrinement à la marque    | La corpo forge un culte interne autour de son image.                                           | Fidélité extrême, Réduction des défections, Obéissance culturelle                  | Endoctrinement lourd, Déconnexion de la réalité, Risques psychologiques          |
+| 10 | Forces privées sous contrat   | Utilisation de mercenaires et PMC pour les opérations musclées.                                | Réponse rapide, Pas de reddition de comptes, Réduction du personnel régulier       | Loyauté achetée, Atrocités possibles, Coût imprévisible                          |
+| 20 | Rénovateurs de guerre         | Départements spécialisés dans le recyclage de technologies en zones de conflit.                | Innovation à bas coût, Accès à tech ennemie, Forces mobiles autonomes              | Risques explosifs, Conflits juridiques, Éthique douteuse                         |
+| 23 | Système de rendement optimal  | Chaque tâche est déléguée à l’élément le plus qualifié de la chaîne.                           | Efficacité maximale, Moins d’erreurs, Systèmes fluides                             | Aliénation des employés, Peu de place à l’improvisation, Coût de formation élevé |
+| 29 | Génétique planifiée           | Contrôle du développement d’espèces émergentes à des fins commerciales.                        | Biotechnologie avancée, Contrôle de l’évolution, Monopole biologique               | Dérives éthiques, Révolte des créatures, Mutations incontrôlées                  |
+| 48 | Faux projets de colonisation  | Colonies "humanitaires" servant de couvertures à des tests ou extractions.                     | Déploiement rapide, Façade crédible, Moins de résistance                           | Populations sacrifiées, Rébellion locale, Révélation publique                    |
 
-| **Rôle**                                           | For | Agi | Esp | Emp | San | **Compétences**                                                                                      | **Talent**                                                           | **Équipement**                                                                                                                                          |
-|----------------------------------------------------|-----|-----|-----|-----|-----|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Androïde, cachant sa nature                        | 8   | 8   | 3   | 1   | 8   | Combat rapproché 3, Combat à distance 2, Survie 1, Comtech 2, Machines lourdes 2                     | Prise de contrôle                                                    | -                                                                                                                                                       |
-| Androïde, curieux                                  | 4   | 4   | 8   | 4   | 4   | Observation 3, Mobilité 2, Comtech 3, Endurance 2                                                    | Vigilant                                                             | -                                                                                                                                                       |
-| Androïde, rénové                                   | 7   | 7   | 3   | 3   | 7   | Machines lourdes 2, Comtech 2, Observation 2, Pilotage 4                                             | Mécano de vaisseau                                                   | -                                                                                                                                                       |
-| Assassin d'une grande compagnie                    | 4   | 5   | 4   | 1   | 4   | Combat rapproché 3, Combat à distance 4, Observation 2, Mobilité 1                                   | Impitoyable                                                          | Fusil à lunette M42A, couteau de chasse, medikit portable, etc.                                                                                         |
-| Directeur des opérations (Junior)                  | 2   | 4   | 5   | 5   | 2   | Endurance 2, Comtech 1, Commandement 3, Manipulation 2, Survie 1, Machines lourdes 1                 | Conseiller                                                           | -                                                                                                                                                       |
-| Directeur des opérations (Expert)                  | 2   | 4   | 5   | 5   | 2   | Endurance 2, Comtech 1, Commandement 3, Manipulation 3, Survie 1, Machines lourdes 1                 | Conseiller, Esprit de contradiction                                  | -                                                                                                                                                       |
-| Directeur des opérations (Senior)                  | 2   | 4   | 5   | 5   | 2   | Endurance 2, Comtech 1, Commandement 3, Manipulation 4, Survie 1, Machines lourdes 1                 | Conseiller, Esprit de contradiction, On parle la même langue         | -                                                                                                                                                       |
-| Dirigeant d'entreprise (Junior)                    | 2   | 3   | 5   | 4   | 2   | Commandement 3, Manipulation 4, Observation 3                                                        | Prise de contrôle                                                    | Lampe stylo, pot-de-vin, enregistreur vocal                                                                                                             |
-| Dirigeant d'entreprise (Expert)                    | 2   | 3   | 5   | 4   | 2   | Commandement 4, Manipulation 4, Observation 3                                                        | Prise de contrôle, Ruse                                              | Lampe stylo, pot-de-vin, enregistreur vocal                                                                                                             |
-| Dirigeant d'entreprise (Senior)                    | 2   | 3   | 5   | 4   | 2   | Commandement 4, Manipulation 4, Observation 4                                                        | Prise de contrôle, Ruse, Psychologie de groupe                       | Lampe stylo, pot-de-vin, enregistreur vocal                                                                                                             |
-| Marshal colonial                                   | 4   | 4   | 4   | 2   | 4   | Mobilité 1, Observation 2, Soins médicaux 1, Combat rapproché 2, Combat à distance 3                 | Bons réflexes                                                        | Couteau pliant, fusil à pompe, menottes, torche électrique                                                                                              |
-| Médecin                                            | 2   | 3   | 4   | 5   | 2   | Observation 3, Soins médicaux 4, Manipulation 3                                                      | Chirurgien de terrain                                                | Médikit personnel, nécessaire chirurgical, lampe torche                                                                                                 |
-| Mercenaire/Soldat                                  | 5   | 4   | 3   | 2   | 5   | Combat rapproché 2, Endurance 2, Combat à distance 3, Mobilité 2, Survie 1                           | Tueur                                                                | Pistolet M4A3, médikit personnel, fusil à impulsion, grenades                                                                                           |
-| Pilote                                             | 3   | 4   | 3   | 3   | 3   | Pilotage 3, Combat à distance 3, Comtech 2, Observation 1, Survie 1                                  | Pleins gaz                                                           | Pistolet M4A3, jumelles, lampe torche, cartes de navigation                                                                                             |
-| Prospecteur minier                                 | 5   | 4   | 3   | 3   | 5   | Endurance 2, Combat rapproché 1, Survie 3, Machines lourdes 3, Comtech 1                             | Impitoyable                                                          | Analyse géologique, équipement d’escalade, lampe torche                                                                                                 |
-| Scientifique de projet                             | 3   | 4   | 3   | 5   | 5   | Comtech 4, Observation 3, Survie 1, Manipulation 1, Soins médicaux 1                                 | Curiosité                                                            | Appareil de diagnostic Seegson System, montre Samani Série E, nécessaire de réparation électronique, nécessaire NRBC                              |
-| Soldat privé d’un consortium spatial               | 5   | 4   | 3   | 3   | 5   | Combat rapproché 2, Combat à distance 3, Mobilité 2, Observation 2, Manipulation 1                   | Robuste                                                              | Armure W-Y M3, fusil à impulsion M41A à baïonnette, médikit portable, 6 grenades, lampe torche                                                          |
-| Androïde Lambda                                    | 7   | 2   | 1   | 1   | 7   | Machines lourdes 3, Combat à distance 2, Mobilité 1                                                  | Cheval de trait                                                      | Cric d’entretien, Bolt Gun Watasumi DV-303 ou chalumeau-découpeur mécanique                                                                             |
-| Androïde David-5 du MSS (technicien révisions)     | 5   | 4   | 4   | 7   | 4   | Mobilité 2, Comtech 5, Observation 3                                                                 | Vigilant                                                             | P-DAT, neuroviseur                                                                                                                                      |
-| Androïde David-7 de l’UPP (modèle de combat)       | 7   | 7   | 4   | 2   | 7   | Combat rapproché 3, Combat à distance 3, Mobilité 2, Comtech 1, Observation 1                        | Tueur                                                                | Armure de combat 6890, pistolet GSZ-203, lampe torche, AK-4047, 4 grenades, couteau de combat                                                           |
-| Chirurgien de projet                               | 5   | 4   | 4   | 4   | 2   | Observation 3, Manipulation 3, Soins médicaux 4                                                      | Chirurgien de terrain                                                | Nécessaire de test biologique, médikit personnel, nécessaire chirurgical, lampe torche, pistolet TX-9 avec 6 doses de stims-sX, Naporeve, anesthésiques |
-| Colon de la Bordure Extérieure                     | 3   | 3   | 3   | 5   | 5   | Combat rapproché 1, Endurance 2, Machines lourdes 3, Comtech 1, Survie 3                             | Stoïque                                                              | Nécessaire de test géologique ou biologique, corde, équipement d’escalade, lampe torche, multi-outils                                                   |
-| Forces de sécurité indépendantes                   | 5   | 4   | 3   | 2   | 5   | Combat rapproché 2, Endurance 1, Combat à distance 3, Mobilité 2, Observation 2                      | Folie meurtrière                                                     | Armure en Kevlar, fusil à impulsion M41A, médikit portable, 4 grenades, lampe torche                                                                    |
+### STRUCTURE INTERNE DE LA CORPORATION
 
+**INTÉGRATION DE L’IA DANS LA CORPORATION :**
 
+| ID | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
+|----|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| 05 | **IA dissociée**               | L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
+
+**RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION :**
+
+| ID | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
+|----|--------------------------------|------------------------------------------------------------------------------------------------|
+| 02 | **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
+
+**MODÈLE HIÉRARCHIQUE DANS LA CORPORATION : Structure en cellules - Cloisonnement extrême, information très compartimentée.
+
+**SÉCURITÉ INTERNE DOMINANTE DE LA CORPORATION :** Dissuasion psychologique - Propagande, slogans, musiques comportementales, rituels obligatoires. 
+
+### CULTURE DE LA CORPORATION / JARGON INTERNE DE LA CORPORATION
+
+**LANGAGE RH DÉSHUMANISANT DE LA CORPORATION :**
+
+| ID | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
+|----|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
+| 03 | Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
+
+**RÉCOMPENSES INTERNES DE LA CORPORATION :**
+
+| ID | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
+|----|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
+| 06 | Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
+
+**CLASSEMENTS ET NOTATIONS DE LA CORPORATION :**
+
+| ID | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
+|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| 04 | Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
+
+**PROCÉDURES DE SANCTION DE LA CORPORATION :**
+
+| ID | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
+|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
+| 02 | Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
+
+**PROGRAMMES DE FIDÉLISATION DE LA CORPORATION :**
+
+| ID | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
+|----|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 06 | Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
+
+**CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION :**
+
+| ID | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
+|----|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 01 | **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
+
+**SYMBOLES DE LA CORPORATION :**
+
+| ID | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                           |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------|
+| 01 | Mascotte ou totem                           | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                     | Figure rassurante ou propagandiste           |
+
+**RITUELS DE LA CORPORATION :**
+
+| ID | RITUEL                                      | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                            |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
+| 02 | Rituel de promotion                         | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                     | Injection mémorielle, serment filmé, rituel VR partagé                    | Crée un passage symbolique                    |
+
+**IDENTITÉ  DE LA CORPORATION :**
+
+| ID | ÉLÉMENT IDENTITAIRE                         | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
+|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| 02 | Lexique d’entreprise                        | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                      | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement     |
+
+### ZONE D'INFLUENCE DE CORPORATION
+
+**ETENDUE DE LA PRESENCE GALACTIQUE :**
+
+| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
+|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
+| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
+- Voile Extérieur
+- Bordure Extérieure
+
+### RIVALITÉS ACTIVES DE LA CORPORATION
+
+**NOMBRE DE RIVALITE DE LA CORPORATION :**
+
+| ID | TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
+|----|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
+| 02 | **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
+
+**TYPE DE RIVALITE DE LA CORPORATION :**
+
+| ID | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
+|----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 05 | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
+| 12  | Réseau criminel infiltré    | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
+
+## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
+
+**MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR :**
+
+| ID | MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
+|----|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 03 | **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
+
+**NATURE DU LIEN AVEC L'HORRREUR :**
+
+| ID | POSITION DE LA CORPO       | DESCRIPTION                                                                                          |
+|----|----------------------------|------------------------------------------------------------------------------------------------------|
+| 03 | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                       |
+
+**RAPPORT AUX XENO-ENTITES :**
+
+| ID | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                         |
+|----|-----------------------------|-----------------------------------------------------------------------------------------------------|
+| 03 | A classé les données        | Possède des documents verrouillés non exploités.                                                    |
+
+**CRIMES ET COMPROMISSION :**
+
+| ID | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                        |
+|----|------------------------------|----------------------------------------------------------------------------------------------------|
+| 03 | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                       |
+
+**NIVEAU DE SECRET INTERNE :**
+
+| ID | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
+|----|-------------------------------|---------------------------------------------------------------------------------------------------|
+| 04 | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
+
+## EVENEMENT HISTORIQUE DE LA CORPORATION
+
+**ANCIENNETÉ DE LA CORPORATION :**
+
+| ID  | ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
+|-----|--------------------|------------------------------|-----------------------------------------------------------------------------|
+| 02  | 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
+
+**FONDATION ET EXPENSION INITIALE :**
+
+| ID | TYPE DE FONDATION                                                                                     |
+|----|-------------------------------------------------------------------------------------------------------|
+| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique : Transfert technologique déguisé via une structure de façade.|
+
+**PREMIERE CRISE :**
+
+| ID | ORIGINE DE LA CRISE                                                                                   |
+|----|-------------------------------------------------------------------------------------------------------|
+| 06 | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité : Rôle dissimulé dans une guerre ou une crise humanitaire |
+
+**PROJETS SECRETS ET PREMIÈRE ZONE D’OMBRE :**
+
+| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                                   |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit : Croisement génétique entre hôte humain et embryon non répertorié. |
+
+**EXPANSION AGRESSIVE ET DERAPAGES :**
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire : Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres |
+
+**MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE :**
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 03 | Découverte d’un matériau alien aux propriétés inconnues : Capacité d’auto-organisation à l’échelle moléculaire. |
+
+**SITUATION ACTUELLE :**
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”** : Présence non identifiée sur site avant l’arrivée des équipes officielles. |
