@@ -1,7 +1,8 @@
+# FICHE DE CORPORATION
 
-# FICHE DE CORPORATION – TEMPLATE ALIEN RPG
+**TEMPLATE ALIEN RPG**
 
-## 📛 IDENTITÉ GÉNÉRALE
+## IDENTITÉ GÉNÉRALE
 **Nom de la corporation :**  
 **Slogan :**  
 **Zone d'origine galactique :**  
@@ -9,26 +10,26 @@
 **Âge estimé / ancienneté :**  
 **Statut légal actuel :**  
 
-## 🏭 SECTEURS D’ACTIVITÉ
+## SECTEURS D’ACTIVITÉ
 - Domaine 1 :
 - Domaine 2 :
 - Domaine 3 :
 - Domaine 4 :
 - Activités secondaires :
 
-## 🧬 TRAITS DISTINCTIFS
+## TRAITS DISTINCTIFS
 | ID | Trait                  | Description                        | Avantages            | Inconvénients         |
 |----|------------------------|------------------------------------|----------------------|------------------------|
 |    |                        |                                    |                      |                        |
 
-## 🧠 STRUCTURE INTERNE
+## STRUCTURE INTERNE
 - **Hiérarchie :**
 - **Intégration IA :** (niveau + modèle)
 - **Utilisation des synthétiques :**
 - **Sécurité interne :**
 - **Commandement :**
 
-## 📊 CULTURE CORPORATISTE
+## CULTURE CORPORATISTE
 - **Langage RH :**
 - **Classements internes :**
 - **Sanctions :**
@@ -36,26 +37,26 @@
 - **Propagande / Slogans :**
 - **Symboles et rituels :**
 
-## 🌌 ZONE D’INFLUENCE
+## ZONE D’INFLUENCE
 - **Présence galactique (étendue) :**
 - **Zone(s) actives :**
 - **Structures physiques :**
 - **Réseau logistique :**
 
-## ⚔️ RIVALITÉS
+## RIVALITÉS
 - **Nombre de rivalités :**
 - **Ennemis identifiés :**
 - **Type de conflit :**
 - **Zones de tension :**
 
-## 👁️‍🗨️ LIEN AVEC L’HORREUR & XÉNOMORPHE
+## LIEN AVEC L’HORREUR & XÉNOMORPHE
 - **Morale et traitement de l’horreur :**
 - **Nature du lien :**
 - **Degré d’exposition :**
 - **Crimes et dissimulations :**
 - **Niveau de secret :**
 
-## 📜 HISTORIQUE
+## HISTORIQUE
 | Phase                  | Événement clé                                               |
 |------------------------|-------------------------------------------------------------|
 | Fondation              |                                                             |
@@ -65,7 +66,7 @@
 | Mutation               |                                                             |
 | Situation actuelle     |                                                             |
 
-## 🔒 ANNEXES
+## ANNEXES
 - Rapport d’incident :
 - Fiche du CEO :
 - Diagramme de structure :
