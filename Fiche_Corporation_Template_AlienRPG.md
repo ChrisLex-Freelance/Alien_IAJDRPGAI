@@ -7,7 +7,8 @@
 **Slogan :**  
 **Zone d'origine galactique :**  
 **Type de structure :**  
-**Âge estimé / ancienneté :**  
+**Âge estimé / ancienneté :**
+**Moralité :**
 **Statut légal actuel :**  
 
 ## PRINCIPAUX SECTEURS D'ACTIVITE
@@ -42,28 +43,27 @@
 
 ## CULTURE CORPORATISTE
 - **Langage RH :**
-- **Classements internes :**
+- **Classements et notations :**
 - **Sanctions :**
 - **Récompenses :**
+- **Programme de fidélisation :**
 - **Propagande / Slogans :**
-- **Symboles et rituels :**
+- **Symboles :**
+- **Rituels :**
+- **Elément identitaire :**
 
 ## ZONE D’INFLUENCE
 - **Présence galactique (étendue) :**
-- **Zone(s) actives :**
-- **Structures physiques :**
-- **Réseau logistique :**
+- **Zone(s) actives (nombre de systèmes) :**
 
 ## RIVALITÉS
 - **Nombre de rivalités :**
-- **Ennemis identifiés :**
 - **Type de conflit :**
-- **Zones de tension :**
 
 ## LIEN AVEC L’HORREUR & XÉNOMORPHE
 - **Morale et traitement de l’horreur :**
 - **Nature du lien :**
-- **Degré d’exposition :**
+- **Rapport aux xéno-entités :**
 - **Crimes et dissimulations :**
 - **Niveau de secret :**
 
