@@ -55,17 +55,16 @@
 - **Rituels :** Rituel de promotion (injection mémorielle, serment VR, cérémonie filmée)
 - **Elément identitaire :** Lexique d’entreprise – vocabulaire codé et déshumanisant
 
-| PROPAGANDE DE RECRUTEMENT| PROPAGANDE DE RECRUTEMENT|
-|--------------------------|--------------------------|
-| ![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/447b816c-3967-4100-bc29-f66efc6a610f.png) | ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_2.webp) |
-
+| PROPAGANDE DE RECRUTEMENT|
+|--------------------------|
+| ![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/447b816c-3967-4100-bc29-f66efc6a610f.png) |
 ## ZONE D’INFLUENCE
 - **Présence galactique (étendue) :** Supra-régionale
 - **Zone(s) actives (nombre de systèmes) :** 25 à 50 systèmes – Voile Extérieur, Bordure Extérieure
 
-| PROPAGANDE DE RECRUTEMENT|
-|--------------------------|
-| ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_1.webp) |
+| PROPAGANDE DE RECRUTEMENT| PROPAGANDE DE RECRUTEMENT|
+|--------------------------|--------------------------|
+| ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_1.webp) |  ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_2.webp) |
 
 ## RIVALITÉS
 - **Nombre de rivalités :** Minimum 2
