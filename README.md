@@ -809,7 +809,7 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Puissant) |- Soulever 60 kg sans effort notable. - Démolir une cloison fine avec un bon coup. - Porter une charge lourde (plus de 50 kg) sans ralentir immédiatement. - Maintenir un effort physique intense sans montrer de fatigue apparente.              | - Soulever plus de 80 kg. - Forcer une porte renforcée. - Mettre à terre un adversaire puissant d’un seul coup.                                   |
 | 5/5 (Hercule)  |- Soulever plus de 100 kg sans difficulté apparente. - Démolir un obstacle solide (murs fins, barres métalliques légères). - Manipuler de lourdes charges comme si elles étaient bien plus légères. - Réaliser des exploits physiques surhumains.  | - Briser une structure métallique sans outils. - Porter une charge extrême (>150 kg). - Exécuter un mouvement de force normalement impossible.    |
 
-![Attribut_Force](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/6a29be4f-d2f3-46cd-b84f-bc7ba1d60216.png)
+![Attribut_Force](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/6c677ce4-bbed-4955-aaaa-257ba439b9f5.png)
 
 
 **AGILITE**
