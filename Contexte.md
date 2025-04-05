@@ -1436,7 +1436,7 @@ Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon 
 #### REMARQUE
 Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
 
-## EXEMPLE DE CREATION D'UNE CORPORATION
+## EXEMPLE DE TIRAGE POUR CREER UNE CORPORATION
 
 La présente section fournit un exemple standardisé de processus de création d’une entité corporatiste selon les paramètres définis dans ce manuel. Elle illustre la méthodologie de génération complète, de la doctrine initiale à la compromission finale, en passant par l’organisation interne, la zone d’influence et le rapport au xénomorphe.
 
