@@ -95,4 +95,4 @@
 
 | MODELE SYNTHETIQUE Z3N |
 |------------------------|
-| ![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/47434e14-59f8-4128-8205-082993cf170e.png) |
+| ![DeepZenith_Z3N_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/47434e14-59f8-4128-8205-082993cf170e.png) |
