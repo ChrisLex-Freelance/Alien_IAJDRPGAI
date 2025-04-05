@@ -91,6 +91,38 @@
 - Sites contrôlés : Colonies expérimentales, stations minières, laboratoires orbitaux
 - PNJ associés : Médiateurs culturels, cadres endoctrinés, unités synthétiques MK-IV
 
+### SLOGAN ET PROPAGANDE INTERNE
+
+#### UNITÉS DE PRODUCTION / CHAINES INDUSTRIELLES
+
+> Le rendement, c’est la paix.
+
+> Zéro erreur. Zéro écart. Zéro regret.
+
+> Chaque cycle accompli rapproche l’avenir.
+
+#### ZONES TECHNIQUES / MAINTENANCE / SAS
+
+> Moins de question, plus de résultats.
+
+> Le silence est un signe de performance.
+
+#### MODULES DE REPOS / DORTOIRS / VR RITUELLE
+
+> Restez utile. Dormez quand on vous le dit.
+
+> Votre fonction est votre force. Restez à votre poste. Respirez l’efficacité.
+
+#### INTERFACES / POSTES RH / ADMINISTRATION
+
+> DEEP-ZENITH pense pour vous. Merci de continuer.
+
+> Votre conformité est une preuve d’intelligence.
+
+#### ZONES DE SANCTION / RÉAFFECTATION / ISOLEMENT
+
+> L’échec est un choix. Vous avez mieux à faire.
+
 ### MODELE SYNTHETIQUE Z3N
 
 | MODELE SYNTHETIQUE Z3N |
