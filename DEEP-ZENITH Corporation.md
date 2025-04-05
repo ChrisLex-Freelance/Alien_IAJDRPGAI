@@ -63,6 +63,10 @@
 - **Présence galactique (étendue) :** Supra-régionale
 - **Zone(s) actives (nombre de systèmes) :** 25 à 50 systèmes – Voile Extérieur, Bordure Extérieure
 
+| PROPAGANDE DE RECRUTEMENT|
+|--------------------------|
+| ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/raw/main/Deep_Zenith_propagande_1.webp) |
+
 ## RIVALITÉS
 - **Nombre de rivalités :** Minimum 2
 - **Type de conflit :**
