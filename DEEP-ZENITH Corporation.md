@@ -51,7 +51,7 @@
 - **Récompenses :** Statut de "Partenaire" (promotion illusoire)
 - **Programme de fidélisation :** Simulation de mérite (boucle de stagnation gamifiée)
 - **Propagande / Slogans :** "Travailler, c’est exister.", "Construisons demain, aujourd’hui."
-- **Symboles :** Totem ou mascotte clonée/animée – visage souriant omniprésent
+- **Symboles :** Mascotte - Modèle Synthétique Z3N - visage souriant omniprésent "Ton amie, Ta guide. Ta confidente."
 - **Rituels :** Rituel de promotion (injection mémorielle, serment VR, cérémonie filmée)
 - **Elément identitaire :** Lexique d’entreprise – vocabulaire codé et déshumanisant
 
@@ -90,3 +90,9 @@
 - Diagramme de structure : Modèle en cellules cloisonnées avec relais IA
 - Sites contrôlés : Colonies expérimentales, stations minières, laboratoires orbitaux
 - PNJ associés : Médiateurs culturels, cadres endoctrinés, unités synthétiques MK-IV
+
+### MODELE SYNTHETIQUE Z3N
+
+| MODELE SYNTHETIQUE Z3N |
+|------------------------|
+| ![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/47434e14-59f8-4128-8205-082993cf170e.png) |
