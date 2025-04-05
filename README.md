@@ -832,6 +832,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Brillant)   | - Résoudre rapidement des problèmes complexes dans un environnement stressant. - Apprendre et comprendre un sujet inconnu en peu de temps. - Déchiffrer des messages codés ou des langages inconnus avec peu de données. - Repérer des connexions invisibles entre des éléments séparés. - Trouver des solutions à des problèmes qui semblent insolubles. | - Interpréter des indices flous pour prévoir une situation à venir. - Concevoir des stratégies complexes en un temps réduit. - Repérer des manipulations intellectuelles extrêmement fines. |
 | 5/5 (Génie)      | - Comprendre et analyser des sujets extrêmement complexes sans effort. - Résoudre des problèmes avec des solutions créatives et inédites. - Déduire des conclusions précises à partir d’informations minimes. - Repérer immédiatement les failles d’un raisonnement ou d’un plan. - Concevoir une stratégie parfaite en anticipant les mouvements ennemis. | - Résoudre instantanément une énigme normalement impossible. - Prédire avec précision le comportement d’un individu ou d’un groupe en fonction des données disponibles. - Inventer une technologie ou un concept révolutionnaire à partir de rien. |
 
+![Attribut_Esprit](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/aeaf0b7c-6976-4a97-a490-3377cd2443d0.png)
+
 **EMPATHIE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -840,6 +842,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Charismatique)  | - Lire facilement les émotions d’une personne, même si elle essaie de les masquer. - Convaincre une personne hésitante d’accepter une demande raisonnable. - Amener une personne réticente à parler en jouant sur sa sensibilité. - Désamorcer une situation tendue par le dialogue. - Faire preuve d’une grande écoute et mettre son interlocuteur à l’aise. | - Mentir avec subtilité à une personne vigilante. - Influencer une décision importante par la parole. - Gérer une foule modérément agitée sans la brusquer. |
 | 4/5 (Magnétique)   | - Inspirer confiance presque instantanément. - Convaincre des personnes opposées à son opinion de reconsidérer leur position. - Manipuler une discussion pour en sortir gagnant sans que l’interlocuteur ne s’en rende compte. - Calmer une situation explosive avec la bonne approche. - Influencer un groupe à travers son charisme naturel. | - Retourner un adversaire hésitant à son avantage. - Pousser quelqu’un à trahir une conviction par pure persuasion. - Manipuler un individu à long terme sans qu’il ne s’en aperçoive. |
 | 5/5 (Légendaire)  | - Influencer massivement l’opinion d’un groupe ou d’une foule. - Lire une personne comme un livre ouvert, quelles que soient ses défenses. - Convaincre un adversaire acharné de changer de camp. - Pousser une personne à agir contre ses propres intérêts de manière inconsciente. - Maintenir un contrôle psychologique profond sur un individu fragile. | - Manipuler une nation ou un mouvement social à travers son influence. - Retourner un ennemi mortel en allié fidèle. - Faire d’un mensonge une vérité incontestable pour un interlocuteur. |
+
+![Attribut_Empathie](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/9c930ca0-dd36-4fdf-acb2-3d97cd23f022.png)
 
 ### COMPETENCES
 
