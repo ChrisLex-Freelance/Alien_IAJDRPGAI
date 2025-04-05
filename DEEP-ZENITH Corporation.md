@@ -65,7 +65,7 @@
 
 | PROPAGANDE DE RECRUTEMENT|
 |--------------------------|
-| ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/raw/main/Deep_Zenith_propagande_1.webp) |
+| ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_1.webp) |
 
 ## RIVALITÉS
 - **Nombre de rivalités :** Minimum 2
