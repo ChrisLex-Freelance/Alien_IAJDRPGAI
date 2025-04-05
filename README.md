@@ -873,6 +873,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Réparer n’importe quelle machine lourde avec des pièces de rechange. - Piloter un véhicule industriel dans des conditions extrêmes. - Modifier une machine pour la rendre plus performante. - Diagnostiquer immédiatement une panne complexe. | - Construire une machine lourde fonctionnelle à partir de pièces détachées. - Faire fonctionner une machine hors-service en improvisant une solution. - Manœuvrer un véhicule lourd dans un combat ou une situation critique. |
 | 5/5 (Maître)          | - Réparer une machine lourde même en état critique. - Piloter un engin gigantesque avec une maîtrise parfaite. - Concevoir et modifier des machines industrielles avancées. - Récupérer des pièces d’un équipement pour en réparer un autre sans erreur. - Utiliser une machine lourde comme une arme improvisée avec précision. | - Réparer ou recréer un système complexe sans schéma technique. - Conduire un véhicule massif dans une situation apparemment impossible. - Faire fonctionner un engin en panne totale en trouvant une solution inédite. |
 
+![Competence_machinelourde](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/5050fb36-8e81-4cfe-8d55-c93b67d14ce2.png)
+
 **ENDURANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -882,6 +884,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Marcher 50 km avec une charge lourde sans ralentir. - Courir un semi-marathon sans pause notable. - Supporter plusieurs nuits sans sommeil avec des effets limités. - Encaisser des blessures sévères et rester opérationnel. - Survivre dans des conditions extrêmes avec un minimum de ressources. | - Rester fonctionnel après plusieurs jours de privation totale. - Supporter des douleurs intenses sans montrer de signes visibles de souffrance. - Se battre même en état de fatigue ou de blessure critique. |
 | 5/5 (Maître)          | - Marcher pendant des jours avec un poids important sans ralentir. - Courir un marathon en restant efficace après. - Survivre à des blessures normalement fatales par pure résilience. - Récupérer rapidement de conditions extrêmes sans séquelle majeure. - Résister à des conditions surnaturellement éprouvantes. | - Survivre des semaines sans nourriture et avec peu d’eau. - Encaisser des blessures presque mortelles et continuer à agir normalement. - Endurer des tortures physiques sans craquer. |
 
+![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/3cfe51b2-a41b-4050-960c-bd356cfbb385.png)
+
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -890,6 +894,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Compétent)       | - Se battre efficacement contre un adversaire moyen. - Désarmer un combattant inexpérimenté. - Esquiver plusieurs attaques standard en combat rapproché. - Maintenir une prise sur un adversaire de force équivalente. - Enchaîner des attaques sans perdre son équilibre. | - Lutter contre un adversaire plus fort physiquement. - Parer et contre-attaquer dans le même mouvement. - Réagir rapidement à une attaque surprise en mêlée. |
 | 4/5 (Expert)          | - Gérer plusieurs adversaires non entraînés sans difficulté. - Neutraliser rapidement un combattant standard. - Utiliser l’environnement à son avantage en combat rapproché. - Réagir et adapter son style en fonction de l’ennemi. - Lutter contre un adversaire fort et entraîné en ayant l’avantage. | - Dominer un combat face à un expert en combat rapproché. - Se battre dans des conditions défavorables sans être désavantagé. - Désarmer un ennemi armé tout en restant en sécurité. |
 | 5/5 (Maître)          | - Vaincre plusieurs adversaires en mêlée avec une précision chirurgicale. - Réagir instantanément à toute attaque rapprochée. - Prendre le dessus sur un expert sans effort visible. - Désarmer et neutraliser un adversaire d’un seul mouvement fluide. - Anticiper les attaques d’un ennemi avant qu’elles ne soient exécutées. | - Se battre et dominer un maître du combat sans donner l’impression d’effort. - Gérer un combat en mêlée sans se faire toucher. - Effectuer des techniques de combat dignes des plus grands experts martiaux. |
+
+![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/c3a31ecf-3d76-4427-a547-3124d22d81d5.png)
 
 **MOBILITE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
