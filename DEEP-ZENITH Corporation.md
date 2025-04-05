@@ -10,7 +10,7 @@
 **Type de structure :** Conglomérat Multi-sectoriel  
 **Âge estimé / ancienneté :** 10–30 ans  
 **Moralité :** Modérée  
-**Statut légal actuel :** Corporation établie, impliquée dans la géopolitique spatiale
+**Statut légal actuel :** Corporation établie, impliquée dans la géopolitique stellaire
 
 ## PRINCIPAUX SECTEURS D'ACTIVITE
 - Extraction minière
@@ -89,6 +89,7 @@
 | Mutation           | Découverte d’un matériau alien auto-organisé à l’échelle moléculaire          |
 | Situation actuelle | Mission de récupération d’un artefact “pré-humain” – présence hostile suspecte|
 
+---
 ## ANNEXES
 - Rapport d’incident : [à compléter selon campagne]
 - Fiche du CEO : [avatar public, identité réelle inconnue]
