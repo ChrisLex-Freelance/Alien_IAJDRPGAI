@@ -821,6 +821,8 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Très Agile)       | - Réaliser des mouvements complexes avec fluidité. - Esquiver un coup sans effort visible. - Réagir instinctivement au danger et ajuster sa position. - Effectuer une série d’actions rapides sans hésitation. - Se déplacer rapidement sans perdre le contrôle de ses gestes. | - Esquiver plusieurs attaques consécutives sans ralentir. - Réagir à une situation critique avec une précision parfaite. - Réaliser un saut ou une acrobatie en situation extrême. |
 | 5/5 (Élégance Parfaite)| - Éviter instinctivement la plupart des dangers physiques. - Exécuter des mouvements acrobatiques spectaculaires avec aisance. - Réagir en une fraction de seconde à toute situation. - Manier avec fluidité n’importe quel objet nécessitant de la précision. - Se déplacer sans effort apparent, quelle que soit la difficulté du terrain. | - Effectuer des mouvements jugés impossibles par la physique normale. - Esquiver une attaque de dernière seconde sans visibilité préalable. - Réaliser une action nécessitant une rapidité quasi surnaturelle. |
 
+![Attribut_Agilité](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/48e24714-22a3-4a22-baf5-2eb900ca223b.png)
+
 **ESPRIT**
 | Niveau	          | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |------------------|------------------------------------------------|-----------------------------|
