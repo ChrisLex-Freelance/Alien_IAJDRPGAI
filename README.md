@@ -884,7 +884,7 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Marcher 50 km avec une charge lourde sans ralentir. - Courir un semi-marathon sans pause notable. - Supporter plusieurs nuits sans sommeil avec des effets limités. - Encaisser des blessures sévères et rester opérationnel. - Survivre dans des conditions extrêmes avec un minimum de ressources. | - Rester fonctionnel après plusieurs jours de privation totale. - Supporter des douleurs intenses sans montrer de signes visibles de souffrance. - Se battre même en état de fatigue ou de blessure critique. |
 | 5/5 (Maître)          | - Marcher pendant des jours avec un poids important sans ralentir. - Courir un marathon en restant efficace après. - Survivre à des blessures normalement fatales par pure résilience. - Récupérer rapidement de conditions extrêmes sans séquelle majeure. - Résister à des conditions surnaturellement éprouvantes. | - Survivre des semaines sans nourriture et avec peu d’eau. - Encaisser des blessures presque mortelles et continuer à agir normalement. - Endurer des tortures physiques sans craquer. |
 
-![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/3cfe51b2-a41b-4050-960c-bd356cfbb385.png)
+![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/bf8d4c06-4488-48e9-9c64-35c935d80050.png)
 
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
