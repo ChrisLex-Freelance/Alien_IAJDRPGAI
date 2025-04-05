@@ -55,6 +55,8 @@
 - **Rituels :** Rituel de promotion (injection mémorielle, serment VR, cérémonie filmée)
 - **Elément identitaire :** Lexique d’entreprise – vocabulaire codé et déshumanisant
 
+![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/447b816c-3967-4100-bc29-f66efc6a610f.png)
+
 ## ZONE D’INFLUENCE
 - **Présence galactique (étendue) :** Supra-régionale
 - **Zone(s) actives (nombre de systèmes) :** 25 à 50 systèmes – Voile Extérieur, Bordure Extérieure
