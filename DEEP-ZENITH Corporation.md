@@ -1,298 +1,90 @@
 # DEEP-ZENITH
-| LOGO FR           | LOGO EN        |
-|----------------------|------------------------|
-| ![DeepZenith_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/952aea15-9698-4dc5-9f3a-3f6b7b3d6a33.png) | ![DeepZenith_EN](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/c61f544a-302a-4f56-ab07-84cb5c065ac8.png) |
+| LOGO          |
+|----------------------|
+| ![DeepZenith_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/952aea15-9698-4dc5-9f3a-3f6b7b3d6a33.png) |
 
 ## IDENTITÉ GÉNÉRALE
-**Nom de la corporation :**  
-**Slogan :**  
-**Zone d'origine galactique :**  
-**Type de structure :**  
-**Âge estimé / ancienneté :**
-**Moralité :**
-**Statut légal actuel :**  
+**Nom de la corporation :** DEEP-ZENITH  
+**Slogan :** Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.  
+**Zone d'origine galactique :** Bordure Extérieure – Zone périphérique sous-juridique  
+**Type de structure :** Conglomérat Multi-sectoriel  
+**Âge estimé / ancienneté :** 10–30 ans  
+**Moralité :** Modérée  
+**Statut légal actuel :** Corporation établie, impliquée dans la géopolitique spatiale
 
 ## PRINCIPAUX SECTEURS D'ACTIVITE
-- Domaine 1 :
-- Domaine 2 :
-- Domaine 3 :
-- Domaine 4 :
-- Domaine 5 :
-- Domaine 6 :
+- Extraction minière
+- Biotechnologie
+- Pharmaceutique
+- Exploitation xéno-biologique
+- Récupération technologique en zones de conflit
+- Contrôle et manipulation génétique
 
 ## ACTIVITES SECONDAIRE
-
+- Milices privées
+- Contrôle de main-d’œuvre captive
+- Sauvetage de crédits perdus (pillages d’installations sinistrées)
 
 ## TRAITS DISTINCTIFS
 | ID | Trait                  | Description                        | Avantages            | Inconvénients          |
 |----|------------------------|------------------------------------|----------------------|------------------------|
-| 01 |                        |                                    |                      |                        |
-| 02 |                        |                                    |                      |                        |
-| 03 |                        |                                    |                      |                        |
-| 04 |                        |                                    |                      |                        |
-| 05 |                        |                                    |                      |                        |
-| 06 |                        |                                    |                      |                        |
-| 07 |                        |                                    |                      |                        |
-| 08 |                        |                                    |                      |                        |
+| 01 | Endoctrinement à la marque | Culte interne autour de l’image corporatiste | Fidélité extrême, réduction des défections | Déconnexion de la réalité |
+| 02 | Forces privées sous contrat | Utilisation de mercenaires & PMC | Réponse rapide, discrétion | Loyauté instable, coûts élevés |
+| 03 | Rénovateurs de guerre | Recyclage techno-logistique en zone de conflit | Innovation à bas coût | Risques explosifs, légalité douteuse |
+| 04 | Système de rendement optimal | Tâches déléguées aux éléments les plus qualifiés | Efficacité maximale | Aliénation, formation coûteuse |
+| 05 | Génétique planifiée | Contrôle de l’évolution à des fins commerciales | Monopole biologique | Dérives éthiques |
+| 06 | Faux projets de colonisation | Colonies servant de couvertures | Façade crédible, déploiement rapide | Sacrifice de populations |
+| 07 | Sécurité synthétique | Synthétiques armés en protection interne | Vigilance permanente | Froid, inhumain |
+| 08 | IA dissociée | Autonomie des IA sur certains protocoles | Réactivité, surveillance | Risques de conflit décisionnel |
 
 ## STRUCTURE INTERNE
-- **Hiérarchie :**
-- **Intégration IA :** (niveau + modèle)
-- **Utilisation des synthétiques :**
-- **Sécurité interne :**
-- **Commandement :**
+- **Hiérarchie :** Structure en cellules – Cloisonnement extrême
+- **Intégration IA :** Niveau élevé – MU/TH/UR 7000, forte autonomie sous surveillance
+- **Utilisation des synthétiques :** Sécurité synthétique, forces de réaction rapide
+- **Sécurité interne :** Dissuasion psychologique – slogans, rituels, musiques comportementales
+- **Commandement :** Comité d’orientation dissimulé, avatars publics contrôlés
 
 ## CULTURE CORPORATISTE
-- **Langage RH :**
-- **Classements et notations :**
-- **Sanctions :**
-- **Récompenses :**
-- **Programme de fidélisation :**
-- **Propagande / Slogans :**
-- **Symboles :**
-- **Rituels :**
-- **Elément identitaire :**
+- **Langage RH :** Codifié, déshumanisant (ex. : “Unité émotionnelle instable”)
+- **Classements et notations :** Quota de défaillance, suivi constant
+- **Sanctions :** Mutabilité affective (inhibiteurs émotionnels)
+- **Récompenses :** Statut de "Partenaire" (promotion illusoire)
+- **Programme de fidélisation :** Simulation de mérite (boucle de stagnation gamifiée)
+- **Propagande / Slogans :** "Travailler, c’est exister.", "Construisons demain, aujourd’hui."
+- **Symboles :** Totem ou mascotte clonée/animée – visage souriant omniprésent
+- **Rituels :** Rituel de promotion (injection mémorielle, serment VR, cérémonie filmée)
+- **Elément identitaire :** Lexique d’entreprise – vocabulaire codé et déshumanisant
 
 ## ZONE D’INFLUENCE
-- **Présence galactique (étendue) :**
-- **Zone(s) actives (nombre de systèmes) :**
+- **Présence galactique (étendue) :** Supra-régionale
+- **Zone(s) actives (nombre de systèmes) :** 25 à 50 systèmes – Voile Extérieur, Bordure Extérieure
 
 ## RIVALITÉS
-- **Nombre de rivalités :**
+- **Nombre de rivalités :** Minimum 2
 - **Type de conflit :**
+  - Gouvernement autonome : conflit territorial et légal
+  - Réseau criminel infiltré : parasitage logistique et chantage
 
 ## LIEN AVEC L’HORREUR & XÉNOMORPHE
-- **Morale et traitement de l’horreur :**
-- **Nature du lien :**
-- **Rapport aux xéno-entités :**
-- **Crimes et dissimulations :**
-- **Niveau de secret :**
+- **Morale et traitement de l’horreur :** Accepte l’horreur si elle reste utile et secrète
+- **Nature du lien :** Survivants d’un incident xéno-biologique étouffé
+- **Rapport aux xéno-entités :** Détient des données classifiées non exploitées
+- **Crimes et dissimulations :** A évacué ses cadres en abandonnant le personnel secondaire
+- **Niveau de secret :** Cloisonnement extrême – informations strictement compartimentées
 
 ## HISTORIQUE
-| Phase                  | Événement clé                                               |
-|------------------------|-------------------------------------------------------------|
-| Fondation              |                                                             |
-| Première crise         |                                                             |
-| Projet secret          |                                                             |
-| Expansion              |                                                             |
-| Mutation               |                                                             |
-| Situation actuelle     |                                                             |
+| Phase              | Événement clé                                                                 |
+|--------------------|-------------------------------------------------------------------------------|
+| Fondation          | Fusion ou rachat d'une société rivale en pleine crise économique              |
+| Première crise     | Condamnation par l’UNISC pour implication dans une crise humanitaire          |
+| Projet secret      | Croisement clandestin entre embryons xéno et hôtes humains                    |
+| Expansion          | Infiltration de colonies frontalières sous couvert d’aide humanitaire         |
+| Mutation           | Découverte d’un matériau alien auto-organisé à l’échelle moléculaire          |
+| Situation actuelle | Mission de récupération d’un artefact “pré-humain” – présence hostile suspecte|
 
 ## ANNEXES
-- Rapport d’incident :
-- Fiche du CEO :
-- Diagramme de structure :
-- Sites contrôlés :
-- PNJ associés :
-
-  ## DEEP-ZENITH
-> *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
-
-### IDENTITE DE LA CORPORATION
-
-**DENOMINATION DE VOTRE CORPORATION :** DEEP-ZENITH
-
-**SLOGAN DE LA CORPORATION :** *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
-
-**ORIGINE GEOGRAPHIQUE DE LA CORPORATION :** BORDURE EXTÉRIEURE	- Zone périphérique sous-juridique. Colonies récentes et postes avancés exposés à des aléas environnementaux, sociaux ou biologiques non maîtrisés. Haut potentiel de rendement à court terme, mais forte exposition aux conflits latents. Faible fiabilité des institutions locales. Nécessite une autonomie stratégique renforcée.
-
-**TYPE DE STRUCTURE DE LA CORPORATION :** Conglomérat Multi-sectoriel -	Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.
-
-**DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION :**
-- Extraction minière	: Exploitation de ressources brutes (minerais, gaz, isotopes rares).
-- Biotechnologie	: Manipulation du vivant à des fins médicales, militaires ou agricoles.
-- Pharmaceutique	: Production de médicaments, dopants, sédatifs, traitements.
-- Exploitation xéno-biologique :	Étude, capture, adaptation ou militarisation d’organismes inconnus.
-
-**MORALITÉ DE LA CORPORATION :** Modérée	- Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.
-
-**ACTIVITÉ SECONDAIRE DE LA CORPORATION :**
-- Milices privées	 : Forces armées para-corporatistes agissant en autonomie ou sous faux drapeau.
-- Contrôle de main-d’œuvre	: Gestion de personnel captif (travailleurs sous dette, clones, mineurs non déclarés).
-- Sauvetage de crédits perdus	: Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées".
-
-### TRAITS DE LA CORPORATION
-
-| ID | TRAITS                        | DESCRIPTION                                                                                    | AVANTAGES                                                                          | DEFAUTS                                                                          |
-|----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 05 | Endoctrinement à la marque    | La corpo forge un culte interne autour de son image.                                           | Fidélité extrême, Réduction des défections, Obéissance culturelle                  | Endoctrinement lourd, Déconnexion de la réalité, Risques psychologiques          |
-| 10 | Forces privées sous contrat   | Utilisation de mercenaires et PMC pour les opérations musclées.                                | Réponse rapide, Pas de reddition de comptes, Réduction du personnel régulier       | Loyauté achetée, Atrocités possibles, Coût imprévisible                          |
-| 20 | Rénovateurs de guerre         | Départements spécialisés dans le recyclage de technologies en zones de conflit.                | Innovation à bas coût, Accès à tech ennemie, Forces mobiles autonomes              | Risques explosifs, Conflits juridiques, Éthique douteuse                         |
-| 23 | Système de rendement optimal  | Chaque tâche est déléguée à l’élément le plus qualifié de la chaîne.                           | Efficacité maximale, Moins d’erreurs, Systèmes fluides                             | Aliénation des employés, Peu de place à l’improvisation, Coût de formation élevé |
-| 29 | Génétique planifiée           | Contrôle du développement d’espèces émergentes à des fins commerciales.                        | Biotechnologie avancée, Contrôle de l’évolution, Monopole biologique               | Dérives éthiques, Révolte des créatures, Mutations incontrôlées                  |
-| 48 | Faux projets de colonisation  | Colonies "humanitaires" servant de couvertures à des tests ou extractions.                     | Déploiement rapide, Façade crédible, Moins de résistance                           | Populations sacrifiées, Rébellion locale, Révélation publique                    |
-
-### STRUCTURE INTERNE DE LA CORPORATION
-
-**INTÉGRATION DE L’IA DANS LA CORPORATION :**
-
-| ID | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
-|----|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| 05 | **IA dissociée**               | L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
-
-**RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION :**
-
-| ID | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
-|----|--------------------------------|------------------------------------------------------------------------------------------------|
-| 02 | **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
-
-**MODÈLE HIÉRARCHIQUE DANS LA CORPORATION : Structure en cellules - Cloisonnement extrême, information très compartimentée.
-
-**SÉCURITÉ INTERNE DOMINANTE DE LA CORPORATION :** Dissuasion psychologique - Propagande, slogans, musiques comportementales, rituels obligatoires. 
-
-### CULTURE DE LA CORPORATION / JARGON INTERNE DE LA CORPORATION
-
-**LANGAGE RH DÉSHUMANISANT DE LA CORPORATION :**
-
-| ID | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
-|----|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
-| 03 | Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
-
-**RÉCOMPENSES INTERNES DE LA CORPORATION :**
-
-| ID | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
-|----|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
-| 06 | Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
-
-**CLASSEMENTS ET NOTATIONS DE LA CORPORATION :**
-
-| ID | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
-|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| 04 | Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
-
-**PROCÉDURES DE SANCTION DE LA CORPORATION :**
-
-| ID | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
-|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| 02 | Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
-
-**PROGRAMMES DE FIDÉLISATION DE LA CORPORATION :**
-
-| ID | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
-|----|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 06 | Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
-
-**CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION :**
-
-| ID | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
-|----|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 01 | **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
-
-**SYMBOLES DE LA CORPORATION :**
-
-| ID | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                           |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------|
-| 01 | Mascotte ou totem                           | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                     | Figure rassurante ou propagandiste           |
-
-**RITUELS DE LA CORPORATION :**
-
-| ID | RITUEL                                      | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                            |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
-| 02 | Rituel de promotion                         | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                     | Injection mémorielle, serment filmé, rituel VR partagé                    | Crée un passage symbolique                    |
-
-**IDENTITÉ  DE LA CORPORATION :**
-
-| ID | ÉLÉMENT IDENTITAIRE                         | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
-| 02 | Lexique d’entreprise                        | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                      | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement     |
-
-### ZONE D'INFLUENCE DE CORPORATION
-
-**ETENDUE DE LA PRESENCE GALACTIQUE :**
-
-| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
-|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
-| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
-- Voile Extérieur
-- Bordure Extérieure
-
-### RIVALITÉS ACTIVES DE LA CORPORATION
-
-**NOMBRE DE RIVALITE DE LA CORPORATION :**
-
-| ID | TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
-|----|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
-| 02 | **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
-
-**TYPE DE RIVALITE DE LA CORPORATION :**
-
-| ID | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
-|----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 05 | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
-| 12  | Réseau criminel infiltré    | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
-
-## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
-
-**MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR :**
-
-| ID | MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
-|----|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 03 | **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
-
-**NATURE DU LIEN AVEC L'HORRREUR :**
-
-| ID | POSITION DE LA CORPO       | DESCRIPTION                                                                                          |
-|----|----------------------------|------------------------------------------------------------------------------------------------------|
-| 03 | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                       |
-
-**RAPPORT AUX XENO-ENTITES :**
-
-| ID | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                         |
-|----|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| 03 | A classé les données        | Possède des documents verrouillés non exploités.                                                    |
-
-**CRIMES ET COMPROMISSION :**
-
-| ID | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                        |
-|----|------------------------------|----------------------------------------------------------------------------------------------------|
-| 03 | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                       |
-
-**NIVEAU DE SECRET INTERNE :**
-
-| ID | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
-|----|-------------------------------|---------------------------------------------------------------------------------------------------|
-| 04 | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
-
-## EVENEMENT HISTORIQUE DE LA CORPORATION
-
-**ANCIENNETÉ DE LA CORPORATION :**
-
-| ID  | ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
-|-----|--------------------|------------------------------|-----------------------------------------------------------------------------|
-| 02  | 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
-
-**FONDATION ET EXPENSION INITIALE :**
-
-| ID | TYPE DE FONDATION                                                                                     |
-|----|-------------------------------------------------------------------------------------------------------|
-| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique : Transfert technologique déguisé via une structure de façade.|
-
-**PREMIERE CRISE :**
-
-| ID | ORIGINE DE LA CRISE                                                                                   |
-|----|-------------------------------------------------------------------------------------------------------|
-| 06 | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité : Rôle dissimulé dans une guerre ou une crise humanitaire |
-
-**PROJETS SECRETS ET PREMIÈRE ZONE D’OMBRE :**
-
-| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                                   |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit : Croisement génétique entre hôte humain et embryon non répertorié. |
-
-**EXPANSION AGRESSIVE ET DERAPAGES :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire : Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres |
-
-**MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 03 | Découverte d’un matériau alien aux propriétés inconnues : Capacité d’auto-organisation à l’échelle moléculaire. |
-
-**SITUATION ACTUELLE :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”** : Présence non identifiée sur site avant l’arrivée des équipes officielles. |
+- Rapport d’incident : [à compléter selon campagne]
+- Fiche du CEO : [avatar public, identité réelle inconnue]
+- Diagramme de structure : Modèle en cellules cloisonnées avec relais IA
+- Sites contrôlés : Colonies expérimentales, stations minières, laboratoires orbitaux
+- PNJ associés : Médiateurs culturels, cadres endoctrinés, unités synthétiques MK-IV
