@@ -459,20 +459,71 @@ Divisions, filiales, et micro-cellules doivent être établies selon le Modèle 
 
 ### SÉCURITÉ INTERNE DE LA CORPORATION
 
+La sécurité interne n’est pas qu’un protocole défensif : c’est l’organe immunitaire de la structure corporatiste. Elle est l’outil de stabilisation, de répression et de dissimulation. Sa puissance dépend autant de la technologie que de l’environnement légal et spatial. Plus le niveau est élevé, plus les mesures deviennent létales, automatiques et socialement intrusives.
+
+#### NIVEAU DE SÉCURITÉ INTERNE DE LA CORPORATION
+
+| ID     | SECURITE               | DESCRIPTION                                                                     |
+|--------|------------------------|---------------------------------------------------------------------------------|
+| 1      | Veille passive         | Caméras de base, réactions lentes, protocole désuet.                            |
+| 2      | Contrôle local         | Equipes PMC ou IA supervisée, réaction sectorielle.                             |
+| 3      | Réseau structuré       | Sécurité intégrée à l’ensemble des opérations internes.                         |
+| 4      | Réactivité automatisée | Systèmes IA, protocoles d’isolement, équipes mobiles synthétiques.              |
+| 5      | Défense paranoïde      | Sécurité létale, contrôle comportemental constant, neutralisation préventive.   |
+
+#### NIVEAU DE SÉCURITÉ PAR ZONE GALACTIQUE
+
+| ID     | ZONE GALACTIQUE    | SECURITE MAXIMAL | RAISON STRUCTURELLE                                                               | RISQUES PRINCIPAUX                                                |
+|--------|--------------------|----------------- |-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1      | Systèmes du Noyau  | 4                | Réglementation stricte, surveillance UNISC, audits fréquents                      | Sécurité légale, dispositifs publics visibles                     |
+| 2      | Voile Extérieur    | 3                | Contrôle mixte, pressions multiples                                               | Réseaux cloisonnés, IA + PMC hybrides                             |
+| 3      | Bordure Extérieure | 2                | Failles logistiques, pénuries, contrôle relâché                                   | Délégation à des sous-traitants, sécurité instable                |
+| 4      | Les Confins        | 1                | Autonomie totale, anarchie réglementaire                                          | Sécurité paranoïde, doctrine de survie, défense préventive totale |
+
+#### SYSTÈME DE SÉCURITÉ INTERNE
+
 Protocoles de verrouillage, unités PMC intégrées, surveillance IA, et doctrine de répression par l'exemple forment les quatre piliers de la résilience interne. Le principe fondamental reste : identifier, isoler, neutraliser.
 
-| ID | SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                      |
-|----|--------------------------------|--------------------------------------------------------------------------------------------------|
-| 01 | **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.             |
-| 02 | **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.      |
-| 03 | **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                               |
-| 04 | **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                            |
-| 05 | **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                            |
+| ID | SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                        |
+|----|--------------------------------|----------------------------------------------------------------------------------------------------|
+| 01 | **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.               |
+| 02 | **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.        |
+| 03 | **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                                 |
+| 04 | **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                              |
+| 05 | **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                              |
 | 07 | **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
 
 ## CULTURE DE LA CORPORATION
 
 L’environnement idéologique interne est optimisé pour limiter la déviance et maximiser la conformité productive. La culture corporatiste est une interface comportementale, non une communauté.
+
+### NIVEAU DE CULTURE CORPORATISTE
+
+Plus la culture est forte, plus la corporation développe un comportement immunitaire idéologique : Toute dissidence est perçue comme un virus à isoler, neutraliser ou absorber. C’est pourquoi les structures à haut niveau de culture doivent préserver en leur sein des cellules d’adaptation, capables d’évoluer hors du dogme sans déclencher la réaction auto-immune du système. Lancez 1D10/2 ou choisissez à quel niveau d'adoption de culture interne se situe la corporation.
+
+| ID     | ADOPTION          | DESCRIPTION                                                                     |
+|--------|-------------------|---------------------------------------------------------------------------------|
+| 1      | Faible cohésion   | La culture centrale existe mais cohabite avec des déviances tolérées.           |
+| 2      | Moyenne           | La culture est dominante mais sujette à remise en question.                     |
+| 3      | Forte             | Les employés vivent dans un environnement idéologique intégré.                  |
+| 4      | Fanatisme léger   | La loyauté est un réflexe. Les écarts sont dénoncés spontanément.               |
+| 5      | Uniformité totale | L’identité personnelle est abolie. L’idéologie supplante la conscience.         |
+
+### INFLUENCE CULTURELLE MAXIMUM PAR ZONE GALACTIQUE
+
+Chaque zone galactique définit un plafond structurel de culture corporatiste. Une entité ne peut dépasser un certain niveau de cohésion idéologique que si ses infrastructures sont suffisantes, son contrôle informationnel total, et son personnel stabilisé.
+
+| ID     | ZONE GALACTIQUE    | CULTURE MAXIMAL | RAISON STRUCTURELLE                                                               | RISQUES PRINCIPAUX                                    |
+|--------|--------------------|-----------------|-----------------------------------------------------------------------------------|-------------------------------------------------------|
+| 1      | Systèmes du Noyau  | 5               | Haute densité de relais com, AI, mainmise corpo, faible mobilité des employés     | Audits fréquents, contrôle UNISC, contraintes légales |
+| 2      | Voile Extérieur    | 4               | Contrôle fort mais cohabitation avec des cultures secondaires                     | Hybridation culturelle, tensions de loyauté           |
+| 3      | Bordure Extérieure | 3               | Présence instable, personnel composite, menaces sociales et environnementales     | Résistances locales, sabotage idéologique             |
+| 4      | Les Confins        | 2               | Automomie décisionnelle large, faible retour d’information, résistance endémique  | Dérives sectaires, hérésies, pertes de contrôle       |
+
+Si une corporation cherche à maintenir un niveau de culture supérieur au seuil naturel de la zone, elle doit :
+- Déployer des IA de type MU/TH/UR 7000 ou +
+- Cloisonner à l'extrême ses installations et son personnel
+- Recourir à des moyens coercitifs : Synthétique infiltré, surveillance, usage d'inibiteurs comportementaux chimique.
 
 ### JARGON INTERNE DE LA CORPORATION
 
