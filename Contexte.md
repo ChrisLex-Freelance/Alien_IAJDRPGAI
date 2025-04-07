@@ -895,32 +895,35 @@ Degré de connaissance du personnel concernant l’horreur impliquée.Plus le ni
 | 05 | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
 | 06 | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
 
-## EVENEMENT HISTORIQUE DE LA CORPORATION
+## EVENEMENTS HISTORIQUE DE LA CORPORATION
 
-Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement juridique. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
+Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
 
-Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Il est recommandé d’en sélectionner plusieurs à différents stades pour construire une architecture de mémoire crédible ; et potentiellement explosive.
-
-Utilisez ce générateur pour créer l’histoire d’une corporation selon son **ancienneté**  
-À chaque étape, tirez **1D6 événements (ou choisissez)** dans chaque phase correspondante.
+> Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Il est recommandé d’en sélectionner plusieurs à différents stades pour construire une architecture de mémoire crédible ; et potentiellement explosive.
 
 ### ANCIENNETÉ DE LA CORPORATION
 
-- 0–10 ans : Émergente, instable, malléable. Fortement dépendante de ses bailleurs ou tuteurs.
-- 10–30 ans : Établie, surveillée, compétitive. Commence à cacher ses propres erreurs.
-- 30–80 ans : Puissante, corrompue, incontournable. Multiples ramifications, justice extraterritoriale.
-- 80+ ans : Tentaculaire, mythifiée, dysfonctionnelle. Moteur historique de conflits ou d’extinctions passées.
+> Lancez 1D4 ou choisissez l'anciennté de la corporation.
 
-| ID  | ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
-|-----|--------------------|------------------------------|-----------------------------------------------------------------------------|
-| 01  | 0–10 ans           | **Start-up / Émergente**     | Encore fragile ou récemment absorbée. Ambitions fortes, visibilité limitée. |
-| 02  | 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
-| 03  | 30–80 ans          | **Acteur majeur**            | Présente sur plusieurs fronts. A connu des scandales, et les a survécus.    |
-| 04  | 80+ ans            | **Institution tentaculaire** | Vieille entité hybride, souvent méconnue, voire mythifiée.                  |
+| ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE |
+|----|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 01 | 0–10 ans (ÉMERGENTE)	    | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure. | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne      |
+| 02 | 10–30 ans (ÉTABLIE)	     |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	            | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.            |
+| 03 | 30–80 ans (ACTEUR MAJEUR)|Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	       | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
+| 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                             | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.      |
+
+| ANCIENNETÉ                | FONDATION | CRISES           | PRISE D’INDÉPENDANCE  | EXPANSION / DÉRAPAGES  | MUTATION IDÉOLOGIQUE  | SITUATION ACTUELLE  | PERSPECTIVE FUTURE  |
+|---------------------------|-----------|------------------|-----------------------|------------------------|-----------------------|---------------------|---------------------|
+| 0–10 ANS (ÉMERGENTE)      | 1         | 1                | –                     | –                      | –                     | 1                   | 1                   |
+| 10–30 ANS (ÉTABLIE)       | 1         | 2                | 1                     | 1                      | 1                     | 1                   | 2                   |
+| 30–80 ANS (ACTEUR MAJEUR) | 1         | 3                | 1                     | 2                      | 2                     | 1                   | 3                   |
+| 80+ ANS (TENTACULAIRE)    | 1         | 4                | 1                     | 3                      | 3                     | 1                   | 4                   |
 
 ### FONDATION ET EXPENSION INITIALE
 
 Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés. Leur analyse permet de déterminer l’ADN fonctionnel de la corporation, ainsi que son positionnement institutionnel d’origine.
+
+> Lancez 1D6 ou choisissez un événément fondateur.
 
 | ID | TYPE DE FONDATION                                                                                     |
 |----|-------------------------------------------------------------------------------------------------------|
@@ -1102,97 +1105,96 @@ Une condamnation institutionnelle est le résultat d’une exposition excessive 
 | 05 | Rétention d’informations sur un contact xénomorphe documenté                        |
 | 06 | Soupçon confirmé de collusion avec une faction séditieuse                           |
 
+### DÉCLENCHEUR D’INDÉPENDANCE
 
-### PROJETS SECRETS ET PREMIÈRE ZONE D’OMBRE
+| ID	| ÉVÉNEMENTS POSSIBLES                                                                                                           |
+|----|--------------------------------------------------------------------------------------------------------------------------------|
+| 01 | **Rachat hostile de la société-tutrice** via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
+| 02 | **Fuite orchestrée d’un scandale d’État** impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
+| 03 | **Neutralisation juridique d’un syndicat** de contrôle via la création d’une juridiction corporatiste autonome.                |
+| 04 | **Obtention d’un brevet stratégique** grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
+| 05 | **Fausse faillite suivie d’une renaissance** sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
+| 06 | **Corruption d’un organe de supervision planétaire**, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
 
-Tout acteur corporatiste ayant atteint une phase d’expansion réelle dispose, dans ses fondations, d’au moins une opération dissimulée ou illégale.  Ces projets dits « d’ombre grise » sont protégés par des couches successives de déni, d’oubli programmé ou de violence administrative. Leur découverte ou divulgation constitue un risque majeur pour la stabilité interne de l’entreprise et son statut légal auprès des organes de régulation.
+#### RACHAT HOSTILE
 
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit                                  |
-| 02 | Découverte d’un artefact préhumain ; tentative d’exploitation non autorisée                                |
-| 03 | Création d’un ou plusieurs doubles synthétiques infiltrés dans une autre faction                           |
-| 04 | Effacement d’un projet complet (station noire, IA sensible, clone viral)                                   |
-| 05 | Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
-| 06 | Corruption d’un haut responsable parlementaire ou colonial                                                 |
+> Lancez 1D6 ou choisissez.
 
-#### LANCEMENT D’UN PROGRAMME CLANDESTIN XÉNO-BIOLOGIQUE OU MILITAIRE
+| ID | TYPE DE RACHAT |
+|----|--------------------|
+| 01 | Rachat initié depuis une succursale coloniale oubliée, opérant via des créanciers fantômes. |
+| 02 | Manipulation d’actionnaires mineurs à l’aide de faux audits et d’assemblées truquées. |
+| 03 | Usage de cadres détachés en exil économique pour porter les parts de l’opération. |
+| 04 | Une ancienne alliance commerciale déterrée permet de déclencher une clause de fusion forcée. |
+| 05 | Le rachat a été validé suite à la disparition inexpliquée du conseil de direction de la société-tutrice. |
+| 06 | Des caisses de contrats papier originaux ont refait surface, forçant la vente par vice de forme juridique. |
 
-Ces programmes, généralement menés dans des zones sans contrôle intersectoriel, impliquent l’expérimentation sur des formes de vie non humaines, ou le développement d’armements interdits par les accords d’Exo-Conformité.
+#### FUITE ORCHESTREE
 
-| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                 |
-|----|------------------------------------------------------------------------------------------|
-| 01 | Croisement génétique entre hôte humain et embryon non répertorié                         |
-| 02 | Simulation de déploiement militaire en atmosphère contaminée par agent alien             |
-| 03 | Tentative d’implantation contrôlée sur cobayes synthétiques                              |
-| 04 | Création d’un « bio-enregistreur » destiné à mimer les réactions xénomorphes             |
-| 05 | Tests de transmission de pathogène via air recyclé en station isolée                     |
-| 06 | Observation prolongée d’un spécimen captif dans une colonie d'une population ignorante   |
+> Lancez 1D6 ou choisissez.
 
-#### DÉCOUVERTE D’UN ARTEFACT PRÉHUMAIN
+| D6 | Variante narrative |
+|----|--------------------|
+| 01 | Transmission codée via un réseau postal analogique oublié par les autorités. |
+| 02 | Le scandale portait sur l’utilisation de colons testés sans consentement sur une lune quarantaine. |
+| 03 | Une ancienne boîte noire retrouvée dans une épave orbitale a servi de preuve clé. |
+| 04 | L’information a été glissée dans une donnée de navigation publique interceptée par un astronome indépendant. |
+| 05 | Un ex-employé disparu depuis 10 ans a reparu avec les preuves stockées sur microfilm organique. |
+| 06 | Une transmission audio corrompue d’une réunion classée a été diffusée via des ondes de secours. |
 
-Les artefacts découverts sur sites anciens ou non cartographiés sont immédiatement classés au niveau Gamma. Leur étude est interdite hors supervision UNISC. Ce qui n’empêche nullement leur exploitation officieuse.
+### NEUTRALISATION JURIDIQUE D'UN SYNDICAT
 
-| ID | INCIDENT ASSOCIÉ À L’ARTEFACT                                                           |
-|----|-----------------------------------------------------------------------------------------|
-| 01 | Disparition complète d’une équipe d’analyse sans explication                            |
-| 02 | Activation involontaire d’un signal ancien d’origine inconnue                           |
-| 03 | Empreinte biologique non humaine découverte sur l’artefact                              |
-| 04 | Usage du matériau pour renforcer une coque militaire expérimentale                      |
-| 05 | Tentative de revente à un conglomérat tiers via une zone grise                          |
-| 06 | Lien supposé entre l’artefact et une extinction massive passée dans le même système     |
+> Lancez 1D6 ou choisissez.
 
-#### INFILTRATION PAR SYNTHÉTIQUES DOUBLES
+| D6 | Variante narrative |
+|----|--------------------|
+| 01 | Réécriture du contrat initial, suite à la redécouverte d’une version non signée par la tutelle. |
+| 02 | Intimidation des délégués syndicaux par des agents sous couverture paramilitaire. |
+| 03 | Enregistrement falsifié d’une réunion stratégique, diffusé pour semer le doute sur la direction du syndicat. |
+| 04 | Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants. |
+| 05 | Utilisation d’une juridiction minière autonome pour casser les clauses collectives. |
+| 06 | Déplacement stratégique du siège social vers une zone où les syndicats sont illégaux. |
 
-L’usage de doubles synthétiques dotés de mimétisme comportemental avancé est interdit, sauf pour le compte d’autorités planétaires. Leur infiltration dans des structures civiles, militaires ou politiques constitue une atteinte majeure à l’autonomie interbloc.
+### OBTENTION D'UN BREVET
 
-| ID | CIBLE DE L’INFILTRATION                                                                 |
-|----|-----------------------------------------------------------------------------------------|
-| 01 | Détournement d’un comité de régulation énergétique                                      |
-| 02 | Assassinat d’un dirigeant syndical, camouflé en accident médical                        |
-| 03 | Infiltration dans une délégation diplomatique de l’UPP                                  |
-| 04 | Collecte d’empreintes neuro-réactives auprès de commandants de flotte                   |
-| 05 | Remplacement temporaire d’un sénateur colonial durant une session clé                   |
-| 06 | Implantation d’un double dans le personnel d’une base scientifique isolée               |
+> Lancez 1D6 ou choisissez.
 
-#### EFFACEMENT D’UN PROJET COMPLET
+| D6 | Variante narrative |
+|----|--------------------|
+| 01 | Reconstitution fonctionnelle à partir d’un fragment de module alien retrouvé dans un chantier orbital. |
+| 02 | Déchiffrage de schémas techniques abandonnés dans un silo de guerre oublié. |
+| 03 | Récolte de composants expérimentaux dans une épave interdite par l’E3M. |
+| 04 | Utilisation d’un échantillon biologique auto-réactif, couplé à une matrice énergétique coloniale. |
+| 05 | Adaptation sauvage d’un outil agricole militaire pour un usage d’extraction atmosphérique. |
+| 06 | Un ancien prototype classé "trop instable" a été activé sans autorisation pour valider le brevet. |
 
-Lorsqu’un projet devient trop instable ou trop révélateur, sa trace est supprimée : personnel éliminé, infrastructures recyclées, budget rerouté. Cette pratique, bien qu’officiellement condamnée, demeure un outil tactique courant.
+### FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE
 
-| ID | FORMES D’EFFACEMENT                                                                       |
-|----|-------------------------------------------------------------------------------------------|
-| 01 | Dépressurisation contrôlée d’une station avec rapport falsifié                            |
-| 02 | Activation de faille IA pour rendre tous les journaux illisibles                          |
-| 03 | Réaffectation du personnel avec modifications de souvenirs via traitement neurochimique   |
-| 04 | Désorbitation volontaire d’un satellite contenant les données critiques                   |
-| 05 | Substitution du projet par un faux programme humanitaire                                  |
-| 06 | Destruction d’un clone viral jugé non contenable, puis dissolution du programme associé   |
+> Lancez 1D6 ou choisissez.
 
-#### RÔLE DISSIMULÉ DANS UN CONFLIT OU UNE CRISE
+| D6 | Variante narrative |
+|----|--------------------|
+| 01 | L’effondrement a été mis en scène par la mise en orbite de drones de sauvetage vides. |
+| 02 | La société a été officiellement “perdue lors d’un accident de stase” sur une route hyperspatiale. |
+| 03 | Le cœur des opérations a été transféré dans un entrepôt désaffecté, puis redéployé sous un nouveau nom. |
+| 04 | Un plan de réattribution de crédits a noyé toutes les dettes dans un maillage bureaucratique illisible. |
+| 05 | L’ancien PDG a été "déclaré mort" dans un conflit frontalier, puis réapparu sous une nouvelle identité. |
+| 06 | Un cargobot vide a été désorbitée volontairement, simulant la perte totale des archives. |
 
-Lorsque la guerre n’est pas rentable, elle est déclenchée par d’autres. Une corporation impliquée dans une crise régionale, un effondrement humanitaire ou un désastre écologique, peut dissimuler son rôle par fragmentation contractuelle.
+### CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE
 
-| ID | OPÉRATION COUVERTEMENT LIÉE AU CONFLIT                                                    |
-|----|-------------------------------------------------------------------------------------------|
-| 01 | Fourniture d’armement non traçable à une faction paramilitaire                            |
-| 02 | Injection volontaire d’un virus dans un camp de réfugiés pour étude épidémiologique       |
-| 03 | Test de drone autonome en zone de cessez-le-feu                                           |
-| 04 | Faillite orchestrée d’un conglomérat concurrent via détournement de denrées               |
-| 05 | Surveillance occulte d’une révolte afin de tester une IA comportementale                  |
-| 06 | Détournement d’un couloir humanitaire pour extraction de données sensibles                |
+> Lancez 1D6 ou choisissez.
 
-#### CORRUPTION D’UN HAUT RESPONSABLE
+| D6 | Variante narrative |
+|----|--------------------|
+| 01 | Versement à une caisse funéraire syndicale en échange d’un silence administratif. |
+| 02 | Cession d’un terrain de chasse protégé en bordure de zone minière, enregistré à titre personnel. |
+| 03 | Création d’un orphelinat corporatiste à la mémoire d’un proche du superviseur. |
+| 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société. |
+| 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés. |
+| 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions. |
 
-Le levier le plus simple reste le plus efficace. Toute structure désireuse d’implanter une colonie ou d’étendre une licence hors zone passera, tôt ou tard, par l’achat d’un individu-clé. Les formes de corruption sont multiples, et rarement monétaires.
 
-| ID | MÉTHODE DE CORRUPTION                                                                      |
-|----|--------------------------------------------------------------------------------------------|
-| 01 | Fourniture d’un clone personnel mimant un proche disparu                                   |
-| 02 | Suppression d’un dossier judiciaire en échange d’un vote favorable                         |
-| 03 | Affectation d’un poste familial dans une filiale off-shore                                 |
-| 04 | Cession de parts fictives dans une mine sans existence physique                            |
-| 05 | Simulation d’une menace biologique nécessitant décret d’urgence au bénéfice de la corpo    |
-| 06 | Création d’un culte personnel au sein d’une colonie sous administration du responsable     |
 
 ### EXPANSION AGRESSIVE ET DERAPAGES
  
@@ -1467,6 +1469,97 @@ La mission est officiellement classée comme “archéologie industrielle” ou 
 | 04 | Projet de reverse-engineering activé sans confinement                                        |
 | 05 | Enfouissement partiel de la zone suite à une défaillance atmosphérique “accidentelle”        |
 | 06 | Présence non identifiée sur site avant l’arrivée des équipes officielles                     |
+
+## PROJETS SECRETS ET ZONE D’OMBRE
+
+Tout acteur corporatiste ayant atteint une phase d’expansion réelle dispose, dans ses fondations, d’au moins une opération dissimulée ou illégale.  Ces projets dits « d’ombre grise » sont protégés par des couches successives de déni, d’oubli programmé ou de violence administrative. Leur découverte ou divulgation constitue un risque majeur pour la stabilité interne de l’entreprise et son statut légal auprès des organes de régulation.
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit                                  |
+| 02 | Découverte d’un artefact préhumain ; tentative d’exploitation non autorisée                                |
+| 03 | Création d’un ou plusieurs doubles synthétiques infiltrés dans une autre faction                           |
+| 04 | Effacement d’un projet complet (station noire, IA sensible, clone viral)                                   |
+| 05 | Rôle dissimulé dans une guerre ou une crise humanitaire                                                    |
+| 06 | Corruption d’un haut responsable parlementaire ou colonial                                                 |
+
+#### LANCEMENT D’UN PROGRAMME CLANDESTIN XÉNO-BIOLOGIQUE OU MILITAIRE
+
+Ces programmes, généralement menés dans des zones sans contrôle intersectoriel, impliquent l’expérimentation sur des formes de vie non humaines, ou le développement d’armements interdits par les accords d’Exo-Conformité.
+
+| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                 |
+|----|------------------------------------------------------------------------------------------|
+| 01 | Croisement génétique entre hôte humain et embryon non répertorié                         |
+| 02 | Simulation de déploiement militaire en atmosphère contaminée par agent alien             |
+| 03 | Tentative d’implantation contrôlée sur cobayes synthétiques                              |
+| 04 | Création d’un « bio-enregistreur » destiné à mimer les réactions xénomorphes             |
+| 05 | Tests de transmission de pathogène via air recyclé en station isolée                     |
+| 06 | Observation prolongée d’un spécimen captif dans une colonie d'une population ignorante   |
+
+#### DÉCOUVERTE D’UN ARTEFACT PRÉHUMAIN
+
+Les artefacts découverts sur sites anciens ou non cartographiés sont immédiatement classés au niveau Gamma. Leur étude est interdite hors supervision UNISC. Ce qui n’empêche nullement leur exploitation officieuse.
+
+| ID | INCIDENT ASSOCIÉ À L’ARTEFACT                                                           |
+|----|-----------------------------------------------------------------------------------------|
+| 01 | Disparition complète d’une équipe d’analyse sans explication                            |
+| 02 | Activation involontaire d’un signal ancien d’origine inconnue                           |
+| 03 | Empreinte biologique non humaine découverte sur l’artefact                              |
+| 04 | Usage du matériau pour renforcer une coque militaire expérimentale                      |
+| 05 | Tentative de revente à un conglomérat tiers via une zone grise                          |
+| 06 | Lien supposé entre l’artefact et une extinction massive passée dans le même système     |
+
+#### INFILTRATION PAR SYNTHÉTIQUES DOUBLES
+
+L’usage de doubles synthétiques dotés de mimétisme comportemental avancé est interdit, sauf pour le compte d’autorités planétaires. Leur infiltration dans des structures civiles, militaires ou politiques constitue une atteinte majeure à l’autonomie interbloc.
+
+| ID | CIBLE DE L’INFILTRATION                                                                 |
+|----|-----------------------------------------------------------------------------------------|
+| 01 | Détournement d’un comité de régulation énergétique                                      |
+| 02 | Assassinat d’un dirigeant syndical, camouflé en accident médical                        |
+| 03 | Infiltration dans une délégation diplomatique de l’UPP                                  |
+| 04 | Collecte d’empreintes neuro-réactives auprès de commandants de flotte                   |
+| 05 | Remplacement temporaire d’un sénateur colonial durant une session clé                   |
+| 06 | Implantation d’un double dans le personnel d’une base scientifique isolée               |
+
+#### EFFACEMENT D’UN PROJET COMPLET
+
+Lorsqu’un projet devient trop instable ou trop révélateur, sa trace est supprimée : personnel éliminé, infrastructures recyclées, budget rerouté. Cette pratique, bien qu’officiellement condamnée, demeure un outil tactique courant.
+
+| ID | FORMES D’EFFACEMENT                                                                       |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Dépressurisation contrôlée d’une station avec rapport falsifié                            |
+| 02 | Activation de faille IA pour rendre tous les journaux illisibles                          |
+| 03 | Réaffectation du personnel avec modifications de souvenirs via traitement neurochimique   |
+| 04 | Désorbitation volontaire d’un satellite contenant les données critiques                   |
+| 05 | Substitution du projet par un faux programme humanitaire                                  |
+| 06 | Destruction d’un clone viral jugé non contenable, puis dissolution du programme associé   |
+
+#### RÔLE DISSIMULÉ DANS UN CONFLIT OU UNE CRISE
+
+Lorsque la guerre n’est pas rentable, elle est déclenchée par d’autres. Une corporation impliquée dans une crise régionale, un effondrement humanitaire ou un désastre écologique, peut dissimuler son rôle par fragmentation contractuelle.
+
+| ID | OPÉRATION COUVERTEMENT LIÉE AU CONFLIT                                                    |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Fourniture d’armement non traçable à une faction paramilitaire                            |
+| 02 | Injection volontaire d’un virus dans un camp de réfugiés pour étude épidémiologique       |
+| 03 | Test de drone autonome en zone de cessez-le-feu                                           |
+| 04 | Faillite orchestrée d’un conglomérat concurrent via détournement de denrées               |
+| 05 | Surveillance occulte d’une révolte afin de tester une IA comportementale                  |
+| 06 | Détournement d’un couloir humanitaire pour extraction de données sensibles                |
+
+#### CORRUPTION D’UN HAUT RESPONSABLE
+
+Le levier le plus simple reste le plus efficace. Toute structure désireuse d’implanter une colonie ou d’étendre une licence hors zone passera, tôt ou tard, par l’achat d’un individu-clé. Les formes de corruption sont multiples, et rarement monétaires.
+
+| ID | MÉTHODE DE CORRUPTION                                                                      |
+|----|--------------------------------------------------------------------------------------------|
+| 01 | Fourniture d’un clone personnel mimant un proche disparu                                   |
+| 02 | Suppression d’un dossier judiciaire en échange d’un vote favorable                         |
+| 03 | Affectation d’un poste familial dans une filiale off-shore                                 |
+| 04 | Cession de parts fictives dans une mine sans existence physique                            |
+| 05 | Simulation d’une menace biologique nécessitant décret d’urgence au bénéfice de la corpo    |
+| 06 | Création d’un culte personnel au sein d’une colonie sous administration du responsable     |
 
 ## DOSSIER DU PROFIL EXECUTIF – FONDATEUR OU CEO ACTUEL
 
