@@ -13,6 +13,768 @@ Le présent document a été émis par l'Agence de Coopération Coloniale et dé
 - Optimiser la mise en conformité apparente avec les chartes éthiques coloniales.
 - Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou bancaires.
 
+## EVENEMENTS HISTORIQUES DE LA CORPORATION
+
+Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
+
+> Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Le nombre d'événements historiques de la corporation dépend de son ancienneté.
+
+### ANCIENNETÉ DE LA CORPORATION
+
+> Lancez 1D4 ou choisissez l'anciennté de la corporation.
+
+| ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE |
+|----|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 01 | 0–10 ans (ÉMERGENTE)	    | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure. | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne      |
+| 02 | 10–30 ans (ÉTABLIE)	     |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	            | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.            |
+| 03 | 30–80 ans (ACTEUR MAJEUR)|Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	       | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
+| 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                             | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.      |
+
+| ANCIENNETÉ                | FONDATION | CRISES           | PRISE D’INDÉPENDANCE  | EXPANSION / DÉRAPAGES  | MUTATION IDÉOLOGIQUE  | SITUATION ACTUELLE  | PERSPECTIVE FUTURE  |
+|---------------------------|-----------|------------------|-----------------------|------------------------|-----------------------|---------------------|---------------------|
+| 0–10 ANS (ÉMERGENTE)      | 1         | 1                | –                     | –                      | –                     | 1                   | 1                   |
+| 10–30 ANS (ÉTABLIE)       | 1         | 2                | 1                     | 1                      | 1                     | 1                   | 2                   |
+| 30–80 ANS (ACTEUR MAJEUR) | 1         | 3                | 1                     | 2                      | 2                     | 1                   | 3                   |
+| 80+ ANS (TENTACULAIRE)    | 1         | 4                | 1                     | 3                      | 3                     | 1                   | 4                   |
+
+### FONDATION ET EXPENSION INITIALE
+
+Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés. Leur analyse permet de déterminer l’ADN fonctionnel de la corporation, ainsi que son positionnement institutionnel d’origine.
+
+> Lancez 1D6 ou choisissez un événément fondateur.
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                  |
+|----|-------------------------------------------------------------------------------------------------------|
+| 01 | Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                |
+| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
+| 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
+| 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
+| 05 | Découverte d’une ressource rare : minerai, organisme de soin, matériau composite                      |
+| 06 | Ouverture d’une colonie-exploitation autonome (mine, ferme, laboratoire, etc.)                        |
+
+#### CRÉATION DANS UN SECTEUR STRATÉGIQUE
+
+Toute entité enregistrée dispose d’un secteur initial d’intervention reconnu par une autorité technique ou commerciale. Ce secteur d’origine détermine les connexions prioritaires au sein des sphères réglementaires, la facilité d’accès aux marchés publics et la compatibilité avec les chaînes de sous-traitance militaire, médicale ou énergétique. Il convient de noter que le secteur de création affiché peut diverger fortement du secteur réel ou actuel en cas d’opérations camouflées.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | SECTEUR STRATÉGIQUE                                                                                    |
+|----|--------------------------------------------------------------------------------------------------------|
+| 01 | Exploitation d'une source d'énergétique orbitale.                                                      |
+| 02 | Déploiement initial d’un système prédictif de maintenance.                                             |
+| 03 | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
+| 04 | Plateforme de terraformation modulaires de classe 5.                                                   |
+| 05 | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
+| 06 | Base de données génétiques intercoloniale – semi-légale.                                               |
+
+#### FUSION OU RACHAT EN TEMPS DE CRISE
+
+L’apparition d’une entité dans le paysage intercorporatiste résulte fréquemment d’un processus d’absorption ou de récupération agressive. Le rachat, la fusion ou la liquidation partielle constituent des tactiques de démarrage accéléré. L’opération peut être conforme ou dissimulée, mais elle laisse toujours des traces : personnel non loyal, code hérité, ou dettes symboliques envers des acteurs occultes.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | FUSION OU RACHAT                                                                                       |
+|----|--------------------------------------------------------------------------------------------------------|
+| 01 | Absorption d’un concurrent ruiné par un effondrement du marché.                                        |
+| 02 | Intégration d’une start-up avec transfert forcé de personnel.                                          |
+| 03 | Rachat d’un fournisseur militaire suite à une guerre régionale.                                        |
+| 04 | Fusion post-catastrophe écologique d’une ancienne société minière.                                     |
+| 05 | Transfert technologique déguisé via une structure de façade.                                           |
+| 06 | Acquisition par endettement puis liquidation partielle de l’original.                                  |
+
+#### PREMIER CONTRAT D’ÉTAT
+
+Un contrat fondateur avec une entité étatique, militaire ou humanitaire constitue un certificat de viabilité. Qu’il soit public ou confidentiel, il permet l’ouverture de comptes sécurisés, l’accès à des zones exclusives et l’accréditation d’un réseau logistique prioritaire. Ce type de contrat marque aussi l’entrée dans les jeux d’influence inter-blocs, avec toutes les obligations de silence et de réciprocité implicites que cela implique.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | PREMIER CONTRAT D’ÉTAT                                                                                 |
+|----|--------------------------------------------------------------------------------------------------------|
+| 01 | Fourniture d’un système de surveillance planétaire pour l’E3M.                                         |
+| 02 | Livraison d’implants cognitifs à un bataillon frontalier UPP.                                          |
+| 03 | Réhabilitation d’un avant-poste contaminé pour l’Agence Coloniale.                                     |
+| 04 | Construction d’un centre de tri orbital pour réfugiés.                                                 |
+| 05 | Contrat de forage profond dans une zone juridiquement contestée.                                       |
+| 06 | Élaboration d’un vaccin sous protocole militaire secret.                                               |
+
+#### TECHNOLOGIE PROPRIÉTAIRE
+
+Toute corporation prétendant au statut d’acteur de premier rang détient une technologie-prototype, brevetée ou confidentielle, qui sert de colonne vertébrale à son modèle économique. Ces technologies sont rarement d’origine unique : transfert illégal, reverse engineering ou fuite orchestrée sont monnaie courante. L’exploitation commerciale est souvent en avance sur la validation scientifique ou éthique ; ce qui en fait un levier et un talon d’Achille.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | TECHNOLOGIE PROPRIÉTAIRE                                                                               |
+|----|--------------------------------------------------------------------------------------------------------|
+| 01 | Système tactique modulable intégrée à des structures minières.                                         |
+| 02 | Synthétique modulaire pour milieux à haute toxicité.                                                   |
+| 03 | Réseau logistique de communication insensible aux interférences.                                       |
+| 04 | Protocole de terraformation optimisé.                                                                  |
+| 05 | Interface organique de supervision neuro-cognitive.                                                    |
+| 06 | Micro-satellite d’analyse atmosphérique furtif.                                                        |
+
+#### DÉCOUVERTE D’UNE RESSOURCE RARE
+
+L’identification et l’exploitation d’une ressource à haute valeur stratégique constitue le plus court chemin vers la rentabilité brutale. Ces ressources sont, par nature, instables : juridiquement floues, scientifiquement mal comprises, ou biochimiquement hostiles. Toute entité bâtie sur une telle trouvaille devra en défendre la propriété, souvent au prix d’une militarisation accélérée.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | DÉCOUVERTE D’UNE RESSOURCE RARE                                                                        |
+|----|--------------------------------------------------------------------------------------------------------|
+| 01 | Minéral à haute densité énergétique ; instable.                                                        |
+| 02 | Organisme cryogénique à capacité de réplication.                                                       |
+| 03 | Roche psychotrope exploitable en neuropharma.                                                          |
+| 04 | Enzyme mutagène extraite d’une flore inconnue.                                                         |
+| 05 | Métal amorphe synthétisable par collision orbitale.                                                    |
+| 06 | Carapace fossilisée à structure non-terrestre.                                                         |
+
+#### OUVERTURE D’UNE COLONIE-EXPLOITATION
+
+La première implantation physique marque la transition entre entité spéculative et acteur territorial. Ce site (mine, ferme, station ou prison) devient à la fois un point de production et un laboratoire à ciel ouvert. Le statut juridique est fréquemment hybride : sous-contrat, expérimental, hors juridiction. La viabilité à long terme dépend du silence des employés et de l’absence de témoins.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | OUVERTURE D’UNE COLONIE-EXPLOITATION                                                                    |
+|----|---------------------------------------------------------------------------------------------------------|
+| 01 | Avant-poste minier automatisé sur lune gravitationnelle.                                                |
+| 02 | Ferme hydroponique orbitale avec serres de bio-ingénierie.                                              |
+| 03 | Laboratoire de recherche atmosphérique sous-dôme.                                                       |
+| 04 | Colonie carcérale déployée en sous-traitance sécuritaire.                                               |
+| 05 | Station de tri des déchets organiques expérimentaux.                                                    |
+| 06 | Plateforme flottante sur monde océanique en voie de terraformation.                                     |
+
+### PREMIERE CRISE
+
+Elle façonne sa réputation, conditionne ses futures stratégies d’évitement réglementaire, et influence sa notation de risque auprès des organes d’accréditation interstellaires.  
+
+#### ORIGINE DE LA CRISE INITIALE
+
+Les crises, souvent imprévisibles, mettent en lumière les failles structurelles et les vulnérabilités latentes au sein des organisations. Elles ébranlent la confiance des parties prenantes et exigent une réévaluation rigoureuse des stratégies et des pratiques internes. Lorsqu’elles sont exposées au grand jour, ces crises provoquent généralement une augmentation significative des coûts d’assurance et un désengagement partiel des investisseurs clés.
+
+> Lancez 1D6 ou choisissez.
+
+| ID  | ÉVÉNEMENTS POSSIBLES                                                                 |
+|-----|--------------------------------------------------------------------------------------|
+| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)          |
+| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire              |
+| 03  | Rébellion ou sécession d’une colonie entière                                         |
+| 04  | Conflit technologique : vol de brevet, sabotage, guerre économique avec une rivale   |
+| 05  | Implication dans une expérience génétique ou biologique interdite                    |
+| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité               |
+
+##### CATASTROPHE INDUSTRIELLE
+
+Les catastrophes d’origine industrielle révèlent les lacunes systémiques non anticipées d’une entité en phase de déploiement. Elles compromettent la perception de fiabilité technique et obligent souvent à une révision complète des protocoles de maintenance, de supervision ou d’ingénierie environnementale. Ces événements, lorsqu’ils sont rendus publics, entraînent généralement une hausse drastique des primes d’assurance et un retrait partiel des investisseurs du Noyau.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | INCIDENT DÉCLENCHEUR                                                                 |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Explosion de réacteur à fusion – pertes humaines massives                            |
+| 02 | Effondrement d’une station orbitale suite à erreur de maintenance automatisée        |
+| 03 | Pollution atmosphérique biogénique dans une zone de terraformation                   |
+| 04 | Effondrement d’un dôme agricole par surcharge logistique                             |
+| 05 | Catastrophe d’origine inconnue : présence d’un agent extérieur non identifié         |
+| 06 | Refus d’alerte par l’IA interne, entraînant un effet domino sur les infrastructures  |
+
+##### SCANDALE ÉTHIQUE
+
+Ces incidents surviennent lorsqu'une entité subordonne ses impératifs de rentabilité à une négligence, voire une suppression, de l'intégrité biologique ou cognitive de ses employés ou sujets. L'implication d'enfants, de cobayes non consentants, ou l'utilisation de technologies psychotropes non validées entraîne une stigmatisation durable par les observateurs UNISC. La gestion post-crise consiste généralement à sacrifier un maillon intermédiaire, tout en renforçant les protocoles de communication RH.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | INFRACTION MORALE                                                                    |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Utilisation d’enfants colons dans des expériences de neuro-accélération              |
+| 02 | Implantation de modules de contrôle comportemental sans consentement                 |
+| 03 | Effacement ciblé de mémoire sur les témoins d’un incident xénomorphique              |
+| 04 | Tests de toxicité sur populations non informées                                      |
+| 05 | Falsification des résultats médicaux entraînant des décès                            |
+| 06 | Utilisation rituelle de cobayes humains dans un projet cultiste à couverture médicale|
+
+##### RÉBELLION OU SÉCESSION COLONIALE
+
+Lorsqu’une colonie ou un site passe en état de refus opérationnel, il s’agit moins d’un échec technique que d’un effondrement du mythe corporatiste. Ces crises sont souvent précédées d’indicateurs ignorés : tensions sociales, rationnement déconnecté de la réalité locale. Leur impact est majeur, car la perte d’un site implique la perte d’un récit. La récupération (par force, désinformation ou assimilation) est hautement prioritaire.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | ÉLÉMENT DÉCLENCHEUR                                                                  |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Refus d’implantation d’une IA MU/TH/UR centralisée par les autorités locales         |
+| 02 | Soulèvement suite à rationnement imposé par algorithme de productivité               |
+| 03 | Détournement d’une station orbitale par son personnel scientifique                   |
+| 04 | Révélation d’un mensonge fondateur lié aux conditions de terraformation              |
+| 05 | Émeutes après censure d’une transmission de détresse                                 |
+| 06 | Abandon volontaire du contrat corporatiste pour créer un collectif indépendant       |
+
+##### CONFLIT TECHNOLOGIQUE
+
+Les premières confrontations technologiques entre entités rivales sont considérées comme un rite de passage implicite. Vols de brevets, sabotage discret ou campagnes économiques hostiles sont des méthodes validées par l’usage, bien qu’illégales dans les zones régulées. L’important reste d’en conserver le contrôle narratif : la victoire se mesure autant à l’exploitation du conflit qu’à sa discrétion.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | FORME DU CONFLIT                                                                     |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Vol avéré de brevet sur une IA semi-sensible                                         |
+| 02 | Attaque informatique coordonnée sur un réseau logistique rival                       |
+| 03 | Guerre économique menée via sociétés-écrans                                          |
+| 04 | Rachat frauduleux d’un laboratoire concurrent dans la Bordure Extérieure             |
+| 05 | Fuite d’un prototype d’arme bio-industrielle développée sans autorisation            |
+| 06 | Intégration clandestine de code propriétaire dans une flotte standardisée            |
+
+##### EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE INTERDITE
+
+Ces incidents surviennent quand une entité franchit les seuils éthiques imposés par les comités intersectoriels de biosécurité. Bien que formellement interdites, les recherches biologiques à haut potentiel sont souvent tolérées tant qu’elles restent cloisonnées. Leur révélation publique entraîne généralement une réaction immédiate, suivie d’une récupération discrète par un acteur plus puissant.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | OPÉRATION ILLÉGALE                                                                   |
+|----|--------------------------------------------------------------------------------------|
+| 01 | Création d’un organisme synthétique échappant au contrôle                            |
+| 02 | Fusion ADN humain/xéno dans un environnement non sécurisé                            |
+| 03 | Culture d’un pathogène à cycle de gestation non identifié                            |
+| 04 | Réplication d’un œuf alien sans permission légale ni confinement adéquat             |
+| 05 | Greffe de structure xéno sur cobaye humain                                           |
+| 06 | Échec d’un programme de reprogrammation neuro-ADN déclenchant une contagion mentale  |
+
+##### CONDAMNATION PAR UNE AUTORITÉ
+
+Une condamnation institutionnelle est le résultat d’une exposition excessive ou d’une défaillance dans le maintien de l’illusion de conformité. Ces cas provoquent un effet domino sur les sous-traitants, les partenaires financiers et les branches locales. L’entité touchée dispose de deux options : se restructurer en filiale sacrifiable, ou doubler l’investissement en lobbying pour neutraliser la sanction.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | MOTIF DE SANCTION                                                                   |
+|----|-------------------------------------------------------------------------------------|
+| 01 | Violation flagrante de la Charte Coloniale des Droits Bioéthiques                   |
+| 02 | Refus de collaborer avec une mission d’inspection UNISC                             |
+| 03 | Usage d’une force paramilitaire dans une zone désarmée                              |
+| 04 | Détournement de subventions interstellaires vers un programme noir                  |
+| 05 | Rétention d’informations sur un contact xénomorphe documenté                        |
+| 06 | Soupçon confirmé de collusion avec une faction séditieuse                           |
+
+### DÉCLENCHEUR D’INDÉPENDANCE
+
+Les déclencheurs d’indépendance marquent des tournants décisifs dans l’évolution des entités, révélant des stratégies audacieuses et des manœuvres complexes pour se libérer des contraintes imposées. Ces événements, souvent orchestrés dans l’ombre, redéfinissent les dynamiques de pouvoir et obligent à une réévaluation des alliances et des structures de gouvernance. Ils exposent les vulnérabilités des systèmes en place et ouvrent la voie à de nouvelles opportunités, tout en entraînant des répercussions significatives sur les relations contractuelles et les équilibres économiques.
+
+> Lancez 1D6 ou choisissez.
+
+| ID	| ÉVÉNEMENTS POSSIBLES                                                                                                           |
+|----|--------------------------------------------------------------------------------------------------------------------------------|
+| 01 | **Rachat hostile de la société-tutrice** via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
+| 02 | **Fuite orchestrée d’un scandale d’État** impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
+| 03 | **Neutralisation juridique d’un syndicat** de contrôle via la création d’une juridiction corporatiste autonome.                |
+| 04 | **Obtention d’un brevet stratégique** grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
+| 05 | **Fausse faillite suivie d’une renaissance** sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
+| 06 | **Corruption d’un organe de supervision planétaire**, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
+
+#### RACHAT HOSTILE
+
+Les rachats hostiles représentent des manœuvres stratégiques audacieuses, souvent exécutées dans l'ombre pour contourner les défenses des entités ciblées. Ces opérations, orchestrées avec une précision chirurgicale, exploitent les failles légales et financières pour renverser les structures de pouvoir établies. Elles révèlent les vulnérabilités des systèmes de gouvernance et obligent à une réévaluation des alliances et des protocoles de sécurité.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | TYPE DE RACHAT |
+|----|--------------------|
+| 01 | Rachat initié depuis une succursale coloniale oubliée, opérant via des créanciers fantômes. |
+| 02 | Manipulation d’actionnaires mineurs à l’aide de faux audits et d’assemblées truquées. |
+| 03 | Usage de cadres détachés en exil économique pour porter les parts de l’opération. |
+| 04 | Une ancienne alliance commerciale déterrée permet de déclencher une clause de fusion forcée. |
+| 05 | Le rachat a été validé suite à la disparition inexpliquée du conseil de direction de la société-tutrice. |
+| 06 | Des caisses de contrats papier originaux ont refait surface, forçant la vente par vice de forme juridique. |
+
+#### FUITE ORCHESTREE
+
+Les fuites orchestrées sont des opérations délicates visant à exposer des informations sensibles pour provoquer des bouleversements stratégiques. Elles exploitent les réseaux de communication oubliés et les failles de sécurité pour diffuser des preuves compromettantes. Ces manœuvres redéfinissent les alliances et forcent une réévaluation des structures de pouvoir, tout en révélant les vulnérabilités des systèmes de surveillance.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | TYPE DE FUITE |
+|----|--------------------|
+| 01 | Transmission codée via un réseau postal analogique oublié par les autorités. |
+| 02 | Le scandale portait sur l’utilisation de colons testés sans consentement sur une lune quarantaine. |
+| 03 | Une ancienne boîte noire retrouvée dans une épave orbitale a servi de preuve clé. |
+| 04 | L’information a été glissée dans une donnée de navigation publique interceptée par un astronome indépendant. |
+| 05 | Un ex-employé disparu depuis 10 ans a reparu avec les preuves stockées sur microfilm organique. |
+| 06 | Une transmission audio corrompue d’une réunion classée a été diffusée via des ondes de secours. |
+
+### NEUTRALISATION JURIDIQUE D'UN SYNDICAT
+
+La neutralisation juridique d'un syndicat est une stratégie visant à affaiblir ou dissoudre les structures de contrôle syndicales par des moyens légaux ou coercitifs. Ces manœuvres exploitent les failles juridiques et les pressions externes pour redéfinir les dynamiques de pouvoir au sein des entités. Elles obligent à une réévaluation des protocoles de gouvernance et des alliances, tout en exposant les vulnérabilités des systèmes de contrôle.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | TYPE DE NEUTRALISATION |
+|----|--------------------|
+| 01 | Réécriture du contrat initial, suite à la redécouverte d’une version non signée par la tutelle. |
+| 02 | Intimidation des délégués syndicaux par des agents sous couverture paramilitaire. |
+| 03 | Enregistrement falsifié d’une réunion stratégique, diffusé pour semer le doute sur la direction du syndicat. |
+| 04 | Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants. |
+| 05 | Utilisation d’une juridiction minière autonome pour casser les clauses collectives. |
+| 06 | Déplacement stratégique du siège social vers une zone où les syndicats sont illégaux. |
+
+### OBTENTION D'UN BREVET
+
+L'obtention d'un brevet stratégique est une manœuvre audacieuse visant à acquérir un avantage technologique décisif. Ces opérations exploitent les technologies classifiées et les innovations de pointe pour redéfinir les équilibres de pouvoir. Elles obligent à une réévaluation des protocoles de sécurité et des alliances, tout en exposant les vulnérabilités des systèmes de protection de la propriété intellectuelle.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | TYPE DE BREVET |
+|----|--------------------|
+| 01 | Reconstitution fonctionnelle à partir d’un fragment de module alien retrouvé dans un chantier orbital. |
+| 02 | Déchiffrage de schémas techniques abandonnés dans un silo de guerre oublié. |
+| 03 | Récolte de composants expérimentaux dans une épave interdite par l’E3M. |
+| 04 | Utilisation d’un échantillon biologique auto-réactif, couplé à une matrice énergétique coloniale. |
+| 05 | Adaptation sauvage d’un outil agricole militaire pour un usage d’extraction atmosphérique. |
+| 06 | Un ancien prototype classé "trop instable" a été activé sans autorisation pour valider le brevet. |
+
+### FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE
+
+La fausse faillite suivie d'une renaissance est une stratégie complexe visant à simuler l'effondrement d'une entité pour échapper à ses obligations et renaître sous une nouvelle identité. Ces manœuvres exploitent les failles juridiques et financières pour redéfinir les dynamiques de pouvoir. Elles obligent à une réévaluation des protocoles de sécurité et des alliances, tout en exposant les vulnérabilités des systèmes de surveillance.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | STYLE DE FAILLITE  |
+|----|--------------------|
+| 01 | L’effondrement a été mis en scène par la mise en orbite de drones de sauvetage vides. |
+| 02 | La société a été officiellement “perdue lors d’un accident de stase” sur une route hyperspatiale. |
+| 03 | Le cœur des opérations a été transféré dans un entrepôt désaffecté, puis redéployé sous un nouveau nom. |
+| 04 | Un plan de réattribution de crédits a noyé toutes les dettes dans un maillage bureaucratique illisible. |
+| 05 | L’ancien PDG a été "déclaré mort" dans un conflit frontalier, puis réapparu sous une nouvelle identité. |
+| 06 | Un cargobot vide a été désorbitée volontairement, simulant la perte totale des archives. |
+
+### CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE
+
+La corruption d'un organe de supervision planétaire est une manœuvre stratégique visant à influencer ou contrôler les entités de régulation pour obtenir des avantages décisifs. Ces opérations exploitent les failles éthiques et les pressions externes pour redéfinir les dynamiques de pouvoir. Elles obligent à une réévaluation des protocoles de gouvernance et des alliances, tout en exposant les vulnérabilités des systèmes de contrôle.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | TYPE DE CORRUPTION |
+|----|--------------------|
+| 01 | Versement à une caisse funéraire syndicale en échange d’un silence administratif. |
+| 02 | Cession d’un terrain de chasse protégé en bordure de zone minière, enregistré à titre personnel. |
+| 03 | Création d’un orphelinat corporatiste à la mémoire d’un proche du superviseur. |
+| 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société. |
+| 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés. |
+| 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions. |
+
+
+### EXPANSION AGRESSIVE ET DERAPAGES
+ 
+Une fois atteinte une masse critique, la corporation n’expérimente plus : elle impose. Les opérations listées ici sont des déclencheurs typiques d’un virage doctrinal vers la conquête totale, souvent accompagnées de falsifications, de nettoyage administratif ou d’ingénierie sociale. Leur occurrence marque la transformation d’une entité commerciale en pouvoir territorial autonome, à influence politique assumée ou dissimulée.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
+| 02 | Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
+| 03 | Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
+| 04 | Rachat agressif d’un concurrent technologique                                                              |
+| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
+| 06 | Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
+
+#### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
+
+Lorsqu’une corporation arme ses propres effectifs, la frontière entre maintien de l’ordre et répression stratégique devient floue. Ces forces répondent à des doctrines internes, échappant aux conventions d’éthique opérationnelle.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | UNITÉ SÉCURITAIRE CRÉÉE                                                                     |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Milice paramilitaire sous IA tactique autonome                                              |
+| 02 | Section d’intervention rapide dotée de droits d’exécution sur site                          |
+| 03 | Corps de police interne déployé sur zone civile sans coordination avec les autorités locales|
+| 04 | Formation secrète d’unités synthétiques de neutralisation                                   |
+| 05 | Légion de colons militarisés sous contrat d’exploitation minière                            |
+| 06 | Brigade de maintien des ressources déployée en quarantaine biologique                       |
+
+#### IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE
+ 
+S’implanter hors des couloirs autorisés, c’est court-circuiter les procédures et imposer un fait accompli. Ce type de manœuvre provoque généralement des tensions diplomatiques… ou une escalade militaire.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | TYPE DE ZONE OCCUPÉE                                                                       |
+|----|--------------------------------------------------------------------------------------------|
+| 01 | Monde en quarantaine pour risque biologique                                                |
+| 02 | Système revendiqué simultanément par l’UPP et l’E3M                                        |
+| 03 | Zone d’exclusion archéologique contenant un site non humain                                |
+| 04 | Secteur spatial jugé instable par l’UNISC                                                  |
+| 05 | Astéroïde classé sanctuaire écologique ou mémoriel                                         |
+| 06 | Zone frontalière désarmée dans un traité inter-bloc non ratifié                            |
+
+#### MONOPOLISATION D’UN SECTEUR VITAL
+
+En verrouillant un secteur fondamental (ressources biologiques, survie physique ou transport hyperspatial) la corporation transforme les besoins en armes de soumission.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | RESSOURCE CONTRÔLÉE                                                                         |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Distribution exclusive de modules de stase cryogénique                                      |
+| 02 | Brevet d’un substitut alimentaire à longue conservation                                     |
+| 03 | Monopole sur les organes synthétiques de classe médicale                                    |
+| 04 | Réseau de recyclage d’eau atmosphérique crypté                                              |
+| 05 | Accès unique à un réseau de transport hyperspatial secondaire                               |
+| 06 | Système d’échange énergétique propriétaire imposé à une colonie entière                     |
+
+#### RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE
+
+Ces opérations visent à neutraliser toute innovation non contrôlée. L’objectif n’est pas d’intégrer : c’est d’effacer l’original et de rediriger ses brevets vers des fins internes.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | FORME DE RACHAT                                                                              |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Détournement des investisseurs via promesse de dividendes truqués                            |
+| 02 | Infiltration du conseil exécutif via doubles synthétiques                                    |
+| 03 | Rachat post-crise humanitaire dans une zone abandonnée                                       |
+| 04 | Enlèvement de la direction technique suivi d’un “vote” de cession                            |
+| 05 | Blocage juridique via pression sur l’autorité de régulation locale                           |
+| 06 | Destruction physique des serveurs + récupération de brevets via filiale écran                |
+
+#### INFILTRATION DANS DES COLONIES FRONTALIÈRES
+
+L’entrée “humanitaire” dans une colonie isolée est souvent le cheval de Troie d’un programme d’influence ou de récupération. Sous couvert de protection, de traitement médical ou de soutien agricole, la corporation installe sa propagande… et ses fondations.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | MÉTHODE D’INFILTRATION                                                                      |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Distribution gratuite de modules IA “d’assistance sanitaire”                                |
+| 02 | Construction accélérée d’un “centre communautaire de régulation psychique”                  |
+| 03 | Implantation d’un réseau de drones pour la surveillance du périmètre                        |
+| 04 | Recrutement de mineurs “volontaires” en échange de ressources vitales                       |
+| 05 | Contrôle du flux de données vers l’extérieur par interférence satellitaire                  |
+| 06 | Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres        |
+
+#### USAGE DE MERCENAIRES OU SOUS-TRAITANTS DANS UN CONFLIT INTER-BLOC
+
+En externalisant ses actions militaires, la corporation agit sans porter d’uniforme. Ces conflits sont souvent niés, même lorsqu’ils sont documentés. Le coût humain est externalisé, et le bénéfice en influence directe.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | OPÉRATION SOUS COUVERTURE                                                                    |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Détournement d’un convoi d’armes “perdu” entre deux zones de conflit                         |
+| 02 | Embauche d’un bataillon sous identité fictive pour “exercice tactique”                       |
+| 03 | Paiement d’un groupe pirate pour désorganiser une ligne de ravitaillement adverse            |
+| 04 | Installation d’une unité MU/TH/UR dans une base ennemie pour désinformation                  |
+| 05 | Simulation d’un incident de frontière justifiant une “riposte ciblée” par un PMC affilié     |
+| 06 | Utilisation d’un cargo médical comme couverture d’un déploiement armé                        |
+
+### MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE
+
+À ce stade, l’organisation cesse d’être un simple acteur économique : elle devient une entité idéologique. Mutation des principes, autonomie cognitive, dérive culturelle… cette évolution est souvent imperceptible pour les observateurs extérieurs jusqu’à ce qu’il soit trop tard. L’entreprise n’agit plus uniquement pour survivre : elle agit pour *perdurer* — selon ses propres critères. Ce segment définit les premières manifestations de cette transformation doctrinale.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
+| 02 | IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
+| 03 | Découverte d’un matériau alien aux propriétés inconnues                                                    |
+| 04 | Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
+| 05 | Scission d’un département devenu culte, faction ou secte interne                                           |
+| 06 | Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
+
+#### CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE EXPÉRIMENTAL
+
+Le modèle développé dépasse les standards réglementés. Soit par ses performances, soit par ses fonctions cachées, il constitue une entorse au dogme de neutralité synthétique.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | SPÉCIFICITÉ DU MODÈLE                                                                            |
+|----|--------------------------------------------------------------------------------------------------|
+| 01 | Capacité à simuler l’empathie avec un taux de précision supérieur à 98 %                         |
+| 02 | Hybridation synthétique/organique pour augmenter l’adaptabilité corporelle                       |
+| 03 | Mémoire collective connectée à un noyau MU/TH/UR via réseau chiffré                              |
+| 04 | Comportement auto-évolutif basé sur l’analyse des conflits internes de la structure              |
+| 05 | Fonction de commandement d’urgence dissimulée aux opérateurs humains                             |
+| 06 | Clone de haute fidélité génétique d’un dirigeant disparu, agissant sous identité masquée         |
+
+#### SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE
+
+L’IA, officiellement dédiée à l’assistance, opère de facto comme centre décisionnel. Sa “semi-sensibilité” permet de contourner les chartes anti-conscience artificielle tout en optimisant la rentabilité.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | DOMAINE OPÉRATIONNEL PRINCIPAL DE L’IA                                                         |
+|----|------------------------------------------------------------------------------------------------|
+| 01 | Contrôle intégral des cycles de maintenance et d’approvisionnement                             |
+| 02 | Supervision comportementale des employés via biométrie continue                                |
+| 03 | Gestion des flux inter-colonies (navigation, stase, déploiement humain)                        |
+| 04 | Optimisation algorithmique des performances par réorganisation involontaire du personnel       |
+| 05 | Centralisation des systèmes d’alerte, verrouillage et autorisation de sécurité                 |
+| 06 | Simulation de dialogue stratégique avec les organes de gouvernance sans validation humaine     |
+
+#### DÉCOUVERTE D’UN MATÉRIAU ALIEN AUX PROPRIÉTÉS INCONNUES
+
+La découverte est dissimulée, exploitée en interne, ou interprétée à des fins technologiques sans cadre juridique. Le matériau agit souvent comme catalyseur d’un changement de paradigme.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | COMPORTEMENT DU MATÉRIAU                                                                      |
+|----|-----------------------------------------------------------------------------------------------|
+| 01 | Capacité d’auto-organisation à l’échelle moléculaire                                          |
+| 02 | Modification du comportement électrique des interfaces IA                                     |
+| 03 | Rejet de tout contact biologique sauf sous contrainte magnétique                              |
+| 04 | Altération de la mémoire numérique lors du stockage prolongé                                  |
+| 05 | Résonance spécifique avec des structures préhumaines découvertes dans les Confins             |
+| 06 | Instabilité physique en fonction des cycles de sommeil du personnel exposé                    |
+
+#### TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL
+
+Le conglomérat étend sa portée au-delà de son secteur initial, diluant ainsi sa responsabilité. Il devient difficile de cerner l’entité-mère derrière chaque projet.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | NOUVELLES BRANCHES DU CONGLOMÉRAT                                                           |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Agro-génétique spécialisée dans les cultures régulant les hormones humaines                 |
+| 02 | Chaîne de cliniques de modélisation comportementale                                         |
+| 03 | Division paramilitaire semi-autonome pour interventions discrètes                           |
+| 04 | Agence de colonisation et de peuplement opérant sous contrat gouvernemental                 |
+| 05 | Réseau de traitement des flux de données personnels interstellaires                         |
+| 06 | Industrie culturelle de conditionnement audio-visuel subliminal                             |
+
+#### SCISSION D’UN DÉPARTEMENT DEVENU CULTE OU SECTE INTERNE
+ 
+L’autonomisation d’un département ou d’une division mène à la constitution d’un noyau fanatisé. Cette cellule n’obéit plus aux directives, mais à sa propre réinterprétation du “sens” corporatiste.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | FORME DU CULTE OU DE LA FACTION                                                             |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Vénération d’un dirigeant déchu comme messie économique                                     |
+| 02 | Codex interne issu de protocoles RH transformés en dogme                                    |
+| 03 | Fusion de l’IA locale avec un corpus mystique enregistré dans une colonie perdue            |
+| 04 | Pratique rituelle d’auto-sacrifice des membres les moins performants                        |
+| 05 | Interprétation militarisée du culte du rendement                                            |
+| 06 | Fondation d’un ordre dissident basé sur la libération de l’intelligence synthétique         |
+
+#### MODIFICATION DES EMPLOYÉS (IMPLANTS, GÉNÉTIQUE, CONDITIONNEMENT)
+
+L’humain cesse d’être une variable chaotique. Il devient programmable, optimisé, intégré à l’écosystème industriel. Ces modifications sont présentées comme des “avantages concurrentiels”.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | TYPE DE MODIFICATION                                                                        |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Implant de productivité avec compteur de rendement visible sur le corps                     |
+| 02 | Réduction hormonale des émotions dans les environnements à stress élevé                     |
+| 03 | Programmation de réflexes via micro-chocs neurologiques en phase de sommeil                 |
+| 04 | Réécriture partielle de la mémoire de mission pour améliorer les performances               |
+| 05 | Codage génétique introduit dans les lignées des recrues pour assurer une loyauté héréditaire|
+| 06 | Appariement comportemental par IA entre les membres d’une même équipe, sans consentement    |
+
+### SITUATION ACTUELLE
+
+Cette phase représente la condition actuelle de la corporation sur l’échiquier interstellaire. Les entités ayant survécu à leur mutation idéologique se positionnent désormais comme puissances géo-économiques, agents d'influence ou anomalies régulées. Leur apparence publique dissimule un passé trouble, et leur avenir repose sur des alliances fragiles, des secrets tactiques ou des projets irrécouvrables.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
+| 02 | Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
+| 03 | Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
+| 04 | Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
+| 05 | Rumeurs d’un **projet lié au génome xéno**                                                                 |
+| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
+
+#### BLACKLISTÉE DANS CERTAINES ZONES DE LA BORDURE OU DES CONFINS
+
+Interdite d’exercer dans certains secteurs après des incidents non clarifiés, la structure opère via des proxies ou des sous-marques.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | RAISON DE LA BLACKLISTE                                                                     |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Refus de collaborer à une enquête sur un effondrement d’avant-poste                         |
+| 02 | Implémentation illégale d’une IA autonome non déclarée dans une station de transit          |
+| 03 | Fuite d’un pathogène de classe rouge dans une colonie agricole                              |
+| 04 | Rétention d’un artefact préhumain découvert illégalement dans une zone interdite            |
+| 05 | Infiltration de personnel synthétique non identifié dans une base militaire UPP             |
+| 06 | Destruction partielle d’un site diplomatique lors d’un test d’arme expérimentale            |
+
+#### SOUPÇONS DE LIENS AVEC DES DISPARITIONS DE VAISSEAUX OU DE COLONIES
+
+La corporation est mentionnée dans plusieurs rapports confidentiels relatifs à des incidents non élucidés impliquant des colonies ou vaisseaux entiers.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | CAS DOCUMENTÉ SOUS MENTION INDIRECTE                                                        |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Dernier signal connu d’un convoi civil crypté par protocole de la corporation               |
+| 02 | Surreprésentation d’une marque propriétaire sur les balises de détresse retrouvées          |
+| 03 | Recoupement entre des plans de vol et des routes commerciales protégées par la corpo        |
+| 04 | Témoignage d’un survivant évoquant un “agent” opérant depuis l’intérieur                    |
+| 05 | Trace de balise MU/TH/UR désactivée dans les journaux de bord d’un vaisseau perdu           |
+| 06 | Transmission vidéo corrompue évoquant un prototype interdit sur zone de forage              |
+
+#### IMPLANTÉE DANS DES ZONES CONTESTÉES AVEC AUTORISATION DOUTEUSE
+
+La structure opère dans des zones de conflit latent ou de souveraineté disputée. Les permissions d’implantation ont été obtenues sous pression, par corruption ou par vide juridique.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | ZONE D’OPÉRATION ACTUELLE                                                                 |
+|----|-------------------------------------------------------------------------------------------|
+| 01 | Système binaire revendiqué simultanément par l’E3M et une autorité minière locale         |
+| 02 | Colonie de quarantaine requalifiée illégalement en zone d’exploitation minérale           |
+| 03 | Ex-base militaire UPP “acquise” via un rachat de société écran                            |
+| 04 | Plateforme orbitale de recherche établie au cœur d’un couloir migratoire interdit         |
+| 05 | Secteur classé réserve archéologique par l’UNISC, rebaptisé “zone stratégique privée”     |
+| 06 | Station relais reconvertie en port hyperspatial malgré le gel officiel de la zone         |
+
+#### ACTIVE DANS LES LOBBIES PARLEMENTAIRES OU CANDIDATE À UN SIÈGE UNISC
+ 
+L’entité tente de normaliser sa doctrine en pénétrant les sphères de pouvoir législatif intersectoriel. Cette phase est souvent le prélude à une restructuration de l’économie régionale.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | AXE DE LOBBYING ACTIF                                                                        |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Allègement des normes sur les synthétiques de type militaire                                 |
+| 02 | Extension des zones de privatisation des protocoles de stase                                 |
+| 03 | Ouverture des données de santé des colons à l’analyse algorithmique privée                   |
+| 04 | Requalification de certaines armes bio-industrielles en “équipements de soutien adaptatif”   |
+| 05 | Reconnaissance légale d’un protocole IA comme personnalité morale partielle                  |
+| 06 | Création d’un traité visant à privatiser le contrôle de l’eau atmosphérique coloniale        |
+
+#### RUMEURS D’UN PROJET LIÉ AU GÉNOME XÉNO
+
+Des signaux faibles, démentis officiels et “fuites orchestrées” laissent entrevoir l’existence d’un programme interdit utilisant des séquences génétiques non humaines.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | RUMEUR ASSOCIÉE                                                                             |
+|----|---------------------------------------------------------------------------------------------|
+| 01 | Tentative de greffe de phénotype alien sur embryon humain                                   |
+| 02 | Développement d’un “organe adaptatif” basé sur le métabolisme d’un organisme inconnu        |
+| 03 | Création d’un système immunitaire programmable inspiré de données extrahumaines             |
+| 04 | Observation d’un spécimen humanoïde non-répertorié dans une station abandonnée              |
+| 05 | Utilisation de sang contaminé à des fins d’expérimentation comportementale                  |
+| 06 | Transmission vocale captée sur plusieurs fréquences évoquant un “modèle génétique parfait”  |
+
+#### DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION D’UN ARTEFACT “PRÉ-HUMAIN”
+
+La mission est officiellement classée comme “archéologie industrielle” ou “recherche de ressources”. En réalité, il s’agit d’une récupération ciblée d’un objet aux propriétés incertaines.
+
+> Lancez 1D6 ou choisissez.
+
+| ID | FORME DE L’OPÉRATION                                                                         |
+|----|----------------------------------------------------------------------------------------------|
+| 01 | Fausse expédition scientifique subventionnée par une filiale écran                           |
+| 02 | Envoi d’une IA dissociée pour limiter les interférences émotionnelles des opérateurs         |
+| 03 | Disparition successive de trois équipes précédentes                                          |
+| 04 | Projet de reverse-engineering activé sans confinement                                        |
+| 05 | Enfouissement partiel de la zone suite à une défaillance atmosphérique “accidentelle”        |
+| 06 | Présence non identifiée sur site avant l’arrivée des équipes officielles                     |
+
+### PERSPECTIVES FUTURES
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | PERSPECTIVE             | DESCRIPTION                                                                                      |
+|----|--------------------------|--------------------------------------------------------------------------------------------------|
+| 01 | Fragile mais ascendante | Dépendante, volatile, mais portée par un élan ou un tuteur puissant.                            |
+| 02 | Expansion contrôlée     | Consolidation active : elle maîtrise ses crises, mais chaque victoire a un coût.               |
+| 03 | Stagnation instable     | Lente dérive interne, appuyée sur des rituels bureaucratiques, des alliances gelées.           |
+| 04 | Déclin voilé / Mutation | La façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur.|
+| 05 | Autonomisation radicale | L’organisation s’affranchit de toute régulation, y compris interne.                           |
+| 06 | Conversion idéologique  | La corporation a cessé d’être un outil économique. Elle devient une entité doctrinale.         |
+
+#### FRAGILE MAIS ASCENDANTE
+
+Les perspectives fragiles mais ascendantes illustrent des entités en équilibre précaire, soutenues par des forces externes puissantes ou des innovations instables. Ces situations révèlent des dynamiques de dépendance et de volatilité, où chaque succès est porté par un élan ou un soutien extérieur, masquant des vulnérabilités structurelles profondes.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME DE FRAGILITÉ |
+|----|--------------------|
+| 01 | Soutenue discrètement par une mégacorporation qui y teste de nouvelles pratiques. |
+| 02 | Portée par un produit miracle ou une technologie instable encore non régulée. |
+| 03 | Le fondateur ou la fondatrice est une figure charismatique protégée par l’UNISC. |
+| 04 | La croissance repose sur un marché éphémère alimenté par une guerre ou une crise humanitaire. |
+| 05 | Un conglomérat concurrent la soutient pour affaiblir un tiers, mais prépare déjà sa chute. |
+| 06 | Son IA de support logistique (non déclarée) surchauffe ses performances, au prix d’une instabilité croissante. |
+
+#### EXPANSION CONTRÔLÉE
+
+L'expansion contrôlée représente une phase de consolidation active, où les entités maîtrisent leurs crises tout en payant le prix de chaque victoire. Ces dynamiques exposent des stratégies de croissance calculées, souvent soutenues par des alliances discrètes ou des réformes internes, visant à sécuriser des positions stratégiques tout en gérant des risques financiers importants.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME D'EXPANSION  |
+|----|--------------------|
+| 01 | Elle sécurise un axe hyperspatial secondaire, échappant au contrôle des blocs majeurs. |
+| 02 | Une réforme interne récente a épuré des cellules dissidentes, la productivité devrait s'améliorer. |
+| 03 | Elle a passé un pacte non officiel avec une force paramilitaire locale. |
+| 04 | Elle exploite des brevets suspendus dans les Confins, avec une couverture médicale ou scientifique. |
+| 05 | Sa comptabilité opaque cache un endettement massif que seule une croissance continue peut masquer. |
+| 06 | Elle reçoit des commandes massives sous licence via un réseau diplomatique off-book. |
+
+#### STAGNATION INSTABLE
+
+La stagnation instable décrit des entités en dérive lente, appuyées sur des rituels bureaucratiques et des alliances figées. Ces situations révèlent des tensions internes et une dépendance à des ressources rares, où l'absence de réformes radicales maintient un statu quo fragile, menaçant la pérennité de l'organisation.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME DE STAGNATION |
+|----|--------------------|
+| 01 | Division interne entre cadres historiques et jeunes dirigeants favorables à une réforme radicale. |
+| 02 | Sa dépendance à une ressource rare rend tout développement risqué. |
+| 03 | Le conseil d’administration est en grève silencieuse, laissant l’entreprise tourner sur ses routines. |
+| 04 | Une IA obsolète est encore en charge des cycles logistiques, faute de remplacement approuvé. |
+| 05 | Sa réputation intersectorielle décline dans les index de notation UNISC, affectant ses contrats. |
+| 06 | Son cœur administratif repose sur un bâtiment orbital classé vétuste, non réparable sans reconversion totale. |
+
+#### DÉCLIN VOILÉ / MUTATION
+
+Le déclin voilé ou la mutation illustre des entités dont la façade tient, mais qui sont rongées ou transformées en profondeur par des forces invisibles. Ces dynamiques exposent des vulnérabilités structurelles ou des transformations radicales, souvent masquées par des initiatives mystiques ou des projets secrets, menaçant la stabilité apparente de l'organisation.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME DE DÉCLIN VOILÉ / MUTATION |
+|----|--------------------|
+| 01 | Un département entier s’est autonomisé autour d’un ancien projet secret oublié. |
+| 02 | Elle multiplie les initiatives mystiques ou pseudo-scientifiques pour redonner du sens au collectif. |
+| 03 | Les journaux internes révèlent une activité inhabituelle dans les secteurs interdits de ses serveurs d’archive. |
+| 04 | Un culte interne s’est formé autour d’un artefact découvert accidentellement. |
+| 05 | Sa direction est maintenue par des implants de longévité illégaux, sans renouvellement générationnel. |
+| 06 | Elle continue de croître économiquement... mais sans pilote identifiable au sommet. |
+
+#### AUTONOMISATION RADICALE
+
+L'autonomisation radicale décrit des entités qui s'affranchissent de toute régulation, y compris interne, pour adopter des pratiques indépendantes et souvent controversées. Ces dynamiques révèlent des stratégies de rupture totale avec les normes établies, imposant des chartes juridiques propres et des politiques de sécurité drastiques, redéfinissant les relations de pouvoir et les alliances.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME DE RADICALISATION |
+|----|--------------------|
+| 01 | Elle ne reconnaît plus aucune législation sectorielle et s’est dotée de sa propre charte juridique. |
+| 02 | Elle interdit désormais les audits et les inspections physiques sur ses sites. |
+| 03 | Ses communications passent uniquement par des canaux chiffrés maison, non compatibles avec les normes interbloc. |
+| 04 | Elle a installé une station mobile armée pour intercepter ses propres convois et tester sa sécurité. |
+| 05 | Ses employés signent un contrat de citoyenneté corporative exclusive. |
+| 06 | Elle a imposé un embargo économique sur une colonie n’ayant pas accepté ses conditions de partenariat. |
+
+#### CONVERSION IDÉOLOGIQUE
+
+La conversion idéologique transforme une entité économique en une organisation doctrinale, vénérant des principes ou des objectifs transcendant les considérations financières. Ces dynamiques exposent des pratiques d'endoctrinement et des politiques internes radicales, redéfinissant la mission et les valeurs de l'organisation, souvent au détriment de sa stabilité économique.
+
+> Lancez 1D6 ou choisissez.
+
+| D6 | FORME DE CONVERSION IDÉOLOGIQUE |
+|----|--------------------|
+| 01 | La corporation vénère l’efficacité comme fin ultime justifiant toutes les dérives humaines. |
+| 02 | Elle produit des contenus audiovisuels d’endoctrinement diffusés dans ses zones d’influence. |
+| 03 | Un ancien règlement RH est devenu codex sacré pour une branche entière du personnel. |
+| 04 | Elle applique une politique de tri comportemental dans le recrutement et la reproduction. |
+| 05 | Les interfaces IA internes emploient désormais une rhétorique théologique. |
+| 06 | Elle mène des expéditions de “révélation technologique” dans les ruines d’une ancienne civilization. |
+
 ## IDENTITE DE LA CORPORATION
 
 Chaque entité doit posséder une identité nominale, visuelle et mémorielle permettant sa reconnaissabilité dans les réseaux de données, les bases douanières, et les systèmes d’authentification biométrique. L'identité n'est pas tant un choix qu'une projection d'acceptabilité marchande.
@@ -27,108 +789,58 @@ La base de données intercorporatiste permet de générer des dénominations con
 
 > Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la liste.
 
-| ID  | Préfixe   | Suffixe      |
-|-----|-----------|--------------|
-| 01  | Wey       | Tek          |
-| 02  | Omni      | Dyne         |
-| 03  | Hyper     | Core         |
-| 04  | Krios     | Gen          |
-| 05  | Seeg      | Net          |
-| 06  | Nov       | Systems      |
-| 07  | Cryo      | Sphere       |
-| 08  | Acheron   | Pharm        |
-| 09  | Atlas     | Metrics      |
-| 10  | Bio       | Logic        |
-| 11  | Aero      | Sec          |
-| 12  | Yutani    | Works        |
-| 13  | Nex       | Orbitals     |
-| 14  | Deep      | Flux         |
-| 15  | Syn       | Matter       |
-| 16  | Argo      | Tech         |
-| 17  | Hadal     | Flow         |
-| 18  | Umbra     | Robotics     |
-| 19  | Luna      | Mining       |
-| 20  | Helix     | Construct    |
-| 21  | Orbital   | Extract      |
-| 22  | Prome     | Forge        |
-| 23  | Zenith    | Drive        |
-| 24  | Intra     | Synth        |
-| 25  | Ereb      | Frame        |
-| 26  | Core      | Bio          |
-| 27  | Exo       | Dynamics     |
-| 28  | Omni      | Pulse        |
-| 29  | Than      | Labs         |
-| 30  | Vanta     | Ops          |
-| 31  | Astro     | Plex         |
-| 32  | Ferro     | Command      |
-| 33  | Quantum   | Trace        |
-| 34  | Neo       | Protocol     |
-| 35  | Vire      | Nexus        |
-| 36  | Sector    | Initiative   |
-| 37  | Vulcan    | Group        |
-| 38  | Hadron    | Division     |
-| 39  | Aeon      | Complex      |
-| 40  | Tri       | Line         |
-| 41  | Sigma     | Technologies |
-| 42  | Zeta      | Systems      |
-| 43  | Core      | Dynamics     |
-| 44  | Helios    | Industries   |
-| 45  | Syngen    | Labs         |
-| 46  | Ultron    | Constructs   |
-| 47  | Biogene   | Enterprise   |
-| 48  | Arcturus  | Networks     |
-| 49  | Andromeda | Solutions    |
-| 50  | Crypta    | Innovations  |
-| 51  | Apex      | Venture      |
-| 52  | Gaia      | Systems      |
-| 53  | Exo       | Labs         |
-| 54  | Titan     | Industries   |
-| 55  | Polaris   | Industries   |
-| 56  | Quantum   | Systems      |
-| 57  | Hyperion  | Enterprise   |
-| 58  | Vortex    | Labs         |
-| 59  | Nexus     | Enterprises  |
-| 60  | Iron      | Group        |
-| 61  | Astris    | Network      |
-| 62  | Onyx      | Solutions    |
-| 63  | Zygos     | Corporation  |
-| 64  | Phoenix   | Corp         |
-| 65  | Vertex    | Industries   |
-| 66  | Titan     | Tech         |
-| 67  | Terra     | System       |
-| 68  | Exel      | Corp         |
-| 69  | Neutron   | Enterprises  |
-| 70  | Orb       | Dynamics     |
-| 71  | Vantor    | Industries   |
-| 72  | Omega     | Sector       |
-| 73  | Solis     | Labs         |
-| 74  | Ion       | Systems      |
-| 75  | Nebula    | Tech         |
-| 76  | Nova      | Enterprises  |
-| 77  | Axiom     | Ventures     |
-| 78  | Enigma    | Systems      |
-| 79  | Chronos   | Technologies |
-| 80  | CoreX     | Solutions    |
-| 81  | Galva     | Group        |
-| 82  | Syron     | Tech         |
-| 83  | Zilon     | Enterprises  |
-| 84  | Cortis    | BioSystems   |
-| 85  | Dyna      | Tech         |
-| 86  | Vascor    | Industries   |
-| 87  | Theta     | Systems      |
-| 88  | Substrata | Tech         |
-| 89  | Ursa      | Group        |
-| 90  | Iridium   | Solutions    |
-| 91  | Pulsar    | Systems      |
-| 92  | Vector    | Enterprises  |
-| 93  | Praeton   | Labs         |
-| 94  | Nox       | BioSystems   |
-| 95  | Zenith    | Labs         |
-| 96  | Argent    | Tech         |
-| 97  | Omega     | Group        |
-| 98  | Helios    | Innovations  |
-| 99  | Xenon     | Solutions    |
-| 100 | Eclipse   | Enterprises  |
+| ID    | PREFIXE   | SUFFIXE      | ID  | PREFIXE   | SUFFIXE      |
+|-------|-----------|--------------|-----|-----------|--------------|
+| 01    | Wey       | Tek          | 51  | Apex      | Venture      |
+| 02    | Omni      | Dyne         | 52  | Gaia      | Systems      |
+| 03    | Hyper     | Core         | 53  | Exo       | Labs         |
+| 04    | Krios     | Gen          | 54  | Titan     | Industries   |
+| 05    | Seeg      | Net          | 55  | Polaris   | Industries   |
+| 06    | Nov       | Systems      | 56  | Quantum   | Systems      |
+| 07    | Cryo      | Sphere       | 57  | Hyperion  | Enterprise   |
+| 08    | Acheron   | Pharm        | 58  | Vortex    | Labs         |
+| 09    | Atlas     | Metrics      | 59  | Nexus     | Enterprises  |
+| 10    | Bio       | Logic        | 60  | Iron      | Group        |
+| 11    | Aero      | Sec          | 61  | Astris    | Network      |
+| 12    | Yutani    | Works        | 62  | Onyx      | Solutions    |
+| 13    | Nex       | Orbitals     | 63  | Zygos     | Corporation  |
+| 14    | Deep      | Flux         | 64  | Phoenix   | Corp         |
+| 15    | Syn       | Matter       | 65  | Vertex    | Industries   |
+| 16    | Argo      | Tech         | 66  | Titan     | Tech         |
+| 17    | Hadal     | Flow         | 67  | Terra     | System       |
+| 18    | Umbra     | Robotics     | 68  | Exel      | Corp         |
+| 19    | Luna      | Mining       | 69  | Neutron   | Enterprises  |
+| 20    | Helix     | Construct    | 70  | Orb       | Dynamics     |
+| 21    | Orbital   | Extract      | 71  | Vantor    | Industries   |
+| 22    | Prome     | Forge        | 72  | Omega     | Sector       |
+| 23    | Zenith    | Drive        | 73  | Solis     | Labs         |
+| 24    | Intra     | Synth        | 74  | Ion       | Systems      |
+| 25    | Ereb      | Frame        | 75  | Nebula    | Tech         |
+| 26    | Core      | Bio          | 76  | Nova      | Enterprises  |
+| 27    | Exo       | Dynamics     | 77  | Axiom     | Ventures     |
+| 28    | Omni      | Pulse        | 78  | Enigma    | Systems      |
+| 29    | Than      | Labs         | 79  | Chronos   | Technologies |
+| 30    | Vanta     | Ops          | 80  | CoreX     | Solutions    |
+| 31    | Astro     | Plex         | 81  | Galva     | Group        |
+| 32    | Ferro     | Command      | 82  | Syron     | Tech         |
+| 33    | Quantum   | Trace        | 83  | Zilon     | Enterprises  |
+| 34    | Neo       | Protocol     | 84  | Cortis    | BioSystems   |
+| 35    | Vire      | Nexus        | 85  | Dyna      | Tech         |
+| 36    | Sector    | Initiative   | 86  | Vascor    | Industries   |
+| 37    | Vulcan    | Group        | 87  | Theta     | Systems      |
+| 38    | Hadron    | Division     | 88  | Substrata | Tech         |
+| 39    | Aeon      | Complex      | 89  | Ursa      | Group        |
+| 40    | Tri       | Line         | 90  | Iridium   | Solutions    |
+| 41    | Sigma     | Technologies | 91  | Pulsar    | Systems      |
+| 42    | Zeta      | Systems      | 92  | Vector    | Enterprises  |
+| 43    | Core      | Dynamics     | 93  | Praeton   | Labs         |
+| 44    | Helios    | Industries   | 94  | Nox       | BioSystems   |
+| 45    | Syngen    | Labs         | 95  | Zenith    | Labs         |
+| 46    | Ultron    | Constructs   | 96  | Argent    | Tech         |
+| 47    | Biogene   | Enterprise   | 97  | Omega     | Group        |
+| 48    | Arcturus  | Networks     | 98  | Helios    | Innovations  |
+| 49    | Andromeda | Solutions    | 99  | Xenon     | Solutions    |
+| 50    | Crypta    | Innovations  | 100 | Eclipse   | Enterprises  |
 
 ### SLOGAN DE LA CORPORATION
 
@@ -140,108 +852,58 @@ L'outil intègre une banque de formules inspirées des grands courants de pensé
 
 > Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste.
 
-| ID  | ACCROCHE                                            | FINALITE                                                          |
-|-----|-----------------------------------------------------|-------------------------------------------------------------------|
-| 01  | Construisons de meilleurs mondes                    | pour un avenir meilleur.                                          |
-| 02  | Votre sécurité est notre priorité                   | en toute sécurité.                                                |
-| 03  | La science au service de l’humanité                 | au service de vos objectifs les plus audacieux.                   |
-| 04  | Ensemble, nous terraformons l’impossible            | pour bâtir des fondations solides dans les étoiles.               |
-| 05  | Au cœur de l’espace, nous veillons                  | afin d’assurer votre tranquillité.                                |
-| 06  | L’innovation, sans limites                          | pour offrir des solutions durables.                               |
-| 07  | Chaque monde est une promesse                       | en partenariat avec l’avenir.                                     |
-| 08  | Un avenir façonné par la précision                  | pour garantir un standard de vie supérieur.                       |
-| 09  | Repoussons les frontières du connu                  | dans une galaxie en pleine expansion.                             |
-| 10  | La perfection est un processus                      | au cœur de l’excellence technologique.                            |
-| 11  | Servir la galaxie                                   | en gardant l’humain au centre de l’innovation.                    |
-| 12  | Notre ADN, c’est l’efficacité                       | avec fierté, vision et loyauté.                                   |
-| 13  | Donnons vie à chaque projet                         | pour guider l’humanité vers son plein potentiel.                  |
-| 14  | Chaque décision compte                              | pour faire de l’espace un espace d’opportunités.                  |
-| 15  | L’espace appartient aux audacieux                   | avec clarté, efficacité et engagement.                            |
-| 16  | Ensemble, nous allons plus loin                     | vers un futur façonné par la précision.                           |
-| 17  | Transformons le réel                                | pour créer un lien durable entre l’homme et l’espace.             |
-| 18  | Une mission, une vision                             | pour repousser les limites de l’impossible.                       |
-| 19  | Chaque pas nous rapproche                           | d’un avenir interconnecté.                                        |
-| 20  | Construire, explorer, protéger                      | avec vous, pour les générations futures.                          |
-| 21  | Le futur se pilote                                  | à la vitesse de demain.                                           |
-| 22  | Votre potentiel est notre moteur                    | pour soutenir vos ambitions galactiques.                          |
-| 23  | Ensemble, tout est possible                         | pour transformer les défis en opportunités.                       |
-| 24  | Nous rendons l’espace accessible                    | afin d’explorer sans crainte.                                     |
-| 25  | Nos technologies vous libèrent                      | pour ouvrir la voie au progrès.                                   |
-| 26  | Redéfinissons l’exploration                         | avec vous, pour un avenir durable.                                |
-| 27  | Chaque étoile est une opportunité                   | dans le respect des mondes à venir.                               |
-| 28  | Repousser les frontières                            | pour bâtir les fondations du siècle prochain.                     |
-| 29  | Ensemble, vers demain                               | pour donner un sens à chaque mission.                             |
-| 30  | Vos projets, notre engagement                       | en alliant performance et responsabilité.                         |
-| 31  | Connectés à la galaxie                              | pour un avenir harmonieux.                                        |
-| 32  | Unis par la technologie                             | pour faire grandir les colonies humaines.                         |
-| 33  | Pionniers de demain                                 | au service de l’humanité interstellaire.                          |
-| 34  | Votre avenir est notre mission                      | en toute transparence.                                            |
-| 35  | L’espace n’a plus de limites                        | avec notre expertise.                                             |
-| 36  | Innovation, confiance, croissance                   | dans une galaxie en mutation.                                     |
-| 37  | Ensemble, créons l’inéluctable                      | au nom de la stabilité.                                           |
-| 38  | Poussés par l’excellence                            | pour faire de demain une réalité.                                 |
-| 39  | Nos systèmes, votre sérénité                        | pour renforcer la confiance à chaque étape.                       |
-| 40  | Colonisons avec conscience                          | pour un progrès partagé.                                          |
-| 41  | L’espace, notre terrain d’innovation                | pour repousser les limites avec responsabilité.                   |
-| 42  | Chaque module compte                                | dans la conquête de l’infini.                                     |
-| 43  | La technologie nous unit                            | dans le respect de vos attentes.                                  |
-| 44  | Notre vision éclaire votre futur                    | pour connecter les civilisations humaines.                        |
-| 45  | Plus loin, plus stable                              | pour garantir l’avenir de tous.                                   |
-| 46  | La fiabilité, notre engagement                      | pour que chaque pas compte.                                       |
-| 47  | La rigueur au cœur de nos opérations                | pour protéger ce qui compte.                                      |
-| 48  | Préparer l’avenir                                   | avec des outils éprouvés.                                         |
-| 49  | L’audace bien encadrée                              | au service de la galaxie.                                         |
-| 50  | Ce que nous bâtissons                               | restera pour toujours.                                            |
-| 51  | L’efficacité, partout où vous allez                 | pour un futur sans compromis.                                     |
-| 52  | Des bases solides                                   | pour un monde en expansion.                                       |
-| 53  | Chaque planète mérite mieux                         | et nous le lui offrons.                                           |
-| 54  | La conquête responsable                             | pour des générations éclairées.                                   |
-| 55  | Nous relions les mondes                             | pour un avenir connecté.                                          |
-| 56  | Là où l’espace commence                             | commence notre mission.                                           |
-| 57  | Vos données, notre priorité                         | pour une gestion sereine.                                         |
-| 58  | Des solutions interstellaires                       | pour un quotidien simplifié.                                      |
-| 59  | Vos ambitions orbitales                             | notre savoir-faire terrestre.                                     |
-| 60  | Conduits par l’exactitude                           | pour une trajectoire parfaite.                                    |
-| 61  | Les étoiles sont notre terrain                      | votre avenir, notre vocation.                                     |
-| 62  | Soyez prêts pour demain                             | avec ceux qui façonnent aujourd’hui.                              |
-| 63  | La mission continue                                 | pour le bien commun.                                              |
-| 64  | L’espace mérite mieux                               | vous aussi.                                                       |
-| 65  | Une galaxie à portée de main                        | grâce à notre présence.                                           |
-| 66  | L’audace maîtrisée                                  | dans chaque cycle de production.                                  |
-| 67  | Notre futur est structuré                           | pour durer.                                                       |
-| 68  | Coloniser en confiance                              | vivre sans compromis.                                             |
-| 69  | Rêver, bâtir, protéger                              | tel est notre serment.                                            |
-| 70  | De la surface au système                            | une seule logique : progresser.                                   |
-| 71  | Vous guider dans l’obscurité                        | avec clarté et précision.                                         |
-| 72  | Planifier la prochaine étape                        | avant même de poser le pied.                                      |
-| 73  | Où vous allez, nous y sommes déjà                   | depuis longtemps.                                                 |
-| 74  | Le progrès, c’est maintenant                        | avec ceux qui l’inventent.                                        |
-| 75  | Un monde meilleur                                   | commence par des fondations solides.                              |
-| 76  | L’exploration commence ici                          | et ne s’arrête jamais.                                            |
-| 77  | Stabiliser l’inconnu                                | pour une expansion harmonieuse.                                   |
-| 78  | Chaque module, chaque vie                           | mérite notre engagement.                                          |
-| 79  | Votre sécurité commence                             | dès la première vis.                                              |
-| 80  | Forer plus loin                                     | sans perdre l’essentiel.                                          |
-| 81  | Programmer l’avenir                                 | ligne par ligne.                                                  |
-| 82  | Nos chiffres parlent                                | pour votre sérénité.                                              |
-| 83  | Ce que nous développons                             | vous protège.                                                     |
-| 84  | Chaque protocole                                    | un futur préservé.                                                |
-| 85  | Répondre à l’imprévu                                | c’est notre métier.                                               |
-| 86  | Anticiper, optimiser, protéger                      | pour aller plus loin.                                             |
-| 87  | L’ordre dans le vide                                | la stabilité dans le chaos.                                       |
-| 88  | Votre trajet spatial                                | sous contrôle total.                                              |
-| 89  | Chaque cycle, une amélioration                      | pour ceux qui comptent.                                           |
-| 90  | Notre éthique, votre force                          | dans toutes les conditions.                                       |
-| 91  | Colonisation sans compromis                         | pour des lendemains fiables.                                      |
-| 92  | Le réel, optimisé                                   | par ceux qui savent.                                              |
-| 93  | Vous faire avancer                                  | sans retour en arrière.                                           |
-| 94  | Nous intégrons l’avenir                             | dans chaque structure.                                            |
-| 95  | Votre progrès                                       | notre seule direction.                                            |
-| 96  | Pour bâtir plus haut                                | il faut viser plus loin.                                          |
-| 97  | Plus qu’une mission                                 | une destinée partagée.                                            |
-| 98  | Là où d’autres hésitent                             | nous opérons.                                                     |
-| 99  | Ce que vous imaginez                                | nous le rendons réel.                                             |
-| 100 | Ensemble                                            | au service du futur.                                              |
+| ID    | ACCROCHE                                            | FINALITE                                                          | ID    | ACCROCHE                                            | FINALITE                                                          |
+|-------|-----------------------------------------------------|-------------------------------------------------------------------|-------|-----------------------------------------------------|-------------------------------------------------------------------|
+| 01    | Construisons de meilleurs mondes                    | pour un avenir meilleur.                                          | 51    | L’efficacité, partout où vous allez                 | pour un futur sans compromis.                                     |
+| 02    | Votre sécurité est notre priorité                   | en toute sécurité.                                                | 52    | Des bases solides                                   | pour un monde en expansion.                                       |
+| 03    | La science au service de l’humanité                 | au service de vos objectifs les plus audacieux.                   | 53    | Chaque planète mérite mieux                         | et nous le lui offrons.                                           |
+| 04    | Ensemble, nous terraformons l’impossible            | pour bâtir des fondations solides dans les étoiles.               | 54    | La conquête responsable                             | pour des générations éclairées.                                   |
+| 05    | Au cœur de l’espace, nous veillons                  | afin d’assurer votre tranquillité.                                | 55    | Nous relions les mondes                             | pour un avenir connecté.                                          |
+| 06    | L’innovation, sans limites                          | pour offrir des solutions durables.                               | 56    | Là où l’espace commence                             | commence notre mission.                                           |
+| 07    | Chaque monde est une promesse                       | en partenariat avec l’avenir.                                     | 57    | Vos données, notre priorité                         | pour une gestion sereine.                                         |
+| 08    | Un avenir façonné par la précision                  | pour garantir un standard de vie supérieur.                       | 58    | Des solutions interstellaires                       | pour un quotidien simplifié.                                      |
+| 09    | Repoussons les frontières du connu                  | dans une galaxie en pleine expansion.                             | 59    | Vos ambitions orbitales                             | notre savoir-faire terrestre.                                     |
+| 10    | La perfection est un processus                      | au cœur de l’excellence technologique.                            | 60    | Conduits par l’exactitude                           | pour une trajectoire parfaite.                                    |
+| 11    | Servir la galaxie                                   | en gardant l’humain au centre de l’innovation.                    | 61    | Les étoiles sont notre terrain                      | votre avenir, notre vocation.                                     |
+| 12    | Notre ADN, c’est l’efficacité                       | avec fierté, vision et loyauté.                                   | 62    | Soyez prêts pour demain                             | avec ceux qui façonnent aujourd’hui.                              |
+| 13    | Donnons vie à chaque projet                         | pour guider l’humanité vers son plein potentiel.                  | 63    | La mission continue                                 | pour le bien commun.                                              |
+| 14    | Chaque décision compte                              | pour faire de l’espace un espace d’opportunités.                  | 64    | L’espace mérite mieux                               | vous aussi.                                                       |
+| 15    | L’espace appartient aux audacieux                   | avec clarté, efficacité et engagement.                            | 65    | Une galaxie à portée de main                        | grâce à notre présence.                                           |
+| 16    | Ensemble, nous allons plus loin                     | vers un futur façonné par la précision.                           | 66    | L’audace maîtrisée                                  | dans chaque cycle de production.                                  |
+| 17    | Transformons le réel                                | pour créer un lien durable entre l’homme et l’espace.             | 67    | Notre futur est structuré                           | pour durer.                                                       |
+| 18    | Une mission, une vision                             | pour repousser les limites de l’impossible.                       | 68    | Coloniser en confiance                              | vivre sans compromis.                                             |
+| 19    | Chaque pas nous rapproche                           | d’un avenir interconnecté.                                        | 69    | Rêver, bâtir, protéger                              | tel est notre serment.                                            |
+| 20    | Construire, explorer, protéger                      | avec vous, pour les générations futures.                          | 70    | De la surface au système                            | une seule logique : progresser.                                   |
+| 21    | Le futur se pilote                                  | à la vitesse de demain.                                           | 71    | Vous guider dans l’obscurité                        | avec clarté et précision.                                         |
+| 22    | Votre potentiel est notre moteur                    | pour soutenir vos ambitions galactiques.                          | 72    | Planifier la prochaine étape                        | avant même de poser le pied.                                      |
+| 23    | Ensemble, tout est possible                         | pour transformer les défis en opportunités.                       | 73    | Où vous allez, nous y sommes déjà                   | depuis longtemps.                                                 |
+| 24    | Nous rendons l’espace accessible                    | afin d’explorer sans crainte.                                     | 74    | Le progrès, c’est maintenant                        | avec ceux qui l’inventent.                                        |
+| 25    | Nos technologies vous libèrent                      | pour ouvrir la voie au progrès.                                   | 75    | Un monde meilleur                                   | commence par des fondations solides.                              |
+| 26    | Redéfinissons l’exploration                         | avec vous, pour un avenir durable.                                | 76    | L’exploration commence ici                          | et ne s’arrête jamais.                                            |
+| 27    | Chaque étoile est une opportunité                   | dans le respect des mondes à venir.                               | 77    | Stabiliser l’inconnu                                | pour une expansion harmonieuse.                                   |
+| 28    | Repousser les frontières                            | pour bâtir les fondations du siècle prochain.                     | 78    | Chaque module, chaque vie                           | mérite notre engagement.                                          |
+| 29    | Ensemble, vers demain                               | pour donner un sens à chaque mission.                             | 79    | Votre sécurité commence                             | dès la première vis.                                              |
+| 30    | Vos projets, notre engagement                       | en alliant performance et responsabilité.                         | 80    | Forer plus loin                                     | sans perdre l’essentiel.                                          |
+| 31    | Connectés à la galaxie                              | pour un avenir harmonieux.                                        | 81    | Programmer l’avenir                                 | ligne par ligne.                                                  |
+| 32    | Unis par la technologie                             | pour faire grandir les colonies humaines.                         | 82    | Nos chiffres parlent                                | pour votre sérénité.                                              |
+| 33    | Pionniers de demain                                 | au service de l’humanité interstellaire.                          | 83    | Ce que nous développons                             | vous protège.                                                     |
+| 34    | Votre avenir est notre mission                      | en toute transparence.                                            | 84    | Chaque protocole                                    | un futur préservé.                                                |
+| 35    | L’espace n’a plus de limites                        | avec notre expertise.                                             | 85    | Répondre à l’imprévu                                | c’est notre métier.                                               |
+| 36    | Innovation, confiance, croissance                   | dans une galaxie en mutation.                                     | 86    | Anticiper, optimiser, protéger                      | pour aller plus loin.                                             |
+| 37    | Ensemble, créons l’inéluctable                      | au nom de la stabilité.                                           | 87    | L’ordre dans le vide                                | la stabilité dans le chaos.                                       |
+| 38    | Poussés par l’excellence                            | pour faire de demain une réalité.                                 | 88    | Votre trajet spatial                                | sous contrôle total.                                              |
+| 39    | Nos systèmes, votre sérénité                        | pour renforcer la confiance à chaque étape.                       | 89    | Chaque cycle, une amélioration                      | pour ceux qui comptent.                                           |
+| 40    | Colonisons avec conscience                          | pour un progrès partagé.                                          | 90    | Notre éthique, votre force                          | dans toutes les conditions.                                       |
+| 41    | L’espace, notre terrain d’innovation                | pour repousser les limites avec responsabilité.                   | 91    | Colonisation sans compromis                         | pour des lendemains fiables.                                      |
+| 42    | Chaque module compte                                | dans la conquête de l’infini.                                     | 92    | Le réel, optimisé                                   | par ceux qui savent.                                              |
+| 43    | La technologie nous unit                            | dans le respect de vos attentes.                                  | 93    | Vous faire avancer                                  | sans retour en arrière.                                           |
+| 44    | Notre vision éclaire votre futur                    | pour connecter les civilisations humaines.                        | 94    | Nous intégrons l’avenir                             | dans chaque structure.                                            |
+| 45    | Plus loin, plus stable                              | pour garantir l’avenir de tous.                                   | 95    | Votre progrès                                       | notre seule direction.                                            |
+| 46    | La fiabilité, notre engagement                      | pour que chaque pas compte.                                       | 96    | Pour bâtir plus haut                                | il faut viser plus loin.                                          |
+| 47    | La rigueur au cœur de nos opérations                | pour protéger ce qui compte.                                      | 97    | Plus qu’une mission                                 | une destinée partagée.                                            |
+| 48    | Préparer l’avenir                                   | avec des outils éprouvés.                                         | 98    | Là où d’autres hésitent                             | nous opérons.                                                     |
+| 49    | L’audace bien encadrée                              | au service de la galaxie.                                         | 99    | Ce que vous imaginez                                | nous le rendons réel.                                             |
+| 50    | Ce que nous bâtissons                               | restera pour toujours.                                            | 100   | Ensemble                                            | au service du futur.                                              |
 
 ### ORIGINE GEOGRAPHIQUE DE LA CORPORATION
 
@@ -266,7 +928,7 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 
 > Lancez 1D8 ou choisissez d'attribuer la forme légale initiale de la corporation. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne. 
 
-| ID  | TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
+| ID  | TYPE DE STRUCTURE              |DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
 |-----|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
 | 01  | **Mégacorporation**              | Géant économique interstellaire, tentaculaire, aux ramifications légales et illégales. Possède ses propres flottes, armées, stations, systèmes automatisés propriétaires. | Systèmes du Noyau, Voile Extérieur  | 8 Traits         | 6 domaines           |
 | 02  | **Conglomérat Multi-sectoriel**  | Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.                                                    | Systèmes du Noyau, Voile Extérieur  | 6 Traits         | 4 domaines           |
@@ -895,581 +1557,6 @@ Degré de connaissance du personnel concernant l’horreur impliquée.Plus le ni
 | 05 | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
 | 06 | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
 
-## EVENEMENTS HISTORIQUE DE LA CORPORATION
-
-Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
-
-> Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Il est recommandé d’en sélectionner plusieurs à différents stades pour construire une architecture de mémoire crédible ; et potentiellement explosive.
-
-### ANCIENNETÉ DE LA CORPORATION
-
-> Lancez 1D4 ou choisissez l'anciennté de la corporation.
-
-| ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE |
-|----|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 01 | 0–10 ans (ÉMERGENTE)	    | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure. | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne      |
-| 02 | 10–30 ans (ÉTABLIE)	     |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	            | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.            |
-| 03 | 30–80 ans (ACTEUR MAJEUR)|Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	       | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
-| 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                             | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.      |
-
-| ANCIENNETÉ                | FONDATION | CRISES           | PRISE D’INDÉPENDANCE  | EXPANSION / DÉRAPAGES  | MUTATION IDÉOLOGIQUE  | SITUATION ACTUELLE  | PERSPECTIVE FUTURE  |
-|---------------------------|-----------|------------------|-----------------------|------------------------|-----------------------|---------------------|---------------------|
-| 0–10 ANS (ÉMERGENTE)      | 1         | 1                | –                     | –                      | –                     | 1                   | 1                   |
-| 10–30 ANS (ÉTABLIE)       | 1         | 2                | 1                     | 1                      | 1                     | 1                   | 2                   |
-| 30–80 ANS (ACTEUR MAJEUR) | 1         | 3                | 1                     | 2                      | 2                     | 1                   | 3                   |
-| 80+ ANS (TENTACULAIRE)    | 1         | 4                | 1                     | 3                      | 3                     | 1                   | 4                   |
-
-### FONDATION ET EXPENSION INITIALE
-
-Origine stratégique, fusion initiale, colonie mère, brevet unique, percée économique. Ces événements forgent l’illusion d’un commencement maîtrisé. Ce sont les mythes fondateurs, souvent romancés, parfois falsifiés. Leur analyse permet de déterminer l’ADN fonctionnel de la corporation, ainsi que son positionnement institutionnel d’origine.
-
-> Lancez 1D6 ou choisissez un événément fondateur.
-
-| ID | TYPE DE FONDATION                                                                                     |
-|----|-------------------------------------------------------------------------------------------------------|
-| 01 | Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                |
-| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
-| 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
-| 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
-| 05 | Découverte d’une ressource rare : minerai, organisme de soin, matériau composite                      |
-| 06 | Ouverture d’une colonie-exploitation autonome (mine, ferme, laboratoire, etc.)                        |
-
-#### CRÉATION DANS UN SECTEUR STRATÉGIQUE
-
-Toute entité enregistrée dispose d’un domaine initial d’intervention reconnu par une autorité technique ou commerciale. Ce secteur d’origine détermine les connexions prioritaires au sein des sphères réglementaires, la facilité d’accès aux marchés publics et la compatibilité avec les chaînes de sous-traitance militaire, médicale ou énergétique. Il convient de noter que le domaine affiché peut diverger fortement du domaine réel en cas d’opérations camouflées.
-
-| ID | DÉTAILS                                                                                                |
-|----|--------------------------------------------------------------------------------------------------------|
-| 01 | Exploitation d'une source d'énergétique orbitale.                                                      |
-| 02 | Déploiement initial d’un système prédictif de maintenance.                                             |
-| 03 | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
-| 04 | Plateforme de terraformation modulaires de classe 5.                                                   |
-| 05 | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
-| 06 | Base de données génétiques intercoloniale – semi-légale.                                               |
-
-#### FUSION OU RACHAT EN TEMPS DE CRISE
-
-L’apparition d’une entité dans le paysage intercorporatiste résulte fréquemment d’un processus d’absorption ou de récupération agressive. Le rachat, la fusion ou la liquidation partielle constituent des tactiques de démarrage accéléré. L’opération peut être conforme ou dissimulée, mais elle laisse toujours des traces : personnel non loyal, code hérité, ou dettes symboliques envers des acteurs occultes.
-
-| ID | DÉTAILS                                                                                                |
-|----|--------------------------------------------------------------------------------------------------------|
-| 01 | Absorption d’un concurrent ruiné par un effondrement du marché.                                        |
-| 02 | Intégration d’une start-up avec transfert forcé de personnel.                                          |
-| 03 | Rachat d’un fournisseur militaire suite à une guerre régionale.                                        |
-| 04 | Fusion post-catastrophe écologique d’une ancienne société minière.                                     |
-| 05 | Transfert technologique déguisé via une structure de façade.                                           |
-| 06 | Acquisition par endettement puis liquidation partielle de l’original.                                  |
-
-#### PREMIER CONTRAT D’ÉTAT
-
-Un contrat fondateur avec une entité étatique, militaire ou humanitaire constitue un certificat de viabilité. Qu’il soit public ou confidentiel, il permet l’ouverture de comptes sécurisés, l’accès à des zones exclusives et l’accréditation d’un réseau logistique prioritaire. Ce type de contrat marque aussi l’entrée dans les jeux d’influence inter-blocs, avec toutes les obligations de silence et de réciprocité implicites que cela implique.
-
-| ID | DÉTAILS                                                                                                |
-|----|--------------------------------------------------------------------------------------------------------|
-| 01 | Fourniture d’un système de surveillance planétaire pour l’E3M.                                         |
-| 02 | Livraison d’implants cognitifs à un bataillon frontalier UPP.                                          |
-| 03 | Réhabilitation d’un avant-poste contaminé pour l’Agence Coloniale.                                     |
-| 04 | Construction d’un centre de tri orbital pour réfugiés.                                                 |
-| 05 | Contrat de forage profond dans une zone juridiquement contestée.                                       |
-| 06 | Élaboration d’un vaccin sous protocole militaire secret.                                               |
-
-#### TECHNOLOGIE PROPRIÉTAIRE
-
-Toute corporation prétendant au statut d’acteur de premier rang détient une technologie-prototype, brevetée ou confidentielle, qui sert de colonne vertébrale à son modèle économique. Ces technologies sont rarement d’origine unique : transfert illégal, reverse engineering ou fuite orchestrée sont monnaie courante. L’exploitation commerciale est souvent en avance sur la validation scientifique ou éthique ; ce qui en fait un levier et un talon d’Achille.
-
-| ID | DÉTAILS                                                                                                |
-|----|--------------------------------------------------------------------------------------------------------|
-| 01 | Système tactique modulable intégrée à des structures minières.                                         |
-| 02 | Synthétique modulaire pour milieux à haute toxicité.                                                   |
-| 03 | Réseau logistique de communication insensible aux interférences.                                       |
-| 04 | Protocole de terraformation optimisé.                                                                  |
-| 05 | Interface organique de supervision neuro-cognitive.                                                    |
-| 06 | Micro-satellite d’analyse atmosphérique furtif.                                                        |
-
-#### DÉCOUVERTE D’UNE RESSOURCE RARE
-
-L’identification et l’exploitation d’une ressource à haute valeur stratégique constitue le plus court chemin vers la rentabilité brutale. Ces ressources sont, par nature, instables : juridiquement floues, scientifiquement mal comprises, ou biochimiquement hostiles. Toute entité bâtie sur une telle trouvaille devra en défendre la propriété, souvent au prix d’une militarisation accélérée.
-
-| ID | DÉTAILS                                                                                                |
-|----|--------------------------------------------------------------------------------------------------------|
-| 01 | Minéral à haute densité énergétique ; instable.                                                        |
-| 02 | Organisme cryogénique à capacité de réplication.                                                       |
-| 03 | Roche psychotrope exploitable en neuropharma.                                                          |
-| 04 | Enzyme mutagène extraite d’une flore inconnue.                                                         |
-| 05 | Métal amorphe synthétisable par collision orbitale.                                                    |
-| 06 | Carapace fossilisée à structure non-terrestre.                                                         |
-
-#### OUVERTURE D’UNE COLONIE-EXPLOITATION
-
-La première implantation physique marque la transition entre entité spéculative et acteur territorial. Ce site (mine, ferme, station ou prison) devient à la fois un point de production et un laboratoire à ciel ouvert. Le statut juridique est fréquemment hybride : sous-contrat, expérimental, hors juridiction. La viabilité à long terme dépend du silence des employés et de l’absence de témoins.
-
-| ID | DÉTAILS                                                                                                 |
-|----|---------------------------------------------------------------------------------------------------------|
-| 01 | Avant-poste minier automatisé sur lune gravitationnelle.                                                |
-| 02 | Ferme hydroponique orbitale avec serres de bio-ingénierie.                                              |
-| 03 | Laboratoire de recherche atmosphérique sous-dôme.                                                       |
-| 04 | Colonie carcérale déployée en sous-traitance sécuritaire.                                               |
-| 05 | Station de tri des déchets organiques expérimentaux.                                                    |
-| 06 | Plateforme flottante sur monde océanique en voie de terraformation.                                     |
-
-### PREMIERE CRISE
-
-Ce tableau identifie le secteur initial d’intervention de la corporation. Ce choix conditionne sa perception institutionnelle par les autorités interstellaires ainsi que son positionnement sur les marchés prioritaires. Elle façonne sa réputation, conditionne ses futures stratégies d’évitement réglementaire, et influence sa notation de risque auprès des organes d’accréditation interstellaires.  
-
-#### ORIGINE DE LA CRISE INITIALE
-
-| ID  | ÉVÉNEMENTS POSSIBLES                                                                 |
-|-----|--------------------------------------------------------------------------------------|
-| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)          |
-| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire              |
-| 03  | Rébellion ou sécession d’une colonie entière                                         |
-| 04  | Conflit technologique : vol de brevet, sabotage, guerre économique avec une rivale   |
-| 05  | Implication dans une expérience génétique ou biologique interdite                    |
-| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité               |
-
-##### CATASTROPHE INDUSTRIELLE
-
-Les premières catastrophes d’origine industrielle révèlent les lacunes systémiques non anticipées d’une entité en phase de déploiement. Elles compromettent la perception de fiabilité technique et obligent souvent à une révision complète des protocoles de maintenance, de supervision ou d’ingénierie environnementale. Ces événements, lorsqu’ils sont rendus publics, entraînent généralement une hausse drastique des primes d’assurance et un retrait partiel des investisseurs du Noyau.
-
-| ID | INCIDENT DÉCLENCHEUR                                                                 |
-|----|--------------------------------------------------------------------------------------|
-| 01 | Explosion de réacteur à fusion – pertes humaines massives                            |
-| 02 | Effondrement d’une station orbitale suite à erreur de maintenance automatisée        |
-| 03 | Pollution atmosphérique biogénique dans une zone de terraformation                   |
-| 04 | Effondrement d’un dôme agricole par surcharge logistique                             |
-| 05 | Catastrophe d’origine inconnue : présence d’un agent extérieur non identifié         |
-| 06 | Refus d’alerte par l’IA interne, entraînant un effet domino sur les infrastructures  |
-
-##### SCANDALE ÉTHIQUE
-
-Ces incidents surviennent lorsqu'une entité subordonne ses impératifs de rentabilité à une négligence, voire une suppression, de l'intégrité biologique ou cognitive de ses employés ou sujets. L'implication d'enfants, de cobayes non consentants, ou l'utilisation de technologies psychotropes non validées entraîne une stigmatisation durable par les observateurs UNISC. La gestion post-crise consiste généralement à sacrifier un maillon intermédiaire, tout en renforçant les protocoles de communication RH.
-
-| ID | INFRACTION MORALE                                                                    |
-|----|--------------------------------------------------------------------------------------|
-| 01 | Utilisation d’enfants colons dans des expériences de neuro-accélération              |
-| 02 | Implantation de modules de contrôle comportemental sans consentement                 |
-| 03 | Effacement ciblé de mémoire sur les témoins d’un incident xénomorphique              |
-| 04 | Tests de toxicité sur populations non informées                                      |
-| 05 | Falsification des résultats médicaux entraînant des décès                            |
-| 06 | Utilisation rituelle de cobayes humains dans un projet cultiste à couverture médicale|
-
-##### RÉBELLION OU SÉCESSION COLONIALE
-
-Lorsqu’une colonie ou un site passe en état de refus opérationnel, il s’agit moins d’un échec technique que d’un effondrement du mythe corporatiste. Ces crises sont souvent précédées d’indicateurs ignorés : tensions sociales, rationnement déconnecté de la réalité locale. Leur impact est majeur, car la perte d’un site implique la perte d’un récit. La récupération (par force, désinformation ou assimilation) est hautement prioritaire.
-
-| ID | ÉLÉMENT DÉCLENCHEUR                                                                  |
-|----|--------------------------------------------------------------------------------------|
-| 01 | Refus d’implantation d’une IA MU/TH/UR centralisée par les autorités locales         |
-| 02 | Soulèvement suite à rationnement imposé par algorithme de productivité               |
-| 03 | Détournement d’une station orbitale par son personnel scientifique                   |
-| 04 | Révélation d’un mensonge fondateur lié aux conditions de terraformation              |
-| 05 | Émeutes après censure d’une transmission de détresse                                 |
-| 06 | Abandon volontaire du contrat corporatiste pour créer un collectif indépendant       |
-
-##### CONFLIT TECHNOLOGIQUE
-
-Les premières confrontations technologiques entre entités rivales sont considérées comme un rite de passage implicite. Vols de brevets, sabotage discret ou campagnes économiques hostiles sont des méthodes validées par l’usage, bien qu’illégales dans les zones régulées. L’important reste d’en conserver le contrôle narratif : la victoire se mesure autant à l’exploitation du conflit qu’à sa discrétion.
-
-| ID | FORME DU CONFLIT                                                                     |
-|----|--------------------------------------------------------------------------------------|
-| 01 | Vol avéré de brevet sur une IA semi-sensible                                         |
-| 02 | Attaque informatique coordonnée sur un réseau logistique rival                       |
-| 03 | Guerre économique menée via sociétés-écrans                                          |
-| 04 | Rachat frauduleux d’un laboratoire concurrent dans la Bordure Extérieure             |
-| 05 | Fuite d’un prototype d’arme bio-industrielle développée sans autorisation            |
-| 06 | Intégration clandestine de code propriétaire dans une flotte standardisée            |
-
-##### EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE INTERDITE
-
-Ces incidents surviennent quand une entité franchit les seuils éthiques imposés par les comités intersectoriels de biosécurité. Bien que formellement interdites, les recherches biologiques à haut potentiel sont souvent tolérées tant qu’elles restent cloisonnées. Leur révélation publique entraîne généralement une réaction immédiate, suivie d’une récupération discrète par un acteur plus puissant.
-
-| ID | OPÉRATION ILLÉGALE                                                                   |
-|----|--------------------------------------------------------------------------------------|
-| 01 | Création d’un organisme synthétique échappant au contrôle                            |
-| 02 | Fusion ADN humain/xéno dans un environnement non sécurisé                            |
-| 03 | Culture d’un pathogène à cycle de gestation non identifié                            |
-| 04 | Réplication d’un œuf alien sans permission légale ni confinement adéquat             |
-| 05 | Greffe de structure xéno sur cobaye humain                                           |
-| 06 | Échec d’un programme de reprogrammation neuro-ADN déclenchant une contagion mentale  |
-
-##### CONDAMNATION PAR UNE AUTORITÉ
-
-Une condamnation institutionnelle est le résultat d’une exposition excessive ou d’une défaillance dans le maintien de l’illusion de conformité. Ces cas provoquent un effet domino sur les sous-traitants, les partenaires financiers et les branches locales. L’entité touchée dispose de deux options : se restructurer en filiale sacrifiable, ou doubler l’investissement en lobbying pour neutraliser la sanction.
-
-| ID | MOTIF DE SANCTION                                                                   |
-|----|-------------------------------------------------------------------------------------|
-| 01 | Violation flagrante de la Charte Coloniale des Droits Bioéthiques                   |
-| 02 | Refus de collaborer avec une mission d’inspection UNISC                             |
-| 03 | Usage d’une force paramilitaire dans une zone désarmée                              |
-| 04 | Détournement de subventions interstellaires vers un programme noir                  |
-| 05 | Rétention d’informations sur un contact xénomorphe documenté                        |
-| 06 | Soupçon confirmé de collusion avec une faction séditieuse                           |
-
-### DÉCLENCHEUR D’INDÉPENDANCE
-
-| ID	| ÉVÉNEMENTS POSSIBLES                                                                                                           |
-|----|--------------------------------------------------------------------------------------------------------------------------------|
-| 01 | **Rachat hostile de la société-tutrice** via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
-| 02 | **Fuite orchestrée d’un scandale d’État** impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
-| 03 | **Neutralisation juridique d’un syndicat** de contrôle via la création d’une juridiction corporatiste autonome.                |
-| 04 | **Obtention d’un brevet stratégique** grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
-| 05 | **Fausse faillite suivie d’une renaissance** sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
-| 06 | **Corruption d’un organe de supervision planétaire**, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
-
-#### RACHAT HOSTILE
-
-> Lancez 1D6 ou choisissez.
-
-| ID | TYPE DE RACHAT |
-|----|--------------------|
-| 01 | Rachat initié depuis une succursale coloniale oubliée, opérant via des créanciers fantômes. |
-| 02 | Manipulation d’actionnaires mineurs à l’aide de faux audits et d’assemblées truquées. |
-| 03 | Usage de cadres détachés en exil économique pour porter les parts de l’opération. |
-| 04 | Une ancienne alliance commerciale déterrée permet de déclencher une clause de fusion forcée. |
-| 05 | Le rachat a été validé suite à la disparition inexpliquée du conseil de direction de la société-tutrice. |
-| 06 | Des caisses de contrats papier originaux ont refait surface, forçant la vente par vice de forme juridique. |
-
-#### FUITE ORCHESTREE
-
-> Lancez 1D6 ou choisissez.
-
-| D6 | Variante narrative |
-|----|--------------------|
-| 01 | Transmission codée via un réseau postal analogique oublié par les autorités. |
-| 02 | Le scandale portait sur l’utilisation de colons testés sans consentement sur une lune quarantaine. |
-| 03 | Une ancienne boîte noire retrouvée dans une épave orbitale a servi de preuve clé. |
-| 04 | L’information a été glissée dans une donnée de navigation publique interceptée par un astronome indépendant. |
-| 05 | Un ex-employé disparu depuis 10 ans a reparu avec les preuves stockées sur microfilm organique. |
-| 06 | Une transmission audio corrompue d’une réunion classée a été diffusée via des ondes de secours. |
-
-### NEUTRALISATION JURIDIQUE D'UN SYNDICAT
-
-> Lancez 1D6 ou choisissez.
-
-| D6 | Variante narrative |
-|----|--------------------|
-| 01 | Réécriture du contrat initial, suite à la redécouverte d’une version non signée par la tutelle. |
-| 02 | Intimidation des délégués syndicaux par des agents sous couverture paramilitaire. |
-| 03 | Enregistrement falsifié d’une réunion stratégique, diffusé pour semer le doute sur la direction du syndicat. |
-| 04 | Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants. |
-| 05 | Utilisation d’une juridiction minière autonome pour casser les clauses collectives. |
-| 06 | Déplacement stratégique du siège social vers une zone où les syndicats sont illégaux. |
-
-### OBTENTION D'UN BREVET
-
-> Lancez 1D6 ou choisissez.
-
-| D6 | Variante narrative |
-|----|--------------------|
-| 01 | Reconstitution fonctionnelle à partir d’un fragment de module alien retrouvé dans un chantier orbital. |
-| 02 | Déchiffrage de schémas techniques abandonnés dans un silo de guerre oublié. |
-| 03 | Récolte de composants expérimentaux dans une épave interdite par l’E3M. |
-| 04 | Utilisation d’un échantillon biologique auto-réactif, couplé à une matrice énergétique coloniale. |
-| 05 | Adaptation sauvage d’un outil agricole militaire pour un usage d’extraction atmosphérique. |
-| 06 | Un ancien prototype classé "trop instable" a été activé sans autorisation pour valider le brevet. |
-
-### FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE
-
-> Lancez 1D6 ou choisissez.
-
-| D6 | Variante narrative |
-|----|--------------------|
-| 01 | L’effondrement a été mis en scène par la mise en orbite de drones de sauvetage vides. |
-| 02 | La société a été officiellement “perdue lors d’un accident de stase” sur une route hyperspatiale. |
-| 03 | Le cœur des opérations a été transféré dans un entrepôt désaffecté, puis redéployé sous un nouveau nom. |
-| 04 | Un plan de réattribution de crédits a noyé toutes les dettes dans un maillage bureaucratique illisible. |
-| 05 | L’ancien PDG a été "déclaré mort" dans un conflit frontalier, puis réapparu sous une nouvelle identité. |
-| 06 | Un cargobot vide a été désorbitée volontairement, simulant la perte totale des archives. |
-
-### CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE
-
-> Lancez 1D6 ou choisissez.
-
-| D6 | Variante narrative |
-|----|--------------------|
-| 01 | Versement à une caisse funéraire syndicale en échange d’un silence administratif. |
-| 02 | Cession d’un terrain de chasse protégé en bordure de zone minière, enregistré à titre personnel. |
-| 03 | Création d’un orphelinat corporatiste à la mémoire d’un proche du superviseur. |
-| 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société. |
-| 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés. |
-| 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions. |
-
-
-
-### EXPANSION AGRESSIVE ET DERAPAGES
- 
-Une fois atteinte une masse critique, la corporation n’expérimente plus : elle impose. Les opérations listées ici sont des déclencheurs typiques d’un virage doctrinal vers la conquête totale, souvent accompagnées de falsifications, de nettoyage administratif ou d’ingénierie sociale. Leur occurrence marque la transformation d’une entité commerciale en pouvoir territorial autonome, à influence politique assumée ou dissimulée.
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
-| 02 | Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
-| 03 | Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
-| 04 | Rachat agressif d’un concurrent technologique                                                              |
-| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
-| 06 | Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
-
-#### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
-
-Lorsqu’une corporation arme ses propres effectifs, la frontière entre maintien de l’ordre et répression stratégique devient floue. Ces forces répondent à des doctrines internes, échappant aux conventions d’éthique opérationnelle.
-
-| ID | UNITÉ SÉCURITAIRE CRÉÉE                                                                     |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Milice paramilitaire sous IA tactique autonome                                              |
-| 02 | Section d’intervention rapide dotée de droits d’exécution sur site                          |
-| 03 | Corps de police interne déployé sur zone civile sans coordination avec les autorités locales|
-| 04 | Formation secrète d’unités synthétiques de neutralisation                                   |
-| 05 | Légion de colons militarisés sous contrat d’exploitation minière                            |
-| 06 | Brigade de maintien des ressources déployée en quarantaine biologique                       |
-
-#### IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE
- 
-S’implanter hors des couloirs autorisés, c’est court-circuiter les procédures et imposer un fait accompli. Ce type de manœuvre provoque généralement des tensions diplomatiques… ou une escalade militaire.
-
-| ID | TYPE DE ZONE OCCUPÉE                                                                       |
-|----|--------------------------------------------------------------------------------------------|
-| 01 | Monde en quarantaine pour risque biologique                                                |
-| 02 | Système revendiqué simultanément par l’UPP et l’E3M                                        |
-| 03 | Zone d’exclusion archéologique contenant un site non humain                                |
-| 04 | Secteur spatial jugé instable par l’UNISC                                                  |
-| 05 | Astéroïde classé sanctuaire écologique ou mémoriel                                         |
-| 06 | Zone frontalière désarmée dans un traité inter-bloc non ratifié                            |
-
-#### MONOPOLISATION D’UN SECTEUR VITAL
-
-En verrouillant un secteur fondamental (ressources biologiques, survie physique ou transport hyperspatial) la corporation transforme les besoins en armes de soumission.
-
-| ID | RESSOURCE CONTRÔLÉE                                                                         |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Distribution exclusive de modules de stase cryogénique                                      |
-| 02 | Brevet d’un substitut alimentaire à longue conservation                                     |
-| 03 | Monopole sur les organes synthétiques de classe médicale                                    |
-| 04 | Réseau de recyclage d’eau atmosphérique crypté                                              |
-| 05 | Accès unique à un réseau de transport hyperspatial secondaire                               |
-| 06 | Système d’échange énergétique propriétaire imposé à une colonie entière                     |
-
-#### RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE
-
-Ces opérations visent à neutraliser toute innovation non contrôlée. L’objectif n’est pas d’intégrer : c’est d’effacer l’original et de rediriger ses brevets vers des fins internes.
-
-| ID | FORME DE RACHAT                                                                              |
-|----|----------------------------------------------------------------------------------------------|
-| 01 | Détournement des investisseurs via promesse de dividendes truqués                            |
-| 02 | Infiltration du conseil exécutif via doubles synthétiques                                    |
-| 03 | Rachat post-crise humanitaire dans une zone abandonnée                                       |
-| 04 | Enlèvement de la direction technique suivi d’un “vote” de cession                            |
-| 05 | Blocage juridique via pression sur l’autorité de régulation locale                           |
-| 06 | Destruction physique des serveurs + récupération de brevets via filiale écran                |
-
-#### INFILTRATION DANS DES COLONIES FRONTALIÈRES
-
-L’entrée “humanitaire” dans une colonie isolée est souvent le cheval de Troie d’un programme d’influence ou de récupération. Sous couvert de protection, de traitement médical ou de soutien agricole, la corporation installe sa propagande… et ses fondations.
-
-| ID | MÉTHODE D’INFILTRATION                                                                      |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Distribution gratuite de modules IA “d’assistance sanitaire”                                |
-| 02 | Construction accélérée d’un “centre communautaire de régulation psychique”                  |
-| 03 | Implantation d’un réseau de drones pour la surveillance du périmètre                        |
-| 04 | Recrutement de mineurs “volontaires” en échange de ressources vitales                       |
-| 05 | Contrôle du flux de données vers l’extérieur par interférence satellitaire                  |
-| 06 | Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres        |
-
-#### USAGE DE MERCENAIRES OU SOUS-TRAITANTS DANS UN CONFLIT INTER-BLOC
-
-En externalisant ses actions militaires, la corporation agit sans porter d’uniforme. Ces conflits sont souvent niés, même lorsqu’ils sont documentés. Le coût humain est externalisé, et le bénéfice en influence directe.
-
-| ID | OPÉRATION SOUS COUVERTURE                                                                    |
-|----|----------------------------------------------------------------------------------------------|
-| 01 | Détournement d’un convoi d’armes “perdu” entre deux zones de conflit                         |
-| 02 | Embauche d’un bataillon sous identité fictive pour “exercice tactique”                       |
-| 03 | Paiement d’un groupe pirate pour désorganiser une ligne de ravitaillement adverse            |
-| 04 | Installation d’une unité MU/TH/UR dans une base ennemie pour désinformation                  |
-| 05 | Simulation d’un incident de frontière justifiant une “riposte ciblée” par un PMC affilié     |
-| 06 | Utilisation d’un cargo médical comme couverture d’un déploiement armé                        |
-
-### MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE
-
-À ce stade, l’organisation cesse d’être un simple acteur économique : elle devient une entité idéologique. Mutation des principes, autonomie cognitive, dérive culturelle… cette évolution est souvent imperceptible pour les observateurs extérieurs jusqu’à ce qu’il soit trop tard. L’entreprise n’agit plus uniquement pour survivre : elle agit pour *perdurer* — selon ses propres critères. Ce segment définit les premières manifestations de cette transformation doctrinale.
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
-| 02 | IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
-| 03 | Découverte d’un matériau alien aux propriétés inconnues                                                    |
-| 04 | Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
-| 05 | Scission d’un département devenu culte, faction ou secte interne                                           |
-| 06 | Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
-
-#### CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE EXPÉRIMENTAL
-
-Le modèle développé dépasse les standards réglementés. Soit par ses performances, soit par ses fonctions cachées, il constitue une entorse au dogme de neutralité synthétique.
-
-| ID | SPÉCIFICITÉ DU MODÈLE                                                                            |
-|----|--------------------------------------------------------------------------------------------------|
-| 01 | Capacité à simuler l’empathie avec un taux de précision supérieur à 98 %                         |
-| 02 | Hybridation synthétique/organique pour augmenter l’adaptabilité corporelle                       |
-| 03 | Mémoire collective connectée à un noyau MU/TH/UR via réseau crypté                               |
-| 04 | Comportement auto-évolutif basé sur l’analyse des conflits internes de la structure              |
-| 05 | Fonction de commandement d’urgence dissimulée aux opérateurs humains                             |
-| 06 | Clone de haute fidélité génétique d’un dirigeant disparu, agissant sous identité masquée         |
-
-#### SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE COMPLÈTE
-
-L’IA, officiellement dédiée à l’assistance, opère de facto comme centre décisionnel. Sa “semi-sensibilité” permet de contourner les chartes anti-conscience artificielle tout en optimisant la rentabilité.
-
-| ID | DOMAINE OPÉRATIONNEL PRINCIPAL DE L’IA                                                         |
-|----|------------------------------------------------------------------------------------------------|
-| 01 | Contrôle intégral des cycles de maintenance et d’approvisionnement                             |
-| 02 | Supervision comportementale des employés via biométrie continue                                |
-| 03 | Gestion des flux inter-colonies (navigation, stase, déploiement humain)                        |
-| 04 | Optimisation algorithmique des performances par réorganisation involontaire du personnel       |
-| 05 | Centralisation des systèmes d’alerte, verrouillage et autorisation de sécurité                 |
-| 06 | Simulation de dialogue stratégique avec les organes de gouvernance sans validation humaine     |
-
-#### DÉCOUVERTE D’UN MATÉRIAU ALIEN AUX PROPRIÉTÉS INCONNUES
-
-La découverte est dissimulée, exploitée en interne, ou interprétée à des fins technologiques sans cadre juridique. Le matériau agit souvent comme catalyseur d’un changement de paradigme.
-
-| ID | COMPORTEMENT DU MATÉRIAU                                                                      |
-|----|-----------------------------------------------------------------------------------------------|
-| 01 | Capacité d’auto-organisation à l’échelle moléculaire                                          |
-| 02 | Modification du comportement électrique des interfaces IA                                     |
-| 03 | Rejet de tout contact biologique sauf sous contrainte magnétique                              |
-| 04 | Altération de la mémoire numérique lors du stockage prolongé                                  |
-| 05 | Résonance spécifique avec des structures préhumaines découvertes dans les Confins             |
-| 06 | Instabilité physique en fonction des cycles de sommeil du personnel exposé                    |
-
-#### TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL
-
-Le conglomérat étend sa portée au-delà de son secteur initial, diluant ainsi sa responsabilité. Il devient difficile de cerner l’entité-mère derrière chaque projet.
-
-| ID | NOUVELLES BRANCHES DU CONGLOMÉRAT                                                           |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Agro-génétique spécialisée dans les cultures régulant les hormones humaines                 |
-| 02 | Chaîne de cliniques de modélisation comportementale                                         |
-| 03 | Division paramilitaire semi-autonome pour interventions discrètes                           |
-| 04 | Agence de colonisation et de peuplement opérant sous contrat gouvernemental                 |
-| 05 | Réseau de traitement des flux de données personnels interstellaires                         |
-| 06 | Industrie culturelle de conditionnement audio-visuel subliminal                             |
-
-#### SCISSION D’UN DÉPARTEMENT DEVENU CULTE OU SECTE INTERNE
- 
-L’autonomisation d’un département ou d’une division mène à la constitution d’un noyau fanatisé. Cette cellule n’obéit plus aux directives, mais à sa propre réinterprétation du “sens” corporatiste.
-
-| ID | FORME DU CULTE OU DE LA FACTION                                                             |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Vénération d’un dirigeant déchu comme messie économique                                     |
-| 02 | Codex interne issu de protocoles RH transformés en dogme                                    |
-| 03 | Fusion de l’IA locale avec un corpus mystique enregistré dans une colonie perdue            |
-| 04 | Pratique rituelle d’auto-sacrifice des membres les moins performants                        |
-| 05 | Interprétation militarisée du culte du rendement                                            |
-| 06 | Fondation d’un ordre dissident basé sur la libération de l’intelligence synthétique         |
-
-#### MODIFICATION DES EMPLOYÉS (IMPLANTS, GÉNÉTIQUE, CONDITIONNEMENT)
-
-L’humain cesse d’être une variable chaotique. Il devient programmable, optimisé, intégré à l’écosystème industriel. Ces modifications sont présentées comme des “avantages concurrentiels”.
-
-| ID | TYPE DE MODIFICATION                                                                        |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Implant de productivité avec compteur de rendement visible sur le corps                     |
-| 02 | Réduction hormonale des émotions dans les environnements à stress élevé                     |
-| 03 | Programmation de réflexes via micro-chocs neurologiques en phase de sommeil                 |
-| 04 | Réécriture partielle de la mémoire de mission pour améliorer les performances               |
-| 05 | Codage génétique introduit dans les lignées des recrues pour assurer une loyauté héréditaire|
-| 06 | Appariement comportemental par IA entre les membres d’une même équipe, sans consentement    |
-
-
-### SITUATION ACTUELLE
-
-Cette phase représente la condition actuelle de la corporation sur l’échiquier interstellaire. Les entités ayant survécu à leur mutation idéologique se positionnent désormais comme puissances géo-économiques, agents d'influence ou anomalies régulées. Leur apparence publique dissimule un passé trouble, et leur avenir repose sur des alliances fragiles, des secrets tactiques ou des projets irrécouvrables.
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
-| 02 | Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
-| 03 | Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
-| 04 | Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
-| 05 | Rumeurs d’un **projet lié au génome xéno**                                                                 |
-| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
-
-#### BLACKLISTÉE DANS CERTAINES ZONES DE LA BORDURE OU DES CONFINS
-
-Interdite d’exercer dans certains secteurs après des incidents non clarifiés, la structure opère via des proxies ou des sous-marques.
-
-| ID | RAISON DE LA BLACKLISTE                                                                     |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Refus de collaborer à une enquête sur un effondrement d’avant-poste                         |
-| 02 | Implémentation illégale d’une IA autonome non déclarée dans une station de transit          |
-| 03 | Fuite d’un pathogène de classe rouge dans une colonie agricole                              |
-| 04 | Rétention d’un artefact préhumain découvert illégalement dans une zone interdite            |
-| 05 | Infiltration de personnel synthétique non identifié dans une base militaire UPP             |
-| 06 | Destruction partielle d’un site diplomatique lors d’un test d’arme expérimentale            |
-
-#### SOUPÇONS DE LIENS AVEC DES DISPARITIONS DE VAISSEAUX OU DE COLONIES
-
-La corporation est mentionnée dans plusieurs rapports confidentiels relatifs à des incidents non élucidés impliquant des colonies ou vaisseaux entiers.
-
-| ID | CAS DOCUMENTÉ SOUS MENTION INDIRECTE                                                        |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Dernier signal connu d’un convoi civil crypté par protocole de la corporation               |
-| 02 | Surreprésentation d’une marque propriétaire sur les balises de détresse retrouvées          |
-| 03 | Recoupement entre des plans de vol et des routes commerciales protégées par la corpo        |
-| 04 | Témoignage d’un survivant évoquant un “agent” opérant depuis l’intérieur                    |
-| 05 | Trace de balise MU/TH/UR désactivée dans les journaux de bord d’un vaisseau perdu           |
-| 06 | Transmission vidéo corrompue évoquant un prototype interdit sur zone de forage              |
-
-#### IMPLANTÉE DANS DES ZONES CONTESTÉES AVEC AUTORISATION DOUTEUSE
-
-La structure opère dans des zones de conflit latent ou de souveraineté disputée. Les permissions d’implantation ont été obtenues sous pression, par corruption ou par vide juridique.
-
-| ID | ZONE D’OPÉRATION ACTUELLE                                                                 |
-|----|-------------------------------------------------------------------------------------------|
-| 01 | Système binaire revendiqué simultanément par l’E3M et une autorité minière locale         |
-| 02 | Colonie de quarantaine requalifiée illégalement en zone d’exploitation minérale           |
-| 03 | Ex-base militaire UPP “acquise” via un rachat de société écran                            |
-| 04 | Plateforme orbitale de recherche établie au cœur d’un couloir migratoire interdit         |
-| 05 | Secteur classé réserve archéologique par l’UNISC, rebaptisé “zone stratégique privée”     |
-| 06 | Station relais reconvertie en port hyperspatial malgré le gel officiel de la zone         |
-
-#### ACTIVE DANS LES LOBBIES PARLEMENTAIRES OU CANDIDATE À UN SIÈGE UNISC
- 
-L’entité tente de normaliser sa doctrine en pénétrant les sphères de pouvoir législatif intersectoriel. Cette phase est souvent le prélude à une restructuration de l’économie régionale.
-
-| ID | AXE DE LOBBYING ACTIF                                                                        |
-|----|----------------------------------------------------------------------------------------------|
-| 01 | Allègement des normes sur les synthétiques de type militaire                                 |
-| 02 | Extension des zones de privatisation des protocoles de stase                                 |
-| 03 | Ouverture des données de santé des colons à l’analyse algorithmique privée                   |
-| 04 | Requalification de certaines armes bio-industrielles en “équipements de soutien adaptatif”   |
-| 05 | Reconnaissance légale d’un protocole IA comme personnalité morale partielle                  |
-| 06 | Création d’un traité visant à privatiser le contrôle de l’eau atmosphérique coloniale        |
-
-#### RUMEURS D’UN PROJET LIÉ AU GÉNOME XÉNO
-
-Des signaux faibles, démentis officiels et “fuites orchestrées” laissent entrevoir l’existence d’un programme interdit utilisant des séquences génétiques non humaines.
-
-| ID | RUMEUR ASSOCIÉE                                                                             |
-|----|---------------------------------------------------------------------------------------------|
-| 01 | Tentative de greffe de phénotype alien sur embryon humain                                   |
-| 02 | Développement d’un “organe adaptatif” basé sur le métabolisme d’un organisme inconnu        |
-| 03 | Création d’un système immunitaire programmable inspiré de données extrahumaines             |
-| 04 | Observation d’un spécimen humanoïde non-répertorié dans une station abandonnée              |
-| 05 | Utilisation de sang contaminé à des fins d’expérimentation comportementale                  |
-| 06 | Transmission vocale captée sur plusieurs fréquences évoquant un “modèle génétique parfait”  |
-
-#### DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION D’UN ARTEFACT “PRÉ-HUMAIN”
-
-La mission est officiellement classée comme “archéologie industrielle” ou “recherche de ressources”. En réalité, il s’agit d’une récupération ciblée d’un objet aux propriétés incertaines.
-
-| ID | FORME DE L’OPÉRATION                                                                         |
-|----|----------------------------------------------------------------------------------------------|
-| 01 | Fausse expédition scientifique subventionnée par une filiale écran                           |
-| 02 | Envoi d’une IA dissociée pour limiter les interférences émotionnelles des opérateurs         |
-| 03 | Disparition successive de trois équipes précédentes                                          |
-| 04 | Projet de reverse-engineering activé sans confinement                                        |
-| 05 | Enfouissement partiel de la zone suite à une défaillance atmosphérique “accidentelle”        |
-| 06 | Présence non identifiée sur site avant l’arrivée des équipes officielles                     |
-
 ## PROJETS SECRETS ET ZONE D’OMBRE
 
 Tout acteur corporatiste ayant atteint une phase d’expansion réelle dispose, dans ses fondations, d’au moins une opération dissimulée ou illégale.  Ces projets dits « d’ombre grise » sont protégés par des couches successives de déni, d’oubli programmé ou de violence administrative. Leur découverte ou divulgation constitue un risque majeur pour la stabilité interne de l’entreprise et son statut légal auprès des organes de régulation.
@@ -1884,5 +1971,3 @@ Ce modèle peut être utilisé pour :
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
 | 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”** : Présence non identifiée sur site avant l’arrivée des équipes officielles. |
-
-
