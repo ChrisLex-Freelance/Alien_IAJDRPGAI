@@ -22,6 +22,12 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 - [XENOMORP GENERATOR](https://chartopia.d12dev.com/chart/103013/) (en anglais) / [GENERATEUR DE XENOMORPHE](https://chartopia.d12dev.com/chart/106420/) (en français)
 - [COLONIE ROADMAP GENERATOR](https://chartopia.d12dev.com/chart/103194/) (en anglais) / [GÉNÉRATEUR DE FEUILLE DE ROUTE POUR LES ÉVÉNEMENTS DE LA COLONIE](https://chartopia.d12dev.com/chart/106295/) (en français)
 
+## CONTEXTE AUGMENTE
+
+### CHRONOLOGIE UNIFIEE DE L'UNIVERS
+
+[CHRONOLOGIE UNIFIEE PAR DATE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CHRONOLOGIE_UNIFIEE.md)
+
 ### GEOGRAPHIE GALACTIQUE
 Ce contexte peut servir pour la génération d'un scénario ou celle d'un personnage. Dans le cadre d'un scénario il permet de situer dans quel zone géographique galactique le scénario va se dérouler. Dans le cadre d'un personnage il va servir à définir plusieurs éléments comme où est-il né, où un événement particulier de son histoire s'est déroulé, et plus largement les informations de base dont le personnage a connaissance quelque soit son statut ou son origine social.
 
