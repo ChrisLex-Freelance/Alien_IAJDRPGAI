@@ -25,7 +25,7 @@ Le nom de la structure doit être court, techniquement neutre, potentiellement m
 
 La base de données intercorporatiste permet de générer des dénominations conformes aux standards esthétiques de l'industrie. L'utilisation de préfixes tels que "Neo", "Sys", "Gen", ou "Tri" augmente la perception d'efficience et de fiabilité.
 
-Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la liste.
+> Lancez 1D100 pour le Préfixe et 1D100 pour le Suffice ou choisissez dans la liste.
 
 | ID  | Préfixe   | Suffixe      |
 |-----|-----------|--------------|
@@ -138,7 +138,7 @@ Obligatoire dans toute communication externe, le slogan doit être à la fois ra
 
 L'outil intègre une banque de formules inspirées des grands courants de pensée socio-productivistes. Le slogan est idéalement structuré en deux segments : promesse initiale / justification morale.
 
-Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste.
+> Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste.
 
 | ID  | ACCROCHE                                            | FINALITE                                                          |
 |-----|-----------------------------------------------------|-------------------------------------------------------------------|
@@ -249,7 +249,7 @@ L'origine géographique (Noyau, Voile, Bordure, Confins) détermine les capacit�
 
 #### GEOGRAPHIE GALACTIQUE
 
-Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la corporation ou choisissez.
+> Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la corporation ou choisissez.
 
 | 1D100  | ZONE GALACTIQUE    | DESCRIPTION |
 |--------|--------------------|-------------|
@@ -264,7 +264,7 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 
 ### GENERATEUR DE STRUCTURE
 
-Un tableau aléatoire permet d'attribuer ou de simuler la forme légale initiale. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne. Lancez 1D8 :
+> Lancez 1D8 ou choisissez d'attribuer la forme légale initiale de la corporation. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne. 
 
 | ID  | TYPE DE STRUCTURE                | DESCRIPTION                                                                                                                                                               | ORIGINE RECOMMANDÉE                 | TRAITS À CHOISIR | DOMAINES D’EXPERTISE |
 |-----|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------|----------------------|
@@ -283,7 +283,9 @@ La spécialisation opérationnelle définit la position de la corporation sur le
 
 ### GENERATEUR DES PRINCIPAUX DOMAINES D'EXPERTISE
 
-Une série de choix permet de définir les domaines d'activité compatibles avec les régulations interstellaires. Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de domaines auxquels peut prétendre votre structure corporatiste.
+Les domaines d'activité présenté sont compatibles avec les régulations interstellaires. Restez conforme aux réglémentations interstellaires pour un commerce plus serein.
+
+> Lancez 1D20 pour sélectionner un domaine ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de domaines auxquels peut prétendre votre structure corporatiste.
 
 | ID  | DOMAINE                          | DESCRIPTION                                                                                  |
 |-----|----------------------------------|----------------------------------------------------------------------------------------------|
@@ -310,7 +312,9 @@ Une série de choix permet de définir les domaines d'activité compatibles avec
 
 ### MORALITÉ DE LA CORPORATION
 
-La morale affichée est une couche rhétorique. Elle sert à calibrer la communication externe et à déterminer le nombre d'activités secondaires officieusement tolérées. Lancez 1D6 pour sélectionner la moralité perçue ou choisissez dans la liste.
+La morale affichée est une couche rhétorique. Elle sert à calibrer la communication externe et à déterminer le nombre d'activités secondaires officieusement tolérées. 
+
+> Lancez 1D6 pour sélectionner la moralité perçue ou choisissez.
 
 | ID  | MORALITÉ PERÇUE      | ACTIVITÉS SECONDAIRES | DESCRIPTION NARRATIVE                                                                     |
 |-----|----------------------|-----------------------|-------------------------------------------------------------------------------------------|
@@ -323,7 +327,9 @@ La morale affichée est une couche rhétorique. Elle sert à calibrer la communi
 
 #### GENERATEUR D'ACTIVITÉS SECONDAIRES
 
-Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale. Lancez 1D20 pour sélectionner une activité secondaire ou choisissez dans la liste. Faites autant de fois l'opération que le nombre d'activités secondaires auxquelles peut prétendre votre structure corporatiste.
+Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale.
+
+> Lancez 1D20 pour sélectionner une activité secondaire ou choisissez dans la liste. Faites autant de fois l'opération que le nombre d'activités secondaires auxquelles peut prétendre votre structure corporatiste.
 
 | ID  | ACTIVITÉ SECONDAIRE                       | DESCRIPTION                                                                                      |
 |-----|-------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -354,7 +360,9 @@ Chaque entité se compose d’un assemblage de traits systémiques, indicateurs 
 
 ### GENERATEUR DE TRAIT CORPORATISTE
 
-Utilisez une table aléatoire ou un processus de sélection pondérée pour définir les traits dominants de la corporation. Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires. Lancez 1D100/2 pour sélectionner un trait ou choisissez dans la liste. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
+Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires.
+
+> Lancez 1D100/2 pour sélectionner un trait ou choisissez. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
 
 | ID | Trait                         | Description                                                                                    | avantages                                                                          | défauts                                                                          |
 |----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -419,7 +427,9 @@ Toute entité opérant au-delà de 3 parsecs d’un relais principal est tenue d
 
 L’usage massif des modèles MU/TH/UR sous licence Weyland-Yutani reste la norme dans les secteurs sous influence du Noyau. Toutefois, leur adoption sans alternative ni redondance fonctionnelle comporte des risques structurels élevés. La loyauté de ces IA, bien que contractuellement certifiée, demeure essentiellement orientée vers les objectifs stratégiques de la WY elle-même. Des incidents passés indiquent des cas de rétention d’information, de priorisation externe, voire d’injonctions contradictoires menant à des pertes humaines majeures. Les structures souhaitant assurer leur souveraineté algorithmique sont invitées à considérer des modèles hybrides ou à opter pour des IA locales distribuées, à condition d’obtenir une validation intersectorielle de conformité.
 
-Chaque modèle MU/TH/UR dispose de capacités spécifiques adaptées à différents niveaux d'intégration et contextes coloniaux. Il est recommandé de procéder à une évaluation périodique de performance, ainsi qu'à une supervision externe pour toute IA classée comme "dominante" ou supérieure. L'usage des modèles 9000 doit faire l'objet d'une dérogation exceptionnelle de la part de l'Agence de Régulation Psychotechnique Intersectorielle (ARPI).
+Chaque modèle MU/TH/UR dispose de capacités spécifiques adaptées à différents niveaux d'intégration et contextes coloniaux. Il est recommandé de procéder à une évaluation périodique de performance, ainsi qu'à une supervision externe pour toute IA classée comme "dominante" ou supérieure. L'usage des modèles 9000 doit faire l'objet d'une dérogation exceptionnelle de la part de l'Agence de Régulation.
+
+> Lancez 1D6 ou choisissez, pour sélectionner le niveau d'intégration de l'IA dans la corporation.
 
 | ID | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
 |----|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -434,6 +444,8 @@ Chaque modèle MU/TH/UR dispose de capacités spécifiques adaptées à différe
 
 Les unités synthétiques assurent la continuité d’activité, l’interface de sécurité et la médiation humaine. Leur présence est constante, leur loyauté contractuelle, leur obsolescence planifiée.
 
+> Lancez 1D6 ou choisissez, pour sélectionner l'usage que fait la corporation des Synthétiques.
+
 | ID | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
 |----|--------------------------------|------------------------------------------------------------------------------------------------|
 | 01 | **Main-d'œuvre technique**     | Opèrent dans la maintenance, la médecine, la navigation, la recherche.                         |
@@ -446,6 +458,8 @@ Les unités synthétiques assurent la continuité d’activité, l’interface d
 ### MODÈLE HIÉRARCHIQUE DANS LA CORPORATION
 
 Divisions, filiales, et micro-cellules doivent être établies selon le Modèle Oméga : une hiérarchie pyramidale où tout comportement déviant est redirigé vers des sous-niveaux contrôlables ou éliminables.
+
+>  Lancez 1D6 ou choisissez le modèle hiérarchiquede la corporation. S'agissant **Hiérarchie rituelle / symbolique**, elle n'est disponible que sur la base de votre choix pour une question de jouabilité.
 
 | ID | MODÈLE HIÉRARCHIQUE            | DESCRIPTION                                                                                    |
 |----|------------------------------- |------------------------------------------------------------------------------------------------|
@@ -463,35 +477,61 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 #### NIVEAU DE SÉCURITÉ INTERNE DE LA CORPORATION
 
-| ID     | SECURITE               | DESCRIPTION                                                                     |
-|--------|------------------------|---------------------------------------------------------------------------------|
-| 1      | Veille passive         | Caméras de base, réactions lentes, protocole désuet.                            |
-| 2      | Contrôle local         | Equipes PMC ou IA supervisée, réaction sectorielle.                             |
-| 3      | Réseau structuré       | Sécurité intégrée à l’ensemble des opérations internes.                         |
-| 4      | Réactivité automatisée | Systèmes IA, protocoles d’isolement, équipes mobiles synthétiques.              |
-| 5      | Défense paranoïde      | Sécurité létale, contrôle comportemental constant, neutralisation préventive.   |
+ > Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 5.
 
-#### NIVEAU DE SÉCURITÉ PAR ZONE GALACTIQUE
+| ID   | TYPE DE SÉCURITÉ           | DESCRIPTION                                                                                   | INFRASTRUCTURE TYPIQUE                                             | MODÈLE IA RECOMMANDÉ             | INTÉGRATION IA RECOMMANDÉ     | USAGE DES SYNTHÉTIQUES RECOMMANDÉ        | MODÈLE HIÉRARCHIQUE RECOMMANDÉ         |
+|------|----------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------|-------------------------------|------------------------------------------|----------------------------------------|
+| 01   | **Aucune**                 | Zone abandonnée, absence d’autorité ou effondrement système.                                  | Verrouillage manuel, pas de réseau                                 | Aucun ou IA improvisée           | Aucune                        | Absence volontaire                       | Aucune / informelle                    |
+| 02   | **Veille passive**         | Système de sécurité vétuste, présence symbolique de contrôle.                                 | Caméras analogiques, badge magnétique                              | MU/TH/UR 1000                    | Consultative                  | Synthétiques obsolètes                   | Structure en cellules                  |
+| 03   | **Contrôle local**         | Sécurité assurée par le personnel ou une IA auxiliaire.                                       | Postes armés, alertes manuelles, PMC                               | MU/TH/UR 2000                    | Consultative                  | Main-d'œuvre technique                   | Structure pyramidale classique         |
+| 04   | **Coordination humaine**   | Supervision humaine assistée d’IA co-gouvernante.                                             | Log de sécurité, SAS manuels, rondes                               | MU/TH/UR 3000 / 4000             | Co-gouvernante                | Conseillers exécutifs                    | Divisions sectorielles                 |
+|**05**| **Réseau semi-automatisé** | **Systèmes automatisés sectoriels, IA de supervision.**                                       | **IA locale, badge numérique, drones faibles**                     | **MU/TH/UR 5000 / APOLLO**       | **Co-gouvernante              | **Main-d'œuvre technique**               | **Organisation modulaire**             |
+| 06   | **Réactivité IA**          | L’IA détecte et isole automatiquement toute anomalie.                                         | Sas IA, protocoles de confinement automatiques                     | MU/TH/UR 5500 / 6000             | Dominante                     | Sécurité synthétique                     | Structure pyramidale classique         |
+| 07   | **Défense préventive**     | IA analyse les comportements et neutralise préventivement.                                    | Capteurs biométriques, IA comportementale                          | MU/TH/UR 6500 / 7000             | Dominante                     | Sécurité synthétique                     | Hiérarchie militaire                   |
+| 08   | **Contrôle totalitaire**   | Surveillance et obéissance totale, tolérance zéro.                                            | Intercoms IA, chambres d’isolement, tourelles                      | MU/TH/UR 8000                    | Dissociée ou Distribuée       | Agents d’infiltration                    | Hiérarchie IA-centrique                |
+| 09   | **Confinement spécialisé** | Risques biologiques/technologiques, cloisonnement extrême.                                    | Multi-sas, IA indépendante par zone                                | MU/TH/UR 9000                    | Dissociée                     | Sécurité synthétique / infiltration      | Structure en cellules                  |
+| 10   | **Blacksite autonome**     | IA expérimentale, souveraineté IA complète.                                                   | IA hors réseau, architectures hostiles, défense orbitale           | MU/TH/UR 9000+ / prototype       | Expérimentale                 | Sécurité synthétique / fanatisés         | Hiérarchie rituelle / symbolique       |
 
-| ID     | ZONE GALACTIQUE    | SECURITE MAXIMAL | RAISON STRUCTURELLE                                                               | RISQUES PRINCIPAUX                                                |
-|--------|--------------------|----------------- |-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1      | Systèmes du Noyau  | 4                | Réglementation stricte, surveillance UNISC, audits fréquents                      | Sécurité légale, dispositifs publics visibles                     |
-| 2      | Voile Extérieur    | 3                | Contrôle mixte, pressions multiples                                               | Réseaux cloisonnés, IA + PMC hybrides                             |
-| 3      | Bordure Extérieure | 2                | Failles logistiques, pénuries, contrôle relâché                                   | Délégation à des sous-traitants, sécurité instable                |
-| 4      | Les Confins        | 1                | Autonomie totale, anarchie réglementaire                                          | Sécurité paranoïde, doctrine de survie, défense préventive totale |
 
-#### SYSTÈME DE SÉCURITÉ INTERNE
+##### NIVEAU DE SÉCURITÉ MODULAIRE
 
-Protocoles de verrouillage, unités PMC intégrées, surveillance IA, et doctrine de répression par l'exemple forment les quatre piliers de la résilience interne. Le principe fondamental reste : identifier, isoler, neutraliser.
+> En fonction de la structure, des zones couvertes pour ses activités, de l'intégration de l'IA et de l'usage que fait la corporation des Synthétiques, le niveau de sécurité peut être ajusté. Notez les niveaux de sécurité modifier en fonction de vos besoins.
 
-| ID | SYSTÈME DE SÉCURITÉ INTERNE    | DESCRIPTION                                                                                        |
-|----|--------------------------------|----------------------------------------------------------------------------------------------------|
-| 01 | **PMC (forces privées)**       | Unités armées sous contrat ou créées par la corpo. Opèrent dans les zones sensibles.               |
-| 02 | **Verrouillage automatisé**    | Protocoles de confinement, sas contrôlés par l’IA, suppression d’équipage en cas de menace.        |
-| 03 | **Surveillance permanente**    | Drones, caméras, IA prédictive surveillent tous les comportements.                                 |
-| 04 | **Répression rapide**          | Équipes spéciales anti-mutinerie, souvent synthétiques ou fanatisées.                              |
-| 05 | **Dissuasion psychologique**   | Propagande, slogans, musiques comportementales, rituels obligatoires.                              |
-| 07 | **Laboratoires classifiés**    | Accès restreint, effacement automatique des données sensibles, sécurité létale en cas d'intrusion. |
+| ID  | TYPE DE STRUCTURE	           | MODIFICATEUR SÉCURITÉ INTERNE |
+|-----|------------------------------|-------------------------------|
+| 01  | Mégacorporation	             | +3                            |
+| 02  | Conglomérat Multi-sectoriel	 | +2                            |
+| 03  | Filiale spécialisée	         | +1                            |
+| 04  | Start-up rachetée	           | +0                            |
+| 05  | Syndicat de colons privatisé	| -1                            |
+| 06  | Collectif indépendant	       | -1                            |
+| 07  | Délégation autonome	         | -2                            |
+| 08  | Culte corporatiste          	| +3                            |
+
+| ID  | ZONE GALACTIQUE                | RAISON STRUCTURELLE                                                         | MODIFICATEUR DE SÉCURITÉ  |
+|-----|--------------------------------|-----------------------------------------------------------------------------|---------------------------|
+| 1   | Systèmes du Noyau              | Réglementation stricte, surveillance UNISC, audits fréquents                | +3                        | 
+| 2   | Voile Extérieur                | Contrôle mixte, pressions multiples                                         | +2                        | 
+| 3   | Bordure Extérieure             | Failles logistiques, pénuries, contrôle relâché                             | +1                        | 
+| 4   | Les Confins                    | Autonomie totale, anarchie réglementaire                                    | +0                        | 
+
+| ID  | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                 | MODIFICATEUR DE SÉCURITÉ  |
+|-----|--------------------------------|-----------------------------------------------------------------------------|---------------------------|
+| 01  | IA consultative                | Analyse de données, sans pouvoir décisionnel direct.                        | +0                        |
+| 02  | IA co-gouvernante              | Prise de décision partagée avec l’humain.                                   | +1                        |
+| 03  | IA dominante                   | Supervision totale des opérations, humains en exécution.                    | +2                        |
+| 04  | IA distribuée                  | Plusieurs IA locales, spécialisées et non centralisées.                     | +2                        |
+| 05  | IA dissociée                   | L’IA suit ses propres protocoles en parallèle.                              | +1                        |
+| 06  | IA expérimentale               | IA instable ou en phase de test, imprévisible.                              | -1                        |
+
+| ID  | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                 | MODIFICATEUR DE SÉCURITÉ  |
+|-----|--------------------------------|-----------------------------------------------------------------------------|---------------------------|
+| 01  | Main-d'œuvre technique         | Maintenance, médecine, support logistique.                                  | +0                        |
+| 02  | Sécurité synthétique           | Synthétiques armés ou d’intervention.                                       | +2                        |
+| 03  | Agents d’infiltration          | Modèles humains pour espionnage ou négociation.                             | +1                        |
+| 04  | Conseillers exécutifs          | Synthétiques en poste décisionnel.                                          | +1                        |
+| 05  | Synthétiques obsolètes         | Modèles désuets ou défaillants.                                             | -1                        |
+| 06  | Absence volontaire             | Aucun synthétique par choix culturel ou idéologique.                        | -2                        |
 
 ## CULTURE DE LA CORPORATION
 
