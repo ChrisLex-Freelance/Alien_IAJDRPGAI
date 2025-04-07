@@ -485,7 +485,7 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 | 02   | **Veille passive**         | Système de sécurité vétuste, présence symbolique de contrôle.                                 | Caméras analogiques, badge magnétique                              | MU/TH/UR 1000                    | Consultative                  | Synthétiques obsolètes                   | Structure en cellules                  |
 | 03   | **Contrôle local**         | Sécurité assurée par le personnel ou une IA auxiliaire.                                       | Postes armés, alertes manuelles, PMC                               | MU/TH/UR 2000                    | Consultative                  | Main-d'œuvre technique                   | Structure pyramidale classique         |
 | 04   | **Coordination humaine**   | Supervision humaine assistée d’IA co-gouvernante.                                             | Log de sécurité, SAS manuels, rondes                               | MU/TH/UR 3000 / 4000             | Co-gouvernante                | Conseillers exécutifs                    | Divisions sectorielles                 |
-|**05**| **Réseau semi-automatisé** | **Systèmes automatisés sectoriels, IA de supervision.**                                       | **IA locale, badge numérique, drones faibles**                     | **MU/TH/UR 5000 / APOLLO**       | **Co-gouvernante              | **Main-d'œuvre technique**               | **Organisation modulaire**             |
+|**05**| **Réseau semi-automatisé** | **Systèmes automatisés sectoriels, IA de supervision.**                                       | **IA locale, badge numérique, drones faibles**                     | **MU/TH/UR 5000 / APOLLO**       | **Co-gouvernante**            | **Main-d'œuvre technique**               | **Organisation modulaire**             |
 | 06   | **Réactivité IA**          | L’IA détecte et isole automatiquement toute anomalie.                                         | Sas IA, protocoles de confinement automatiques                     | MU/TH/UR 5500 / 6000             | Dominante                     | Sécurité synthétique                     | Structure pyramidale classique         |
 | 07   | **Défense préventive**     | IA analyse les comportements et neutralise préventivement.                                    | Capteurs biométriques, IA comportementale                          | MU/TH/UR 6500 / 7000             | Dominante                     | Sécurité synthétique                     | Hiérarchie militaire                   |
 | 08   | **Contrôle totalitaire**   | Surveillance et obéissance totale, tolérance zéro.                                            | Intercoms IA, chambres d’isolement, tourelles                      | MU/TH/UR 8000                    | Dissociée ou Distribuée       | Agents d’infiltration                    | Hiérarchie IA-centrique                |
@@ -495,7 +495,7 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 ##### NIVEAU DE SÉCURITÉ MODULAIRE
 
-> En fonction de la structure, des zones couvertes pour ses activités, de l'intégration de l'IA et de l'usage que fait la corporation des Synthétiques, le niveau de sécurité peut être ajusté. Notez les niveaux de sécurité modifier en fonction de vos besoins.
+> En fonction de la structure, des zones couvertes pour ses activités, de l'intégration de l'IA et de l'usage que fait la corporation des Synthétiques, le niveau de sécurité peut être ajusté. Notez les niveaux de sécurité modifiés en fonction de vos besoins.
 
 | ID  | TYPE DE STRUCTURE	           | MODIFICATEUR SÉCURITÉ INTERNE |
 |-----|------------------------------|-------------------------------|
@@ -535,43 +535,77 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 ## CULTURE DE LA CORPORATION
 
-L’environnement idéologique interne est optimisé pour limiter la déviance et maximiser la conformité productive. La culture corporatiste est une interface comportementale, non une communauté.
+L’environnement idéologique interne est optimisé pour limiter la déviance et maximiser la conformité productive. La culture corporatiste est une interface comportementale, non une communauté. Plus la culture est forte, plus la corporation développe un comportement immunitaire idéologique : Toute dissidence est perçue comme un virus à isoler, neutraliser ou absorber. C’est pourquoi les structures à haut niveau de culture doivent préserver en leur sein des cellules d’adaptation, capables d’évoluer hors du dogme sans déclencher la réaction auto-immune du système.
 
 ### NIVEAU DE CULTURE CORPORATISTE
 
-Plus la culture est forte, plus la corporation développe un comportement immunitaire idéologique : Toute dissidence est perçue comme un virus à isoler, neutraliser ou absorber. C’est pourquoi les structures à haut niveau de culture doivent préserver en leur sein des cellules d’adaptation, capables d’évoluer hors du dogme sans déclencher la réaction auto-immune du système. Lancez 1D10/2 ou choisissez à quel niveau d'adoption de culture interne se situe la corporation.
+> Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 5.
 
-| ID     | ADOPTION          | DESCRIPTION                                                                     |
-|--------|-------------------|---------------------------------------------------------------------------------|
-| 1      | Faible cohésion   | La culture centrale existe mais cohabite avec des déviances tolérées.           |
-| 2      | Moyenne           | La culture est dominante mais sujette à remise en question.                     |
-| 3      | Forte             | Les employés vivent dans un environnement idéologique intégré.                  |
-| 4      | Fanatisme léger   | La loyauté est un réflexe. Les écarts sont dénoncés spontanément.               |
-| 5      | Uniformité totale | L’identité personnelle est abolie. L’idéologie supplante la conscience.         |
+| ID   | NIVEAU DE CULTURE            | DESCRIPTION                                                                                            | IA RECOMMANDÉE             | PROGRAMMES DE FIDÉLISATION RECOMMANDÉS                      | MODÈLE HIÉRARCHIQUE RECOMMANDÉ         |
+|------|------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------|----------------------------------------|
+| 01   | **Aucune culture**           | Aucun système idéologique actif. Employés isolés ou désabusés.                                         | Aucune / IA improvisée     | Aucun                                                       | Informelle                             |
+| 02   | **Culture résiduelle**       | Anciennes valeurs subsistent sans réelle application.                                                  | IA consultative            | Hédonisme compensatoire                                     | Organisation modulaire                 |
+| 03   | **Culture périphérique**     | Présente en surface mais ignorée dans les faits.                                                       | IA consultative            | Parrainage émotionnel, affichage symbolique                 | Structure en cellules                  |
+| 04   | **Culture nominale**         | Culture connue et acceptée, mais adaptable selon les situations.                                       | IA co-gouvernante          | Rituels collectifs, simulations de mérite                   | Divisions sectorielles                 |
+|**05**| **Culture active**           | **Valeurs intégrées dans les décisions et comportements courants.**                                    | ***MU/TH/UR 5000 / APOLLO**| **Notation IA, classement comportemental**                  | **Structure pyramidale classique**     |
+| 06   | **Culture dominante**        | L’idéologie est vécue comme naturelle. Le rendement devient un devoir moral.                           | MU/TH/UR 6000              | Simulation de mérite, récompenses internes                  | Structure pyramidale classique         |
+| 07   | **Culture rigide**           | Conformité absolue. Tout doute est assimilé à une faille systémique.                                   | MU/TH/UR 6500 / 7000       | Téléchargements cognitifs, surveillance sociale inversée    | Hiérarchie militaire                   |
+| 08   | **Culture fanatique**        | Obéissance exaltée. La loyauté est une foi, la trahison une hérésie.                                   | MU/TH/UR 8000              | Endoctrinement idéologique, dénonciation institutionnalisée | Hiérarchie IA-centrique                |
+| 09   | **Culture totalitaire**      | Plus aucune identité personnelle. Toute initiative est suspecte.                                       | MU/TH/UR 9000              | Recodage identitaire, rites de conformité extrêmes          | Hiérarchie IA-centrique                |
+| 10   | **Culture absorbante**       | L’individu est dissout. L’idéologie devient perception, mémoire, réalité.                              | MU/TH/UR 9000+ / prototype | Contrôle intégral                                           | Hiérarchie rituelle / symbolique       |
 
-### INFLUENCE CULTURELLE MAXIMUM PAR ZONE GALACTIQUE
+#### NIVEAU DE CULTURE MODULAIRE
 
-Chaque zone galactique définit un plafond structurel de culture corporatiste. Une entité ne peut dépasser un certain niveau de cohésion idéologique que si ses infrastructures sont suffisantes, son contrôle informationnel total, et son personnel stabilisé.
+> En fonction de la structure, des zones couvertes pour ses activités, de l'intégration de l'IA et de l'usage que fait la corporation des Synthétiques, le niveau de culture peut être ajusté. Notez les niveaux de culture modifiés en fonction de vos besoins. Chaque zone galactique définit un plafond structurel de culture corporatiste. Une entité ne peut dépasser un certain niveau de cohésion idéologique que si ses infrastructures sont suffisantes, son contrôle informationnel total, et son personnel stabilisé.
 
-| ID     | ZONE GALACTIQUE    | CULTURE MAXIMAL | RAISON STRUCTURELLE                                                               | RISQUES PRINCIPAUX                                    |
-|--------|--------------------|-----------------|-----------------------------------------------------------------------------------|-------------------------------------------------------|
-| 1      | Systèmes du Noyau  | 5               | Haute densité de relais com, AI, mainmise corpo, faible mobilité des employés     | Audits fréquents, contrôle UNISC, contraintes légales |
-| 2      | Voile Extérieur    | 4               | Contrôle fort mais cohabitation avec des cultures secondaires                     | Hybridation culturelle, tensions de loyauté           |
-| 3      | Bordure Extérieure | 3               | Présence instable, personnel composite, menaces sociales et environnementales     | Résistances locales, sabotage idéologique             |
-| 4      | Les Confins        | 2               | Automomie décisionnelle large, faible retour d’information, résistance endémique  | Dérives sectaires, hérésies, pertes de contrôle       |
+| ID  | TYPE DE STRUCTURE               | MODIFICATEUR CULTURE  |
+|-----|---------------------------------|-----------------------|
+| 01  | Mégacorporation                 | +3                    |
+| 02  | Conglomérat Multi-sectoriel     | +2                    |
+| 03  | Filiale spécialisée             | +1                    |
+| 04  | Start-up rachetée               | +0                    |
+| 05  | Syndicat de colons privatisé    | -1                    |
+| 06  | Collectif indépendant           | -2                    |
+| 07  | Délégation autonome             | -2                    |
+| 08  | Culte corporatiste              | +1D3                  |
+
+| ID  | ZONE GALACTIQUE                 | RAISON STRUCTURELLE                                                         | MODIFICATEUR DE CULTURE  |
+|-----|---------------------------------|-----------------------------------------------------------------------------|--------------------------|
+| 01  | Systèmes du Noyau               | Contrôle informationnel complet, faible mobilité, éducation corpo intégrée  | +3                       |
+| 02  | Voile Extérieur                 | Cohabitation culturelle, propagande active mais contestée                   | +2                       |
+| 03  | Bordure Extérieure              | Diversité humaine, absence d’unité idéologique, personnel transitoire       | -1                       |
+| 04  | Les Confins                     | Rupture culturelle, autonomie radicale, rejet fréquent des dogmes corpo     | -2                       |
+
+> **Note** : Le plafond de culture par zone s’aligne sur ces modificateurs. Pour atteindre 9–10 dans les Confins, des mesures extrêmes sont nécessaires (voir plus haut).
+
+| ID  | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                 | MODIFICATEUR DE CULTURE  |
+|-----|--------------------------------|-----------------------------------------------------------------------------|--------------------------|
+| 01  | IA consultative                | L’idéologie reste humaine et diverse, l’IA n’ayant qu’un rôle d’analyse     | +0                       |
+| 02  | IA co-gouvernante              | L’IA contribue au renforcement idéologique, mais avec nuances humaines      | +1                       |
+| 03  | IA dominante                   | L’idéologie est structurée autour des décisions IA                          | +2                       |
+| 04  | IA distribuée                  | Les IA spécialisées diffusent des dogmes sectoriels, culture fragmentée     | +1                       |
+| 05  | IA dissociée                   | L’idéologie devient impénétrable, mais parfois incohérente                  | +2                       |
+| 06  | IA expérimentale               | Instabilité idéologique, déviances imprévues, propagande erratique          | -1                       |
+
+| ID  | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                 | MODIFICATEUR DE CULTURE  |
+|-----|--------------------------------|-----------------------------------------------------------------------------|--------------------------|
+| 01  | Main-d'œuvre technique         | Pas d’impact idéologique significatif                                       | +0                       |
+| 02  | Sécurité synthétique           | Les agents renforcent l'ordre, mais sans transmettre de doctrine            | +1                       |
+| 03  | Agents d’infiltration          | Propagation furtive de la doctrine par mimétisme social                     | +2                       |
+| 04  | Conseillers exécutifs          | Les synthétiques portent directement le discours corporatiste               | +2                       |
+| 05  | Synthétiques obsolètes         | Symboles d’échec ou de rupture idéologique                                  | -1                       |
+| 06  | Absence volontaire             | Rejet assumé des normes, culture souvent auto-organisée                     | -2                       |
 
 Si une corporation cherche à maintenir un niveau de culture supérieur au seuil naturel de la zone, elle doit :
 - Déployer des IA de type MU/TH/UR 7000 ou +
 - Cloisonner à l'extrême ses installations et son personnel
 - Recourir à des moyens coercitifs : Synthétique infiltré, surveillance, usage d'inibiteurs comportementaux chimique.
 
-### JARGON INTERNE DE LA CORPORATION
-
-La terminologie RH favorise la déshumanisation. On ne parle pas d’êtres humains, mais d’« unités biologiques productives » ou d’« entités à rendement variable ».
+### EXEMPLE D'ELEMENTS CULTUREL CORPORATISTE
 
 #### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
 
-Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard.
+Les récompenses sont modulées selon les indices de conformité. Accès à la VR, ration étendue, ou exemption temporaire du stress psychométrique sont monnaie d’échange standard. La terminologie RH favorise la déshumanisation ne parle pas d’êtres humains, mais d’« unités biologiques productives » ou d’« entités à rendement variable ».
 
 | ID | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
 |----|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -619,7 +653,7 @@ Les erreurs systémiques ou les écarts comportementaux entraînent des mesures 
 | 04 | Réaffectation préventive    | Mutation forcée vers un site dangereux                                               | Punition déguisée                |
 | 05 | Ressource neutralisée       | Mort, disparition, ou stase illimitée                                                | Suppression pure                 |
 
-### PROGRAMMES DE FIDÉLISATION DE LA CORPORATION
+#### PROGRAMMES DE FIDÉLISATION DE LA CORPORATION
 
 La loyauté ne se décrète pas, elle se conditionne. Accès à des plaisirs simulés, endoctrinement rituel, dépendances chimiques ou avantages génétiques renforcent l’attachement au système.
 
@@ -636,7 +670,7 @@ La loyauté ne se décrète pas, elle se conditionne. Accès à des plaisirs sim
 | 09 | Gamification intégrale        | Le quotidien est gamifié : points de loyauté, succès déverrouillés, défis internes. Rend la fidélisation addictive et déconnectée de la réalité.                                                 | Classements de productivité, insignes numériques, quêtes journalières, tableaux d'honneur interactifs                          |
 | 10 | Recodage identitaire          | Suppression ou altération des souvenirs personnels, remplacés par des "mémoires officielles" plus compatibles avec la vision corporatiste.                                                       | Implantation de souvenirs, cérémonies de réassignation de vie, réécritures psychiques                                          |
 
-### CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION
+#### CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION
 
 Chaque message diffusé doit rassurer tout en affirmant la puissance implicite de l’institution. Le slogan est partout. Le doute, nulle part.
 
@@ -653,7 +687,7 @@ Chaque message diffusé doit rassurer tout en affirmant la puissance implicite d
 | 09 | **Campagnes de rétro-nostalgie**            | Utilisation d’images et messages anciens de la corpo (réels ou fictifs) pour créer une sensation de continuité, de stabilité rassurante.                           | Logos "vintage", images d’époque, hymnes restaurés.                                                  |
 | 10 | **Propagande émotionnelle ciblée**          | IA ou synthétiques injectent directement des séquences émotionnelles via implants, interfaces ou micro-doses sensoriels.                                           | Séquences de "fierté collective", sensation de sécurité, euphorie liée à l'appartenance.             |
 
-### SYMBOLES DE LA CORPORATION
+#### SYMBOLES DE LA CORPORATION
 
 Hymnes, mascottes, stèles biomémorielles et rituels de promotion renforcent l’appartenance et la dissolution de l’identité individuelle.
 
@@ -666,7 +700,7 @@ Hymnes, mascottes, stèles biomémorielles et rituels de promotion renforcent l�
 | 05 | Blason évolutif                             | Symbole de rang qui se modifie avec la progression de l’individu (numérique ou vestimentaire).                                                           | Patch thermosensible, insigne projeté, drone signal lumineux              | Gamification statutaire                      |
 | 06 | Icône cryptée                               | Emblème réservé aux membres d’élite ou au personnel "éveillé", porteur de vérités cachées ou d’un savoir interdit.                                       | Sceau ésotérique, hologramme privé, cube de données                       | Génère mystère et hiérarchie occulte         |
 
-### RITUELS DE LA CORPORATION
+#### RITUELS DE LA CORPORATION
 
 Tout passage hiérarchique ou événement marquant est ritualisé : chants synthétiques, tatouages de conformité, minute de synchronisation neuronale.
 
@@ -679,7 +713,7 @@ Tout passage hiérarchique ou événement marquant est ritualisé : chants synth
 | 05 | Lamentation rituelle                        | Cérémonie collective après une perte (souvent obligatoire même si le mort est inconnu).                                                                  | Diffusion d’un hymne, minute de silence vocale, lecture IA des noms       | Gère les affects, neutralise la panique       |
 | 06 | Rite de purge                               | Acte symbolique (souvent inutile) effectué après une "erreur" ou une "crise" interne.                                                                    | Lavage collectif, confession vocale, désactivation volontaire d’un drone  | Blâme collectif, régénère le système          |
 
-### IDENTITÉ  DE LA CORPORATION
+#### IDENTITÉ  DE LA CORPORATION
 
 L’entité corporatiste devient un mythe, une nation, un dogme. Elle absorbe la mémoire, réécrit l’histoire, et construit la fiction nécessaire à la survie de sa machine administrative.
 
