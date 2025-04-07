@@ -24,7 +24,7 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 
 ## CONTEXTE AUGMENTE
 
-### CHRONOLOGIE UNIFIEE DE L'UNIVERS
+### CHRONOLOGIE DE L'UNIVERS
 
 [CHRONOLOGIE UNIFIEE PAR DATE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CHRONOLOGIE_UNIFIEE.md)
 
