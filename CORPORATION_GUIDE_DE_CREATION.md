@@ -2,11 +2,15 @@
 
 *UN GUIDE NON OFFICIEL COMPATIBLE AVEC L'UNIVERS D'ALIEN RPG*
 
-### ANNOTATIONS
+## ANNOTATIONS
 
 > Le texte est rédigé dans un formalisme spécifique pour renforcer la tonalité froide et toxic du cadre corporatiste.
 
 > Lorsqu'un texte sort du cadre narratif/ambiance il est introduit par une citation.
+
+## ORIENTATION
+
+| [INTRODUCTION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#introduction) | [EVENEMENTS FONDATEURS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#evenements-historiques-de-la-corporation) | [IDENTITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#identite-de-la-corporation) | [SLOGAN DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#slogan-de-la-corporation) | [ORIGINE GEOGRAPHIQUE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#origine-geographique-de-la-corporation) | [TYPE DE STRUCTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-structure-de-la-corporation) | [DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-structure-de-la-corporation) | [TRAITS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [STRUCTURE INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [CULTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#culture-de-la-corporation) | [ZONE D'INFLUENCE DE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#zone-dinfluence-de-corporation) | [RIVALITÉS ACTIVES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) | [LIEN DE LA CORPORATION AVEC L'HORREUR SPATIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) |
 
 ## INTRODUCTION
 
@@ -853,13 +857,9 @@ La base de données intercorporatiste permet de générer des dénominations con
 
 ### SLOGAN DE LA CORPORATION
 
-Obligatoire dans toute communication externe, le slogan doit être à la fois rassurant, mobilisateur, et volontairement vague. Il remplit une double fonction : déflection psychologique et pré-endoctrinement.
+Obligatoire dans toute communication externe, le slogan doit être à la fois rassurant, mobilisateur, et volontairement vague. Le slogan est idéalement structuré en deux segments : promesse initiale / justification morale, remplit une double fonction : déflection psychologique et pré-endoctrinement.
 
-#### GENERATEUR DE SLOGAN
-
-L'outil intègre une banque de formules inspirées des grands courants de pensée socio-productivistes. Le slogan est idéalement structuré en deux segments : promesse initiale / justification morale.
-
-> Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste.
+> Lancez 1D100 pour l'Accroche et 1D100 pour la finalité ou choisissez dans la liste. L'outil intègre une banque de formules inspirées des grands courants de pensée socio-productivistes. 
 
 | ID    | ACCROCHE                                            | FINALITE                                                          | ID    | ACCROCHE                                            | FINALITE                                                          |
 |-------|-----------------------------------------------------|-------------------------------------------------------------------|-------|-----------------------------------------------------|-------------------------------------------------------------------|
@@ -918,8 +918,6 @@ L'outil intègre une banque de formules inspirées des grands courants de pensé
 
 L'origine géographique (Noyau, Voile, Bordure, Confins) détermine les capacités d'expansion, les réseaux d'influence, et le degré de compromission politique de la structure. Les entités issues du Noyau bénéficient d'une présomption de légitimité. Les structures issues des Confins devront prouver leur viabilité.
 
-#### GEOGRAPHIE GALACTIQUE
-
 > Lancez 1D100 pour connaître la zone de géographie galactique dont est issue la corporation ou choisissez.
 
 | 1D100  | ZONE GALACTIQUE    | DESCRIPTION |
@@ -932,8 +930,6 @@ L'origine géographique (Noyau, Voile, Bordure, Confins) détermine les capacit�
 ### TYPE DE STRUCTURE DE LA CORPORATION
 
 La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte les capacités décisionnelles, la hiérarchisation des risques, et les seuils d'opacité admise. Le choix de structure est stratégique, mais rarement sincère.
-
-### GENERATEUR DE STRUCTURE
 
 > Lancez 1D8 ou choisissez d'attribuer la forme légale initiale de la corporation. Les résultats peuvent être ajustés en fonction de l'intention narrative ou des besoins systémiques de la campagne. 
 
@@ -954,7 +950,7 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 
 La spécialisation opérationnelle définit la position de la corporation sur les chaînes de valeur : extraction, transformation, logistique, militarisation, biotech, etc. À noter : une compétence affichée ne préjuge pas d'une expertise réelle.
 
-### GENERATEUR DES PRINCIPAUX DOMAINES D'EXPERTISE
+### PRINCIPAUX DOMAINES D'EXPERTISE
 
 Les domaines d'activité présenté sont compatibles avec les régulations interstellaires. Restez conforme aux réglémentations interstellaires pour un commerce plus serein.
 
@@ -998,7 +994,7 @@ La morale affichée est une couche rhétorique. Elle sert à calibrer la communi
 | 05  | **Amorale**          | 5                     | Aucune ligne rouge : la rentabilité prime sur l’éthique.                                  |
 | 06  | **Fanatique**        | 6                     | L’idéologie remplace la morale. Tout est permis au nom de la doctrine corporatiste.       |
 
-#### GENERATEUR D'ACTIVITÉS SECONDAIRES
+#### ACTIVITÉS SECONDAIRES
 
 Parmi les pratiques tolérées : sous-traitance armée, opérations noires, expérimentation clandestine, cyber-influence. Le seuil d'activités autorisées augmente avec l'opacité morale.
 
