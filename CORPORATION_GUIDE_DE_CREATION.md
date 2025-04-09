@@ -10,14 +10,14 @@
 
 ## INTRODUCTION
 
-Le présent document a été émis par l'Agence de Coopération Coloniale et décrit les protocoles recommandés pour la fondation, l'identification et l'enregistrement d'une entité corporatiste dans l'espace interstellaire réglementé. Toute corporation aspirant à opérer dans les zones déclarées, semi-autonomes ou frontalières est tenue de s'y conformer. Ce guide garantit la compatibilité économique, politique et sociale des entités avec les standards d'exploitation multi-sectorielle promus par l'UNISC et ses partenaires industriels. Les dérogations seront examinées au cas par cas, en fonction de l'utilité perçue de l'entité.
+Le présent document a été émis par l'Agence de Coopération Coloniale des Affaires Corporatiste (ACCAC) et décrit les protocoles recommandés pour la fondation, l'identification et l'enregistrement d'une entité corporatiste dans l'espace interstellaire réglementé. Toute corporation aspirant à opérer dans les zones déclarées, semi-autonomes ou frontalières est tenue de s'y conformer. Ce guide garantit la compatibilité économique, politique et sociale des entités avec les standards d'exploitation multi-sectorielle promus par ses représentants et ses partenaires industriels. Les dérogations seront examinées au cas par cas, en fonction de l'utilité perçue de l'entité.
 
 ### OBJECTIFS
 
 - Standardiser la création des structures corporatistes afin de fluidifier leur insertion dans les flux logistiques interstellaires.
 - Identifier les critères de survie à long terme dans les environnements à haut taux d'incertitude xénologique, juridique ou politique.
 - Optimiser la mise en conformité apparente avec les chartes éthiques coloniales.
-- Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou bancaires.
+- Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou financières.
 
 ---
 
@@ -34,8 +34,8 @@ Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé es
 | ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE                                                                                                      |
 |----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 01 | 0–10 ans (ÉMERGENTE)	      | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure.  | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne    |
-| 02 | 10–30 ans (ÉTABLIE)	      |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	              | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.           |
-| 03 | 30–80 ans (ACTEUR MAJEUR)  |Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	      | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
+| 02 | 10–30 ans (ÉTABLIE)	      | Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)              | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.           |
+| 03 | 30–80 ans (ACTEUR MAJEUR)  | Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	      | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
 | 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                              | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.  |
 
 | ANCIENNETÉ                | FONDATION | CRISES           | PRISE D’INDÉPENDANCE  | EXPANSION / DÉRAPAGES  | MUTATION IDÉOLOGIQUE  | SITUATION ACTUELLE  | PERSPECTIVE FUTURE  |
@@ -162,12 +162,12 @@ Les crises, souvent imprévisibles, mettent en lumière les failles structurelle
 
 | ID  | ÉVÉNEMENTS POSSIBLES                                                                 |
 |-----|--------------------------------------------------------------------------------------|
-| 01  | Catastrophe industrielle (explosion, effondrement, pollution biogénique...)          |
-| 02  | Scandale éthique : enfants cobayes, implants forcés, effacement mémoire              |
-| 03  | Rébellion ou sécession d’une colonie entière                                         |
-| 04  | Conflit technologique : vol de brevet, sabotage, guerre économique avec une rivale   |
-| 05  | Implication dans une expérience génétique ou biologique interdite                    |
-| 06  | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité               |
+| 01  | CATASTROPHE INDUSTRIELLE (explosion, effondrement, pollution biogénique...)          |
+| 02  | SCANDALE ÉTHIQUE (enfants cobayes, implants forcés, effacement mémoire )             |
+| 03  | RÉBELLION OU SÉCESSION d’une colonie entière                                         |
+| 04  | CONFLIT TECHNOLOGIQUE (vol de brevet, sabotage, guerre économique avec une rivale)   |
+| 05  | Implication dans une EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE interdite                    |
+| 06  | CONDAMNATION PAR UNE AUTORITÉ pour violation d’un traité                             |
 
 ##### CATASTROPHE INDUSTRIELLE
 
@@ -267,14 +267,14 @@ Les déclencheurs d’indépendance marquent des tournants décisifs dans l’é
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------------------------|
-| 01 | **Rachat hostile de la société-tutrice** via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
-| 02 | **Fuite orchestrée d’un scandale d’État** impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
-| 03 | **Neutralisation juridique d’un syndicat** de contrôle via la création d’une juridiction corporatiste autonome.                |
-| 04 | **Obtention d’un brevet stratégique** grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
-| 05 | **Fausse faillite suivie d’une renaissance** sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
-| 06 | **Corruption d’un organe de supervision planétaire**, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
+| 01 | RACHAT HOSTILE DE LA SOCIÉTÉ TUTRICE via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
+| 02 | FUITE ORCHESTREE d’un scandale d’État impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
+| 03 | NEUTRALISATION JURIDIQUE D'UN SYNDICAT de contrôle via la création d’une juridiction corporatiste autonome.                |
+| 04 | OBTENTION D'UN BREVET stratégique grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
+| 05 | FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
+| 06 | CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
 
-#### RACHAT HOSTILE
+#### RACHAT HOSTILE DE LA SOCIÉTÉ TUTRICE
 
 Les rachats hostiles représentent des manœuvres stratégiques audacieuses, souvent exécutées dans l'ombre pour contourner les défenses des entités ciblées. Ces opérations, orchestrées avec une précision chirurgicale, exploitent les failles légales et financières pour renverser les structures de pouvoir établies. Elles révèlent les vulnérabilités des systèmes de gouvernance et obligent à une réévaluation des alliances et des protocoles de sécurité.
 
@@ -372,12 +372,12 @@ Une fois atteinte une masse critique, la corporation n’expérimente plus : ell
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | **CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE**, au-dessus des lois locales                              |
-| 02 | **IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE** sans autorisation                                    |
-| 03 | **MONOPOLISATION D’UN SECTEUR VITAL** (eau, nourriture, stase, organes synthétiques…)                      |
-| 04 | **RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE**                                                          |
-| 05 | **INFILTRATION DANS DES COLONIES FRONTALIÈRES** sous prétexte d’aide humanitaire                           |
-| 06 | **USAGE DE MERCENAIRES OU SOUS-TRAITANTS** dans un conflit inter-bloc                                      |
+| 01 | CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE, au-dessus des lois locales                              |
+| 02 | IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE sans autorisation                                    |
+| 03 | MONOPOLISATION D’UN SECTEUR VITAL (eau, nourriture, stase, organes synthétiques…)                      |
+| 04 | RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE                                                          |
+| 05 | INFILTRATION DANS DES COLONIES FRONTALIÈRES sous prétexte d’aide humanitaire                           |
+| 06 | USAGE DE MERCENAIRES OU SOUS-TRAITANTS dans un conflit inter-bloc                                      |
 
 #### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
 
@@ -477,12 +477,12 @@ En externalisant ses actions militaires, la corporation agit sans porter d’uni
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | Création d’un nouveau **modèle synthétique ou clone** expérimental                                         |
-| 02 | IA semi-sensible (type MU/TH/UR) dirigeant désormais la logistique complète                                |
-| 03 | Découverte d’un matériau alien aux propriétés inconnues                                                    |
-| 04 | Transformation en **conglomérat multi-sectoriel** (agriculture, pharma, sécurité…)                         |
-| 05 | Scission d’un département devenu culte, faction ou secte interne                                           |
-| 06 | Modification de ses employés (implants, modification génétique, conditionnement cognitif)                  |
+| 01 | CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE expérimental                                                     |
+| 02 | SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE dans son ensemble                                                 |
+| 03 | DÉCOUVERTE D’UN XENO-MATERIAUX aux propriétés inconnues                                                    |
+| 04 | TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL (agriculture, pharma, sécurité…)                             |
+| 05 | SCISSION D’UN DÉPARTEMENT INTERNE devenu culte, une action autonomiste ou une secte                        |
+| 06 | MODIFICATION DES EMPLOYÉS (implants, modification génétique, conditionnement cognitif)                     |
 
 #### CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE EXPÉRIMENTAL
 
@@ -514,7 +514,7 @@ L’IA, officiellement dédiée à l’assistance, opère de facto comme centre 
 | 05 | Centralisation des systèmes d’alerte, verrouillage et autorisation de sécurité                 |
 | 06 | Simulation de dialogue stratégique avec les organes de gouvernance sans validation humaine     |
 
-#### DÉCOUVERTE D’UN MATÉRIAU ALIEN AUX PROPRIÉTÉS INCONNUES
+#### DÉCOUVERTE D’UN XENO-MATERIAUX
 
 La découverte est dissimulée, exploitée en interne, ou interprétée à des fins technologiques sans cadre juridique. Le matériau agit souvent comme catalyseur d’un changement de paradigme.
 
@@ -526,7 +526,7 @@ La découverte est dissimulée, exploitée en interne, ou interprétée à des f
 | 02 | Modification du comportement électrique des interfaces IA                                     |
 | 03 | Rejet de tout contact biologique sauf sous contrainte magnétique                              |
 | 04 | Altération de la mémoire numérique lors du stockage prolongé                                  |
-| 05 | Résonance spécifique avec des structures préhumaines découvertes dans les Confins             |
+| 05 | Résonance spécifique avec des structures préhumaines découvertes                              |
 | 06 | Instabilité physique en fonction des cycles de sommeil du personnel exposé                    |
 
 #### TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL
@@ -582,14 +582,14 @@ Cette phase représente la condition actuelle de la corporation sur l’échiqui
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | Blacklistée dans certaines zones de la Bordure ou des Confins                                              |
-| 02 | Soupçons de liens avec des **disparitions de vaisseaux ou de colonies**                                    |
-| 03 | Implantée dans des **zones contestées** (UPP, E3M, etc.) avec autorisation douteuse                        |
-| 04 | Active dans les lobbies parlementaires ou candidate à un siège UNISC                                       |
-| 05 | Rumeurs d’un **projet lié au génome xéno**                                                                 |
-| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”**                                   |
+| 01 | BLACKLISTÉE dans certaines zones galactique                                                                |
+| 02 | Soupçons de liens avec des DISPARITIONS DE VAISSEAUX OU DE COLONIES                                        |
+| 03 | IMPLANTÉE DANS DES ZONES CONTESTÉES avec autorisation douteuse                                             |
+| 04 | ACTIVE DANS LES LOBBIES PARLEMENTAIRES ou candidate à un siège de gouvernance                              |
+| 05 | RUMEURS D’UN PROJET GENETIQUE CONTESTE autour d'une xéno-espèce                                            |
+| 06 | DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION d’un artefact “pré-humain”                                       |
 
-#### BLACKLISTÉE DANS CERTAINES ZONES DE LA BORDURE OU DES CONFINS
+#### BLACKLISTÉE DANS CERTAINES ZONES GALACTIQUE
 
 Interdite d’exercer dans certains secteurs après des incidents non clarifiés, la structure opère via des proxies ou des sous-marques.
 
@@ -634,7 +634,7 @@ La structure opère dans des zones de conflit latent ou de souveraineté disput�
 | 05 | Secteur classé réserve archéologique par l’UNISC, rebaptisé “zone stratégique privée”     |
 | 06 | Station relais reconvertie en port hyperspatial malgré le gel officiel de la zone         |
 
-#### ACTIVE DANS LES LOBBIES PARLEMENTAIRES OU CANDIDATE À UN SIÈGE UNISC
+#### ACTIVE DANS LES LOBBIES PARLEMENTAIRES
  
 L’entité tente de normaliser sa doctrine en pénétrant les sphères de pouvoir législatif intersectoriel. Cette phase est souvent le prélude à une restructuration de l’économie régionale.
 
@@ -649,7 +649,7 @@ L’entité tente de normaliser sa doctrine en pénétrant les sphères de pouvo
 | 05 | Reconnaissance légale d’un protocole IA comme personnalité morale partielle                  |
 | 06 | Création d’un traité visant à privatiser le contrôle de l’eau atmosphérique coloniale        |
 
-#### RUMEURS D’UN PROJET LIÉ AU GÉNOME XÉNO
+#### RUMEURS D’UN PROJET GENETIQUE CONTESTE
 
 Des signaux faibles, démentis officiels et “fuites orchestrées” laissent entrevoir l’existence d’un programme interdit utilisant des séquences génétiques non humaines.
 
@@ -683,14 +683,14 @@ La mission est officiellement classée comme “archéologie industrielle” ou 
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | PERSPECTIVE             | DESCRIPTION                                                                                      |
-|----|--------------------------|--------------------------------------------------------------------------------------------------|
-| 01 | Fragile mais ascendante | Dépendante, volatile, mais portée par un élan ou un tuteur puissant.                            |
-| 02 | Expansion contrôlée     | Consolidation active : elle maîtrise ses crises, mais chaque victoire a un coût.               |
-| 03 | Stagnation instable     | Lente dérive interne, appuyée sur des rituels bureaucratiques, des alliances gelées.           |
-| 04 | Déclin voilé / Mutation | La façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur.|
-| 05 | Autonomisation radicale | L’organisation s’affranchit de toute régulation, y compris interne.                           |
-| 06 | Conversion idéologique  | La corporation a cessé d’être un outil économique. Elle devient une entité doctrinale.         |
+| D6 | PERSPECTIVE                                                                                                              |
+|----|--------------------------------------------------------------------------------------------------------------------------|
+| 01 | FRAGILE MAIS ASCENDANTE, elle est dépendante, volatile, mais portée par un élan ou un tuteur puissant.                 |
+| 02 | EXPANSION CONTRÔLÉE, elle est en consolidation active, elle maîtrise ses crises, mais chaque victoire a un coût.       |
+| 03 | STAGNATION INSTABLE, elle a commencée une lente dérive interne, appuyée sur des rituels bureaucratiques, des alliances gelées.|
+| 04 | DÉCLIN VOILÉ / MUTATION, la façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur.|
+| 05 | AUTONOMISATION RADICALE, l’organisation s’affranchit de toute régulation, y compris interne.                            |
+| 06 | CONVERSION IDÉOLOGIQUE,  la corporation a cessé d’être un outil économique. Elle devient une entité doctrinale.         |
 
 #### FRAGILE MAIS ASCENDANTE
 
