@@ -2,7 +2,7 @@
 
 **TEMPLATE ALIEN RPG**
 
-> La fiche suit la structure de construction d'une corporation.
+> La fiche suit la structure de construction d'une corporation. [EXEMPLE DE CORPORATION : DEEP ZENITH](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/edit/main/DEEP-ZENITH%20Corporation.md)
 
 ## [ANCIENNETÉ DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#anciennet%C3%A9-de-la-corporation)
 | ID | ANCIENNETÉ	                |     |
