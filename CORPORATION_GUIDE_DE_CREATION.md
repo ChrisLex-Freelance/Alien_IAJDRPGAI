@@ -53,7 +53,7 @@ Origine stratégique, fusion initiale, colonie mère, brevet unique, percée éc
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                  |
 |----|-------------------------------------------------------------------------------------------------------|
-| 01 | **CRÉATION DANS UN SECTEUR STRATÉGIQUE** (énergie, IA, terraformation, médecine spatiale…)            |
+| 01 | [CRÉATION DANS UN SECTEUR STRATÉGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#cr%C3%A9ation-dans-un-secteur-strat%C3%A9gique) (énergie, IA, terraformation, médecine spatiale…)            |
 | 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
 | 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
 | 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
