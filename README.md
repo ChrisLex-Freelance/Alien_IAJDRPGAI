@@ -62,6 +62,8 @@ Ce contexte peut servir pour la génération d'un scénario ou celle d'un person
 | **MedTech Systems**    | Spécialisée dans les technologies médicales avancées, MedTech Systems est un acteur majeur dans le développement de soins médicaux adaptés aux environnements spatiaux. Ses recherches sauvent des vies, mais son association avec Weyland-Yutani pour le développement d’armes biologiques a terni sa réputation. Ses services, bien que précieux, sont souvent hors de prix pour les colonies indépendantes. |
 | **Nova Dynamics**      | Leader émergent dans le domaine de l’exploration spatiale automatisée, Nova Dynamics développe des sondes et des technologies de cartographie destinées à explorer des systèmes stellaires inconnus. Ses innovations sont saluées, mais ses ambitions de privatiser les données d'exploration pour un usage exclusif inquiètent les scientifiques et explorateurs indépendants. |
 
+### [GUIDE DE CREATION D'UNE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#guide-de-creation-dune-corporation)
+
 ## PERSONNAGE
 
 ### ÂGE
