@@ -1158,15 +1158,15 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 #### NIVEAU DE SÉCURITÉ INTERNE DE LA CORPORATION
 
- > Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 5.
+ > Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 4.
 
 | ID   | TYPE DE SÉCURITÉ           | DESCRIPTION                                                                                   | INFRASTRUCTURE TYPIQUE                                             | MODÈLE IA RECOMMANDÉ             | INTÉGRATION IA RECOMMANDÉ     | USAGE DES SYNTHÉTIQUES RECOMMANDÉ        | MODÈLE HIÉRARCHIQUE RECOMMANDÉ         |
 |------|----------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------|-------------------------------|------------------------------------------|----------------------------------------|
 | 01   | **Aucune**                 | Zone abandonnée, absence d’autorité ou effondrement système.                                  | Verrouillage manuel, pas de réseau                                 | Aucun ou IA improvisée           | Aucune                        | Absence volontaire                       | Aucune / informelle                    |
 | 02   | **Veille passive**         | Système de sécurité vétuste, présence symbolique de contrôle.                                 | Caméras analogiques, badge magnétique                              | MU/TH/UR 1000                    | Consultative                  | Synthétiques obsolètes                   | Structure en cellules                  |
 | 03   | **Contrôle local**         | Sécurité assurée par le personnel ou une IA auxiliaire.                                       | Postes armés, alertes manuelles, PMC                               | MU/TH/UR 2000                    | Consultative                  | Main-d'œuvre technique                   | Structure pyramidale classique         |
-| 04   | **Coordination humaine**   | Supervision humaine assistée d’IA co-gouvernante.                                             | Log de sécurité, SAS manuels, rondes                               | MU/TH/UR 3000 / 4000             | Co-gouvernante                | Conseillers exécutifs                    | Divisions sectorielles                 |
-|**05**| **Réseau semi-automatisé** | **Systèmes automatisés sectoriels, IA de supervision.**                                       | **IA locale, badge numérique, drones faibles**                     | **MU/TH/UR 5000 / APOLLO**       | **Co-gouvernante**            | **Main-d'œuvre technique**               | **Organisation modulaire**             |
+| 04   | **Coordination humaine**   | **Supervision humaine assistée d’IA co-gouvernante.**                                         | **Log de sécurité, SAS manuels, rondes**                           | **MU/TH/UR 3000 / 4000**         | **Co-gouvernante**            | **Conseillers exécutifs**                    | **Divisions sectorielles**                 |
+| 05   | **Réseau semi-automatisé** | Systèmes automatisés sectoriels, IA de supervision.                                           | IA locale, badge numérique, drones faibles                         | MU/TH/UR 5000 / APOLLO           | Co-gouvernante                | Main-d'œuvre technique               | **Organisation modulaire**             |
 | 06   | **Réactivité IA**          | L’IA détecte et isole automatiquement toute anomalie.                                         | Sas IA, protocoles de confinement automatiques                     | MU/TH/UR 5500 / 6000             | Dominante                     | Sécurité synthétique                     | Structure pyramidale classique         |
 | 07   | **Défense préventive**     | IA analyse les comportements et neutralise préventivement.                                    | Capteurs biométriques, IA comportementale                          | MU/TH/UR 6500 / 7000             | Dominante                     | Sécurité synthétique                     | Hiérarchie militaire                   |
 | 08   | **Contrôle totalitaire**   | Surveillance et obéissance totale, tolérance zéro.                                            | Intercoms IA, chambres d’isolement, tourelles                      | MU/TH/UR 8000                    | Dissociée ou Distribuée       | Agents d’infiltration                    | Hiérarchie IA-centrique                |
@@ -1177,27 +1177,29 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 > En fonction de la structure, des zones couvertes pour ses activités, de l'intégration de l'IA et de l'usage que fait la corporation des Synthétiques, le niveau de sécurité peut être ajusté. Notez les niveaux de sécurité modifiés en fonction de vos besoins.
 
+> Il est possible que les Systèmes du noyaux soient doté d'une sécurité supérieure à 10, cela tiens souvant au fait que les mondes en questions sont sous la tutelle d'une même entité depuis des décénies.
+
 | ID  | TYPE DE STRUCTURE	           | MODIFICATEUR SÉCURITÉ INTERNE |
 |-----|------------------------------|-------------------------------|
-| 01  | Mégacorporation	             | +3                            |
-| 02  | Conglomérat Multi-sectoriel	 | +2                            |
-| 03  | Filiale spécialisée	         | +1                            |
-| 04  | Start-up rachetée	           | +0                            |
-| 05  | Syndicat de colons privatisé	| -1                            |
-| 06  | Collectif indépendant	       | -1                            |
+| 01  | Mégacorporation	             | +2                            |
+| 02  | Conglomérat Multi-sectoriel	 | +1                            |
+| 03  | Filiale spécialisée	         | +0                            |
+| 04  | Start-up rachetée	         | +0                            |
+| 05  | Syndicat de colons privatisé | -1                            |
+| 06  | Collectif indépendant	     | -1                            |
 | 07  | Délégation autonome	         | -2                            |
-| 08  | Culte corporatiste          	| +3                            |
+| 08  | Culte corporatiste           | +3                            |
 
 | ID  | ZONE GALACTIQUE                | RAISON STRUCTURELLE                                                         | MODIFICATEUR DE SÉCURITÉ  |
 |-----|--------------------------------|-----------------------------------------------------------------------------|---------------------------|
-| 1   | Systèmes du Noyau              | Réglementation stricte, surveillance UNISC, audits fréquents                | +3                        | 
-| 2   | Voile Extérieur                | Contrôle mixte, pressions multiples                                         | +2                        | 
-| 3   | Bordure Extérieure             | Failles logistiques, pénuries, contrôle relâché                             | +1                        | 
-| 4   | Les Confins                    | Autonomie totale, anarchie réglementaire                                    | +0                        | 
+| 1   | Systèmes du Noyau              | Réglementation stricte, surveillance UNISC, audits fréquents                | +2                        | 
+| 2   | Voile Extérieur                | Contrôle mixte, pressions multiples                                         | +1                        | 
+| 3   | Bordure Extérieure             | Failles logistiques, pénuries, contrôle relâché                             | +0                        | 
+| 4   | Les Confins                    | Autonomie totale, anarchie réglementaire                                    | -1                        | 
 
 | ID  | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                 | MODIFICATEUR DE SÉCURITÉ  |
 |-----|--------------------------------|-----------------------------------------------------------------------------|---------------------------|
-| 01  | IA consultative                | Analyse de données, sans pouvoir décisionnel direct.                        | +0                        |
+| 01  | IA consultative                | Analyse de données, sans pouvoir décisionnel direct.                        | -1                        |
 | 02  | IA co-gouvernante              | Prise de décision partagée avec l’humain.                                   | +1                        |
 | 03  | IA dominante                   | Supervision totale des opérations, humains en exécution.                    | +2                        |
 | 04  | IA distribuée                  | Plusieurs IA locales, spécialisées et non centralisées.                     | +2                        |
@@ -1209,7 +1211,7 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 | 01  | Main-d'œuvre technique         | Maintenance, médecine, support logistique.                                  | +0                        |
 | 02  | Sécurité synthétique           | Synthétiques armés ou d’intervention.                                       | +2                        |
 | 03  | Agents d’infiltration          | Modèles humains pour espionnage ou négociation.                             | +1                        |
-| 04  | Conseillers exécutifs          | Synthétiques en poste décisionnel.                                          | +1                        |
+| 04  | Conseillers exécutifs          | Synthétiques en poste décisionnel.                                          | +0                        |
 | 05  | Synthétiques obsolètes         | Modèles désuets ou défaillants.                                             | -1                        |
 | 06  | Absence volontaire             | Aucun synthétique par choix culturel ou idéologique.                        | -2                        |
 
@@ -1221,15 +1223,17 @@ L’environnement idéologique interne est optimisé pour limiter la déviance e
 
 ### NIVEAU DE CULTURE CORPORATISTE
 
-> Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 5.
+> Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 4.
+
+> Il est possible que les Systèmes du noyaux soient doté d'une culture supérieure à 10, cela tiens souvant au fait que les mondes en questions sont sous la tutelle d'une même entité depuis des décénies.
 
 | ID   | NIVEAU DE CULTURE            | DESCRIPTION                                                                                            | IA RECOMMANDÉE             | PROGRAMMES DE FIDÉLISATION RECOMMANDÉS                      | MODÈLE HIÉRARCHIQUE RECOMMANDÉ         |
 |------|------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------|----------------------------------------|
 | 01   | **Aucune culture**           | Aucun système idéologique actif. Employés isolés ou désabusés.                                         | Aucune / IA improvisée     | Aucun                                                       | Informelle                             |
 | 02   | **Culture résiduelle**       | Anciennes valeurs subsistent sans réelle application.                                                  | IA consultative            | Hédonisme compensatoire                                     | Organisation modulaire                 |
 | 03   | **Culture périphérique**     | Présente en surface mais ignorée dans les faits.                                                       | IA consultative            | Parrainage émotionnel, affichage symbolique                 | Structure en cellules                  |
-| 04   | **Culture nominale**         | Culture connue et acceptée, mais adaptable selon les situations.                                       | IA co-gouvernante          | Rituels collectifs, simulations de mérite                   | Divisions sectorielles                 |
-|**05**| **Culture active**           | **Valeurs intégrées dans les décisions et comportements courants.**                                    | ***MU/TH/UR 5000 / APOLLO**| **Notation IA, classement comportemental**                  | **Structure pyramidale classique**     |
+|**04**| **Culture nominale**         | **Culture connue et acceptée, mais adaptable selon les situations.**                                   | **IA co-gouvernante**      | **Rituels collectifs, simulations de mérite**               | **Divisions sectorielles**             |
+| 05   | **Culture active**           | Valeurs intégrées dans les décisions et comportements courants.                                        | MU/TH/UR 5000 / APOLLO     | Notation IA, classement comportemental                      | Structure pyramidale classique         |
 | 06   | **Culture dominante**        | L’idéologie est vécue comme naturelle. Le rendement devient un devoir moral.                           | MU/TH/UR 6000              | Simulation de mérite, récompenses internes                  | Structure pyramidale classique         |
 | 07   | **Culture rigide**           | Conformité absolue. Tout doute est assimilé à une faille systémique.                                   | MU/TH/UR 6500 / 7000       | Téléchargements cognitifs, surveillance sociale inversée    | Hiérarchie militaire                   |
 | 08   | **Culture fanatique**        | Obéissance exaltée. La loyauté est une foi, la trahison une hérésie.                                   | MU/TH/UR 8000              | Endoctrinement idéologique, dénonciation institutionnalisée | Hiérarchie IA-centrique                |
@@ -1242,19 +1246,19 @@ L’environnement idéologique interne est optimisé pour limiter la déviance e
 
 | ID  | TYPE DE STRUCTURE               | MODIFICATEUR CULTURE  |
 |-----|---------------------------------|-----------------------|
-| 01  | Mégacorporation                 | +3                    |
-| 02  | Conglomérat Multi-sectoriel     | +2                    |
-| 03  | Filiale spécialisée             | +1                    |
-| 04  | Start-up rachetée               | +0                    |
-| 05  | Syndicat de colons privatisé    | -1                    |
-| 06  | Collectif indépendant           | -2                    |
-| 07  | Délégation autonome             | -2                    |
-| 08  | Culte corporatiste              | +1D3                  |
+| 01  | Mégacorporation	             | +2                            |
+| 02  | Conglomérat Multi-sectoriel	 | +1                            |
+| 03  | Filiale spécialisée	         | +0                            |
+| 04  | Start-up rachetée	         | +0                            |
+| 05  | Syndicat de colons privatisé | -1                            |
+| 06  | Collectif indépendant	     | -1                            |
+| 07  | Délégation autonome	         | -2                            |
+| 08  | Culte corporatiste           | +1D3                          |
 
 | ID  | ZONE GALACTIQUE                 | RAISON STRUCTURELLE                                                         | MODIFICATEUR DE CULTURE  |
 |-----|---------------------------------|-----------------------------------------------------------------------------|--------------------------|
-| 01  | Systèmes du Noyau               | Contrôle informationnel complet, faible mobilité, éducation corpo intégrée  | +3                       |
-| 02  | Voile Extérieur                 | Cohabitation culturelle, propagande active mais contestée                   | +2                       |
+| 01  | Systèmes du Noyau               | Contrôle informationnel complet, faible mobilité, éducation corpo intégrée  | +2                       |
+| 02  | Voile Extérieur                 | Cohabitation culturelle, propagande active mais contestée                   | +1                       |
 | 03  | Bordure Extérieure              | Diversité humaine, absence d’unité idéologique, personnel transitoire       | -1                       |
 | 04  | Les Confins                     | Rupture culturelle, autonomie radicale, rejet fréquent des dogmes corpo     | -2                       |
 
@@ -1266,16 +1270,16 @@ L’environnement idéologique interne est optimisé pour limiter la déviance e
 | 02  | IA co-gouvernante              | L’IA contribue au renforcement idéologique, mais avec nuances humaines      | +1                       |
 | 03  | IA dominante                   | L’idéologie est structurée autour des décisions IA                          | +2                       |
 | 04  | IA distribuée                  | Les IA spécialisées diffusent des dogmes sectoriels, culture fragmentée     | +1                       |
-| 05  | IA dissociée                   | L’idéologie devient impénétrable, mais parfois incohérente                  | +2                       |
+| 05  | IA dissociée                   | L’idéologie devient impénétrable, mais parfois incohérente                  | -1                       |
 | 06  | IA expérimentale               | Instabilité idéologique, déviances imprévues, propagande erratique          | -1                       |
 
 | ID  | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                 | MODIFICATEUR DE CULTURE  |
 |-----|--------------------------------|-----------------------------------------------------------------------------|--------------------------|
 | 01  | Main-d'œuvre technique         | Pas d’impact idéologique significatif                                       | +0                       |
 | 02  | Sécurité synthétique           | Les agents renforcent l'ordre, mais sans transmettre de doctrine            | +1                       |
-| 03  | Agents d’infiltration          | Propagation furtive de la doctrine par mimétisme social                     | +2                       |
-| 04  | Conseillers exécutifs          | Les synthétiques portent directement le discours corporatiste               | +2                       |
-| 05  | Synthétiques obsolètes         | Symboles d’échec ou de rupture idéologique                                  | -1                       |
+| 03  | Agents d’infiltration          | Propagation furtive de la doctrine par mimétisme social                     | -1                       |
+| 04  | Conseillers exécutifs          | Les synthétiques portent directement le discours corporatiste               | +1                       |
+| 05  | Synthétiques obsolètes         | Symboles d’échec ou de rupture idéologique                                  | -2                       |
 | 06  | Absence volontaire             | Rejet assumé des normes, culture souvent auto-organisée                     | -2                       |
 
 Si une corporation cherche à maintenir un niveau de culture supérieur au seuil naturel de la zone, elle doit :
@@ -1778,235 +1782,4 @@ Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon 
 #### REMARQUE
 Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
 
----
 
-## EXEMPLE DE TIRAGE POUR CREER UNE CORPORATION
-
-La présente section fournit un exemple standardisé de processus de création d’une entité corporatiste selon les paramètres définis dans ce manuel. Elle illustre la méthodologie de génération complète, de la doctrine initiale à la compromission finale, en passant par l’organisation interne, la zone d’influence et le rapport au xénomorphe.
-
-L’objectif de cet exemple est pédagogique mais non théorique. Chaque paramètre présenté ici peut (et doit) être adapté aux besoins narratifs spécifiques d’une campagne, qu’elle implique un conflit juridique, une mission d’infiltration, une révolte coloniale, ou une fuite biologique incontrôlée.
-
-**Avertissement :** Toute ressemblance avec une entité existante est volontaire, souhaitée, ou inévitable.
-
-Ce modèle peut être utilisé pour :
-
-- Générer une faction antagoniste ou ambiguë
-- Donner une identité crédible à une entreprise partenaire, cliente ou ennemie
-- Simuler l’historique complet d’un conglomérat pour enrichir un univers en expansion
-
-> **Une corporation n’est jamais neutre.**  
-> Elle a une mémoire, une faille, un corps, une voix, et une obsession.
-
----
-
-## DEEP-ZENITH
-> *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
-
-### IDENTITE DE LA CORPORATION
-
-**DENOMINATION DE VOTRE CORPORATION :** DEEP-ZENITH
-
-**SLOGAN DE LA CORPORATION :** *Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.*
-
-**ORIGINE GEOGRAPHIQUE DE LA CORPORATION :** BORDURE EXTÉRIEURE	- Zone périphérique sous-juridique. Colonies récentes et postes avancés exposés à des aléas environnementaux, sociaux ou biologiques non maîtrisés. Haut potentiel de rendement à court terme, mais forte exposition aux conflits latents. Faible fiabilité des institutions locales. Nécessite une autonomie stratégique renforcée.
-
-**TYPE DE STRUCTURE DE LA CORPORATION :** Conglomérat Multi-sectoriel -	Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.
-
-**DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION :**
-- Extraction minière	: Exploitation de ressources brutes (minerais, gaz, isotopes rares).
-- Biotechnologie	: Manipulation du vivant à des fins médicales, militaires ou agricoles.
-- Pharmaceutique	: Production de médicaments, dopants, sédatifs, traitements.
-- Exploitation xéno-biologique :	Étude, capture, adaptation ou militarisation d’organismes inconnus.
-
-**MORALITÉ DE LA CORPORATION :** Modérée	- Elle évite les scandales mais sait fermer les yeux si cela sert ses objectifs.
-
-**ACTIVITÉ SECONDAIRE DE LA CORPORATION :**
-- Milices privées	 : Forces armées para-corporatistes agissant en autonomie ou sous faux drapeau.
-- Contrôle de main-d’œuvre	: Gestion de personnel captif (travailleurs sous dette, clones, mineurs non déclarés).
-- Sauvetage de crédits perdus	: Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées".
-
-### TRAITS DE LA CORPORATION
-
-| ID | TRAITS                        | DESCRIPTION                                                                                    | AVANTAGES                                                                          | DEFAUTS                                                                          |
-|----|-------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 05 | Endoctrinement à la marque    | La corpo forge un culte interne autour de son image.                                           | Fidélité extrême, Réduction des défections, Obéissance culturelle                  | Endoctrinement lourd, Déconnexion de la réalité, Risques psychologiques          |
-| 10 | Forces privées sous contrat   | Utilisation de mercenaires et PMC pour les opérations musclées.                                | Réponse rapide, Pas de reddition de comptes, Réduction du personnel régulier       | Loyauté achetée, Atrocités possibles, Coût imprévisible                          |
-| 20 | Rénovateurs de guerre         | Départements spécialisés dans le recyclage de technologies en zones de conflit.                | Innovation à bas coût, Accès à tech ennemie, Forces mobiles autonomes              | Risques explosifs, Conflits juridiques, Éthique douteuse                         |
-| 23 | Système de rendement optimal  | Chaque tâche est déléguée à l’élément le plus qualifié de la chaîne.                           | Efficacité maximale, Moins d’erreurs, Systèmes fluides                             | Aliénation des employés, Peu de place à l’improvisation, Coût de formation élevé |
-| 29 | Génétique planifiée           | Contrôle du développement d’espèces émergentes à des fins commerciales.                        | Biotechnologie avancée, Contrôle de l’évolution, Monopole biologique               | Dérives éthiques, Révolte des créatures, Mutations incontrôlées                  |
-| 48 | Faux projets de colonisation  | Colonies "humanitaires" servant de couvertures à des tests ou extractions.                     | Déploiement rapide, Façade crédible, Moins de résistance                           | Populations sacrifiées, Rébellion locale, Révélation publique                    |
-
-### STRUCTURE INTERNE DE LA CORPORATION
-
-**INTÉGRATION DE L’IA DANS LA CORPORATION :**
-
-| ID | NIVEAU D’INTÉGRATION IA        | DESCRIPTION                                                                                    | MODÈLE MU/TH/UR RECOMMANDÉ                                                          |
-|----|--------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| 05 | **IA dissociée**               | L’IA opère en parallèle des décisions humaines, avec ses propres protocoles.                   | MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée         |
-
-**RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION :**
-
-| ID | UTILISATION DES SYNTHÉTIQUES   | DESCRIPTION                                                                                    |
-|----|--------------------------------|------------------------------------------------------------------------------------------------|
-| 02 | **Sécurité synthétique**       | Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.    |
-
-**MODÈLE HIÉRARCHIQUE DANS LA CORPORATION : Structure en cellules - Cloisonnement extrême, information très compartimentée.
-
-**SÉCURITÉ INTERNE DOMINANTE DE LA CORPORATION :** Dissuasion psychologique - Propagande, slogans, musiques comportementales, rituels obligatoires. 
-
-### CULTURE DE LA CORPORATION / JARGON INTERNE DE LA CORPORATION
-
-**LANGAGE RH DÉSHUMANISANT DE LA CORPORATION :**
-
-| ID | TERME                            | SIGNIFICATION RÉELLE                                                            | UTILISATION COURANTE                                      |
-|----|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
-| 03 | Unité émotionnelle instable      | Personne en détresse mentale                                                    | "Réaffectation de l’unité émotionnelle instable 3-F"      |
-
-**RÉCOMPENSES INTERNES DE LA CORPORATION :**
-
-| ID | RÉCOMPENSE                  | DÉTAIL                                                                               | OBJECTIF CORPORATISTE             |
-|----|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------------|
-| 06 | Statut de "Partenaire"      | Nouvelle appellation du personnel loyal                                              | Illusion de promotion             |
-
-**CLASSEMENTS ET NOTATIONS DE LA CORPORATION :**
-
-| ID | SYSTÈME                     | FONCTION                                                                             | IMPACT SUR LE PERSONNEL          |
-|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| 04 | Quota de défaillance        | Pourcentage d’incidents tolérés avant sanction collective                            | Tensions internes                |
-
-**PROCÉDURES DE SANCTION DE LA CORPORATION :**
-
-| ID | PROCÉDURE CORPORATE         | VÉRITABLE SIGNIFICATION                                                              | MÉCANISME DE PEUR                |
-|----|-----------------------------|--------------------------------------------------------------------------------------|----------------------------------|
-| 02 | Mutabilité affective        | Injection d’inhibiteurs émotionnels                                                  | Contrôle chimique                |
-
-**PROGRAMMES DE FIDÉLISATION DE LA CORPORATION :**
-
-| ID | TYPE DE PROGRAMME             | DESCRIPTION                                                                                                                                                                                      | FORMES CONCRÈTES                                                                                                               |
-|----|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 06 | Simulation de mérite          | Création de scénarios virtuels ou symboliques où l’employé croit progresser, être promu ou reconnu, sans jamais sortir d’une boucle de stagnation contrôlée.                                     | Félicitations IA, promotions internes fictives, récompenses symboliques non vérifiables                                        |
-
-**CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION :**
-
-| ID | FORMAT                                      | DESCRIPTION ÉTENDUE                                                                                                                                                | FORMES CONCRÈTES & UTILISATION                                                                       |
-|----|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 01 | **Slogans répétitifs**                      | Courtes phrases optimistes, martelées en continu sur tous les supports (affichage, audio, interface). Ils créent une ambiance de contrôle doux, mais permanent.    | "Travailler, c’est exister." / "Construisons demain, aujourd’hui." / "Votre souffle, notre mission." |
-
-**SYMBOLES DE LA CORPORATION :**
-
-| ID | SYMBOLE                                     | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                           |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------|
-| 01 | Mascotte ou totem                           | Représentation symbolique incarnant l’idéologie de la corporation. Souvent présente dans la communication ou les zones publiques.                        | Animal cloné, logo animé, IA enfantine, drone parlant                     | Figure rassurante ou propagandiste           |
-
-**RITUELS DE LA CORPORATION :**
-
-| ID | RITUEL                                      | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                            |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------|
-| 02 | Rituel de promotion                         | Célébration codifiée marquant l’élévation d’un employé. Peut être cérémonial, chirurgical ou purement psychologique.                                     | Injection mémorielle, serment filmé, rituel VR partagé                    | Crée un passage symbolique                    |
-
-**IDENTITÉ  DE LA CORPORATION :**
-
-| ID | ÉLÉMENT IDENTITAIRE                         | DESCRIPTION ÉTENDUE                                                                                                                                      | FORMES CONCRÈTES & VARIANTES                                              | FONCTION NARRATIVE                  |
-|----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------|
-| 02 | Lexique d’entreprise                        | Vocabulaire codifié utilisé dans tous les échanges. Remplace les émotions ou désignations humaines.                                                      | "Unité émotionnelle faible", "Objectif de productivité dépassé"           | Déshumanisation, endoctrinement     |
-
-### ZONE D'INFLUENCE DE CORPORATION
-
-**ETENDUE DE LA PRESENCE GALACTIQUE :**
-
-| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
-|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
-| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
-- Voile Extérieur
-- Bordure Extérieure
-
-### RIVALITÉS ACTIVES DE LA CORPORATION
-
-**NOMBRE DE RIVALITE DE LA CORPORATION :**
-
-| ID | TYPE DE STRUCTURE                | NOMBRE DE RIVALITÉS (MINIMUM) | COMMENTAIRE                                                                   |
-|----|----------------------------------|-------------------------------|-------------------------------------------------------------------------------|
-| 02 | **Conglomérat Multi-sectoriel**  | 2 rivalités                   | Impliqué dans plusieurs sphères d’activité, donc multiples tensions.          |
-
-**TYPE DE RIVALITE DE LA CORPORATION :**
-
-| ID | RIVAL                        | TYPE DE CONFLIT                                                                  | DESCRIPTION / VARIANTES                                                      | IMPLICATIONS EN JEU                                          |
-|----|------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
-| 05 | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
-| 12  | Réseau criminel infiltré    | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
-
-## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
-
-**MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR :**
-
-| ID | MORALITÉ PERÇUE        | MODIFICATEUR HORREUR                                                | COMPORTEMENTS TYPES                                                     |
-|----|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 03 | **Modérée**            | Accepte l’horreur si elle est utile, tant qu’elle reste secrète     | "La fin justifie les moyens. Personne ne saura."                        |
-
-**NATURE DU LIEN AVEC L'HORRREUR :**
-
-| ID | POSITION DE LA CORPO       | DESCRIPTION                                                                                          |
-|----|----------------------------|------------------------------------------------------------------------------------------------------|
-| 03 | Survivants d’un incident   | A vécu une crise majeure dissimulée, étouffée.                                                       |
-
-**RAPPORT AUX XENO-ENTITES :**
-
-| ID | RAPPORT AUX ENTITÉS         | DESCRIPTION                                                                                         |
-|----|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| 03 | A classé les données        | Possède des documents verrouillés non exploités.                                                    |
-
-**CRIMES ET COMPROMISSION :**
-
-| ID | ACTES COMIS PAR LA CORPO     | DESCRIPTION                                                                                        |
-|----|------------------------------|----------------------------------------------------------------------------------------------------|
-| 03 | A évacué les cadres          | A sauvé l’élite en abandonnant les "ressources secondaires".                                       |
-
-**NIVEAU DE SECRET INTERNE :**
-
-| ID | NIVEAU DE SECRET              | DESCRIPTION                                                                                       |
-|----|-------------------------------|---------------------------------------------------------------------------------------------------|
-| 04 | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
-
-## EVENEMENT HISTORIQUE DE LA CORPORATION
-
-**ANCIENNETÉ DE LA CORPORATION :**
-
-| ID  | ÂGE (années)       | CATÉGORIE                    | DESCRIPTION                                                                 |
-|-----|--------------------|------------------------------|-----------------------------------------------------------------------------|
-| 02  | 10–30 ans          | **Corpo établie**            | Possède une infrastructure solide, impliquée dans la géopolitique spatiale. |
-
-**FONDATION ET EXPENSION INITIALE :**
-
-| ID | TYPE DE FONDATION                                                                                     |
-|----|-------------------------------------------------------------------------------------------------------|
-| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique : Transfert technologique déguisé via une structure de façade.|
-
-**PREMIERE CRISE :**
-
-| ID | ORIGINE DE LA CRISE                                                                                   |
-|----|-------------------------------------------------------------------------------------------------------|
-| 06 | Condamnation par un gouvernement ou l’UNISC pour violation d’un traité : Rôle dissimulé dans une guerre ou une crise humanitaire |
-
-**PROJETS SECRETS ET PREMIÈRE ZONE D’OMBRE :**
-
-| ID | SOUS-PROGRAMME IDENTIFIÉ                                                                                   |
-|----|------------------------------------------------------------------------------------------------------------|
-| 01 | Lancement d’un programme clandestin xéno-biologique ou militaire interdit : Croisement génétique entre hôte humain et embryon non répertorié. |
-
-**EXPANSION AGRESSIVE ET DERAPAGES :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire : Envoi de “médiateurs culturels” formés par l’entreprise mais présentés comme neutres |
-
-**MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 03 | Découverte d’un matériau alien aux propriétés inconnues : Capacité d’auto-organisation à l’échelle moléculaire. |
-
-**SITUATION ACTUELLE :**
-
-| ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
-|----|------------------------------------------------------------------------------------------------------------|
-| 06 | Déployée dans une **mission de récupération d’un artefact “pré-humain”** : Présence non identifiée sur site avant l’arrivée des équipes officielles. |
