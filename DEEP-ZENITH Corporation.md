@@ -3,27 +3,67 @@
 |----------------------|
 | ![DeepZenith_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/952aea15-9698-4dc5-9f3a-3f6b7b3d6a33.png) |
 
+## [EVENEMENTS FONDATEURS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#evenements-historiques-de-la-corporation)
+
+### [FONDATION ET EXPENSION INITIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fondation-et-expension-initiale)
+
+- Fusion ou rachat d'une société rivale en pleine crise économique 
+
+### [PREMIERE CRISE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#premiere-crise)
+
+- Condamnation par l’UNISC pour implication dans une crise humanitaire
+- Falsification des résultats médicaux entraînant des décès
+- ......................................................
+- ......................................................
+
+### [DÉCLENCHEUR D’INDÉPENDANCE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9clencheur-dind%C3%A9pendance)
+
+- Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants.
+
+### [EXPANSION AGRESSIVE ET DERAPAGES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#expansion-agressive-et-derapages)
+
+- Infiltration de colonies frontalières sous couvert d’aide humanitaire 
+- ......................................................
+- ......................................................
+
+### [MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#mutation-et-naissance-de-lautonomie-ideologique)
+
+- Découverte d’un matériau alien auto-organisé à l’échelle moléculaire 
+- ......................................................
+- ......................................................
+
+### [SITUATION ACTUELLE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#situation-actuelle)
+
+- Mission de récupération d’un artefact “pré-humain” – présence hostile suspecte
+
+### [PERSPECTIVES FUTURES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#perspectives-futures)
+
+- DÉCLIN VOILÉ / MUTATION : la façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur. Les journaux internes révèlent une activité inhabituelle dans les secteurs interdits de ses serveurs d’archive.
+- DÉCLIN VOILÉ / MUTATION : la façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur. Un département entier s’est autonomisé autour d’un ancien projet secret oublié.
+- ......................................................
+- ......................................................
+
 ## IDENTITÉ GÉNÉRALE
-**Nom de la corporation :** DEEP-ZENITH  
-**Slogan :** Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.  
-**Zone d'origine galactique :** Bordure Extérieure – Zone périphérique sous-juridique  
-**Type de structure :** Conglomérat Multi-sectoriel  
-**Âge estimé / ancienneté :** 10–30 ans  
-**Moralité :** Modérée  
-**Statut légal actuel :** Corporation établie, impliquée dans la géopolitique stellaire
+DENOMINATION DE VOTRE CORPORATION : DEEP-ZENITH
+
+SLOGAN DE LA CORPORATION : Nous intégrons l’avenir, en gardant l’humain au centre de l’innovation.
+
+ORIGINE GEOGRAPHIQUE DE LA CORPORATION : BORDURE EXTÉRIEURE - Zone périphérique sous-juridique. Colonies récentes et postes avancés exposés à des aléas environnementaux, sociaux ou biologiques non maîtrisés. Haut potentiel de rendement à court terme, mais forte exposition aux conflits latents. Faible fiabilité des institutions locales. Nécessite une autonomie stratégique renforcée.
+
+TYPE DE STRUCTURE DE LA CORPORATION : Conglomérat Multi-sectoriel - Corporation issue de la fusion de plusieurs entités. Présente dans plusieurs secteurs économiques et/ou géographiques.
+
+ANCIENNETE :  10–30 ans
 
 ## PRINCIPAUX SECTEURS D'ACTIVITE
-- Extraction minière
-- Biotechnologie
-- Pharmaceutique
-- Exploitation xéno-biologique
-- Récupération technologique en zones de conflit
-- Contrôle et manipulation génétique
+- Extraction minière : Exploitation de ressources brutes (minerais, gaz, isotopes rares)
+- Biotechnologie : Manipulation du vivant à des fins médicales, militaires ou agricoles
+- Pharmaceutique : Production de médicaments, dopants, sédatifs, traitements
+- Exploitation xéno-biologique : Étude, capture, adaptation ou militarisation d’organismes inconnus
 
 ## ACTIVITES SECONDAIRE
-- Milices privées
-- Contrôle de main-d’œuvre captive
-- Sauvetage de crédits perdus (pillages d’installations sinistrées)
+- Milices privées : Forces armées para-corporatistes agissant en autonomie ou sous faux drapeau
+- Contrôle de main-d’œuvre : Gestion de personnel captif (travailleurs sous dette, clones, mineurs non déclarés)
+- Sauvetage de crédits perdus : Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées"
 
 ## TRAITS DISTINCTIFS
 | ID | Trait                  | Description                        | Avantages            | Inconvénients          |
@@ -34,8 +74,6 @@
 | 04 | Système de rendement optimal | Tâches déléguées aux éléments les plus qualifiés | Efficacité maximale | Aliénation, formation coûteuse |
 | 05 | Génétique planifiée | Contrôle de l’évolution à des fins commerciales | Monopole biologique | Dérives éthiques |
 | 06 | Faux projets de colonisation | Colonies servant de couvertures | Façade crédible, déploiement rapide | Sacrifice de populations |
-| 07 | Sécurité synthétique | Synthétiques armés en protection interne | Vigilance permanente | Froid, inhumain |
-| 08 | IA dissociée | Autonomie des IA sur certains protocoles | Réactivité, surveillance | Risques de conflit décisionnel |
 
 ## STRUCTURE INTERNE
 - **Hiérarchie :** Structure en cellules – Cloisonnement extrême
@@ -78,16 +116,6 @@
 - **Rapport aux xéno-entités :** Détient des données classifiées non exploitées
 - **Crimes et dissimulations :** A évacué ses cadres en abandonnant le personnel secondaire
 - **Niveau de secret :** Cloisonnement extrême – informations strictement compartimentées
-
-## HISTORIQUE
-| Phase              | Événement clé                                                                 |
-|--------------------|-------------------------------------------------------------------------------|
-| Fondation          | Fusion ou rachat d'une société rivale en pleine crise économique              |
-| Première crise     | Condamnation par l’UNISC pour implication dans une crise humanitaire          |
-| Projet secret      | Croisement clandestin entre embryons xéno et hôtes humains                    |
-| Expansion          | Infiltration de colonies frontalières sous couvert d’aide humanitaire         |
-| Mutation           | Découverte d’un matériau alien auto-organisé à l’échelle moléculaire          |
-| Situation actuelle | Mission de récupération d’un artefact “pré-humain” – présence hostile suspecte|
 
 ---
 ## ANNEXES
