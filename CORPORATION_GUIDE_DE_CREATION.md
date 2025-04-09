@@ -53,12 +53,12 @@ Origine stratégique, fusion initiale, colonie mère, brevet unique, percée éc
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                  |
 |----|-------------------------------------------------------------------------------------------------------|
-| 01 | [CRÉATION DANS UN SECTEUR STRATÉGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#cr%C3%A9ation-dans-un-secteur-strat%C3%A9gique) (énergie, IA, terraformation, médecine spatiale…)            |
-| 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
-| 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
-| 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
-| 05 | Découverte d’une ressource rare : minerai, organisme de soin, matériau composite                      |
-| 06 | Ouverture d’une colonie-exploitation autonome (mine, ferme, laboratoire, etc.)                        |
+| 01 | [CRÉATION DANS UN SECTEUR STRATÉGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#cr%C3%A9ation-dans-un-secteur-strat%C3%A9gique) (énergie, IA, terraformation, médecine spatiale…)    |
+| 02 | [FUSION OU RACHAT](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fusion-ou-rachat-en-temps-de-crise) d'une société rivale lors d'une crise économique                                     |
+| 03 | [PREMIER CONTRAT](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#premier-contrat-d%C3%A9tat) avec un Etat ou un conglomérat colonial                                                       |
+| 04 | [DÉVELOPPEMENT D'UNE TECHNOLOGIE PROPRIETAIRE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#technologie-propri%C3%A9taire) (synthétique, terraformation, IA, etc.)                       |
+| 05 | [DÉCOUVERTE D'UNE RESSOURCE RARE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9couverte-dune-ressource-rare) (minerai, organisme de soin, matériau composite)                     |
+| 06 | [OUVERTURE D’UNE COLONIE-EXPLOITATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#ouverture-dune-colonie-exploitation) autonome (mine, ferme, laboratoire, etc.)                       |
 
 #### CRÉATION DANS UN SECTEUR STRATÉGIQUE
 
