@@ -1,6 +1,12 @@
 # GUIDE DE CREATION D'UNE CORPORATION
 
-*UN GUIDE NON OFFICIEL POUR ALIEN*
+*UN GUIDE NON OFFICIEL COMPATIBLE AVEC L'UNIVERS D'ALIEN RPG*
+
+### ANNOTATIONS
+
+> Le texte est rédigé dans un formalisme spécifique pour renforcer la tonalité froide et toxic du cadre corporatiste.
+
+> Lorsqu'un texte sort du cadre narratif/ambiance il est introduit par une citation.
 
 ## INTRODUCTION
 
@@ -25,12 +31,12 @@ Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé es
 
 > Lancez 1D4 ou choisissez l'anciennté de la corporation.
 
-| ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE |
-|----|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 01 | 0–10 ans (ÉMERGENTE)	    | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure. | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne      |
-| 02 | 10–30 ans (ÉTABLIE)	     |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	            | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.            |
-| 03 | 30–80 ans (ACTEUR MAJEUR)|Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	       | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
-| 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                             | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.      |
+| ID | ANCIENNETÉ	              | STRUCTURES LES PLUS PROBABLES (TIRAGE / CHOIX RECOMMANDÉ)	                                                                      | COMMENTAIRE                                                                                                      |
+|----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 01 | 0–10 ans (ÉMERGENTE)	      | Collectif indépendant, Start-up rachetée, Syndicat de colons privatisé	Structures instables, souvent sous influence extérieure.  | Peu de ressources, mais forte réactivité. Dépendance financière ou sous tutelle d'une structure plus ancienne    |
+| 02 | 10–30 ans (ÉTABLIE)	      |Filiale spécialisée, Start-up rachetée, Délégation autonome, éventuellement Conglomérat naissant (si fusion précoce)	              | Corps solides, mais encore dépendants ou fragiles juridiquement. L'autonomie est souvent une illusion.           |
+| 03 | 30–80 ans (ACTEUR MAJEUR)  |Conglomérat multi-sectoriel, Mégacorporation en formation, ou dérive vers Culte corporatiste ou Délégation autonome mutée	      | L’expansion s’accompagne de dérives. La structure commence à absorber, fusionner ou dissimuler ses sous-entités. |
+| 04 | 80+ ans (TENTACULAIRE)	  | Mégacorporation, Conglomérat, Culte corporatiste, ou entité hybride méconnaissable	                                              | La forme d’origine est oubliée. Ce sont des institutions idéologiques ou économiques, parfois auto-réplicantes.  |
 
 | ANCIENNETÉ                | FONDATION | CRISES           | PRISE D’INDÉPENDANCE  | EXPANSION / DÉRAPAGES  | MUTATION IDÉOLOGIQUE  | SITUATION ACTUELLE  | PERSPECTIVE FUTURE  |
 |---------------------------|-----------|------------------|-----------------------|------------------------|-----------------------|---------------------|---------------------|
@@ -47,7 +53,7 @@ Origine stratégique, fusion initiale, colonie mère, brevet unique, percée éc
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                  |
 |----|-------------------------------------------------------------------------------------------------------|
-| 01 | Création dans un secteur stratégique : énergie, IA, terraformation, médecine spatiale…                |
+| 01 | **CRÉATION DANS UN SECTEUR STRATÉGIQUE** (énergie, IA, terraformation, médecine spatiale…)            |
 | 02 | Fusion ou rachat d'une société rivale lors d'une crise économique                                     |
 | 03 | Premier contrat d'État avec l'UPP, l’E3M ou un conglomérat colonial                                   |
 | 04 | Développement d’une technologie propriétaire (synthétique, terraformation, IA, etc.)                  |
@@ -65,9 +71,9 @@ Toute entité enregistrée dispose d’un secteur initial d’intervention recon
 | 01 | Exploitation d'une source d'énergétique orbitale.                                                      |
 | 02 | Déploiement initial d’un système prédictif de maintenance.                                             |
 | 03 | Lancement d’un programme de soins automatisés pour milieux isolés.                                     |
-| 04 | Plateforme de terraformation modulaires de classe 5.                                                   |
+| 04 | Plateforme de terraformation modulaires.                                                               |
 | 05 | Réseau de satellites cognitifs pour la surveillance planétaire.                                        |
-| 06 | Base de données génétiques intercoloniale – semi-légale.                                               |
+| 06 | Base de données génétiques intercoloniale semi-légale.                                                 |
 
 #### FUSION OU RACHAT EN TEMPS DE CRISE
 
@@ -259,7 +265,7 @@ Les déclencheurs d’indépendance marquent des tournants décisifs dans l’é
 
 > Lancez 1D6 ou choisissez.
 
-| ID	| ÉVÉNEMENTS POSSIBLES                                                                                                           |
+| ID | ÉVÉNEMENTS POSSIBLES                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------------------------|
 | 01 | **Rachat hostile de la société-tutrice** via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
 | 02 | **Fuite orchestrée d’un scandale d’État** impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
@@ -274,13 +280,13 @@ Les rachats hostiles représentent des manœuvres stratégiques audacieuses, sou
 
 > Lancez 1D6 ou choisissez.
 
-| ID | TYPE DE RACHAT |
-|----|--------------------|
-| 01 | Rachat initié depuis une succursale coloniale oubliée, opérant via des créanciers fantômes. |
-| 02 | Manipulation d’actionnaires mineurs à l’aide de faux audits et d’assemblées truquées. |
-| 03 | Usage de cadres détachés en exil économique pour porter les parts de l’opération. |
-| 04 | Une ancienne alliance commerciale déterrée permet de déclencher une clause de fusion forcée. |
-| 05 | Le rachat a été validé suite à la disparition inexpliquée du conseil de direction de la société-tutrice. |
+| ID | TYPE DE RACHAT                                                                                             |
+|----|------------------------------------------------------------------------------------------------------------|
+| 01 | Rachat initié depuis une succursale coloniale oubliée, opérant via des créanciers fantômes.                |
+| 02 | Manipulation d’actionnaires mineurs à l’aide de faux audits et d’assemblées truquées.                      |
+| 03 | Usage de cadres détachés en exil économique pour porter les parts de l’opération.                          |
+| 04 | Une ancienne alliance commerciale déterrée permet de déclencher une clause de fusion forcée.               |
+| 05 | Le rachat a été validé suite à la disparition inexpliquée du conseil de direction de la société-tutrice.   |
 | 06 | Des caisses de contrats papier originaux ont refait surface, forçant la vente par vice de forme juridique. |
 
 #### FUITE ORCHESTREE
@@ -289,14 +295,14 @@ Les fuites orchestrées sont des opérations délicates visant à exposer des in
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | TYPE DE FUITE |
-|----|--------------------|
-| 01 | Transmission codée via un réseau postal analogique oublié par les autorités. |
-| 02 | Le scandale portait sur l’utilisation de colons testés sans consentement sur une lune quarantaine. |
-| 03 | Une ancienne boîte noire retrouvée dans une épave orbitale a servi de preuve clé. |
+| D6 | TYPE DE FUITE                                                                                                |
+|----|--------------------------------------------------------------------------------------------------------------|
+| 01 | Transmission codée via un réseau postal analogique oublié par les autorités.                                 |
+| 02 | Le scandale portait sur l’utilisation de colons testés sans consentement sur une lune quarantaine.           |
+| 03 | Une ancienne boîte noire retrouvée dans une épave orbitale a servi de preuve clé.                            |
 | 04 | L’information a été glissée dans une donnée de navigation publique interceptée par un astronome indépendant. |
-| 05 | Un ex-employé disparu depuis 10 ans a reparu avec les preuves stockées sur microfilm organique. |
-| 06 | Une transmission audio corrompue d’une réunion classée a été diffusée via des ondes de secours. |
+| 05 | Un ex-employé disparu depuis 10 ans a reparu avec les preuves stockées sur microfilm organique.              |
+| 06 | Une transmission audio corrompue d’une réunion classée a été diffusée via des ondes de secours.              |
 
 ### NEUTRALISATION JURIDIQUE D'UN SYNDICAT
 
@@ -304,14 +310,14 @@ La neutralisation juridique d'un syndicat est une stratégie visant à affaiblir
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | TYPE DE NEUTRALISATION |
-|----|--------------------|
-| 01 | Réécriture du contrat initial, suite à la redécouverte d’une version non signée par la tutelle. |
-| 02 | Intimidation des délégués syndicaux par des agents sous couverture paramilitaire. |
+| D6 | TYPE DE NEUTRALISATION                                                                                       |
+|----|--------------------------------------------------------------------------------------------------------------|
+| 01 | Réécriture du contrat initial, suite à la redécouverte d’une version non signée par la tutelle.              |
+| 02 | Intimidation des délégués syndicaux par des agents sous couverture paramilitaire.                            |
 | 03 | Enregistrement falsifié d’une réunion stratégique, diffusé pour semer le doute sur la direction du syndicat. |
-| 04 | Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants. |
-| 05 | Utilisation d’une juridiction minière autonome pour casser les clauses collectives. |
-| 06 | Déplacement stratégique du siège social vers une zone où les syndicats sont illégaux. |
+| 04 | Vote imposé en huis clos sur une base orbitale, avec évacuation immédiate des opposants.                     |
+| 05 | Utilisation d’une juridiction minière autonome pour casser les clauses collectives.                          |
+| 06 | Déplacement stratégique du siège social vers une zone où les syndicats sont illégaux.                        |
 
 ### OBTENTION D'UN BREVET
 
@@ -319,14 +325,14 @@ L'obtention d'un brevet stratégique est une manœuvre audacieuse visant à acqu
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | TYPE DE BREVET |
-|----|--------------------|
-| 01 | Reconstitution fonctionnelle à partir d’un fragment de module alien retrouvé dans un chantier orbital. |
-| 02 | Déchiffrage de schémas techniques abandonnés dans un silo de guerre oublié. |
-| 03 | Récolte de composants expérimentaux dans une épave interdite par l’E3M. |
-| 04 | Utilisation d’un échantillon biologique auto-réactif, couplé à une matrice énergétique coloniale. |
-| 05 | Adaptation sauvage d’un outil agricole militaire pour un usage d’extraction atmosphérique. |
-| 06 | Un ancien prototype classé "trop instable" a été activé sans autorisation pour valider le brevet. |
+| D6 | TYPE DE BREVET                                                                                               |
+|----|--------------------------------------------------------------------------------------------------------------|
+| 01 | Reconstitution fonctionnelle à partir d’un fragment de module alien retrouvé dans un chantier orbital.       |
+| 02 | Déchiffrage de schémas techniques abandonnés dans un silo de guerre oublié.                                  |
+| 03 | Récolte de composants expérimentaux dans une épave interdite par un gouvernement.                            |
+| 04 | Utilisation d’un échantillon biologique auto-réactif, couplé à une matrice énergétique coloniale.            |
+| 05 | Adaptation sauvage d’un outil agricole militaire pour un usage d’extraction atmosphérique.                   |
+| 06 | Un ancien prototype classé "trop instable" a été activé sans autorisation pour valider le brevet.            |
 
 ### FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE
 
@@ -334,14 +340,14 @@ La fausse faillite suivie d'une renaissance est une stratégie complexe visant �
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | STYLE DE FAILLITE  |
-|----|--------------------|
-| 01 | L’effondrement a été mis en scène par la mise en orbite de drones de sauvetage vides. |
-| 02 | La société a été officiellement “perdue lors d’un accident de stase” sur une route hyperspatiale. |
-| 03 | Le cœur des opérations a été transféré dans un entrepôt désaffecté, puis redéployé sous un nouveau nom. |
-| 04 | Un plan de réattribution de crédits a noyé toutes les dettes dans un maillage bureaucratique illisible. |
-| 05 | L’ancien PDG a été "déclaré mort" dans un conflit frontalier, puis réapparu sous une nouvelle identité. |
-| 06 | Un cargobot vide a été désorbitée volontairement, simulant la perte totale des archives. |
+| D6 | STYLE DE FAILLITE                                                                                            |
+|----|--------------------------------------------------------------------------------------------------------------|
+| 01 | L’effondrement a été mis en scène par la mise en orbite de drones de sauvetage vides.                        |
+| 02 | La société a été officiellement “perdue lors d’un accident de stase” sur une route hyperspatiale.            |
+| 03 | Le cœur des opérations a été transféré dans un entrepôt désaffecté, puis redéployé sous un nouveau nom.      |
+| 04 | Un plan de réattribution de crédits a noyé toutes les dettes dans un maillage bureaucratique illisible.      |
+| 05 | L’ancien PDG a été "déclaré mort" dans un conflit frontalier, puis réapparu sous une nouvelle identité.      |
+| 06 | Un cargobot vide a été désorbitée volontairement, simulant la perte totale des archives.                     |
 
 ### CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE
 
@@ -349,14 +355,14 @@ La corruption d'un organe de supervision planétaire est une manœuvre stratégi
 
 > Lancez 1D6 ou choisissez.
 
-| D6 | TYPE DE CORRUPTION |
-|----|--------------------|
-| 01 | Versement à une caisse funéraire syndicale en échange d’un silence administratif. |
-| 02 | Cession d’un terrain de chasse protégé en bordure de zone minière, enregistré à titre personnel. |
-| 03 | Création d’un orphelinat corporatiste à la mémoire d’un proche du superviseur. |
-| 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société. |
-| 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés. |
-| 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions. |
+| D6 | TYPE DE CORRUPTION                                                                                           |
+|----|--------------------------------------------------------------------------------------------------------------|
+| 01 | Versement à une caisse funéraire syndicale en échange d’un silence administratif.                            |
+| 02 | Cession d’un terrain de chasse protégé en bordure de zone minière, enregistré à titre personnel.             |
+| 03 | Création d’un orphelinat corporatiste à la mémoire d’un proche du superviseur.                               |
+| 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société.                        |
+| 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés.                                     |
+| 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions.          |
 
 ### EXPANSION AGRESSIVE ET DERAPAGES
  
@@ -366,12 +372,12 @@ Une fois atteinte une masse critique, la corporation n’expérimente plus : ell
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | Création d’une **force de sécurité privée armée**, au-dessus des lois locales                              |
-| 02 | Implantation dans une **zone interdite ou contestée** sans autorisation                                    |
-| 03 | Monopolisation d’un secteur vital (eau, nourriture, stase, organes synthétiques…)                          |
-| 04 | Rachat agressif d’un concurrent technologique                                                              |
-| 05 | Infiltration dans des colonies frontalières sous prétexte d’aide humanitaire                               |
-| 06 | Usage de mercenaires ou de sous-traitants dans un conflit inter-bloc                                       |
+| 01 | **CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE**, au-dessus des lois locales                              |
+| 02 | **IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE** sans autorisation                                    |
+| 03 | **MONOPOLISATION D’UN SECTEUR VITAL** (eau, nourriture, stase, organes synthétiques…)                      |
+| 04 | **RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE**                                                          |
+| 05 | **INFILTRATION DANS DES COLONIES FRONTALIÈRES** sous prétexte d’aide humanitaire                           |
+| 06 | **USAGE DE MERCENAIRES OU SOUS-TRAITANTS** dans un conflit inter-bloc                                      |
 
 #### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
 
@@ -465,7 +471,7 @@ En externalisant ses actions militaires, la corporation agit sans porter d’uni
 
 ### MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE
 
-À ce stade, l’organisation cesse d’être un simple acteur économique : elle devient une entité idéologique. Mutation des principes, autonomie cognitive, dérive culturelle… cette évolution est souvent imperceptible pour les observateurs extérieurs jusqu’à ce qu’il soit trop tard. L’entreprise n’agit plus uniquement pour survivre : elle agit pour *perdurer* — selon ses propres critères. Ce segment définit les premières manifestations de cette transformation doctrinale.
+À ce stade, l’organisation cesse d’être un simple acteur économique : elle devient une entité idéologique. Mutation des principes, autonomie cognitive, dérive culturelle… cette évolution est souvent imperceptible pour les observateurs extérieurs jusqu’à ce qu’il soit trop tard. L’entreprise n’agit plus uniquement pour survivre : elle agit pour *perdurer* selon ses propres critères. Ce segment définit les premières manifestations de cette transformation doctrinale.
 
 > Lancez 1D6 ou choisissez.
 
@@ -1486,15 +1492,15 @@ Les conflits incluent : guerre économique, sabotage industriel, lutte pour un a
 | 01 | Mégacorporation concurrente  | Conflit économique, technologique, idéologique                                   | Guerre de brevets, espionnage, guerre sous-traitée                           | Chantage, infiltration, tension diplomatique                 |
 | 02 | Filiale traîtresse           | Sécession, fuite d’informations, rupture idéologique                             | Activité illégale sous couverture, rumeurs de corruption                     | Purge, traque, dommages collatéraux                          |
 | 03 | Coalition de colons armés    | Refus de l’autorité corporatiste                                                 | Soulèvements, enlèvements, sabotage                                          | Crise militaire, hostilité locale                            |
-| 04 |	Syndicat radicalisé	         | Conflit social majeur sur les conditions de travail	                             | Grèves insurrectionnelles, piratage interne, enlèvements	                    | Blocage de production, réponses musclées                     |
+| 04 |	Syndicat radicalisé	        | Conflit social majeur sur les conditions de travail	                           | Grèves insurrectionnelles, piratage interne, enlèvements	                  | Blocage de production, réponses musclées                     |
 | 05 | Gouvernement autonome        | Rejet de la juridiction corporatiste, conflit territorial                        | Lois opposées, justice locale, résistance politique                          | Tensions légales, manipulation d’opinion                     |
 | 06 | IA défaillante (ancienne)    | Rupture de contrôle d’un système IA crucial (ancien centre, prototype)           | Station bloquée, langage crypté, massacre initial                            | Exploration à risque, conflit moral, lockdown technologique  |
 | 07 | Culte corporatiste rival     | Doctrine alternative ou dissidente à la foi imposée par la corporation           | Schisme idéologique, récupération de fidèles, guerre de symboles             | Guerre sainte, reprogrammation                               |
 | 08 | Milice privée dissidente     | Bras armé devenu autonome ou corrompu                                            | Contrôle de zones minières, exécutions sommaires                             | Guerre par procuration, besoin de reconquête                 |
 | 09 | Ancien client / contractant  | Litige majeur ayant dégénéré (paiement, brevet, abandon)                         | Affaire classée, mais pas oubliée. Attaque juridique ou violente             | Revendication de dette, vengeance                            |
-| 10  | Survivants d’un projet classé| Groupe ayant survécu à une opération secrète de la corpo                         | Ex-employés, civils ou militaires devenus fous ou justiciers                 | Vérités enfouies, fuite d’informations                       |
-| 11  | Coalition commerciale        | Réseau de petites structures s’unissant pour contrer l’expansion de la corpo     | Sabotage ciblé, embargos communs, guerre d’image                             | Guerre économique clandestine                                |
-| 12  | Réseau criminel infiltré     | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
+| 10 | Survivants d’un projet classé| Groupe ayant survécu à une opération secrète de la corpo                         | Ex-employés, civils ou militaires devenus fous ou justiciers                 | Vérités enfouies, fuite d’informations                       |
+| 11 | Coalition commerciale        | Réseau de petites structures s’unissant pour contrer l’expansion de la corpo     | Sabotage ciblé, embargos communs, guerre d’image                             | Guerre économique clandestine                                |
+| 12 | Réseau criminel infiltré     | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
 
 ---
 
