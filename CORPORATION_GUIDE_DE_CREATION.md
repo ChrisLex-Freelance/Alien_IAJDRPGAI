@@ -10,7 +10,7 @@
 
 ## ORIENTATION
 
-| [INTRODUCTION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#introduction) | [EVENEMENTS FONDATEURS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#evenements-historiques-de-la-corporation) | [IDENTITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#identite-de-la-corporation) | [SLOGAN DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#slogan-de-la-corporation) | [ORIGINE GEOGRAPHIQUE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#origine-geographique-de-la-corporation) | [TYPE DE STRUCTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-structure-de-la-corporation) | [DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-structure-de-la-corporation) | [TRAITS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [STRUCTURE INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [CULTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#culture-de-la-corporation) | [ZONE D'INFLUENCE DE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#zone-dinfluence-de-corporation) | [RIVALITÉS ACTIVES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) | [LIEN DE LA CORPORATION AVEC L'HORREUR SPATIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) |
+| [INTRODUCTION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#introduction) | [EVENEMENTS FONDATEURS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#evenements-historiques-de-la-corporation) | [IDENTITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#identite-de-la-corporation) | [DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#domaine-dactivite-et-dexpertise-de-la-corporation) | [TRAITS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [STRUCTURE INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation) | [CULTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#culture-de-la-corporation) | [ZONE D'INFLUENCE DE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#zone-dinfluence-de-corporation) | [RIVALITÉS ACTIVES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) | [LIEN DE LA CORPORATION AVEC L'HORREUR SPATIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation) |
 
 ## INTRODUCTION
 
@@ -22,6 +22,12 @@ Le présent document a été émis par l'Agence de Coopération Coloniale des Af
 - Identifier les critères de survie à long terme dans les environnements à haut taux d'incertitude xénologique, juridique ou politique.
 - Optimiser la mise en conformité apparente avec les chartes éthiques coloniales.
 - Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou financières.
+
+### DOCUMENTATION
+
+> Utilisez la fiche de coporation générique pour vous accompagner dans le parcours de création.
+
+[FICHE DE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Fiche_Corporation_Template_AlienRPG.md#fiche-de-corporation)
 
 ---
 
@@ -1458,16 +1464,16 @@ Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais inst
 | 03 | Bordure Extérieure     | 0             | Zone instable, colonies récentes, faible surveillance centrale.                   |
 | 04 | Les Confins            | –2            | Territoires hostiles, souvent hors-réseau, dangereux et imprévisibles.            |
 
-> Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
+> Appliquez le modificateur de zone de fondation de la corporation pour définir sa présence.
 
 
 ### Exemple de calcul
 
 > Structure : **Conglomérat Multi-sectoriel** (+3)  
-> Zones visées : **Voile Extérieur** (+1), **Bordure Extérieure** (0)  
+> Zone de fondation : **Voile Extérieur** (+1)
 > Jet de base : 1D6 = **4**  
 > ➜ Total = 4 + 3 + 1 = **8**  
-> ➜ Résultat : **Présence Régionale** dans **12 à 25 systèmes**, répartie sur 2 zones galactiques.
+> ➜ Résultat : **Présence Régionale** dans **12 à 25 systèmes**, répartie sur 1 zone galactique.
 
 ## RIVALITÉS ACTIVES DE LA CORPORATION
 
