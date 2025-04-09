@@ -162,12 +162,12 @@ Les crises, souvent imprévisibles, mettent en lumière les failles structurelle
 
 | ID  | ÉVÉNEMENTS POSSIBLES                                                                 |
 |-----|--------------------------------------------------------------------------------------|
-| 01  | CATASTROPHE INDUSTRIELLE (explosion, effondrement, pollution biogénique...)          |
-| 02  | SCANDALE ÉTHIQUE (enfants cobayes, implants forcés, effacement mémoire )             |
-| 03  | RÉBELLION OU SÉCESSION d’une colonie entière                                         |
-| 04  | CONFLIT TECHNOLOGIQUE (vol de brevet, sabotage, guerre économique avec une rivale)   |
-| 05  | Implication dans une EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE interdite                    |
-| 06  | CONDAMNATION PAR UNE AUTORITÉ pour violation d’un traité                             |
+| 01  | [CATASTROPHE INDUSTRIELLE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#catastrophe-industrielle) (explosion, effondrement, pollution biogénique...)          |
+| 02  | [SCANDALE ÉTHIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#scandale-%C3%A9thique) (enfants cobayes, implants forcés, effacement mémoire )             |
+| 03  | [RÉBELLION OU SÉCESSION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#r%C3%A9bellion-ou-s%C3%A9cession-coloniale) d’une colonie entière                                         |
+| 04  | [CONFLIT TECHNOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#conflit-technologique) (vol de brevet, sabotage, guerre économique avec une rivale)   |
+| 05  | Implication dans une [EXPÉRIENCE GÉNÉTIQUE OU BIOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#exp%C3%A9rience-g%C3%A9n%C3%A9tique-ou-biologique-interdite) interdite                    |
+| 06  | [CONDAMNATION PAR UNE AUTORITÉ](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#exp%C3%A9rience-g%C3%A9n%C3%A9tique-ou-biologique-interdite) pour violation d’un traité                             |
 
 ##### CATASTROPHE INDUSTRIELLE
 
@@ -267,12 +267,12 @@ Les déclencheurs d’indépendance marquent des tournants décisifs dans l’é
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------------------------|
-| 01 | RACHAT HOSTILE DE LA SOCIÉTÉ TUTRICE via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
-| 02 | FUITE ORCHESTREE d’un scandale d’État impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
-| 03 | NEUTRALISATION JURIDIQUE D'UN SYNDICAT de contrôle via la création d’une juridiction corporatiste autonome.                |
-| 04 | OBTENTION D'UN BREVET stratégique grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
-| 05 | FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
-| 06 | CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE, entraînant la dissolution anticipée du contrat de tutelle initiale.      |
+| 01 | [RACHAT HOSTILE DE LA SOCIÉTÉ TUTRICE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rachat-hostile-de-la-soci%C3%A9t%C3%A9-tutrice) via un réseau de filiales-écrans, effaçant l’origine réelle de l’opération.           |
+| 02 | [FUITE ORCHESTREE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fuite-orchestree) d’un scandale d’État impliquant son bailleur principal, entraînant une reconfiguration d’alliances.       |
+| 03 | [NEUTRALISATION JURIDIQUE D'UN SYNDICAT](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fuite-orchestree) de contrôle via la création d’une juridiction corporatiste autonome.                |
+| 04 | [OBTENTION D'UN BREVET](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#obtention-dun-brevet) stratégique grâce à l’ingénierie inverse d’une technologie classifiée, monétisée via un marché noir. |
+| 05 | [FAUSSE FAILLITE SUIVIE D'UNE RENAISSANCE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#obtention-dun-brevet) sous une nouvelle identité légale, dissociée contractuellement de toute tutelle.  |
+| 06 | [CORRUPTION D'UN ORGANE DE SUPERVISION PLANETAIRE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#obtention-dun-brevet), entraînant la dissolution anticipée du contrat de tutelle initiale.      |
 
 #### RACHAT HOSTILE DE LA SOCIÉTÉ TUTRICE
 
@@ -372,12 +372,12 @@ Une fois atteinte une masse critique, la corporation n’expérimente plus : ell
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE, au-dessus des lois locales                              |
-| 02 | IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE sans autorisation                                    |
-| 03 | MONOPOLISATION D’UN SECTEUR VITAL (eau, nourriture, stase, organes synthétiques…)                      |
-| 04 | RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE                                                          |
-| 05 | INFILTRATION DANS DES COLONIES FRONTALIÈRES sous prétexte d’aide humanitaire                           |
-| 06 | USAGE DE MERCENAIRES OU SOUS-TRAITANTS dans un conflit inter-bloc                                      |
+| 01 | [CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#cr%C3%A9ation-dune-force-de-s%C3%A9curit%C3%A9-priv%C3%A9e-arm%C3%A9e), au-dessus des lois locales                              |
+| 02 | [IMPLANTATION DANS UNE ZONE INTERDITE OU CONTESTÉE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#implantation-dans-une-zone-interdite-ou-contest%C3%A9e) sans autorisation                                    |
+| 03 | [MONOPOLISATION D’UN SECTEUR VITAL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#monopolisation-dun-secteur-vital) (eau, nourriture, stase, organes synthétiques…)                      |
+| 04 | [RACHAT AGRESSIF D’UN CONCURRENT TECHNOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#infiltration-dans-des-colonies-frontali%C3%A8res)                                                         |
+| 05 | [INFILTRATION DANS DES COLONIES FRONTALIÈRES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#infiltration-dans-des-colonies-frontali%C3%A8res) sous prétexte d’aide humanitaire                           |
+| 06 | [USAGE DE MERCENAIRES OU SOUS-TRAITANTS](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#usage-de-mercenaires-ou-sous-traitants-dans-un-conflit-inter-bloc) dans un conflit inter-bloc                                      |
 
 #### CRÉATION D’UNE FORCE DE SÉCURITÉ PRIVÉE ARMÉE
 
@@ -477,12 +477,12 @@ En externalisant ses actions militaires, la corporation agit sans porter d’uni
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE expérimental                                                     |
-| 02 | SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE dans son ensemble                                                 |
-| 03 | DÉCOUVERTE D’UN XENO-MATERIAUX aux propriétés inconnues                                                    |
-| 04 | TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL (agriculture, pharma, sécurité…)                             |
-| 05 | SCISSION D’UN DÉPARTEMENT INTERNE devenu culte, une action autonomiste ou une secte                        |
-| 06 | MODIFICATION DES EMPLOYÉS (implants, modification génétique, conditionnement cognitif)                     |
+| 01 | [CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#cr%C3%A9ation-dun-mod%C3%A8le-synth%C3%A9tique-ou-clone-exp%C3%A9rimental) expérimental                                                     |
+| 02 | [SYSTEME AUTONOME DIRIGEANT LA LOGISTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#systeme-autonome-dirigeant-la-logistique) dans son ensemble                                                 |
+| 03 | [DÉCOUVERTE D’UN XENO-MATERIAUX](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9couverte-dun-xeno-materiaux) aux propriétés inconnues                                                    |
+| 04 | [TRANSFORMATION EN CONGLOMÉRAT MULTI-SECTORIEL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#transformation-en-conglom%C3%A9rat-multi-sectoriel) (agriculture, pharma, sécurité…)                             |
+| 05 | [SCISSION D’UN DÉPARTEMENT INTERNE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#scission-dun-d%C3%A9partement-devenu-culte-ou-secte-interne) devenu culte, une action autonomiste ou une secte                        |
+| 06 | [MODIFICATION DES EMPLOYÉS](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#modification-des-employ%C3%A9s-implants-g%C3%A9n%C3%A9tique-conditionnement) (implants, modification génétique, conditionnement cognitif)                     |
 
 #### CRÉATION D’UN MODÈLE SYNTHÉTIQUE OU CLONE EXPÉRIMENTAL
 
@@ -582,12 +582,12 @@ Cette phase représente la condition actuelle de la corporation sur l’échiqui
 
 | ID | ÉVÉNEMENTS POSSIBLES                                                                                       |
 |----|------------------------------------------------------------------------------------------------------------|
-| 01 | BLACKLISTÉE dans certaines zones galactique                                                                |
-| 02 | Soupçons de liens avec des DISPARITIONS DE VAISSEAUX OU DE COLONIES                                        |
-| 03 | IMPLANTÉE DANS DES ZONES CONTESTÉES avec autorisation douteuse                                             |
-| 04 | ACTIVE DANS LES LOBBIES PARLEMENTAIRES ou candidate à un siège de gouvernance                              |
-| 05 | RUMEURS D’UN PROJET GENETIQUE CONTESTE autour d'une xéno-espèce                                            |
-| 06 | DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION d’un artefact “pré-humain”                                       |
+| 01 | [BLACKLISTÉE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#blacklist%C3%A9e-dans-certaines-zones-galactique) dans certaines zones galactique                                                                |
+| 02 | Soupçons de liens avec des [DISPARITIONS DE VAISSEAUX OU DE COLONIES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#soup%C3%A7ons-de-liens-avec-des-disparitions-de-vaisseaux-ou-de-colonies)                                        |
+| 03 | [IMPLANTÉE DANS DES ZONES CONTESTÉES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#implant%C3%A9e-dans-des-zones-contest%C3%A9es-avec-autorisation-douteuse) avec autorisation douteuse                                             |
+| 04 | [ACTIVE DANS LES LOBBIES PARLEMENTAIRES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#active-dans-les-lobbies-parlementaires) ou candidate à un siège de gouvernance                              |
+| 05 | [RUMEURS D’UN PROJET GENETIQUE CONTESTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rumeurs-dun-projet-genetique-conteste) autour d'une xéno-espèce                                            |
+| 06 | [DÉPLOYÉE DANS UNE MISSION DE RÉCUPÉRATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9ploy%C3%A9e-dans-une-mission-de-r%C3%A9cup%C3%A9ration-dun-artefact-pr%C3%A9-humain) d’un artefact “pré-humain”                                       |
 
 #### BLACKLISTÉE DANS CERTAINES ZONES GALACTIQUE
 
@@ -685,12 +685,12 @@ La mission est officiellement classée comme “archéologie industrielle” ou 
 
 | D6 | PERSPECTIVE                                                                                                              |
 |----|--------------------------------------------------------------------------------------------------------------------------|
-| 01 | FRAGILE MAIS ASCENDANTE, elle est dépendante, volatile, mais portée par un élan ou un tuteur puissant.                 |
-| 02 | EXPANSION CONTRÔLÉE, elle est en consolidation active, elle maîtrise ses crises, mais chaque victoire a un coût.       |
-| 03 | STAGNATION INSTABLE, elle a commencée une lente dérive interne, appuyée sur des rituels bureaucratiques, des alliances gelées.|
-| 04 | DÉCLIN VOILÉ / MUTATION, la façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur.|
-| 05 | AUTONOMISATION RADICALE, l’organisation s’affranchit de toute régulation, y compris interne.                            |
-| 06 | CONVERSION IDÉOLOGIQUE,  la corporation a cessé d’être un outil économique. Elle devient une entité doctrinale.         |
+| 01 | [FRAGILE MAIS ASCENDANTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fragile-mais-ascendante), elle est dépendante, volatile, mais portée par un élan ou un tuteur puissant.                 |
+| 02 | [EXPANSION CONTRÔLÉE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#expansion-contr%C3%B4l%C3%A9e), elle est en consolidation active, elle maîtrise ses crises, mais chaque victoire a un coût.       |
+| 03 | [STAGNATION INSTABLE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#stagnation-instable), elle a commencée une lente dérive interne, appuyée sur des rituels bureaucratiques, des alliances gelées.|
+| 04 | [DÉCLIN VOILÉ / MUTATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9clin-voil%C3%A9--mutation), la façade tient, mais quelque chose d’invisible ronge ou transforme la structure en profondeur.|
+| 05 | [AUTONOMISATION RADICALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#autonomisation-radicale), l’organisation s’affranchit de toute régulation, y compris interne.                            |
+| 06 | [CONVERSION IDÉOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#conversion-id%C3%A9ologique), la corporation a cessé d’être un outil économique. Elle devient une entité doctrinale.         |
 
 #### FRAGILE MAIS ASCENDANTE
 
