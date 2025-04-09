@@ -13,6 +13,8 @@ Le présent document a été émis par l'Agence de Coopération Coloniale et dé
 - Optimiser la mise en conformité apparente avec les chartes éthiques coloniales.
 - Garantir la présence de points de contact exploitables pour les acteurs décisionnels rattachés aux institutions gouvernementales, militaires ou bancaires.
 
+---
+
 ## EVENEMENTS HISTORIQUES DE LA CORPORATION
 
 Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé est un outil narratif, un levier de contrôle ou une bombe à retardement. L’histoire d’une corporation n’est pas une chronologie ; c’est un mécanisme de façonnage, de dissimulation ou d’intimidation. À travers ses phases d’évolution, l’entreprise s’adapte, absorbe, élimine ou reconstruit. Son dossier historique est généralement fragmentaire, maquillé, ou classifié au plus haut niveau.
@@ -355,7 +357,6 @@ La corruption d'un organe de supervision planétaire est une manœuvre stratégi
 | 04 | Simulation d’une épidémie pour justifier un décret d’exception favorisant la société. |
 | 05 | Livraison d’un lot de générateurs à fusion haut rendement, non déclarés. |
 | 06 | Envoi de consultants privés "officieux" pour "assister" l’organe de supervision dans ses décisions. |
-
 
 ### EXPANSION AGRESSIVE ET DERAPAGES
  
@@ -775,6 +776,8 @@ La conversion idéologique transforme une entité économique en une organisatio
 | 05 | Les interfaces IA internes emploient désormais une rhétorique théologique. |
 | 06 | Elle mène des expéditions de “révélation technologique” dans les ruines d’une ancienne civilization. |
 
+---
+
 ## IDENTITE DE LA CORPORATION
 
 Chaque entité doit posséder une identité nominale, visuelle et mémorielle permettant sa reconnaissabilité dans les réseaux de données, les bases douanières, et les systèmes d’authentification biométrique. L'identité n'est pas tant un choix qu'une projection d'acceptabilité marchande.
@@ -939,6 +942,8 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 | 07  | **Délégation autonome**          | Branche locale d’une mégacorporation opérant avec une large autonomie en raison de l’éloignement ou d’une crise.                                                          | Voile Extérieur, Confins            | 2 Traits         | 1 domaine            |
 | 08  | **Culte corporatiste**           | Organisation idéologique autour d’une entreprise, mêlant foi, propagande et obéissance. Parfois une excroissance dégénérée d’un projet corpo initial.                     | Confins, Bordure Extérieure         | 2 Traits         | 2 domaines           |
 
+---
+
 ## DOMAINE D'ACTIVITE ET D'EXPERTISE DE LA CORPORATION
 
 La spécialisation opérationnelle définit la position de la corporation sur les chaînes de valeur : extraction, transformation, logistique, militarisation, biotech, etc. À noter : une compétence affichée ne préjuge pas d'une expertise réelle.
@@ -1015,6 +1020,8 @@ Parmi les pratiques tolérées : sous-traitance armée, opérations noires, exp�
 | 18  | Expérimentations biologiques non-humaines | Tests sur espèces aliens, xénomorphes ou hybrides.                                               |
 | 19  | Surveillance clandestine                  | Espionnage systématique de colonies ou entreprises via drones, implants ou IA.                   |
 | 20  | Sauvetage de crédits perdus               | Rachat ou pillage d’installations sinistrées, évacuées ou "abandonnées".                         |
+
+---
 
 ## TRAITS DE LA CORPORATION
 
@@ -1153,7 +1160,6 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 | 08   | **Contrôle totalitaire**   | Surveillance et obéissance totale, tolérance zéro.                                            | Intercoms IA, chambres d’isolement, tourelles                      | MU/TH/UR 8000                    | Dissociée ou Distribuée       | Agents d’infiltration                    | Hiérarchie IA-centrique                |
 | 09   | **Confinement spécialisé** | Risques biologiques/technologiques, cloisonnement extrême.                                    | Multi-sas, IA indépendante par zone                                | MU/TH/UR 9000                    | Dissociée                     | Sécurité synthétique / infiltration      | Structure en cellules                  |
 | 10   | **Blacksite autonome**     | IA expérimentale, souveraineté IA complète.                                                   | IA hors réseau, architectures hostiles, défense orbitale           | MU/TH/UR 9000+ / prototype       | Expérimentale                 | Sécurité synthétique / fanatisés         | Hiérarchie rituelle / symbolique       |
-
 
 ##### NIVEAU DE SÉCURITÉ MODULAIRE
 
@@ -1388,6 +1394,8 @@ L’entité corporatiste devient un mythe, une nation, un dogme. Elle absorbe la
 | 05 | Prière à l’IA                               | Moment de recueillement dirigé vers l’Intelligence Centrale, simulant une adoration ou une demande de guidance.                                          | "MU/TH/UR veille.", activation de routine vocale                          | Divinisation technologique          |
 | 06 | Narratif officiel                           | L’histoire de l’entreprise est récitée comme un mythe fondateur. Elle est connue par cœur par tous les employés.                                         | Projection IA, récitation commune, tatouage-récit                         | Création d’un mythe inaltérable     |
 
+---
+
 ## ZONE D'INFLUENCE DE CORPORATION
 
 Toute entité aspirant à une légitimité opérationnelle doit faire état de son implantation réelle et projetée. La zone d’influence n’est pas une frontière, mais un volume exploité, contesté, ou dissimulé. Elle détermine l’accès aux ressources, aux corridors hyperspatiaux, et aux équilibres géopolitiques sectoriels.
@@ -1488,6 +1496,8 @@ Les conflits incluent : guerre économique, sabotage industriel, lutte pour un a
 | 11  | Coalition commerciale        | Réseau de petites structures s’unissant pour contrer l’expansion de la corpo     | Sabotage ciblé, embargos communs, guerre d’image                             | Guerre économique clandestine                                |
 | 12  | Réseau criminel infiltré     | Groupe mafieux utilisant l’infrastructure corpo pour du trafic, ou vice versa    | Parasitage logistique, chantage, infiltration                                | Conflit moral, complicité dissimulée                         |
 
+---
+
 ## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
 
 L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ou son échec à venir. Cette section définit les fondements de l’exposition à l’incontrôlable, au non-humain, à la vérité biologique prohibée.
@@ -1556,6 +1566,8 @@ Degré de connaissance du personnel concernant l’horreur impliquée.Plus le ni
 | 04 | Cloisonnement extrême         | Informations divisées par cellules, aucun aperçu global.                                          |
 | 05 | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
 | 06 | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
+
+---
 
 ## PROJETS SECRETS ET ZONE D’OMBRE
 
@@ -1647,6 +1659,8 @@ Le levier le plus simple reste le plus efficace. Toute structure désireuse d’
 | 04 | Cession de parts fictives dans une mine sans existence physique                            |
 | 05 | Simulation d’une menace biologique nécessitant décret d’urgence au bénéfice de la corpo    |
 | 06 | Création d’un culte personnel au sein d’une colonie sous administration du responsable     |
+
+---
 
 ## DOSSIER DU PROFIL EXECUTIF – FONDATEUR OU CEO ACTUEL
 
@@ -1740,6 +1754,8 @@ Les raisons invoquées pour la cryopréservation d’un dirigeant varient selon 
 
 #### REMARQUE
 Certaines corporations dissimulent cette pratique sous la notion de “Présidence Émergente” ou de “Conseil Dormant”, activé uniquement lors d’une crise de seuil. D'autres, plus transparentes, revendiquent cette méthode comme preuve de continuité idéologique absolue. **La stase prolongée** devient ainsi un outil de légitimité, de purge des contre-pouvoirs internes et de pérennisation d’une doctrine sans altération par l’évolution sociale. Elle devient également un enjeux de lutte interne, lorsqu'un cadre veut tenté un coup d'état pour prendre le pouvoir, il faut tuer le père.
+
+---
 
 ## EXEMPLE DE TIRAGE POUR CREER UNE CORPORATION
 
