@@ -87,19 +87,19 @@ ANCIENNETE :  10–30 ans
 
 | ZONE GALACTIQUE                | NIVEAU DE SÉCURITÉ  |
 |--------------------------------|---------------------|
-| Systèmes du Noyau              | 10 / 10       |
-| Voile Extérieur                | 10 / 10       |
-| Bordure Extérieure             | 10 / 10       |
+| Systèmes du Noyau              | -      |
+| Voile Extérieur                | -       |
+| Bordure Extérieure             | 8 / 10       |
 | Les Confins                    | 10 / 10       |
 
 ### [NIVEAU DE CULTURE CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#niveau-de-culture-corporatiste)
 
 | ZONE GALACTIQUE                | NIVEAU DE SÉCURITÉ  |
 |--------------------------------|---------------------|
-| Systèmes du Noyau              | 10 / 10       |
-| Voile Extérieur                | 10 / 10       |
-| Bordure Extérieure             | 10 / 10       |
-| Les Confins                    | 10 / 10       |
+| Systèmes du Noyau              | -       |
+| Voile Extérieur                | -       |
+| Bordure Extérieure             | 4 / 10       |
+| Les Confins                    | 3 / 10       |
 
 [EXEMPLE D'ELEMENTS CULTURELS CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#exemple-delements-culturel-corporatiste)
 
