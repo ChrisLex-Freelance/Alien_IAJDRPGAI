@@ -794,11 +794,11 @@ La conversion idéologique transforme une entité économique en une organisatio
 
 Chaque entité doit posséder une identité nominale, visuelle et mémorielle permettant sa reconnaissabilité dans les réseaux de données, les bases douanières, et les systèmes d’authentification biométrique. L'identité n'est pas tant un choix qu'une projection d'acceptabilité marchande.
 
+| [DENOMINATION DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#denomination-de-votre-corporation) | [SLOGAN DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#slogan-de-la-corporation) | [ORIGINE GEOGRAPHIQUE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#origine-geographique-de-la-corporation) | [TYPE DE STRUCTURE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-structure-de-la-corporation) |
+
 ### DENOMINATION DE VOTRE CORPORATION
 
 Le nom de la structure doit être court, techniquement neutre, potentiellement multilingue. Les termes religieux, politiques ou explicitement violents sont à éviter sauf si validés par un programme de normalisation sectorielle. Les acronymes sont recommandés pour leur efficacité mnémonique et leur ambigüité juridique.
-
-#### GENERATEUR DE NOM
 
 La base de données intercorporatiste permet de générer des dénominations conformes aux standards esthétiques de l'industrie. L'utilisation de préfixes tels que "Neo", "Sys", "Gen", ou "Tri" augmente la perception d'efficience et de fiabilité.
 
@@ -952,6 +952,8 @@ La forme structurelle (Mégacorpo, Conglomérat, Filiale, Culte, etc.) impacte l
 
 La spécialisation opérationnelle définit la position de la corporation sur les chaînes de valeur : extraction, transformation, logistique, militarisation, biotech, etc. À noter : une compétence affichée ne préjuge pas d'une expertise réelle.
 
+| [PRINCIPAUX DOMAINES D'EXPERTISE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#principaux-domaines-dexpertise) | [MORALITÉ DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#moralit%C3%A9-de-la-corporation) | [ACTIVITÉS SECONDAIRES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#activit%C3%A9s-secondaires) |
+
 ### PRINCIPAUX DOMAINES D'EXPERTISE
 
 Les domaines d'activité présenté sont compatibles avec les régulations interstellaires. Restez conforme aux réglémentations interstellaires pour un commerce plus serein.
@@ -1029,11 +1031,7 @@ Parmi les pratiques tolérées : sous-traitance armée, opérations noires, exp�
 
 ## TRAITS DE LA CORPORATION
 
-Chaque entité se compose d’un assemblage de traits systémiques, indicateurs de ses dérives, de ses forces opérationnelles ou de ses anomalies bureaucratiques. Ces traits permettent de classer les structures dans les modèles de gestion de risque établis par le Conseil Intercorporatiste.
-
-### GENERATEUR DE TRAIT CORPORATISTE
-
-Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires.
+Chaque entité se compose d’un assemblage de traits systémiques, indicateurs de ses dérives, de ses forces opérationnelles ou de ses anomalies bureaucratiques. Ces traits permettent de classer les structures dans les modèles de gestion de risque établis par le Conseil Intercorporatiste. Ces traits agissent comme des matrices comportementales influençant les réponses à la crise, aux pertes humaines et aux incidents réglementaires.
 
 > Lancez 1D100/2 pour sélectionner un trait ou choisissez. Faites autant de fois l'opération que le nombre de traits auxquels peut prétendre votre structure corporatiste.
 
@@ -1093,6 +1091,8 @@ Ces traits agissent comme des matrices comportementales influençant les répons
 ## STRUCTURE INTERNE DE LA CORPORATION
 
 Les structures internes doivent obéir aux standards de modularité hiérarchique. Toute déviation entraîne une hausse des taux de dissidence ou une inefficience dans la répression logistique.
+
+| [INTÉGRATION DE L’IA DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#int%C3%A9gration-de-lia-dans-la-corporation) | [RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#r%C3%B4le-des-synth%C3%A9tiques-dans-la-corporation) | [MODÈLE HIÉRARCHIQUE DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#mod%C3%A8le-hi%C3%A9rarchique-dans-la-corporation) | [SÉCURITÉ INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#s%C3%A9curit%C3%A9-interne-de-la-corporation) |
 
 ### INTÉGRATION DE L’IA DANS LA CORPORATION
 
@@ -1209,6 +1209,8 @@ La sécurité interne n’est pas qu’un protocole défensif : c’est l’orga
 
 L’environnement idéologique interne est optimisé pour limiter la déviance et maximiser la conformité productive. La culture corporatiste est une interface comportementale, non une communauté. Plus la culture est forte, plus la corporation développe un comportement immunitaire idéologique : Toute dissidence est perçue comme un virus à isoler, neutraliser ou absorber. C’est pourquoi les structures à haut niveau de culture doivent préserver en leur sein des cellules d’adaptation, capables d’évoluer hors du dogme sans déclencher la réaction auto-immune du système.
 
+| [NIVEAU DE CULTURE CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#niveau-de-culture-corporatiste) | [EXEMPLE D'ELEMENTS CULTURELS CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#exemple-delements-culturel-corporatiste) |
+
 ### NIVEAU DE CULTURE CORPORATISTE
 
 > Le niveau de sécurité standardisé interne d'une corporation est par défaut positionné à 5.
@@ -1274,6 +1276,8 @@ Si une corporation cherche à maintenir un niveau de culture supérieur au seuil
 - Recourir à des moyens coercitifs : Synthétique infiltré, surveillance, usage d'inibiteurs comportementaux chimique.
 
 ### EXEMPLE D'ELEMENTS CULTUREL CORPORATISTE
+
+| [LANGAGE RH DÉSHUMANISANT DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#langage-rh-d%C3%A9shumanisant-de-la-corporation) | [RÉCOMPENSES INTERNES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#r%C3%A9compenses-internes-de-la-corporation) | [CLASSEMENTS ET NOTATIONS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#classements-et-notations-de-la-corporation) | [PROCÉDURES DE SANCTION DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#proc%C3%A9dures-de-sanction-de-la-corporation) | [PROGRAMMES DE FIDÉLISATION DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#programmes-de-fid%C3%A9lisation-de-la-corporation) | [CAMPAGNES PUBLICITAIRES & SLOGANS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#campagnes-publicitaires--slogans-de-la-corporation) | [SYMBOLES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#symboles-de-la-corporation) | [RITUELS DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rituels-de-la-corporation) | [IDENTITÉ DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#identit%C3%A9--de-la-corporation) |
 
 #### LANGAGE RH DÉSHUMANISANT DE LA CORPORATION
 
@@ -1404,6 +1408,8 @@ L’entité corporatiste devient un mythe, une nation, un dogme. Elle absorbe la
 
 Toute entité aspirant à une légitimité opérationnelle doit faire état de son implantation réelle et projetée. La zone d’influence n’est pas une frontière, mais un volume exploité, contesté, ou dissimulé. Elle détermine l’accès aux ressources, aux corridors hyperspatiaux, et aux équilibres géopolitiques sectoriels.
 
+| [ETENDUE DE LA SPHERE D'INFLUENCE GALACTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#%C3%A9tendue-de-pr%C3%A9sence-galactique) | [MODIFICATEUR PAR TYPE DE STRUCTURE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#modificateurs-par-type-de-structure) | [MODIFICATEUR PAR ZONE GALACTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#modificateurs-par-zone-galactique) |
+
 Détermine l’influence galactique réelle de la corporation à travers :
 - son **type de structure**
 - les **zones galactiques ciblées**
@@ -1412,7 +1418,20 @@ Détermine l’influence galactique réelle de la corporation à travers :
 ### 🎲 Formule :
 **1D6** + **Mod. de Structure** + **Mod. par Zone** = Niveau de Présence
 
-### Modificateurs par Type de Structure
+### ETENDUE DE LA SPHERE D'INFLUENCE GALACTIQUE
+
+La présence est mesurée en nombre de systèmes, de colonies actives, de stations revendiquées, et de routes commerciales maintenues. Ces indicateurs sont utilisés pour définir le rang d’influence d’une entité lors des votes d’arbitrage intercorporatiste.
+
+| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
+|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
+| 01 | 1–2                 | Locale                 | 1 à 2 systèmes      | Présence marginale, souvent régionale ou semi-légale.                       |
+| 02 | 3–4                 | Subsectorielle         | 3 à 5 systèmes      | Influence limitée, dépendance logistique forte.                             |
+| 03 | 5–6                 | Intersectorielle       | 6 à 12 systèmes     | Expansion solide, présence dans plusieurs sous-secteurs.                    |
+| 04 | 7–8                 | Régionale              | 12 à 25 systèmes    | Infrastructure affirmée dans plusieurs zones galactiques.                   |
+| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
+| 06 | 11+                 | Hégémonique            | 50+ systèmes        | Tentaculaire, omniprésente, influence législative et diplomatique massive.  |
+
+### MODIFICATEUR PAR TYPE DE STRUCTURE
 
 Le type de structure détermine l’étendue probable de l’influence. Une mégacorporation possède des systèmes entiers. Un collectif indépendant ne contrôle qu’une station, et encore. Chaque forme structurelle impose des seuils plausibles d’expansion.
 
@@ -1428,7 +1447,7 @@ Le type de structure détermine l’étendue probable de l’influence. Une még
 | 08 | Culte corporatiste               | –1 *(+1 si soutenu secrètement)* |
 
 
-### Modificateurs par Zone Galactique
+### MODIFICATEUR PAR ZONE GALACTIQUE
 
 Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais instables. La Bordure et les Confins impliquent une autonomie forcée, une insécurité chronique, et une vulnérabilité juridique.
 
@@ -1439,20 +1458,8 @@ Le Noyau favorise l’influence institutionnelle. Le Voile offre des relais inst
 | 03 | Bordure Extérieure     | 0             | Zone instable, colonies récentes, faible surveillance centrale.                   |
 | 04 | Les Confins            | –2            | Territoires hostiles, souvent hors-réseau, dangereux et imprévisibles.            |
 
- Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
+> Appliquez le modificateur de zone pour **chacune** dans laquelle la corporation tente d’implanter une présence.
 
-### Étendue de Présence Galactique
-
-La présence est mesurée en nombre de systèmes, de colonies actives, de stations revendiquées, et de routes commerciales maintenues. Ces indicateurs sont utilisés par l’UNISC pour définir le rang d’influence d’une entité lors des votes d’arbitrage intercorporatiste.
-
-| ID | TOTAL (1D6 + MODS)  | ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  | DESCRIPTION                                                                 |
-|----|---------------------|------------------------|---------------------|-----------------------------------------------------------------------------|
-| 01 | 1–2                 | Locale                 | 1 à 2 systèmes      | Présence marginale, souvent régionale ou semi-légale.                       |
-| 02 | 3–4                 | Subsectorielle         | 3 à 5 systèmes      | Influence limitée, dépendance logistique forte.                             |
-| 03 | 5–6                 | Intersectorielle       | 6 à 12 systèmes     | Expansion solide, présence dans plusieurs sous-secteurs.                    |
-| 04 | 7–8                 | Régionale              | 12 à 25 systèmes    | Infrastructure affirmée dans plusieurs zones galactiques.                   |
-| 05 | 9–10                | Supra-régionale        | 25 à 50 systèmes    | Organisation puissante présente partout sauf dans les Confins.              |
-| 06 | 11+                 | Hégémonique            | 50+ systèmes        | Tentaculaire, omniprésente, influence législative et diplomatique massive.  |
 
 ### Exemple de calcul
 
@@ -1465,6 +1472,8 @@ La présence est mesurée en nombre de systèmes, de colonies actives, de statio
 ## RIVALITÉS ACTIVES DE LA CORPORATION
 
 Aucune structure viable n’évolue dans le vide. Les rivalités intercorporatistes forment le tissu conflictuel normalisé du marché galactique. Elles peuvent être ouvertes, dissimulées, ou niées ; mais jamais absentes.
+
+| [NOMBRE DE RIVALITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#nombre-de-rivalite-de-la-corporation) | [TYPE DE RIVALITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-rivalite-de-la-corporation) |
 
 ### NOMBRE DE RIVALITE DE LA CORPORATION
 
@@ -1505,6 +1514,8 @@ Les conflits incluent : guerre économique, sabotage industriel, lutte pour un a
 ## LIEN DE LA CORPORATION AVEC L'HORREUR SPATIAL ET LE XENOMORPHE
 
 L’univers est hostile. Le nier est inefficace. Le tolérer est rentable. Le contrôler est illusoire. La relation d’une corporation à l’horreur constitue son plus grand secret ou son échec à venir. Cette section définit les fondements de l’exposition à l’incontrôlable, au non-humain, à la vérité biologique prohibée.
+
+| [MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#morale-de-la-corporation-et-traitement-de-lhorreur) | [NATURE DU LIEN AVEC L'HORRREUR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#nature-du-lien-avec-lhorrreur) | [RAPPORT AUX XENO-ENTITES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rapport-aux-xeno-entites) | [CRIMES ET COMPROMISSION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#crimes-et-compromission) | [NIVEAU DE SECRET INTERNE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#niveau-de-secret-interne) |
 
 ### MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR
 
