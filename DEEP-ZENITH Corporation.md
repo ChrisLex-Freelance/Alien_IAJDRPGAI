@@ -75,47 +75,82 @@ ANCIENNETE :  10–30 ans
 | 05 | Génétique planifiée | Contrôle de l’évolution à des fins commerciales | Monopole biologique | Dérives éthiques |
 | 06 | Faux projets de colonisation | Colonies servant de couvertures | Façade crédible, déploiement rapide | Sacrifice de populations |
 
-## STRUCTURE INTERNE
-- **Hiérarchie :** Structure en cellules – Cloisonnement extrême
-- **Intégration IA :** Niveau élevé – MU/TH/UR 7000, forte autonomie sous surveillance
-- **Utilisation des synthétiques :** Sécurité synthétique, forces de réaction rapide
-- **Sécurité interne :** Dissuasion psychologique – slogans, rituels, musiques comportementales
-- **Commandement :** Comité d’orientation dissimulé, avatars publics contrôlés
+## [STRUCTURE INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#structure-interne-de-la-corporation)
 
-## CULTURE CORPORATISTE
-- **Langage RH :** Codifié, déshumanisant (ex. : “Unité émotionnelle instable”)
-- **Classements et notations :** Quota de défaillance, suivi constant
-- **Sanctions :** Mutabilité affective (inhibiteurs émotionnels)
-- **Récompenses :** Statut de "Partenaire" (promotion illusoire)
-- **Programme de fidélisation :** Simulation de mérite (boucle de stagnation gamifiée)
-- **Propagande / Slogans :** "Travailler, c’est exister.", "Construisons demain, aujourd’hui."
-- **Symboles :** Mascotte - Modèle Synthétique Z3N - visage souriant omniprésent "Ton amie, Ta guide. Ta confidente."
-- **Rituels :** Rituel de promotion (injection mémorielle, serment VR, cérémonie filmée)
-- **Elément identitaire :** Lexique d’entreprise – vocabulaire codé et déshumanisant
+[INTÉGRATION DE L’IA DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#int%C3%A9gration-de-lia-dans-la-corporation) : IA dissociée - L’IA opère en parallèle des décisions humaines, avec ses propres protocoles - MU/TH/UR 7000+ ou MU/TH/UR 9000 – Forte autonomie, surveillance recommandée
+
+[RÔLE DES SYNTHÉTIQUES DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#r%C3%B4le-des-synth%C3%A9tiques-dans-la-corporation) : Sécurité synthétique - Synthétiques armés, gardes ou forces de réaction. Souvent perçus comme froids et efficaces.
+
+[MODÈLE HIÉRARCHIQUE DANS LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#mod%C3%A8le-hi%C3%A9rarchique-dans-la-corporation) : Organisation modulaire - Hiérarchies par projets, recomposées en fonction des besoins.
+
+[SÉCURITÉ INTERNE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#s%C3%A9curit%C3%A9-interne-de-la-corporation)
+
+| ZONE GALACTIQUE                | NIVEAU DE SÉCURITÉ  |
+|--------------------------------|---------------------|
+| Systèmes du Noyau              | 10 / 10       |
+| Voile Extérieur                | 10 / 10       |
+| Bordure Extérieure             | 10 / 10       |
+| Les Confins                    | 10 / 10       |
+
+### [NIVEAU DE CULTURE CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#niveau-de-culture-corporatiste)
+
+| ZONE GALACTIQUE                | NIVEAU DE SÉCURITÉ  |
+|--------------------------------|---------------------|
+| Systèmes du Noyau              | 10 / 10       |
+| Voile Extérieur                | 10 / 10       |
+| Bordure Extérieure             | 10 / 10       |
+| Les Confins                    | 10 / 10       |
+
+[EXEMPLE D'ELEMENTS CULTURELS CORPORATISTE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#exemple-delements-culturel-corporatiste)
 
 | PROPAGANDE DE RECRUTEMENT|
 |--------------------------|
 | ![DeepZenith_propagande_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/447b816c-3967-4100-bc29-f66efc6a610f.png) |
-## ZONE D’INFLUENCE
-- **Présence galactique (étendue) :** Supra-régionale
-- **Zone(s) actives (nombre de systèmes) :** 25 à 50 systèmes – Voile Extérieur, Bordure Extérieure
+
+## [ETENDUE DE LA SPHERE D'INFLUENCE GALACTIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#%C3%A9tendue-de-pr%C3%A9sence-galactique)
+
+| ÉTENDUE DE PRÉSENCE    | NOMBRE DE SYSTÈMES  |     |
+|------------------------|---------------------|-----|
+| Locale                 | 1 à 2 systèmes      | [ ] |
+| Subsectorielle         | 3 à 5 systèmes      | [ ] |
+| Intersectorielle       | 6 à 12 systèmes     | [ ] |
+| Régionale              | 12 à 25 systèmes    | [ ] |
+| Supra-régionale        | 25 à 50 systèmes    | [X] |
+| Hégémonique            | 50+ systèmes        | [ ] |
 
 | PROPAGANDE DE RECRUTEMENT| PROPAGANDE DE RECRUTEMENT|
 |--------------------------|--------------------------|
 | ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_1.webp) |  ![DeepZenith_propagande_FR](https://raw.githubusercontent.com/ChrisLex-Freelance/Alien_IAJDRPGAI/refs/heads/main/Deep_Zenith_propagande_2.webp) |
+ 
+## [RIVALITÉS ACTIVES DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation)
 
-## RIVALITÉS
-- **Nombre de rivalités :** Minimum 2
-- **Type de conflit :**
-  - Gouvernement autonome : conflit territorial et légal
-  - Réseau criminel infiltré : parasitage logistique et chantage
+[NOMBRE DE RIVALITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#nombre-de-rivalite-de-la-corporation)
 
-## LIEN AVEC L’HORREUR & XÉNOMORPHE
-- **Morale et traitement de l’horreur :** Accepte l’horreur si elle reste utile et secrète
-- **Nature du lien :** Survivants d’un incident xéno-biologique étouffé
-- **Rapport aux xéno-entités :** Détient des données classifiées non exploitées
-- **Crimes et dissimulations :** A évacué ses cadres en abandonnant le personnel secondaire
-- **Niveau de secret :** Cloisonnement extrême – informations strictement compartimentées
+> Classez les rivalités par ordre d'importance pour la corporation
+
+- Rivalité 1 : Collectif indépendant
+- Rivalité 2 : Filiale spécialisée d'un concurrent
+- Rivalité 3 : ......................................................
+
+[TYPE DE RIVALITE DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#type-de-rivalite-de-la-corporation)
+
+> Classez les conflits par ordre d'importance pour la corporation
+
+- Conflit 1 : Gouvernement autonome : conflit territorial et légal
+- Conflit 2 : Réseau criminel infiltré : parasitage logistique et chantage
+- Conflit 3 : ......................................................
+
+## [LIEN DE LA CORPORATION AVEC L'HORREUR SPATIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rivalit%C3%A9s-actives-de-la-corporation)
+
+[MORALE DE LA CORPORATION ET TRAITEMENT DE L'HORREUR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#morale-de-la-corporation-et-traitement-de-lhorreur) : Accepte l’horreur si elle reste utile et secrète
+
+[NATURE DU LIEN AVEC L'HORRREUR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#nature-du-lien-avec-lhorrreur) : Survivants d’un incident xéno-biologique étouffé
+
+[RAPPORT AUX XENO-ENTITES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#rapport-aux-xeno-entites) : Détient des données classifiées non exploitées
+
+[CRIMES ET COMPROMISSION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#crimes-et-compromission) : A évacué ses cadres en abandonnant le personnel secondaire
+
+[NIVEAU DE SECRET INTERNE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#niveau-de-secret-interne) : Cloisonnement extrême – informations strictement compartimentées
 
 ---
 ## ANNEXES
