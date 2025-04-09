@@ -31,6 +31,8 @@ Aucune entité ne naît sans dette, fusion, rachat ou effondrement. Le passé es
 
 > Les événements sont à considérer comme autant de points d’ancrage pour définir les traumatismes fondateurs, les failles encore actives ou les secrets compromettants que certains essaient d’exhumer. Le nombre d'événements historiques de la corporation dépend de son ancienneté.
 
+| [ANCIENNETÉ DE LA CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#anciennet%C3%A9-de-la-corporation) | [FONDATION ET EXPENSION INITIALE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#fondation-et-expension-initiale) | [PREMIERE CRISE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#premiere-crise) | [DÉCLENCHEUR D’INDÉPENDANCE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#d%C3%A9clencheur-dind%C3%A9pendance) | [EXPANSION AGRESSIVE ET DERAPAGES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#expansion-agressive-et-derapages) | [MUTATION ET NAISSANCE DE L'AUTONOMIE IDEOLOGIQUE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#mutation-et-naissance-de-lautonomie-ideologique) | [SITUATION ACTUELLE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#situation-actuelle) | [PERSPECTIVES FUTURES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CORPORATION_GUIDE_DE_CREATION.md#perspectives-futures) | 
+
 ### ANCIENNETÉ DE LA CORPORATION
 
 > Lancez 1D4 ou choisissez l'anciennté de la corporation.
