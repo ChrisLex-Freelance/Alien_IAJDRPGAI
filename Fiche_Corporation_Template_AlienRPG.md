@@ -2,8 +2,7 @@
 
 **TEMPLATE ALIEN RPG**
 
-> La fiche suit la structure de construction d'une corporation. [EXEMPLE DE CORPORATION : DEEP ZENITH](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/edit/main/DEEP-ZENITH%20Corporation.md)
-> Une corporation n’est jamais neutre. Elle a une mémoire, une faille, un corps, une voix, et une obsession.
+> La fiche suit la structure de construction d'une corporation. Une corporation n’est jamais neutre. Elle a une mémoire, une faille, un corps, une voix, et une obsession. [EXEMPLE DE CORPORATION : DEEP ZENITH](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/edit/main/DEEP-ZENITH%20Corporation.md)
 
 ---
 
