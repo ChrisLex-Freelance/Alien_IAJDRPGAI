@@ -1,5 +1,5 @@
 # DEEP-ZENITH
-| LOGO          |
+| LOGO          | 
 |----------------------|
 | ![DeepZenith_FR](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/952aea15-9698-4dc5-9f3a-3f6b7b3d6a33.png) |
 
