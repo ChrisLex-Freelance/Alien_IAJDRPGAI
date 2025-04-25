@@ -29,7 +29,7 @@ Le présent document a été émis par l'Agence de Coopération Coloniale des Af
 
 [FICHE DE CORPORATION](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Fiche_Corporation_Template_AlienRPG.md#fiche-de-corporation)
 
-[EXEMPLE DE CORPORATION : DEEP ZENITH](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/edit/main/DEEP-ZENITH%20Corporation.md)
+[EXEMPLE DE CORPORATION : DEEP ZENITH](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/DEEP-ZENITH%20Corporation.md)
 
 ---
 
