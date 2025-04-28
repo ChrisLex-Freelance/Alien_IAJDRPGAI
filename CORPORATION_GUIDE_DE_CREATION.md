@@ -1834,7 +1834,7 @@ Optionnelle, mais hautement révélatrice. Le CEO est-il complice, témoin, surv
 
 #### IMPACT DU NIVEAU DE CONNAISSANCE
 
-> Lancez un 1D6, en applicant les modificateurs pour chaque colonne.
+> Lancez un 1D4+NIVEAU DE CONNAISSANCE. Si le CEO n'a aucune connaissance de l'horreur xénomorphe, aucun tirage n'est nécessaire.
 
 | NIVEAU | PHILOSOPHIE | EXPÉRIENCE | CONNAISSANCE | COMPROMISSION | CONSCIENCE |
 |--------|-------------|------------|------------|------------|------------|
