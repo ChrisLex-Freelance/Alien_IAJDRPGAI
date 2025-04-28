@@ -1697,53 +1697,116 @@ Le CEO constitue l’interface idéologique, opérationnelle et médiatique d’
 
 Détermine les fondements sociaux et culturels de l’individu. Influence son rapport au pouvoir, à la hiérarchie et à la doctrine corporatiste.
 
-| ID  | ORIGINE                   | DESCRIPTION                                                                                      |
-|-----|---------------------------|--------------------------------------------------------------------------------------------------|
-| 01  | Héritier d’une dynastie   | Issu d’une famille liée à une méga, élevé dans l’élitisme et le secret.                          |
-| 02  | Rescapé d’une colonie     | Seul survivant d’un incident dissimulé. Recruté pour sa capacité à obéir et oublier.             |
-| 03  | Ancien cadre RH           | Spécialiste de la conformité émotionnelle et des processus de loyauté.                           |
-| 04  | Technicien promu          | Formé à la base dans les modules de maintenance. Ascension par efficacité brutale.               |
-| 05  | Analyste militaire        | Stratège reconverti, passé par un commandement opérationnel sur la Bordure.                      |
-| 06  | Ressortissant politique   | Issu d’une zone instable. A négocié une immunité contre sa collaboration économique.             |
+> Lancez 1D20 ou choisissez une origine.
+
+| ID | ORIGINE                        | DESCRIPTION                                                                                                 | MODIFICATEUR DE PROFIL PSYCHO | MODIFICATEUR DE POUVOIR RÉEL |
+|----|--------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------|
+| 01 | Héritier d’une dynastie        | Issu d’une famille liée à une méga, élevé dans l’élitisme et le secret.                                     | 0                             | +1 |
+| 02 | Rescapé d’une colonie          | Seul survivant d’un incident dissimulé. Recruté pour sa capacité à obéir et oublier.                        | +1                            | -1 |
+| 03 | Ancien cadre RH                | Spécialiste de la conformité émotionnelle et des processus de loyauté.                                      | 0                             | 0 |
+| 04 | Technicien promu               | Formé à la base dans les modules de maintenance. Ascension par efficacité brutale.                          | +1                            | 0 |
+| 05 | Analyste militaire             | Stratège reconverti, passé par un commandement opérationnel sur la Bordure.                                 | 0                             | +1 |
+| 06 | Ressortissant politique        | Issu d’une zone instable. A négocié une immunité contre sa collaboration économique.                        | +1                            | -1 |
+| 07 | Héritier biologique            | Clone ou enfant génétiquement optimisé pour succéder à un fondateur disparu.                                | 0                             | +1 |
+| 08 | Survivant d'expérience secrète | Sujet non volontaire d'une expérimentation classée ; devenu inattaquable juridiquement.                     | +2                            | -1 |
+| 09 | Ancien négociateur de crise    | Spécialiste du sauvetage de contrats impossibles ; capable de vendre n'importe quel mensonge.               | +1                            | 0 |
+| 10 | Prospecteur isolé              | A survécu seul à l'exploitation d'une station éloignée. Détient des secrets géographiques majeurs.          | +1                            | -1 |
+| 11 | Administrateur de stase        | Ancien responsable des modules de sommeil profond ; maîtrise les procédures de réveil et d'hibernation.     | 0                             | +1 |
+| 12 | Analyste comportemental        | Expert des dérives psychologiques dans les environnements clos ; sait "corriger" les loyautés défectueuses. | 0                             | 0 |
+| 13 | Survivant de faillite          | Dernier cadre survivant d'une corporation effondrée. Maîtrise l'art de l'effacement et de la réinvention.   | +1                            | -1 |
+| 14 | Officier de recouvrement       | Traqué les déserteurs, les créanciers et les installations perdues pour le compte d'une méga.               | 0                             | 0 |
+| 15 | Émissaire "humanitaire"        | Agent de façade envoyé sur les colonies en crise ; expert pour maquiller les exactions.                     | +1                            | 0 |
+| 16 | Responsable de quarantaine     | Formé aux protocoles d’isolement extrême. Son pragmatisme face à l'inhumain est absolu.                     | 0                             | 0 |
+| 17 | Explorateur sous contrat       | A dirigé des expéditions "d'extraction de ressources" dans les zones interdites ou perdues.                 | +1                            | -1 |
+| 18 | Héritier idéologique           | Détenteur officiel d'une "Doctrine Fondatrice". Porte un dogme corporatiste comme religion privée.          | 0                             | +1 |
+| 19 | Courtier en mémoire            | Manipulateur de souvenirs et d'archives pour effacer, réécrire ou créer des vérités officielles.            | +2                            | -1 |
+| 20 | Architecte de projets noirs    | A dirigé des projets illégaux ultra-cloisonnés ; aujourd'hui valorisé pour son efficacité discrète.         | +2                            | -1 |
 
 ### PROFIL PSYCHOCORPORATIF
 
 Définit les traits cognitifs et affectifs prédominants. Influence la doctrine et la culture interne.
 
-| ID  | PROFIL                    | DESCRIPTION                                                                                      |
-|-----|---------------------------|--------------------------------------------------------------------------------------------------|
-| 01  | Visionnaire froid         | Voit au-delà des bilans. Ne parle que de projections. Son regard est vide mais calculé.          |
-| 02  | Messianique               | Convaincu d’incarner la seule voie vers un futur viable. Charisme obsessionnel.                  |
-| 03  | Cynique absolu            | Ne croit en rien, mais exploite tout. Transforme toute vérité en arme.                           |
-| 04  | Dévoué au silence         | Ne s’exprime qu’à travers ses décisions. Présence rare. Paranoïa opérationnelle.                 |
-| 05  | Architecte                | Fasciné par les structures (sociales, mécaniques, idéologiques). Vit dans les plans.             |
-| 06  | Révisionniste             | Falsifie son passé, manipule les archives, recrée son image tous les cinq ans.                   |
+> Lancez 1D20 ou choisissez un profil.
+> Si l'orgine apporte un modificateur, réalisez un ou deux jet supplémentaire. Vous avez un CEO avec une personnalité particulièrement complexe.
+
+| ID | PROFIL | DESCRIPTION | MODIFICATEUR DE POUVOIR RÉEL |
+|----|--------|-------------|------------------------------| 
+| 01 | Visionnaire froid | Voit au-delà des bilans. Ne parle que de projections. Son regard est vide mais calculé. | +1 |
+| 02 | Messianique | Convaincu d’incarner la seule voie vers un futur viable. Charisme obsessionnel. | -1 |
+| 03 | Cynique absolu | Ne croit en rien, mais exploite tout. Transforme toute vérité en arme. | 0 |
+| 04 | Dévoué au silence | Ne s’exprime qu’à travers ses décisions. Présence rare. Paranoïa opérationnelle. | +1 |
+| 05 | Architecte | Fasciné par les structures sociales, mécaniques ou idéologiques. Vit dans les plans. | +1 |
+| 06 | Révisionniste | Falsifie son passé, manipule les archives, recrée son image tous les cinq ans. | -1 |
+| 07 | Hyper-opportuniste | Chaque événement est un levier. Pas d'attaches, pas de fidélité réelle. | 0 |
+| 08 | Sceptique systémique | Remet tout en question, même les dogmes fondateurs, pour en tirer un avantage adaptatif. | 0 |
+| 09 | Dominateur discret | Prend le pouvoir sans confrontation, par rumeurs, contrats et "consensus" forcé. | +1 |
+| 10 | Isolationniste méthodique | Coupe systématiquement toute attache émotionnelle. Fonctionne sur des cycles solitaires. | 0 |
+| 11 | Pragmatiste brutal | Ne croit qu'en l'efficacité. Chaque décision est une coupe claire. | +1 |
+| 12 | Tacticien empathique | Lit les émotions comme des données. Sait exactement quand parler... et quand trahir. | 0 |
+| 13 | Conservateur radical | Fixé sur des normes anciennes. Toute évolution est suspecte. | 0 |
+| 14 | Dissociatif fonctionnel | Cloisonne totalement son affect et ses décisions. Peut ordonner des massacres en souriant. | -1 |
+| 15 | Stratège de la ruine | Excelle à détruire ce qui existe pour reconstruire sous son contrôle. | 0 |
+| 16 | Théoricien de l'effacement | Préfère faire disparaître les traces que de corriger les erreurs. | 0 |
+| 17 | Intégrateur d'horreur | Assimile l'inhumain et l'anomalie dans sa vision du monde sans frémir. | 0 |
+| 18 | Technophile fataliste | Croit que l'humain est un maillon provisoire en voie d'obsolescence. | -1 |
+| 19 | Compulsif ritualiste | Reproduit des gestes ou rituels obsessionnels pour se sentir légitime. | -1 |
+| 20 | Survivant nihiliste | Ne croit plus en rien, mais continue à diriger par instinct de conservation pure. | -1 |
 
 ### POUVOIR RÉEL ET MARGE D’AUTONOMIE
 
-> Évalue le degré de liberté stratégique du CEO par rapport au Conseil, à l’IA, ou aux actionnaires.
+Évalue le degré de liberté stratégique du CEO par rapport au Conseil, à l’IA, ou aux actionnaires.
 
-| ID  | STATUT DE CONTRÔLE        | DESCRIPTION                                                                                      |
-|-----|---------------------------|--------------------------------------------------------------------------------------------------|
-| 01  | Totale autonomie          | Le CEO est la corpo. Aucun contre-pouvoir visible.                                               |
-| 02  | Surveillance indirecte    | Observé par des superviseurs distants, mais jamais contesté ouvertement.                         |
-| 03  | Cadre élu sous pression   | Désigné par compromis. Doit en permanence justifier ses choix.                                   |
-| 04  | Interface du Conseil      | Porte la voix d’un groupe invisible. Son autorité est fabriquée.                                 |
-| 05  | Propriété sous NDA        | Est en fait lui-même lié par un contrat de confidentialité limitant ses décisions.               |
-| 06  | Successeur programmé      | A été désigné comme “héritier d’opportunité” par une IA ou un Conseil absent.                    |
+> Lancez 1D20 ou choisissez un Statut de contrôle.
+
+| ID | STATUT DE CONTRÔLE | DESCRIPTION |
+|----|--------------------|-------------|
+| 01 | Marionnette expérimentale | Nommé pour tester une nouvelle forme de gouvernance secrète. Échecs tolérés. |
+| 02 | Prête-nom toxique | Protège une faction interne. Sacrifiable en cas de crise. |
+| 03 | Pantin financier | Dépend totalement des flux de crédits contrôlés en coulisse. |
+| 04 | Contrôlé par biais juridique | Piégé par des clauses secrètes dans ses statuts légaux. |
+| 05 | Symbole vivant manipulé | Utilisé pour incarner une légende, sans pouvoir réel. |
+| 06 | Agent de purge interne | Sa mission est de liquider ou restructurer avant d’être lui-même évacué. |
+| 07 | Directeur de crise masqué | Dirige en secret pendant la crise. Destitué dès la stabilisation. |
+| 08 | Caution idéologique | Doit maintenir un dogme même en désaccord profond. |
+| 09 | Héritier sous surveillance | Hérite du poste mais subit une surveillance constante. |
+| 10 | Leader sous ultimatum | Mandat suspendu à un contrat de destitution immédiate en cas d’échec. |
+| 11 | Commandant en sursis | Chaque erreur entraîne une procédure de réévaluation de son poste. |
+| 12 | Observateur externe infiltré | Agent déguisé pour une puissance extérieure ; très limité dans ses choix. |
+| 13 | Interface du Conseil | Porte-parole d’un groupe dirigeant caché ; sa voix n’est pas libre. |
+| 14 | Cadre élu sous pression | Tenu par un compromis permanent et une justification incessante. |
+| 15 | Surveillance indirecte | Observé discrètement, sans opposition directe mais sous contrôle latent. |
+| 16 | Propriété sous NDA | Obligé de suivre des décisions invisibles fixées dans un contrat secret. |
+| 17 | Successeur programmé | Désigné pour incarner une transition ; laissé opérer, mais programmé. |
+| 18 | Actionnaire minoritaire | Possède un levier faible ; influe à la marge sur les décisions. |
+| 19 | Surveillance atténuée | Surveillance molle par les actionnaires. |
+| 20 | Totale autonomie | Dirige sans aucun contre-pouvoir réel. Le CEO est la corporation. |
 
 ### ZONE D’OMBRE BIOGRAPHIQUE
 
 Toute figure de pouvoir a un vide documentaire : effacé, classifié ou falsifié.
 
-| ID  | MYSTÈRE ASSOCIÉ           | DESCRIPTION                                                                                      |
-|-----|---------------------------|--------------------------------------------------------------------------------------------------|
-| 01  | A changé d’identité       | Dossier originel effacé. Peut avoir remplacé un autre.                                           |
-| 02  | A survécu à une contagion | Était dans une zone d’incident biologique. N’a jamais été déclaré.                               |
-| 03  | N’a aucun lien familial   | Aucun enregistrement génétique connu. Origine inconnue.                                          |
-| 04  | Détient un artefact       | Objet personnel non déclaré. Provoque interférences.                                             |
-| 05  | A connu le contact        | Son comportement a changé après un séjour dans une zone non référencée.                          |
-| 06  | Est surveillé             | Un autre acteur (IA, Conseil, UNISC…) le suit. Il le sait. Il joue avec.                         |
+| ID | MYSTÈRE ASSOCIÉ | DESCRIPTION |
+|----|--------------------|-------------|
+| 01 | A changé d’identité | Dossier originel effacé. Peut avoir remplacé un autre. |
+| 02 | A survécu à une contagion | Était dans une zone d’incident biologique. Jamais déclaré. |
+| 03 | N’a aucun lien familial | Aucun enregistrement génétique connu. Origine inconnue. |
+| 04 | Détient un artefact | Objet personnel non déclaré. Provoque interférences. |
+| 05 | A connu le contact | Son comportement a changé après un séjour dans une zone non référencée. |
+| 06 | Est surveillé | Un acteur tiers (IA, Conseil, UNISC…) le suit en permanence. |
+| 07 | Refusé par la stase | Impossible à cryogéniser sans complications biologiques graves. |
+| 08 | Possède une mémoire altérée | Fragments de souvenirs implantés, modifiés, effacés volontairement. |
+| 09 | Dossier médical falsifié | Les évaluations biologiques officielles ne correspondent pas à sa réalité. |
+| 10 | Ancien cobaye corporatiste | Soumis enfant à un programme expérimental de conditionnement. |
+| 11 | Parenté inavouée | Lié secrètement à un individu disparu ou excommunié par la corpo. |
+| 12 | Suspecté d’avoir trahi | Témoignages internes suggérant une collaboration passée avec l'ennemi. |
+| 13 | A traversé une zone interdite | A séjourné dans un site classé "non-humain" ; ne parle jamais de ce qu’il y a vu. |
+| 14 | Présente une anomalie physiologique | Ses constantes vitales varient anormalement en situation de stress. |
+| 15 | Reliquat psychique d’incident | Manifeste parfois des visions, des accès de comportement irrationnel liés à un trauma scellé. |
+| 16 | A conservé un protocole interdit | Dispose d’une copie clandestine d'un protocole d’urgence ou d'un artefact technologique sensible. |
+| 17 | Est sous clause d'effacement différé | Une entité possède le droit légal d'ordonner son "effacement" si des seuils comportementaux sont franchis. |
+| 18 | A connu une mort clinique | Officiellement mort à un moment. Le processus de résurrection reste classifié. |
+| 19 | Absence de trace académique | Aucun parcours universitaire ou formation répertoriés ; ascension inexpliquée. |
+| 20 | Signe biologique latent | Son ADN montre des marqueurs non-humains inertes… pour l’instant. |
 
 ### RELATION À L’HORREUR
 
