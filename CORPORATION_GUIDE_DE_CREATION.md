@@ -1812,14 +1812,38 @@ Toute figure de pouvoir a un vide documentaire : effacé, classifié ou falsifi�
 
 Optionnelle, mais hautement révélatrice. Le CEO est-il complice, témoin, survivant… ou prophète ?
 
-| ID  | RAPPORT AU NON-HUMAIN      | DESCRIPTION                                                                                      |
+> Lancez un 1D6 en applicant les modificateurs ou choisissez dans la liste.
+
+| ID  | NIVEAU DE CONNAISSANCE     | DESCRIPTION
 |-----|----------------------------|--------------------------------------------------------------------------------------------------|
-| 01  | Incrédule                  | Refuse d’admettre l’existence des xénomorphes.                                                   |
-| 02  | Traumatisé                 | A vu. Ne parle plus. Prend des décisions irrationnelles.                                         |
-| 03  | Complice                   | Organise des livraisons, transferts, ou “expériences indirectes”.                                |
-| 04  | Converti                   | Croit que le xénomorphe est une forme supérieure de l’évolution.                                 |
-| 05  | Utilitariste               | Sait. Exploite. Maîtrise partielle. Considère l’espèce comme une ressource brute.                |
-| 06  | Contaminé                  | A été exposé. Son ADN ou son esprit porte une trace. Elle grandit.                               |
+| 01  | Aucune connaissance        | Ignore totalement l’existence des xénomorphes et autres anomalies biologiques.                   |
+| 02  | Rumeurs éparses            | A entendu des rumeurs incohérentes ; pense à des "légendes spatiales".                           |
+| 03  | Témoignages indirects      | A consulté ou reçu des rapports très édulcorés.                                                  |
+| 04  | Documents classifiés       | A accès à des fragments restreints ou indirects d'informations sensibles.                        |
+| 05  | Exposition dissimulée      | A survécu personnellement à un incident ou à un contact dissimulé.                               |
+| 06  | Connaissance opérationnelle | Sait exactement ce que sont les xénomorphes et l’horreur biologique associée.                   |
+
+| CONDITION | MODIFICATEUR |
+|-----------|----------------------------|
+| Origine type Survivant, Explorateur, Survivant d’expérience secrète | +1 |
+| Origine type Héritier, Cadre, Analyste RH | -1 |
+| Zone d'Ombre liée au Contact, Artefact, Contamination | +1 |
+| Profil Psycho de type Messianique, Technophile fataliste, Intégrateur d'horreur | +1 |
+| Pouvoir Réel élevé (ID 16-20) | +1 |
+| Pouvoir Réel très faible (ID 1-5, Pantin, Marionnette, Symbole vivant) | -1 |
+
+#### IMPACT DU NIVEAU DE CONNAISSANCE
+
+> Lancez un 1D6, en applicant les modificateurs pour chaque colonne.
+
+| NIVEAU | PHILOSOPHIE | EXPÉRIENCE | CONNAISSANCE | COMPROMISSION | CONSCIENCE |
+|--------|-------------|------------|------------|------------|------------|
+| Aucune connaissance (1) | Déni rationnel, Dissimulation cynique | Aucune confrontation, Témoignage indirect | Aucune connaissance | Silence complice uniquement | Inconscient volontaire |
+| Rumeurs éparses (2) | Déni rationnel, Dissimulation cynique, Exploitation opportuniste | Témoignage indirect, Survivant muet possible | Soupçons flous | Silence complice, exploitation clandestine | Conscience restreinte |
+| Témoignages indirects (3) | Dissimulation cynique, Exploitation opportuniste | Témoignage indirect, Survivant muet | Dossier partiel verrouillé | Exploitation clandestine, contamination dissimulée | Conscience restreinte, pragmatique |
+| Documents classifiés (4) | Exploitation opportuniste, Fascination déviante | Témoin oculaire, Contact partiel | Savoir opérationnel secret | Déclenchement prémédité, exploitation clandestine | Conscience pragmatique, obsédée |
+| Exposition dissimulée (5) | Fascination déviante, Culte personnel caché | Survivant muet, Contact partiel | Gardien d’artefact | Contamination dissimulée, transfert illégal | Conscience obsédée, fanatisme masqué |
+| Connaissance opérationnelle (6) | Fascination déviante, Culte personnel caché, Soumission terrorisée | Interaction volontaire, Contact partiel | Contaminateur éclairé | Expérimentateur caché, contamination dissimulée | Fanatisme masqué, Dissociation complète |
 
 ### SURVIE EXECUTIVE ET STASE HYPERLUCIDE
 
