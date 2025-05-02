@@ -7,7 +7,27 @@ Ce générateur a pour but de créer des créatures xénomorphes uniques et coh�
 
 ## ORIENTATION
 
-## TYPE DE CREATURE XENOMORPHE
+## TAILLE DE LA CREATURE
+
+La taille d’un organisme xénomorphe ne reflète pas seulement son gabarit : elle dicte son mode d’interaction avec l’environnement, sa manière de tuer ou de survivre, et la perception qu’en ont les humains. Une créature minuscule peut contaminer un équipage entier avant d’être repérée ; une entité colossale, elle, modifie la géographie même de son biotope.
+
+> Lancez 1D100 ou choisissez la taille de la créature. La taille fixe certaine carractéristique de base de la créature.
+
+| ID        | TAILLE        | FOR / PV | AGI | MOB | MODIFICATEUR DE DETECTION | EXEMPLE TERRESTRE          | CONTENANCE PHYSIQUE                | LOGISTIQUE HOSTILE |
+|-----------|---------------|----------|-----|-----|---------------------------|----------------------------|------------------------------------|--------------------|
+| 00 - 40   | **Minuscule** | 1        | 4   | 5   | **-3D6**                  | Insecte, ver, puce         | Tube d’échantillon / seringue cryo | S'infiltre partout ; indétectable sans matériel ; peut parasiter ou contaminer à bas bruit. |
+| 41 - 65   | **Petite**    | 2        | 4   | 4   | **-2D6**                  | Rat, chauve-souris         | Bocal sécurisé / cage d’analyse    | Agile, rapide, difficile à localiser. Peut déclencher de l’angoisse sans être repérée. |
+| 66 - 80   | **Moyenne**   | 3        | 3   | 3   | **0D6**                   | Chien, humain, singe       | Cellule standard, caisson isolé    | Affrontable. Représente un danger classique. Confinement possible, mais limité dans le temps. |
+| 81 - 90   | **Grande**    | 4        | 2   | 2   | **+1D6**                  | Ours, gorille              | Cage renforcée, sas blindé         | Force brute. Capable de forcer ou détruire des installations humaines légères. |
+| 91 - 95   | **Énorme**    | 5        | 2   | 1   | **+2D6**                  | Éléphant, rhinocéros       | Salle de confinement lourde        | Détruit les structures. Nécessite une zone d’isolement massive ou un piégeage indirect. |
+| 96 - 100  | **Colossale** | 6        | 1   | 1   | **+3D6**                  | Baleine bleue, titanosaure | Aucun (zone entière ou complexe)   | Redéfinit l’environnement. Mobilité limitée mais impact massif. Peut engendrer un effondrement structurel. |
+
+> CONTENANCE PHYSIQUE : Capacité à être physiquement enfermé, stocké ou transporté dans un environnement contrôlé.
+Elle désigne les moyens matériels nécessaires à la rétention passive de la créature : caisson cryo, cage blindée, chambre hermétique, sas verrouillé... Ce facteur dépend autant de la taille, que de la forme ou comportement de l’entité. Une créature peut être trop fluide, trop instable ou trop vaste pour être confinée dans un contenant classique. Plus la créature est massive ou amorphe, plus le confinement devient impossible sans infrastructure dédiée.
+> LOGISTIQUE HOSTILE : Impact spatial, matériel et opérationnel généré par la créature en situation de confrontation directe ou indirecte.
+Cette notion englobe tout ce qu’il faut mobiliser pour échapper, contenir, combattre ou évacuer en présence de la créature : fermeture de sas, protocoles incendie, drones de confinement, isolement d’une section entière, voire destruction planifiée d’un secteur. Une entité de grande taille ou incontrôlable impose des décisions extrêmes (barrage orbital, dérivation énergétique, dépressurisation volontaire).
+
+## TYPE DE CREATURE
 
 Cette étape définit la nature biologique fondamentale de la créature. Est-elle simple et lisible ? Hybride et instable ? Fusionnée ou multiple ? Le nombre de types biologiques détermine si l’entité est identifiable (comme un reptile alien), combinée (reptilo-fongoïde), ou chaotiquement évolutive (comme les Xénomorphes classiques). Cela influence directement son comportement, ses faiblesses et la peur qu’elle suscite.
 
@@ -35,22 +55,6 @@ Cette étape définit la nature biologique fondamentale de la créature. Est-ell
 |11 | **Arachnide** | Prédateur solitaire à multiples pattes, patient, embusqué, souvent territorial. |
 |12 | **Insectoïde** | Organisée en ruche ou en essaim, attaque en groupe, construit des nids complexes. |
 |13 | **Parasite** | Dépendante d’un hôte, se répand rapidement, altère ou tue son porteur. |
-
-## TAILLE DE LA CREATURE
-
-| TAILLE        | FOR / PV | AGI | MOB | MODIFICATEUR DE DETECTION | EXEMPLE TERRESTRE    | CONTENANCE PHYSIQUE              | LOGISTIQUE HOSTILE |
-|---------------|----------|-----|-----|---------------|----------------------------|------------------------------------|--------------------|
-| **Minuscule** | 1        | 4   | 5   | **-3D6**      | Insecte, ver, puce         | Tube d’échantillon / seringue cryo | S'infiltre partout ; indétectable sans matériel ; peut parasiter ou contaminer à bas bruit. |
-| **Petite**    | 2        | 4   | 4   | **-2D6**      | Rat, chauve-souris         | Bocal sécurisé / cage d’analyse    | Agile, rapide, difficile à localiser. Peut déclencher de l’angoisse sans être repérée. |
-| **Moyenne**   | 3        | 3   | 3   | **0D6**       | Chien, humain, singe       | Cellule standard, caisson isolé    | Affrontable. Représente un danger classique. Confinement possible, mais limité dans le temps. |
-| **Grande**    | 4        | 2   | 2   | **+1D6**      | Ours, gorille              | Cage renforcée, sas blindé         | Force brute. Capable de forcer ou détruire des installations humaines légères. |
-| **Énorme**    | 5        | 2   | 1   | **+2D6**      | Éléphant, rhinocéros       | Salle de confinement lourde        | Détruit les structures. Nécessite une zone d’isolement massive ou un piégeage indirect. |
-| **Colossale** | 6        | 1   | 1   | **+3D6**      | Baleine bleue, titanosaure | Aucun (zone entière ou complexe)   | Redéfinit l’environnement. Mobilité limitée mais impact massif. Peut engendrer un effondrement structurel. |
-
-> CONTENANCE PHYSIQUE : Capacité à être physiquement enfermé, stocké ou transporté dans un environnement contrôlé.
-Elle désigne les moyens matériels nécessaires à la rétention passive de la créature : caisson cryo, cage blindée, chambre hermétique, sas verrouillé... Ce facteur dépend autant de la taille, que de la forme ou comportement de l’entité. Une créature peut être trop fluide, trop instable ou trop vaste pour être confinée dans un contenant classique. Plus la créature est massive ou amorphe, plus le confinement devient impossible sans infrastructure dédiée.
-> LOGISTIQUE HOSTILE : Impact spatial, matériel et opérationnel généré par la créature en situation de confrontation directe ou indirecte.
-Cette notion englobe tout ce qu’il faut mobiliser pour échapper, contenir, combattre ou évacuer en présence de la créature : fermeture de sas, protocoles incendie, drones de confinement, isolement d’une section entière, voire destruction planifiée d’un secteur. Une entité de grande taille ou incontrôlable impose des décisions extrêmes (barrage orbital, dérivation énergétique, dépressurisation volontaire).
 
 ## TRAITS DE LA CREATURE
 
