@@ -24,6 +24,7 @@ La taille d’un organisme xénomorphe ne reflète pas seulement son gabarit : e
 
 > CONTENANCE PHYSIQUE : Capacité à être physiquement enfermé, stocké ou transporté dans un environnement contrôlé.
 Elle désigne les moyens matériels nécessaires à la rétention passive de la créature : caisson cryo, cage blindée, chambre hermétique, sas verrouillé... Ce facteur dépend autant de la taille, que de la forme ou comportement de l’entité. Une créature peut être trop fluide, trop instable ou trop vaste pour être confinée dans un contenant classique. Plus la créature est massive ou amorphe, plus le confinement devient impossible sans infrastructure dédiée.
+
 > LOGISTIQUE HOSTILE : Impact spatial, matériel et opérationnel généré par la créature en situation de confrontation directe ou indirecte.
 Cette notion englobe tout ce qu’il faut mobiliser pour échapper, contenir, combattre ou évacuer en présence de la créature : fermeture de sas, protocoles incendie, drones de confinement, isolement d’une section entière, voire destruction planifiée d’un secteur. Une entité de grande taille ou incontrôlable impose des décisions extrêmes (barrage orbital, dérivation énergétique, dépressurisation volontaire).
 
