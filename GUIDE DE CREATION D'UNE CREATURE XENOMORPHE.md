@@ -13,14 +13,14 @@ La taille d’un organisme xénomorphe ne reflète pas seulement son gabarit : e
 
 > Lancez 1D100 ou choisissez la taille de la créature. La taille fixe certaine carractéristique de base de la créature.
 
-| ID        | TAILLE        | FOR / PV | AGI | MOB | MODIFICATEUR DE DETECTION | EXEMPLE TERRESTRE          | CONTENANCE PHYSIQUE                | LOGISTIQUE HOSTILE |
-|-----------|---------------|----------|-----|-----|---------------------------|----------------------------|------------------------------------|--------------------|
-| 00 - 40   | **Minuscule** | 1        | 4   | 5   | **-3D6**                  | Insecte, ver, puce         | Tube d’échantillon / seringue cryo | S'infiltre partout ; indétectable sans matériel ; peut parasiter ou contaminer à bas bruit. |
-| 41 - 65   | **Petite**    | 2        | 4   | 4   | **-2D6**                  | Rat, chauve-souris         | Bocal sécurisé / cage d’analyse    | Agile, rapide, difficile à localiser. Peut déclencher de l’angoisse sans être repérée. |
-| 66 - 80   | **Moyenne**   | 3        | 3   | 3   | **0D6**                   | Chien, humain, singe       | Cellule standard, caisson isolé    | Affrontable. Représente un danger classique. Confinement possible, mais limité dans le temps. |
-| 81 - 90   | **Grande**    | 4        | 2   | 2   | **+1D6**                  | Ours, gorille              | Cage renforcée, sas blindé         | Force brute. Capable de forcer ou détruire des installations humaines légères. |
-| 91 - 95   | **Énorme**    | 5        | 2   | 1   | **+2D6**                  | Éléphant, rhinocéros       | Salle de confinement lourde        | Détruit les structures. Nécessite une zone d’isolement massive ou un piégeage indirect. |
-| 96 - 100  | **Colossale** | 6        | 1   | 1   | **+3D6**                  | Baleine bleue, titanosaure | Aucun (zone entière ou complexe)   | Redéfinit l’environnement. Mobilité limitée mais impact massif. Peut engendrer un effondrement structurel. |
+| ID        | TAILLE        | FOR / PV | AGI | MOB | MODIFICATEUR DE DETECTION | EXEMPLE TERRESTRE          | CONTENANCE PHYSIQUE                | LOGISTIQUE HOSTILE                                                                                          |
+|-----------|---------------|----------|-----|-----|---------------------------|----------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 00 - 40   | **Minuscule** | 1        | 4   | 5   | **-3D6**                  | Insecte, ver, puce         | Tube d’échantillon / seringue cryo | S'infiltre partout ; indétectable sans matériel ; peut parasiter ou contaminer à bas bruit.                 |
+| 41 - 65   | **Petite**    | 2        | 4   | 4   | **-2D6**                  | Rat, chauve-souris         | Bocal sécurisé / cage d’analyse    | Agile, rapide, difficile à localiser. Peut déclencher de l’angoisse sans être repérée.                      |
+| 66 - 80   | **Moyenne**   | 3        | 3   | 3   | **0D6**                   | Chien, humain, singe       | Cellule standard, caisson isolé    | Affrontable. Représente un danger classique. Confinement possible, mais limité dans le temps.               |
+| 81 - 90   | **Grande**    | 4        | 2   | 2   | **+1D6**                  | Ours, gorille              | Cage renforcée, sas blindé         | Force brute. Capable de forcer ou détruire des installations humaines légères.                              |
+| 91 - 95   | **Énorme**    | 5        | 2   | 1   | **+2D6**                  | Éléphant, rhinocéros       | Salle de confinement lourde        | Détruit les structures. Nécessite une zone d’isolement massive ou un piégeage indirect.                     |
+| 96 - 100  | **Colossale** | 6        | 1   | 1   | **+3D6**                  | Baleine bleue, titanosaure | Aucun (zone entière ou complexe)   | Redéfinit l’environnement. Mobilité limitée mais impact massif. Peut engendrer un effondrement structurel.  |
 
 > CONTENANCE PHYSIQUE : Capacité à être physiquement enfermé, stocké ou transporté dans un environnement contrôlé.
 Elle désigne les moyens matériels nécessaires à la rétention passive de la créature : caisson cryo, cage blindée, chambre hermétique, sas verrouillé... Ce facteur dépend autant de la taille, que de la forme ou comportement de l’entité. Une créature peut être trop fluide, trop instable ou trop vaste pour être confinée dans un contenant classique. Plus la créature est massive ou amorphe, plus le confinement devient impossible sans infrastructure dédiée.
@@ -34,29 +34,29 @@ Cette étape définit la nature biologique fondamentale de la créature. Est-ell
 
 > Lancez 1D10 ou choisissez le nombre de type de la créature xénomorphe.
 
-| ID     | NOMBRE DE TYPES | DESCRIPTION |
-|:------:|------------------------|-------------|
-| 1–4    | 1                      | L’entité possède une structure biologique claire, stable et identifiable. |
-| 5–7    | 2                      | La créature montre des variations ou mutations hybrides, combinant deux origines/traits notables. |
-| 8–9    | 3                      | L’être présente des anomalies évolutives ou adaptatives multiples, issues de stress environnementaux ou d'une longue dérive génétique. |
+| ID     | NOMBRE DE TYPES        | DESCRIPTION                                                                                                                                                                                      |
+|:------:|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1–4    | 1                      | L’entité possède une structure biologique claire, stable et identifiable.                                                                                                                        |
+| 5–7    | 2                      | La créature montre des variations ou mutations hybrides, combinant deux origines/traits notables.                                                                                                |
+| 8–9    | 3                      | L’être présente des anomalies évolutives ou adaptatives multiples, issues de stress environnementaux ou d'une longue dérive génétique.                                                           |
 | 10     | 4                      | L'organisme est instable, expérimental ou chaotique. Il combine plusieurs formes ou altérations, défiant toute classification standard. **Les Xénomorphes d'Alien rentre dans cette catégorie.** |
 
 > Lancez 1D12 autant de fois que le nombre de Type obtenu ci-dessus ou choisissez dans liste de Types.
 
-| ID  | TYPE DE CREATURE   | DESCRIPTION |
-|-----|--------------------|-------------|
+| ID  | TYPE DE CREATURE   | DESCRIPTION                                                                                   |
+|-----|--------------------|-----------------------------------------------------------------------------------------------|
 | 1   | **Anthropomorphe** | Hybride humano-animal, corps adapté à la survie extrême, comportement sauvage ou pragmatique. |
-| 2   | **Mammalien**      | Organisme à sang chaud, vivipare ou apparenté, souvent social ou territorial. |
-| 3   | **Reptilien**      | Créature à sang froid, résistante, rusée, adaptée aux environnements hostiles. |
-| 4   | **Avien**          | Entité légère ou ailée, mobile dans l’espace vertical, souvent silencieuse et rapide. |
-| 5   | **Arthropoïde**    | Exosquelette segmenté, membres multiples, comportement instinctif ou structuré en caste. |
-| 6   | **Molluscoïde**    | Forme molle ou amorphe, gluante, capable de se faufiler ou de sécréter des substances. |
-| 7   | **Fungoïde**       | Organisme fongique ou mycélien, proliférant lentement, souvent toxique ou parasitaire. |
-| 8   | **Plantoïde**      | Être végétal semi-sensible, fixe ou lent, usant de vrilles ou toxines pour se nourrir. |
-| 9   | **Aérien**         | Créature adaptée au vol ou à la gravité faible, embusquée et agile. |
-|10   | **Aquatique**      | Issue d’environnements sous-marins extrêmes, furtive, mortelle dans les fluides. |
-|11   | **Arachnide**      | Prédateur solitaire à multiples pattes, patient, embusqué, souvent territorial. |
-|12   | **Insectoïde**     | Organisée en ruche ou en essaim, attaque en groupe, construit des nids complexes. |
+| 2   | **Mammalien**      | Organisme à sang chaud, vivipare ou apparenté, souvent social ou territorial.                 |
+| 3   | **Reptilien**      | Créature à sang froid, résistante, rusée, adaptée aux environnements hostiles.                |
+| 4   | **Avien**          | Entité légère ou ailée, mobile dans l’espace vertical, souvent silencieuse et rapide.         |
+| 5   | **Arthropoïde**    | Exosquelette segmenté, membres multiples, comportement instinctif ou structuré en caste.      |
+| 6   | **Molluscoïde**    | Forme molle ou amorphe, gluante, capable de se faufiler ou de sécréter des substances.        |
+| 7   | **Fungoïde**       | Organisme fongique ou mycélien, proliférant lentement, souvent toxique ou parasitaire.        |
+| 8   | **Plantoïde**      | Être végétal semi-sensible, fixe ou lent, usant de vrilles ou toxines pour se nourrir.        |
+| 9   | **Aérien**         | Créature adaptée au vol ou à la gravité faible, embusquée et agile.                           |
+|10   | **Aquatique**      | Issue d’environnements sous-marins extrêmes, furtive, mortelle dans les fluides.              |
+|11   | **Arachnide**      | Prédateur solitaire à multiples pattes, patient, embusqué, souvent territorial.               |
+|12   | **Insectoïde**     | Organisée en ruche ou en essaim, attaque en groupe, construit des nids complexes.             |
 
 ## TRAITS DE LA CREATURE
 
@@ -64,62 +64,77 @@ Les traits sont des particularités biologiques, comportementales ou sociales qu
 
 > 
 
-| ID     | Nombre de Traits | DESCRIPTION |
-|:------:|------------------|-------------|
-| 1–4    | 1                | La créature possède un seul trait distinctif qui définit sa survie ou sa prédation. |
-| 5–7    | 2                | Deux caractéristiques la rendent particulièrement dangereuse ou imprévisible. |
-| 8–9    | 3                | L’entité présente une combinaison de mutations ou comportements rendant son observation risquée. |
+| ID     | Nombre de Traits | DESCRIPTION                                                                                                          |
+|:------:|------------------|----------------------------------------------------------------------------------------------------------------------|
+| 1–4    | 1                | La créature possède un seul trait distinctif qui définit sa survie ou sa prédation.                                  |
+| 5–7    | 2                | Deux caractéristiques la rendent particulièrement dangereuse ou imprévisible.                                        |
+| 8–9    | 3                | L’entité présente une combinaison de mutations ou comportements rendant son observation risquée.                     |
 | 10     | 4                | Sa biologie est instable, expérimentale ou totalement étrangère : plusieurs traits coexistent en tension permanente. |
 
 | ID | Trait                              | DESCRIPTION                                                                                 |
 |----|------------------------------------|---------------------------------------------------------------------------------------------|
-| 1  | **Asymétrique**                    | Corps irrégulier : membres ou organes décalés, disproportions biologiques. |
-| 2  | **Dimorphisme sexuel**             | Mâles et femelles très différents (taille, rôle, apparence, comportement). |
+| 1  | **Asymétrique**                    | Corps irrégulier : membres ou organes décalés, disproportions biologiques.                  |
+| 2  | **Dimorphisme sexuel**             | Mâles et femelles très différents (taille, rôle, apparence, comportement).                  |
 | 3  | **Espèce en danger**               | Population extrêmement réduite suite à un cataclysme, chasse ou effondrement écosystémique. |
-| 4  | **Esprit de ruche**                | Intelligence collective, coordination instinctive. L’individu n’a aucun libre arbitre. |
-| 5  | **Faible natalité**                | Reproduction rare, lente croissance démographique. Priorité à la survie. |
-| 6  | **Hermaphrodite**                  | Capacité à se reproduire sans partenaire, flexibilité adaptative. |
-| 7  | **Hibernation**                    | Phase de sommeil profond, réveil conditionné (température, proie, bruit, etc.). |
-| 8  | **Aucune audition**                | N’entend pas, mais compense par le toucher, l’odorat ou les vibrations. |
-| 9  | **Aveugle**                        | Dépourvue de vue, se déplace par écholocation, sens thermiques ou champs magnétiques. |
-| 10 | **Toxique / Acide / Venimeuse**    | Produit des substances létales ou corrosives pour chasser ou se défendre. |
-| 11 | **Digestion primitive**            | Besoin de se nourrir souvent ou d’ingérer un aliment spécifique. |
-| 12 | **Système immunitaire déficient**  | Sensible aux infections, parfois vecteur de contagion si affaiblie. |
-| 13 | **Organisation communautaire**     | Société fondée sur la coopération et l’altruisme intra-espèce. |
-| 14 | **Hiérarchie rigide**              | Système de castes ou de rôles sociaux immuables. |
-| 15 | **Porteuse de virus**              | Elle est vecteur d’un agent pathogène biologique ou xéno-pathologique. |
-| 16 | **Nocturne**                       | Active uniquement en faible luminosité. Vulnérable à la lumière intense. |
-| 17 | **Diurne**                         | Dépend fortement de la lumière. Efficace le jour, fragile la nuit. |
-| 18 | **Fouisseuse**                     | Capable de creuser des galeries, se cacher ou créer des réseaux souterrains. |
-| 19 | **Comportement grégaire**          | Fonctionne en meute pour la chasse ou la défense. Coordination élevée. |
-| 20 | **Solitaire**                      | Territorial et asocial, ne tolère les autres que pour la reproduction. |
-| 21 | **Amphibie**                       | À l’aise dans l’eau et sur terre. Forte adaptabilité environnementale. |
-| 22 | **Migratrice**                     | Suit des cycles de déplacement interplanétaires ou intersaisonniers. |
-| 23 | **Camouflage**                     | Coloration ou texture adaptative pour se fondre dans son environnement. |
-| 24 | **Territoriale**                   | Défend violemment son domaine. Hostile aux intrus, même non menaçants. |
-| 25 | **Soin parental**                  | Protège activement sa progéniture. Risques accrus lors d’approche d’un nid. |
-| 26 | **Activité saisonnière**           | Fonctionne uniquement sur une plage climatique ou temporelle précise. |
-| 27 | **Mimétisme de prédateur**         | Imite un prédateur plus dangereux qu’elle pour se défendre. |
-| 28 | **Exosquelette dur**               | Armure naturelle, protection physique élevée, mais mobilité possiblement réduite. |
-| 29 | **Parasite**                       | Dépendante d’un hôte, se répand rapidement, altère ou tue son porteur. |
+| 4  | **Esprit de ruche**                | Intelligence collective, coordination instinctive. L’individu n’a aucun libre arbitre.      |
+| 5  | **Faible natalité**                | Reproduction rare, lente croissance démographique. Priorité à la survie.                    |
+| 6  | **Hermaphrodite**                  | Capacité à se reproduire sans partenaire, flexibilité adaptative.                           |
+| 7  | **Hibernation**                    | Phase de sommeil profond, réveil conditionné (température, proie, bruit, etc.).             |
+| 8  | **Aucune audition**                | N’entend pas, mais compense par le toucher, l’odorat ou les vibrations.                     |
+| 9  | **Aveugle**                        | Dépourvue de vue, se déplace par écholocation, sens thermiques ou champs magnétiques.       |
+| 10 | **Toxique / Acide / Venimeuse**    | Produit des substances létales ou corrosives pour chasser ou se défendre.                   |
+| 11 | **Digestion primitive**            | Besoin de se nourrir souvent ou d’ingérer un aliment spécifique.                            |
+| 12 | **Système immunitaire déficient**  | Sensible aux infections, parfois vecteur de contagion si affaiblie.                         |
+| 13 | **Organisation communautaire**     | Société fondée sur la coopération et l’altruisme intra-espèce.                              |
+| 14 | **Hiérarchie rigide**              | Système de castes ou de rôles sociaux immuables.                                            |
+| 15 | **Porteuse de virus**              | Elle est vecteur d’un agent pathogène biologique ou xéno-pathologique.                      |
+| 18 | **Fouisseuse**                     | Capable de creuser des galeries, se cacher ou créer des réseaux souterrains.                |
+| 19 | **Comportement grégaire**          | Fonctionne en meute pour la chasse ou la défense. Coordination élevée.                      |
+| 20 | **Solitaire**                      | Territorial et asocial, ne tolère les autres que pour la reproduction.                      |
+| 21 | **Amphibie**                       | À l’aise dans l’eau et sur terre. Forte adaptabilité environnementale.                      |
+| 22 | **Migratrice**                     | Suit des cycles de déplacement interplanétaires ou intersaisonniers.                        |
+| 23 | **Camouflage**                     | Coloration ou texture adaptative pour se fondre dans son environnement.                     |
+| 24 | **Territoriale**                   | Défend violemment son domaine. Hostile aux intrus, même non menaçants.                      |
+| 25 | **Soin parental**                  | Protège activement sa progéniture. Risques accrus lors d’approche d’un nid.                 |
+| 26 | **Activité saisonnière**           | Fonctionne uniquement sur une plage climatique ou temporelle précise.                       |
+| 27 | **Mimétisme de prédateur**         | Imite un prédateur plus dangereux qu’elle pour se défendre.                                 |
+| 28 | **Exosquelette dur**               | Armure naturelle, protection physique élevée, mais mobilité possiblement réduite.           |
+| SP | **Parasite**                       | Dépendante d’un hôte, se répand rapidement, altère ou tue son porteur.                      |
+
+> PARASITE : Ce trait doit être choisis par le MJ.
+
+## RYTHME D'ACTIVITE PHOTOBIOLOGIQUE
+
+> Lancez 1D6 ou choisissez le rythme d'activité de la créature.
+
+| ID | RYTHME                        | EXEMPLE TERRESTRE                     | DESCRIPTION                                                                                                                |
+|----|-------------------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 1 | **Nocturne**                   | Chauve-souris, hibou                  | Actif uniquement dans l’obscurité. Dépend d’une vision infrarouge ou d’autres sens. Très vulnérable à l’éclairage intense. |
+| 2 | **Diurne**                     | Aigle, lézard                         | Fonctionne de jour. Perception visuelle performante, mais affaiblie en cas de blackout ou de nuit profonde.                |
+| 3 | **Crépusculaire**              | Cerf, lapin                           | Activité pic au lever et au coucher du soleil. Perturbé par des environnements à lumière constante.                        |
+| 4 | **Cathemeral (mixte)**         | Lion, lynx                            | Actif par cycles irréguliers, selon les besoins (faim, stress). Fonctionne jour et nuit avec des périodes de repos.        |
+| 5 | **Nycthéméral inversé**        | Rongeurs de désert                    | Cycle calé sur l’opposé du rythme naturel : actif dans la pénombre quand les prédateurs sont absents.                      |
+| 6 | **Rythme planétaire complexe** | Oiseaux migrateurs, crabe de cocotier | Sujets à des cycles d’activité dépendants d’orbites, de saisons ou de marées. Périodes d’activité parfois très rares.      |
 
 ## REGIME ALIMENTAIRE DE LA CREATURE
 
 Ce que consomme la créature détermine ses zones de chasse, ses motivations et les risques écologiques. Une créature lithophage (qui mange la roche) ne sera pas attirée par un équipage... sauf si ses implants sont en tungstène. D’autres peuvent se nourrir de fluides, de radiation, voire de données organiques. C’est aussi une piste pour repérer ou piéger la créature.
 
-| ID | REGIME | DESCRIPTION |
-|-----|----------------|-------------|
-| 1 | **Carnivore** | Se nourrit exclusivement de chair animale. Prédateur naturel ou charognard actif. |
-| 2 | **Herbivore** | Se nourrit uniquement de matières végétales (feuilles, racines, végétation). |
-| 3 | **Omnivore** | Consomme à la fois des matières végétales et animales, ce qui lui confère une grande souplesse alimentaire. |
-| 4 | **Mangeur de charognes** | Se nourrit d'organismes morts ou en décomposition. Joue un rôle clé dans le processus de recyclage biologique. |
-| 5 | **Charognard** | Se nourrit de restes ou de ressources abandonnées, souvent d'origines diverses (pas nécessairement organiques). |
-| 6 | **Filtreur** | Consomme des particules microscopiques ou des organismes en suspension dans l'eau ou l'air, à l'aide de structures spécialisées. |
-| 7 | **Régime spécialisé** | Ne consomme qu'un type d'aliment spécifique (par exemple, une plante rare, un certain métal, une enzyme unique). |
-| 8 | **Hématophage** | Se nourrit de sang, généralement en perçant la peau d'un hôte vivant. |
-| 9 | **Lithophage** | Se nourrit de minéraux ou de roches, souvent dans des environnements extrêmes ou souterrains. |
-|10 | **Nourricier symbiotique** | Tire ses nutriments d'une relation symbiotique avec une autre espèce (digestion des déchets de l'hôte, échange d'énergie ou de nutriments). |
-|11 | **Parasite** | Se nourrit directement d'un hôte vivant, causant souvent des dommages à long terme. |
+| ID  | REGIME                      | DESCRIPTION                                                                                                                                 |
+|-----|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | **Carnivore**               | Se nourrit exclusivement de chair animale. Prédateur naturel ou charognard actif.                                                           |
+| 2   | **Herbivore**               | Se nourrit uniquement de matières végétales (feuilles, racines, végétation).                                                                |
+| 3   | **Omnivore**                | Consomme à la fois des matières végétales et animales, ce qui lui confère une grande souplesse alimentaire.                                 |
+| 4   | **Mangeur de charognes**    | Se nourrit d'organismes morts ou en décomposition. Joue un rôle clé dans le processus de recyclage biologique.                              |
+| 5   | **Charognard**              | Se nourrit de restes ou de ressources abandonnées, souvent d'origines diverses (pas nécessairement organiques).                             |
+| 6   | **Filtreur**                | Consomme des particules microscopiques ou des organismes en suspension dans l'eau ou l'air, à l'aide de structures spécialisées.            |
+| 7   | **Régime spécialisé**       | Ne consomme qu'un type d'aliment spécifique (par exemple, une plante rare, un certain métal, une enzyme unique).                            |
+| 8   | **Hématophage**             | Se nourrit de sang, généralement en perçant la peau d'un hôte vivant.                                                                       |
+| 9   | **Lithophage**              | Se nourrit de minéraux ou de roches, souvent dans des environnements extrêmes ou souterrains.                                               |
+|10   | **Nourricier symbiotique**  | Tire ses nutriments d'une relation symbiotique avec une autre espèce (digestion des déchets de l'hôte, échange d'énergie ou de nutriments). |
+|SP   | **Parasite**                | Se nourrit directement d'un hôte vivant, causant souvent des dommages à long terme.                                                         |
+
+> PARASITE : Ce régime alimentaire doit être choisis par le MJ.
 
 ## DUREE DE VIE DE LA CREATURE
 
@@ -233,18 +248,18 @@ Cette section détermine le degré de conscience, d’analyse et d’anticipatio
 
 > Lancez 1D12 ou choisissez la méthode de commuication de la créature. 
 
-| ID | METHODE DE COMMUNICATION                       | Description                                                                                                                                               | Mod. de compréhension                      |
-|----|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 1  | **Langage chimique**                           | Sécrétions odorantes, hormones ou substances pour signaler une intention (alerte, territoire, appel). Fréquent chez insectoïdes, fongoïdes.               | -2D6 sans capteur biologique               |
-| 2  | **Communication tactile**                      | Pressions, vibrations, frottements ou piqûres sensorielles. Souvent nécessairement rapprochée.                                                            | -1D6 sans contact direct                   |
-| 3  | **Langage sonore / ultrasonique**              | Sons audibles ou non, pulsations, sifflements. Utilisable pour perturber, coordonner ou manipuler.                                                        | -2D6 sans filtre ou amplificateur          |
-| 4  | **Langage visuel (lumière, couleurs, gestes)** | Signaux lumineux, gestuels ou chromatiques. Communication passive ou intimidante.                                                                         | -1D6 sans visibilité directe               |
-| 5  | **Électromagnétique**                          | Émissions d’ondes ou d’impulsions affectant machines ou implants. Forme de langage invisible.                                                             | -3D6 sans relais technologique             |
-| 6  | **Génétique / biochimique lente**              | Transmission via infection, spore, enzyme ou fluide. Le message altère le comportement ou le code génétique.                                              | Incompréhensible sans analyse organique    |
-| 7  | **Champ psychique / morphique**                | Connexion mentale ou instinctive entre individus. Agit sans support physique mesurable.                                                                   | -3D6 sauf lien ou résonance compatible     |
-| 8  | **Gravitationnelle / inertielle**              | Communication par vibration du sol, déplacements de masse, secousses. Fréquent chez entités lourdes ou souterraines.                                      | -2D6 sans capteur sismique                 |
-| 9  | **Phéromones longue portée**                   | Trace olfactive ou chimique persistante servant à marquer des zones ou à déclencher des comportements programmés.                                         | -2D6 sans analyse environnementale         |
-|10  | **Mimétique (sonore / comportemental)**        | Imitation de sons ou d’attitudes d’autres espèces (cri humain, position de soumission...). Peut tromper ou attirer.                                       | -1D6 sauf familiarité comportementale      |
-|11  | **Symbiose comportementale**                   | Communication par fusion ou interaction permanente avec une autre espèce (hôte, support végétal, créature relais).                                        | Incompréhensible hors du couple biologique |
-|12  | **Aucune / totalement inconnue**               | La créature ne semble pas communiquer selon des canaux identifiables. Cela peut indiquer une absence d’intelligence… ou une forme radicalement étrangère. | Non décodable — mystère complet            |
+| ID | METHODE DE COMMUNICATION                       | Description                                                                                                                                               |
+|----|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | **Langage chimique**                           | Sécrétions odorantes, hormones ou substances pour signaler une intention (alerte, territoire, appel). Fréquent chez insectoïdes, fongoïdes.               |
+| 2  | **Communication tactile**                      | Pressions, vibrations, frottements ou piqûres sensorielles. Souvent nécessairement rapprochée.                                                            |
+| 3  | **Langage sonore / ultrasonique**              | Sons audibles ou non, pulsations, sifflements. Utilisable pour perturber, coordonner ou manipuler.                                                        |
+| 4  | **Langage visuel (lumière, couleurs, gestes)** | Signaux lumineux, gestuels ou chromatiques. Communication passive ou intimidante.                                                                         |
+| 5  | **Électromagnétique**                          | Émissions d’ondes ou d’impulsions affectant machines ou implants. Forme de langage invisible.                                                             |
+| 6  | **Génétique / biochimique lente**              | Transmission via infection, spore, enzyme ou fluide. Le message altère le comportement ou le code génétique.                                              |
+| 7  | **Champ psychique / morphique**                | Connexion mentale ou instinctive entre individus. Agit sans support physique mesurable.                                                                   |
+| 8  | **Gravitationnelle / inertielle**              | Communication par vibration du sol, déplacements de masse, secousses. Fréquent chez entités lourdes ou souterraines.                                      |
+| 9  | **Phéromones longue portée**                   | Trace olfactive ou chimique persistante servant à marquer des zones ou à déclencher des comportements programmés.                                         |
+|10  | **Mimétique (sonore / comportemental)**        | Imitation de sons ou d’attitudes d’autres espèces (cri humain, position de soumission...). Peut tromper ou attirer.                                       |
+|11  | **Symbiose comportementale**                   | Communication par fusion ou interaction permanente avec une autre espèce (hôte, support végétal, créature relais).                                        |
+|12  | **Aucune / totalement inconnue**               | La créature ne semble pas communiquer selon des canaux identifiables. Cela peut indiquer une absence d’intelligence… ou une forme radicalement étrangère. |
 
