@@ -1594,6 +1594,12 @@ Degré de connaissance du personnel concernant l’horreur impliquée.Plus le ni
 | 05 | Double programme              | Projet secret masqué sous un projet légal ou humanitaire.                                         |
 | 06 | Cryptage total                | Même les opérateurs ignorent la nature réelle de leurs missions.                                  |
 
+--- 
+
+## GUIDE DE CREATION D'UNE CREATURE XENOMORPHE
+
+[GUIDE DE CREATION D'UNE CREATURE XENOMORPHE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/GUIDE%20DE%20CREATION%20D'UNE%20CREATURE%20XENOMORPHE.md)
+
 ---
 
 ## PROJETS SECRETS ET ZONE D’OMBRE
@@ -1665,7 +1671,7 @@ Lorsqu’un projet devient trop instable ou trop révélateur, sa trace est supp
 
 Lorsque la guerre n’est pas rentable, elle est déclenchée par d’autres. Une corporation impliquée dans une crise régionale, un effondrement humanitaire ou un désastre écologique, peut dissimuler son rôle par fragmentation contractuelle.
 
-| ID | OPÉRATION COUVERTEMENT LIÉE AU CONFLIT                                                    |
+| ID | OPÉRATION SOUS COUVERTURE LIÉE AU CONFLIT                                                    |
 |----|-------------------------------------------------------------------------------------------|
 | 01 | Fourniture d’armement non traçable à une faction paramilitaire                            |
 | 02 | Injection volontaire d’un virus dans un camp de réfugiés pour étude épidémiologique       |
