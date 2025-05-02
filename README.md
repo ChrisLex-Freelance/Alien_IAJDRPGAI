@@ -2327,4 +2327,6 @@ Ce score fournit une estimation approximative du niveau d'expérience nécessair
 | 62-64 | Artère du pied sectionnée             | Oui, -1  | 1 Tour           | Saignement sévère, mobilité impossible sans soins immédiats.            | D6 jours           |
 | 65-66 | Pied broyé ou arraché                 | Oui, -1  | 1 Quart          | Perte du pied sans intervention chirurgicale d'urgence.                 | Permanent          |
 
+## GUIDE DE CREATION D'UNE CREATURE XENOMORPHE
 
+[GUIDE DE CREATION D'UNE CREATURE XENOMORPHE](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/GUIDE%20DE%20CREATION%20D'UNE%20CREATURE%20XENOMORPHE.md)
