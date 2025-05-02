@@ -3,9 +3,13 @@
 
 ## OBJECTIF
 
+Ce générateur a pour but de créer des créatures xénomorphes uniques et cohérentes avec l’univers horrifique et survivaliste d’Alien. Chaque entité générée peut servir d’antagoniste, d’anomalie biologique, ou de mystère à explorer dans une mission spatiale ou planétaire. Le système vise à mêler improvisation maîtrisée, diversité biologique et intégration scénaristique.
+
 ## ORIENTATION
 
 ## TYPE DE CREATURE XENOMORPHE
+
+Cette étape définit la nature biologique fondamentale de la créature. Est-elle simple et lisible ? Hybride et instable ? Fusionnée ou multiple ? Le nombre de types biologiques détermine si l’entité est identifiable (comme un reptile alien), combinée (reptilo-fongoïde), ou chaotiquement évolutive (comme les Xénomorphes classiques). Cela influence directement son comportement, ses faiblesses et la peur qu’elle suscite.
 
 > lancez 1D10 ou choisissez le nombre de type de la créature xénomorphe.
 
@@ -32,7 +36,25 @@
 |12 | **Insectoïde** | Organisée en ruche ou en essaim, attaque en groupe, construit des nids complexes. |
 |13 | **Parasite** | Dépendante d’un hôte, se répand rapidement, altère ou tue son porteur. |
 
-## TRAITS DE LA CREATURE XENOMORPHE
+## TAILLE DE LA CREATURE
+
+| TAILLE        | FOR / PV | AGI | MOB | MODIFICATEUR DE DETECTION | EXEMPLE TERRESTRE    | CONTENANCE PHYSIQUE              | LOGISTIQUE HOSTILE |
+|---------------|----------|-----|-----|---------------|----------------------------|------------------------------------|--------------------|
+| **Minuscule** | 1        | 4   | 5   | **-3D6**      | Insecte, ver, puce         | Tube d’échantillon / seringue cryo | S'infiltre partout ; indétectable sans matériel ; peut parasiter ou contaminer à bas bruit. |
+| **Petite**    | 2        | 4   | 4   | **-2D6**      | Rat, chauve-souris         | Bocal sécurisé / cage d’analyse    | Agile, rapide, difficile à localiser. Peut déclencher de l’angoisse sans être repérée. |
+| **Moyenne**   | 3        | 3   | 3   | **0D6**       | Chien, humain, singe       | Cellule standard, caisson isolé    | Affrontable. Représente un danger classique. Confinement possible, mais limité dans le temps. |
+| **Grande**    | 4        | 2   | 2   | **+1D6**      | Ours, gorille              | Cage renforcée, sas blindé         | Force brute. Capable de forcer ou détruire des installations humaines légères. |
+| **Énorme**    | 5        | 2   | 1   | **+2D6**      | Éléphant, rhinocéros       | Salle de confinement lourde        | Détruit les structures. Nécessite une zone d’isolement massive ou un piégeage indirect. |
+| **Colossale** | 6        | 1   | 1   | **+3D6**      | Baleine bleue, titanosaure | Aucun (zone entière ou complexe)   | Redéfinit l’environnement. Mobilité limitée mais impact massif. Peut engendrer un effondrement structurel. |
+
+> CONTENANCE PHYSIQUE : Capacité à être physiquement enfermé, stocké ou transporté dans un environnement contrôlé.
+Elle désigne les moyens matériels nécessaires à la rétention passive de la créature : caisson cryo, cage blindée, chambre hermétique, sas verrouillé... Ce facteur dépend autant de la taille, que de la forme ou comportement de l’entité. Une créature peut être trop fluide, trop instable ou trop vaste pour être confinée dans un contenant classique. Plus la créature est massive ou amorphe, plus le confinement devient impossible sans infrastructure dédiée.
+> LOGISTIQUE HOSTILE : Impact spatial, matériel et opérationnel généré par la créature en situation de confrontation directe ou indirecte.
+Cette notion englobe tout ce qu’il faut mobiliser pour échapper, contenir, combattre ou évacuer en présence de la créature : fermeture de sas, protocoles incendie, drones de confinement, isolement d’une section entière, voire destruction planifiée d’un secteur. Une entité de grande taille ou incontrôlable impose des décisions extrêmes (barrage orbital, dérivation énergétique, dépressurisation volontaire).
+
+## TRAITS DE LA CREATURE
+
+Les traits sont des particularités biologiques, comportementales ou sociales qui différencient la créature de ses congénères ou d’une forme de vie standard. Certains reflètent des anomalies évolutives, d’autres des adaptations extrêmes. Un xénomorphe peut en posséder plusieurs, créant des formes imprévisibles, voire contre-nature. Ces traits influencent sa dangerosité, son mode d’interaction avec l’environnement et les humains.
 
 | ID     | Nombre de Traits | DESCRIPTION |
 |:------:|------------------|-------------|
@@ -74,6 +96,8 @@
 
 ## REGIME ALIMENTAIRE DE LA CREATURE
 
+Ce que consomme la créature détermine ses zones de chasse, ses motivations et les risques écologiques. Une créature lithophage (qui mange la roche) ne sera pas attirée par un équipage... sauf si ses implants sont en tungstène. D’autres peuvent se nourrir de fluides, de radiation, voire de données organiques. C’est aussi une piste pour repérer ou piéger la créature.
+
 | ID | REGIME | DESCRIPTION |
 |-----|----------------|-------------|
 | 1 | **Carnivore** | Se nourrit exclusivement de chair animale. Prédateur naturel ou charognard actif. |
@@ -90,6 +114,8 @@
 
 ## DUREE DE VIE DE LA CREATURE
 
+Indique si la créature est éphémère, stable ou éternelle. Cela affecte non seulement sa biologie mais aussi sa stratégie : une entité qui vit 3 heures n’agira pas comme une autre qui peut hiberner pendant un millénaire. Certaines durées de vie impliquent des cycles, des phases larvaires, ou des dormances potentiellement fatales si interrompues.
+
 | ID | DUREE DE VIE | DESCRIPTION |
 |----|----------------|-------------|
 | 1 | **Éphémère** | L’organisme ne subsiste que quelques heures, jours ou semaines. Il compense par une croissance accélérée, une reproduction foudroyante ou une efficacité létale maximale durant sa courte existence. Chaque minute compte — pour lui comme pour ses victimes. |
@@ -99,6 +125,8 @@
 | 5 | **Extrême / Indéfinie** | Le vieillissement semble absent ou quasi invisible. Qu’elle soit en stase, en hibernation, cette entité peut traverser des ères entières sans faiblir. Une relique vivante… ou une malédiction en sommeil. |
 
 ## VITESSE ET METHODE DE CROISSANCE
+
+Ce module combine deux éléments : la rapidité avec laquelle la créature atteint sa maturité biologique, et la manière dont elle évolue (mue, assimilation, croissance adaptative...). Ces informations permettent de créer un rythme narratif : faut-il craindre ce petit organisme maintenant… ou dans 48 heures ? Est-ce qu’il devient plus fort à chaque attaque ?
 
 ### VITESSE DE CROISSANCE
 
@@ -125,6 +153,8 @@
 
 ## METHODE DE REPRODUCTION
 
+La reproduction est la clé de la pérennité ou de l’invasion. Certaines formes de vie se reproduisent classiquement, d’autres se clonent, parasitent, ou explosent en essaim. Cette rubrique détermine comment la créature prolifère, comment elle colonise, et surtout combien de temps il vous reste avant qu’il soit trop tard.
+
 | ID | Méthode | Description |
 |-----|---------|-------------|
 | 1 | **Reproduction sexuée standard** | Deux entités biologiquement compatibles s’unissent pour créer une descendance génétiquement unique. Présente chez certaines formes humanoïdes ou animales complexes. |
@@ -142,6 +172,8 @@
 
 ## COMPORTEMENT DE LA CREATURE
 
+La structure sociale de la créature détermine si elle agit seule, en meute, en colonie ou en lien avec une autre espèce. Certaines entités opèrent sous forme de réseau, d’autres imitent des comportements ou créent des formes de gouvernance. Ce paramètre est utile pour créer des écosystèmes entiers à partir d’une seule espèce (reine, soldat, embryon, etc.).
+
 | ID | Comportement | Description |
 |----|--------------|-------------|
 | 1 | **Solitaire** | L’entité vit seule et évite toute interaction avec ses semblables, sauf en cas de nécessité reproductive ou de crise collective. Typique des formes de vie territoriales ou instables. |
@@ -156,6 +188,8 @@
 
 ## NIVEAU D'AGRESSIVITE DE LA CREATURE
 
+L’agressivité décrit la façon dont la créature réagit à une intrusion, une provocation ou un simple contact. Certaines entités sont passives mais défensives, d’autres chassent méthodiquement. Certaines explosent dans des accès de panique ou se sacrifient pour le groupe. Cette donnée est cruciale pour déterminer la façon dont elle s’introduit dans le récit, subtile ou brutale, discrète ou carnassière.
+
 | d9 | Comportement agressif | Description |
 |----|------------------------|-------------|
 | 1 | **Territorialité marquée** | Défend agressivement une zone (nid, colonie, biome, réseau racinaire, etc.) contre toute intrusion. Peut poser des pièges, marquer par phéromones ou se fondre dans le décor. |
@@ -169,6 +203,8 @@
 | 9 | **Comportement défensif ritualisé** | Au lieu d’attaquer, l’espèce manifeste des postures, signaux lumineux, vibrations ou déploiements visibles visant à dissuader. Certains individus miment une menace plus grande qu’eux-mêmes. |
 
 ## INTELLIGENCE DE LA CREATURE
+
+Cette section détermine le degré de conscience, d’analyse et d’anticipation de la créature. Est-elle une bête réactive ou un prédateur tactique ? Un réseau mycélien pensant ou une forme embryonnaire d’intelligence artificielle ? Le niveau d’intelligence influence les pièges, l’adaptabilité, la possibilité de communication, et le type de menace qu’elle représente pour un équipage.
 
 | ID | Niveau | Description |
 |----|--------|-------------|
