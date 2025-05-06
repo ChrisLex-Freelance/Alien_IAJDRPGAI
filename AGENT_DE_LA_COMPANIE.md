@@ -11,11 +11,11 @@ TALENT DE CARRIÈRE : Moi d'abord, Prise de contrôle, Ruse
 > Vous êtes la main invisible de la conformité. Chaque anomalie, chaque manquement, chaque silence suspect est une dette à solder. Ce n’est pas la justice que vous servez, mais les standards internes d’un pouvoir que nul ne remet en cause.
 
 ATTRIBUT-CLÉ : Esprit\
-COMPÉTENCES : Observation, Manipulation, Commandement\
+COMPÉTENCES COMPLEMENTAIRE : Commandement\
 TALENT DE CARRIÈRE :
 
-|                    |                    |
-|--------------------|--------------------|
+| PROFIL 1           | PROFIL 1           |
+|:------------------:|:------------------:|
 | ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/AUDITEUR_EXECUTIF_1.png) | ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/AUDITEUR_EXECUTIF_2.png) |
 
 ### CONSEILLER SPÉCIAL
