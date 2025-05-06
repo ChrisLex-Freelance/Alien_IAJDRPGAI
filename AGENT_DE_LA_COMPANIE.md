@@ -14,6 +14,10 @@ ATTRIBUT-CLÉ : Esprit\
 COMPÉTENCES : Observation, Manipulation, Commandement\
 TALENT DE CARRIÈRE :
 
+|                    |                    |
+|--------------------|--------------------|
+| (https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Auditeur_Ex%C3%A9cutif_1.png) | (https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/Auditeur_Ex%C3%A9cutif_2.png) |
+
 ### CONSEILLER SPÉCIAL
 
 > Diplomate froid ou empathique façade, vous êtes l’interface entre l’autorité locale et l’intérêt capitaliste. Vous savez calmer les foules, séduire les chefs de poste, et retourner une situation tendue par une simple poignée de main.
