@@ -12,11 +12,11 @@ TALENT DE CARRIÈRE : Moi d'abord, Prise de contrôle, Ruse
 
 ### COMPÉTENCES
 
-> Distribuez 10 points parmi vos compétences. Vous devez affecter au moins 1 point à chacune des suivantes : COMTECH, MANIPULATION et OBSERVATION, ainsi qu’à celles mentionnées dans votre SM. Vous pouvez allouer jusqu’à 4 points aux compétences de votre spécialisation. Pour COMTECH, MANIPULATION et OBSERVATION, le maximum est de 3 au départ.
+> Distribuez 10 points parmi vos compétences. Vous devez affecter au moins 1 point à chacune des suivantes : **COMTECH**, **MANIPULATION** et **OBSERVATION**, ainsi qu’à celles mentionnées dans votre SM. Vous pouvez allouer jusqu’à 4 points aux compétences de votre spécialisation. Pour **COMTECH**, **MANIPULATION** et **OBSERVATION**, le maximum est de 3 au départ.
 
 ### VARIANTE DE CREATION
 
-> Si vous utilisez l'option de création avec l'âge, appliquez les modifications de création adaptés pour les ATTRIBUTS et les COMPETENCES.
+> Si vous utilisez l'option de création avec l'âge, appliquez les modifications de création adaptés pour les **ATTRIBUTS** et les **COMPETENCES**.
 
 ### (X) VARIANTES D’AGENT DE LA COMPAGNIE
 
@@ -40,6 +40,10 @@ ATTRIBUT-CLÉ : Empathie\
 COMPÉTENCE COMPLEMENTAIRE : Commandement, Manipulation, Soins Médicaux\
 TALENT DE CARRIÈRE :
 
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![CONSEILLER_SPECIAL]() | ![CONSEILLER_SPECIAL]() |
+
 ### AGENT DE CONFORMITÉ
 
 > La Compagnie ne tolère ni imprévus, ni contamination. Vous êtes le garant des protocoles de sécurité – qu’ils soient biologiques, comportementaux ou stratégiques. Votre regard fixe détecte les déviances comme d’autres lisent un rapport.
@@ -47,6 +51,10 @@ TALENT DE CARRIÈRE :
 ATTRIBUT-CLÉ : Esprit\
 COMPÉTENCE COMPLEMENTAIRE : Observation, Survie, Soins Médicaux\
 TALENT DE CARRIÈRE :
+
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![AGENT_DE_CONFORMITE]() | ![AGENT_DE_CONFORMITE]() |
 
 ### OPÉRATEUR CONTRACTUEL
 
@@ -56,6 +64,10 @@ ATTRIBUT-CLÉ : Force ou Agilité\
 COMPÉTENCE COMPLEMENTAIRE : Combat Rapproché, Mobilité, Manipulation\
 TALENT DE CARRIÈRE :
 
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![OPERATEUR CONTRACTUEL]() | ![OPERATEUR CONTRACTUEL]() |
+
 ### ÉCONOMISTE DE MISSION
 
 > Vous transformez la vie, la souffrance et la découverte en chiffres. La rentabilité est votre morale, le sacrifice votre variable d’ajustement. Rien ne vaut un bénéfice net, surtout quand il tient dans une formule.
@@ -64,6 +76,10 @@ ATTRIBUT-CLÉ : Esprit\
 COMPÉTENCE COMPLEMENTAIRE : Comtech, Observation, Manipulation\
 TALENT DE CARRIÈRE :
 
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![ECONOMISTE_DE_MISSION]() | ![ECONOMISTE_DE_MISSION]() |
+
 ### ATTACHÉ SCIENTIFIQUE
 
 > Vous ne cherchez pas à comprendre, vous cherchez à breveter. Toute forme de vie, toute anomalie, tout mystère est une marchandise potentielle. Votre priorité ? Extraire de la connaissance exploitable avant tout le monde… quitte à déclencher l’inévitable.
@@ -71,6 +87,10 @@ TALENT DE CARRIÈRE :
 ATTRIBUT-CLÉ : Esprit\
 COMPÉTENCE COMPLEMENTAIRE : Observation, Comtech, Soins Médicaux\
 TALENT DE CARRIÈRE :
+
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![ATTACHE_SCIENTIFIQUE]() | ![ATTACHE_SCIENTIFIQUE]() |
 
 ### SPÉCIALISTE DES SYSTEMES
 
@@ -88,6 +108,10 @@ ATTRIBUT-CLÉ : Empathie\
 COMPÉTENCE COMPLEMENTAIRE : Commandement, Machines Lourdes, Observation\
 TALENT DE CARRIÈRE :
 
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![CONTREMAITRE_DE_SECTEUR]() | ![CONTREMAITRE_DE_SECTEUR]() |
+
 ### COORDINATEUR RH OPÉRATIONNEL
 
 > Vous êtes là pour que les autres tiennent. Gestion du moral, des conflits, des burnouts et des "comportements à risque"… Vous parlez avec douceur, mais tout se note. Sous vos conseils apaisants se cache la main invisible de la Compagnie. La loyauté n’est pas une vertu : c’est un actif.
@@ -95,3 +119,7 @@ TALENT DE CARRIÈRE :
 ATTRIBUT-CLÉ : Empathie\
 COMPÉTENCE COMPLEMENTAIRE : Manipulation, Soins Médicaux, Observation\
 TALENT DE CARRIÈRE :
+
+| MODEL 1            | MODEL 2            |
+|:------------------:|:------------------:|
+| ![COORDINATEUR_RH_OPERATIONNEL]() | ![COORDINATEUR_RH_OPERATIONNEL]() |
