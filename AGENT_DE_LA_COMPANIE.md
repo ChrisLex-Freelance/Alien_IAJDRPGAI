@@ -16,7 +16,7 @@ TALENT DE CARRIÈRE :
 
 |                    |                    |
 |--------------------|--------------------|
-| ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/Auditeur_Ex%C3%A9cutif_1.png) | ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/raw/main/Auditeur_Ex%C3%A9cutif_2.png) |
+| ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/AUDITEUR_EXECUTIF_1.png) | ![AUDITEUR EXÉCUTIF](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/AUDITEUR_EXECUTIF_2.png) |
 
 ### CONSEILLER SPÉCIAL
 
