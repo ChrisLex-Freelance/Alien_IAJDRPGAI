@@ -45,7 +45,7 @@ Vous pouvez utiliser un test de COMMANDEMENT pour annuler un test de panique dâ€
 
 | MODEL 1            | MODEL 2            |
 |:------------------:|:------------------:|
-| ![CONSEILLER_SPECIAL]() | ![CONSEILLER_SPECIAL]() |
+| ![CONSEILLER_SPECIAL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CONSEILLER_SPECIAL_1.png) | ![CONSEILLER_SPECIAL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/CONSEILLER_SPECIAL_2.png) |
 
 ### AGENT DE CONFORMITÃ‰
 
