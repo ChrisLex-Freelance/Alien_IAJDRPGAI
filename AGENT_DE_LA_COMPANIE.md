@@ -19,7 +19,7 @@ TALENT DE CARRIÈRE : MOI D'ABORD, PRISE DE CONTRÔLE, RUSE
 > Si vous utilisez l'option de création avec l'âge, appliquez les modifications de création adaptés pour les **ATTRIBUTS** et les **COMPETENCES** présents dans la [TABLE DES TRANCHES D'ÂGES](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/tree/main?tab=readme-ov-file#table-des-tranches-d%C3%A2ges).\
 > Si vous utilisez l'option des événements de profil, faites un jet sur la table [EVENEMENTS DE PROFIL](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/tree/main?tab=readme-ov-file#agent-de-la-compagnie).
 
-### (X) VARIANTES D’AGENT DE LA COMPAGNIE
+### 9 VARIANTES D’AGENT DE LA COMPAGNIE
 
 #### AUDITEUR EXÉCUTIF
 
