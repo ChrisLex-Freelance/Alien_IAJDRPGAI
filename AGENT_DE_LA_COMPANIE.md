@@ -1,5 +1,7 @@
 # AGENTS DE LA COMPAGNIE
 
+> Vous avez les dents longues. Dans l’espace, les occasions à saisir sont légion, et on vous a affecté à la Frontière dans l’espoir que vous dénichiez la prochaine. Qu’il s’agisse de récupérer des informations secrètes ou de localiser de nouveaux filons minéraux, voire une forme de vie jusqu’ici inconnue à exploiter, c’est à vous de marquer un essai pour la Compagnie et de vous en servir pour gravir à vitesse grand V les échelons hiérarchiques. Vous avez tendance à éviter de vous attacher, considérant plutôt tous ceux que vous croisez comme des ressources. Vous vous préoccuperez de votre prochain plus tard. Pour le moment, tout ce qui compte, ce sont les bénéfices nets.
+
 ATTRIBUT-CLÉ : ESPRIT\
 COMPÉTENCES : COMTECH, MANIPULATION, OBSERVATION\
 TALENT DE CARRIÈRE : MOI D'ABORD, PRISE DE CONTRÔLE, RUSE
