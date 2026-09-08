@@ -817,8 +817,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Puissant) |- Soulever 60 kg sans effort notable. - Démolir une cloison fine avec un bon coup. - Porter une charge lourde (plus de 50 kg) sans ralentir immédiatement. - Maintenir un effort physique intense sans montrer de fatigue apparente.              | - Soulever plus de 80 kg. - Forcer une porte renforcée. - Mettre à terre un adversaire puissant d’un seul coup.                                   |
 | 5/5 (Hercule)  |- Soulever plus de 100 kg sans difficulté apparente. - Démolir un obstacle solide (murs fins, barres métalliques légères). - Manipuler de lourdes charges comme si elles étaient bien plus légères. - Réaliser des exploits physiques surhumains.  | - Briser une structure métallique sans outils. - Porter une charge extrême (>150 kg). - Exécuter un mouvement de force normalement impossible.    |
 
-![Attribut_Force](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/6c677ce4-bbed-4955-aaaa-257ba439b9f5.png)
-
 
 **AGILITE**
 | Niveau	                | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
@@ -829,8 +827,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Très Agile)       | - Réaliser des mouvements complexes avec fluidité. - Esquiver un coup sans effort visible. - Réagir instinctivement au danger et ajuster sa position. - Effectuer une série d’actions rapides sans hésitation. - Se déplacer rapidement sans perdre le contrôle de ses gestes. | - Esquiver plusieurs attaques consécutives sans ralentir. - Réagir à une situation critique avec une précision parfaite. - Réaliser un saut ou une acrobatie en situation extrême. |
 | 5/5 (Élégance Parfaite)| - Éviter instinctivement la plupart des dangers physiques. - Exécuter des mouvements acrobatiques spectaculaires avec aisance. - Réagir en une fraction de seconde à toute situation. - Manier avec fluidité n’importe quel objet nécessitant de la précision. - Se déplacer sans effort apparent, quelle que soit la difficulté du terrain. | - Effectuer des mouvements jugés impossibles par la physique normale. - Esquiver une attaque de dernière seconde sans visibilité préalable. - Réaliser une action nécessitant une rapidité quasi surnaturelle. |
 
-![Attribut_Agilité](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/48e24714-22a3-4a22-baf5-2eb900ca223b.png)
-
 **ESPRIT**
 | Niveau	          | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |------------------|------------------------------------------------|-----------------------------|
@@ -840,8 +836,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Brillant)   | - Résoudre rapidement des problèmes complexes dans un environnement stressant. - Apprendre et comprendre un sujet inconnu en peu de temps. - Déchiffrer des messages codés ou des langages inconnus avec peu de données. - Repérer des connexions invisibles entre des éléments séparés. - Trouver des solutions à des problèmes qui semblent insolubles. | - Interpréter des indices flous pour prévoir une situation à venir. - Concevoir des stratégies complexes en un temps réduit. - Repérer des manipulations intellectuelles extrêmement fines. |
 | 5/5 (Génie)      | - Comprendre et analyser des sujets extrêmement complexes sans effort. - Résoudre des problèmes avec des solutions créatives et inédites. - Déduire des conclusions précises à partir d’informations minimes. - Repérer immédiatement les failles d’un raisonnement ou d’un plan. - Concevoir une stratégie parfaite en anticipant les mouvements ennemis. | - Résoudre instantanément une énigme normalement impossible. - Prédire avec précision le comportement d’un individu ou d’un groupe en fonction des données disponibles. - Inventer une technologie ou un concept révolutionnaire à partir de rien. |
 
-![Attribut_Esprit](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/aeaf0b7c-6976-4a97-a490-3377cd2443d0.png)
-
 **EMPATHIE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -850,8 +844,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Charismatique)  | - Lire facilement les émotions d’une personne, même si elle essaie de les masquer. - Convaincre une personne hésitante d’accepter une demande raisonnable. - Amener une personne réticente à parler en jouant sur sa sensibilité. - Désamorcer une situation tendue par le dialogue. - Faire preuve d’une grande écoute et mettre son interlocuteur à l’aise. | - Mentir avec subtilité à une personne vigilante. - Influencer une décision importante par la parole. - Gérer une foule modérément agitée sans la brusquer. |
 | 4/5 (Magnétique)   | - Inspirer confiance presque instantanément. - Convaincre des personnes opposées à son opinion de reconsidérer leur position. - Manipuler une discussion pour en sortir gagnant sans que l’interlocuteur ne s’en rende compte. - Calmer une situation explosive avec la bonne approche. - Influencer un groupe à travers son charisme naturel. | - Retourner un adversaire hésitant à son avantage. - Pousser quelqu’un à trahir une conviction par pure persuasion. - Manipuler un individu à long terme sans qu’il ne s’en aperçoive. |
 | 5/5 (Légendaire)  | - Influencer massivement l’opinion d’un groupe ou d’une foule. - Lire une personne comme un livre ouvert, quelles que soient ses défenses. - Convaincre un adversaire acharné de changer de camp. - Pousser une personne à agir contre ses propres intérêts de manière inconsciente. - Maintenir un contrôle psychologique profond sur un individu fragile. | - Manipuler une nation ou un mouvement social à travers son influence. - Retourner un ennemi mortel en allié fidèle. - Faire d’un mensonge une vérité incontestable pour un interlocuteur. |
-
-![Attribut_Empathie](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/9c930ca0-dd36-4fdf-acb2-3d97cd23f022.png)
 
 ### COMPETENCES
 
@@ -881,8 +873,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Réparer n’importe quelle machine lourde avec des pièces de rechange. - Piloter un véhicule industriel dans des conditions extrêmes. - Modifier une machine pour la rendre plus performante. - Diagnostiquer immédiatement une panne complexe. | - Construire une machine lourde fonctionnelle à partir de pièces détachées. - Faire fonctionner une machine hors-service en improvisant une solution. - Manœuvrer un véhicule lourd dans un combat ou une situation critique. |
 | 5/5 (Maître)          | - Réparer une machine lourde même en état critique. - Piloter un engin gigantesque avec une maîtrise parfaite. - Concevoir et modifier des machines industrielles avancées. - Récupérer des pièces d’un équipement pour en réparer un autre sans erreur. - Utiliser une machine lourde comme une arme improvisée avec précision. | - Réparer ou recréer un système complexe sans schéma technique. - Conduire un véhicule massif dans une situation apparemment impossible. - Faire fonctionner un engin en panne totale en trouvant une solution inédite. |
 
-![Competence_machinelourde](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/54698d30-25f5-4a72-a85e-dfb82fa173f4.png)
-
 **ENDURANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -891,8 +881,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Compétent)       | - Marcher 30 km avec une charge de 20 kg sans faiblir. - Courir 5 km avant d’être sérieusement fatigué. - Endurer plusieurs jours sans sommeil avec de courts repos. - Survivre sans nourriture pendant plusieurs jours. - Supporter des blessures modérées sans altération immédiate des performances. | - Endurer plusieurs jours en conditions climatiques extrêmes. - Encaisser des blessures graves et continuer à se battre. - Supporter des privations (faim, soif, fatigue) sur une longue période. |
 | 4/5 (Expert)          | - Marcher 50 km avec une charge lourde sans ralentir. - Courir un semi-marathon sans pause notable. - Supporter plusieurs nuits sans sommeil avec des effets limités. - Encaisser des blessures sévères et rester opérationnel. - Survivre dans des conditions extrêmes avec un minimum de ressources. | - Rester fonctionnel après plusieurs jours de privation totale. - Supporter des douleurs intenses sans montrer de signes visibles de souffrance. - Se battre même en état de fatigue ou de blessure critique. |
 | 5/5 (Maître)          | - Marcher pendant des jours avec un poids important sans ralentir. - Courir un marathon en restant efficace après. - Survivre à des blessures normalement fatales par pure résilience. - Récupérer rapidement de conditions extrêmes sans séquelle majeure. - Résister à des conditions surnaturellement éprouvantes. | - Survivre des semaines sans nourriture et avec peu d’eau. - Encaisser des blessures presque mortelles et continuer à agir normalement. - Endurer des tortures physiques sans craquer. |
-
-![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/bf8d4c06-4488-48e9-9c64-35c935d80050.png)
 
 **COMBAT RAPPROCHE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
@@ -903,8 +891,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Gérer plusieurs adversaires non entraînés sans difficulté. - Neutraliser rapidement un combattant standard. - Utiliser l’environnement à son avantage en combat rapproché. - Réagir et adapter son style en fonction de l’ennemi. - Lutter contre un adversaire fort et entraîné en ayant l’avantage. | - Dominer un combat face à un expert en combat rapproché. - Se battre dans des conditions défavorables sans être désavantagé. - Désarmer un ennemi armé tout en restant en sécurité. |
 | 5/5 (Maître)          | - Vaincre plusieurs adversaires en mêlée avec une précision chirurgicale. - Réagir instantanément à toute attaque rapprochée. - Prendre le dessus sur un expert sans effort visible. - Désarmer et neutraliser un adversaire d’un seul mouvement fluide. - Anticiper les attaques d’un ennemi avant qu’elles ne soient exécutées. | - Se battre et dominer un maître du combat sans donner l’impression d’effort. - Gérer un combat en mêlée sans se faire toucher. - Effectuer des techniques de combat dignes des plus grands experts martiaux. |
 
-![Competence_endurance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/e24277bd-f074-4bd9-b032-ccf313fe7c11.png)
-
 **MOBILITE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -913,8 +899,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Compétent)       | - Courir en terrain irrégulier sans ralentir. - Escalader une surface difficile (mur glissant, corde) rapidement. - Sauter un obstacle de 1,5 m sans élan. - Réaliser une esquive fluide en combat. - Amortir une chute de plusieurs mètres avec un bon mouvement. | - Effectuer un saut long (plus de 2 m) entre deux plateformes. - Réagir instantanément pour éviter une embuscade. - Courir sur une surface instable sans perdre l’équilibre. |
 | 4/5 (Expert)          | - Courir et sauter en plein mouvement sans perte d’élan. - Escalader une paroi complexe rapidement. - Se déplacer efficacement en parkour sur un terrain urbain. - Effectuer une roulade parfaite pour amortir une chute importante. - Réaliser des mouvements de fuite instinctifs en combat. | - Esquiver plusieurs obstacles en mouvement sans s’arrêter. - Réaliser une cascade acrobatique complexe sans erreur. - Courir en évitant des tirs de précision. |
 | 5/5 (Maître)          | - Se déplacer avec une fluidité quasi-parfaite, même en pleine action. - Effectuer des acrobaties spectaculaires sans effort visible. - Réagir instantanément à tout danger physique et éviter les obstacles de justesse. - Courir, sauter et grimper sans ralentir dans des environnements extrêmes. | - Réaliser un saut jugé impossible pour une personne normale. - Esquiver une attaque à la dernière milliseconde sans préparation. - Réagir en une fraction de seconde pour éviter un danger soudain. |
-
-![Competence_mobilite](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/c3a31ecf-3d76-4427-a547-3124d22d81d5.png)
 
 **COMBAT A DISTANCE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
@@ -925,8 +909,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Toucher une cible en mouvement rapide avec une très bonne précision. - Ajuster immédiatement un tir pour compenser une erreur de visée. - Tirer avec précision sur une cible en partie couverte. - Réaliser un tir parfait dans des conditions difficiles. | - Réaliser un tir en pleine course sur une cible éloignée. - Toucher une cible minuscule à longue portée. - Tirer en combat rapproché sans risquer de toucher un allié. |
 | 5/5 (Maître)          | - Toucher une cible en plein mouvement, même à grande distance. - Réaliser un tir précis en une fraction de seconde sans préparation. - Ajuster son tir instantanément en fonction des conditions externes. - Réaliser un tir parfait même dans des conditions extrêmes. | - Réaliser un tir légendaire (toucher un œil à 500m, traverser plusieurs obstacles). - Toucher plusieurs cibles d’affilée en un temps record. - Effectuer des tirs impossibles selon les lois normales de la balistique. |
 
-![Competence_comabtadistance](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/3cfe51b2-a41b-4050-960c-bd356cfbb385.png)
-
 **PILOTAGE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -936,8 +918,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 4/5 (Expert)          | - Piloter à grande vitesse en environnement dangereux (canyon, champ d’astéroïdes). - Éviter des tirs ennemis en combat aérien ou spatial. - Contrôler un véhicule gravement endommagé et maintenir sa trajectoire. - Exécuter des manœuvres complexes avec précision parfaite. - Réagir instantanément à toute menace en vol. | - Piloter un vaisseau ou un aéronef sans assistance dans des conditions extrêmes. - Réaliser une cascade impossible pour un pilote normal. - Atterrir sur une structure en chute libre. |
 | 5/5 (Maître)          | - Exécuter des manœuvres de vol ou de conduite considérées comme impossibles. - Réagir avant même que le danger ne soit visible. - Éviter des obstacles à des vitesses insensées. - Gérer un véhicule hors de contrôle et le récupérer in extremis. - Faire des manœuvres totalement inédites et imprévisibles. | - Effectuer une manœuvre défiant toutes les lois de la physique. - Piloter un vaisseau en ruine jusqu’à une zone d’atterrissage sûre. - Gagner un duel aérien ou spatial face à un adversaire supérieur en nombre. |
 
-![Competence_pilotage](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/5050fb36-8e81-4cfe-8d55-c93b67d14ce2.png)
-
 **OBSERVATION**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
 |----------------|------------------------------------------------|-----------------------------|
@@ -946,8 +926,6 @@ Note : Le mercenaire ne dispose pas de talent de profil dédié, il choisit en p
 | 3/5 (Compétent)       | - Repérer un détail caché après un rapide coup d'œil. - Entendre un bruit suspect même en pleine conversation. - Distinguer les changements subtils dans un environnement familier. - Observer un détail en mouvement rapide (objet lancé, main qui vole un portefeuille). | - Déceler une embuscade avant qu’elle ne se déclenche. - Trouver un objet bien caché en fouillant une pièce en quelques minutes. - Lire des indices sur un visage ou un comportement pour comprendre une intention cachée. |
 | 4/5 (Expert)          | - Déceler instantanément un piège ou une anomalie visuelle. - Repérer une personne cachée sans avoir besoin d’une fouille approfondie. - Suivre des traces légères sur un sol difficile. - Lire un mensonge subtil dans une conversation tendue. | - Observer des détails invisibles à l'œil non averti. - Détecter une présence cachée même en mouvement. - Distinguer un faux document ou une imitation parfaite. |
 | 5/5 (Maître)          | - Repérer une incohérence ou un détail crucial instantanément. - Détecter une menace avant même qu’elle ne se manifeste. - Lire une intention cachée ou une manipulation subtile dans un dialogue. - Voir des indices quasi invisibles à l'œil humain. | - Déceler une présence même sans aucun indice visible ou sonore. - Comprendre un système complexe en un regard. - Lire les moindres détails sur une scène de crime ou un lieu en une observation rapide. |
-
-![Competence_observation](https://github.com/ChrisLex-Freelance/Alien_IAJDRPGAI/blob/main/8895ca1b-4bd9-4124-ae18-f3c8b4afee80.png)
 
 **SURVIE**
 | Niveau	        | Ce qu'un personnage peut faire sans jet de dés	| Quand un jet est nécessaire |
