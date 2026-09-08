@@ -1,0 +1,51 @@
+@import url("precheur-complet.css");
+
+.hero h1 { letter-spacing: .02em; }
+
+.investigator-signal { color: var(--red); }
+
+@media print {
+  html,
+  body {
+    background: var(--paper);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .document {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .legal-notice,
+  .hero,
+  .profile-block,
+  .pregenerated-card,
+  .talent,
+  .choice-block,
+  .appearance,
+  .equipment,
+  .names,
+  .events,
+  footer {
+    break-inside: avoid;
+  }
+
+  .pregenerated-grid {
+    gap: 5mm;
+  }
+
+  .events thead {
+    display: table-header-group;
+  }
+
+  .events tr {
+    break-inside: avoid;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .hero h1 { font-size: 31pt; }
+}
