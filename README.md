@@ -31,7 +31,7 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 | [skills/](skills/) | [Compétences](skills/competences.md) |
 | [timeline/](timeline/) | [Chronologie unifiée](timeline/chronologie-unifiee.md) |
 | [contextes/](contextes/) | [Contexte de l'univers](contextes/contexte-univers.md), [Colonies](contextes/colonies.md), [Guide culinaire](contextes/guide-culinaire.md), [Deep Zenith Corporation](contextes/corporations/deep-zenith-corporation.md), [Fiche corporation template](contextes/corporations/fiche-corporation-template.md) |
-| [rules/](rules/) | [Contacts](rules/contacts.md), [Score d'antagonisme](rules/score-antagonisme.md), [Blessures critiques](rules/blessures-critiques.md), [Guide de création d'une corporation](rules/guide-creation-corporation.md), [Guide de création d'une créature xénomorphe](rules/guide-creation-xenomorphe.md) |
+| [rules/](rules/) | [Contacts](rules/contacts.md), [Score d'antagonisme](rules/score-antagonisme.md), [Blessures critiques](rules/blessures-critiques.md), [Créer votre Marine](rules/creation-marine-colonial.md), [Guide de création d'une corporation](rules/guide-creation-corporation.md), [Guide de création d'une créature xénomorphe](rules/guide-creation-xenomorphe.md) |
 | [talents/](talents/) | [Talents](talents/talents.md) |
 | [equipements/](equipements/) | [Implants cybernétiques](equipements/implants-cybernetiques.md) |
 | [profils/](profils/) | [Tranches d'âge](profils/tranches-d-age.md), [Profils](profils/profils.md), [PNJ templates](profils/pnj-templates.md), [Agent de la Compagnie](profils/agent-de-la-compagnie.md), [CEO](profils/ceo.md), [Fiches investigateur](profils/investigateur/investigateur-complet.html), [Fiches prêcheur](profils/precheur/precheur-complet.html) |
