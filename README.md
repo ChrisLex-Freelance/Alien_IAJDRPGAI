@@ -30,7 +30,7 @@ Une partie des éléments de contexte développé dans le cadre de ce projet ont
 | [attributs/](attributs/) | [Attributs](attributs/attributs.md) |
 | [skills/](skills/) | [Compétences](skills/competences.md) |
 | [timeline/](timeline/) | [Chronologie unifiée](timeline/chronologie-unifiee.md) |
-| [contextes/](contextes/) | [Contexte de l'univers](contextes/contexte-univers.md), [Colonies](contextes/colonies.md), [Guide culinaire](contextes/guide-culinaire.md), [Deep Zenith Corporation](contextes/deep-zenith-corporation.md), [Fiche corporation template](contextes/fiche-corporation-template.md) |
+| [contextes/](contextes/) | [Contexte de l'univers](contextes/contexte-univers.md), [Colonies](contextes/colonies.md), [Guide culinaire](contextes/guide-culinaire.md), [Deep Zenith Corporation](contextes/corporations/deep-zenith-corporation.md), [Fiche corporation template](contextes/corporations/fiche-corporation-template.md) |
 | [rules/](rules/) | [Contacts](rules/contacts.md), [Score d'antagonisme](rules/score-antagonisme.md), [Blessures critiques](rules/blessures-critiques.md), [Guide de création d'une corporation](rules/guide-creation-corporation.md), [Guide de création d'une créature xénomorphe](rules/guide-creation-xenomorphe.md) |
 | [talents/](talents/) | [Talents](talents/talents.md) |
 | [equipements/](equipements/) | [Implants cybernétiques](equipements/implants-cybernetiques.md) |
