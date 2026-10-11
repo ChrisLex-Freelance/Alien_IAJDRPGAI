@@ -6,6 +6,7 @@ Règles et guides du dépôt.
 - [Score d'antagonisme](score-antagonisme.md)
 - [Blessures critiques](blessures-critiques.md)
 - [Créer votre Marine](creation-marine-colonial.md)
+- [Création de PNJ humain (méthodologie)](../profils/pnj-creation-methodologie.md)
 - [Guide de création d'une corporation](guide-creation-corporation.md)
 - [Guide de création d'une créature xénomorphe](guide-creation-xenomorphe.md)
 

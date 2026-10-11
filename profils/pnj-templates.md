@@ -1,4 +1,6 @@
 ## PNJ's
+
+> Méthodologie de création (niveaux Junior / Expert / Senior) : [pnj-creation-methodologie.md](pnj-creation-methodologie.md)
 ### TABLEAU DES TEMPLATES DE PNJ'S
 
 | **Rôle**                                           | For | Agi | Esp | Emp | San | **Compétences**                                                                                      | **Talent**                                                           | **Équipement**                                                                                                                                          |
